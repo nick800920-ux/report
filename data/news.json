@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-09-25T16:15:54+09:00",
+  "timezone": "Asia/Seoul",
+  "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
+  "sections": {
+    "top": {
+      "items": [
+        {
+          "title": "이 대통령 “한꺼번에, 화끈하게 해치우기 쉽지 않다”…국가보안법 ‘개혁 실패’ 언급",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcEVLakQxRGs1U0JHbFJFV19RY0hleGtEV3pjXzNodWpXRk1USXRrSXVmejJyajVJV0VucFJiTGxTdVdBM2NLYW5NY2hnM1FCZklhQ1ozZno5UdIBX0FVX3lxTE9IbC1YR09jVkFjamVzOFVzSGpfRVZFRmM1S2tCRkQ4SFBBalVRZTh2TC1qaHNLQVc3V2NnYkVwN0ZyZFFwUkgwQTFweHFUdkkxeVRnVWVkVFBTQm9aZ3pB?oc=5",
+          "published_at": "2026-09-25T12:26:00+09:00"
+        },
+        {
+          "title": "청와대 “우크라, 젤렌스키 ‘북한군 포로’ 언급 연설 가능성 사전에 알려와”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tbV9jeXhzTS1KLWNlSXVxVFFweE5SX3lDTkVJdlZIeFlyd2t3ZEZzczd1UmFQT0xtRFUzZS1oYVpvSUs0XzNYYm5uYUFGWXMtSFhvTnFjdFdzTmJGOGVxU3A5cjk0THBLVl9R?oc=5",
+          "published_at": "2026-09-25T15:29:00+09:00"
+        },
+        {
+          "title": "국영언론으로 '언플'하는 시진핑, 회담 내용 안 밝힌 트럼프 [이상은의 워싱턴나우]",
+          "source": "hankyung.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMDl3a1lrYkVIckg2NVRqbmk2d1VmVHZaNURuNzlSd2R4MVNtSWkzdHNqQlEwcW9Wb2lxdVJrd2I5TnRUUFk4ZlFhWEFHV1JHbWN5TEtlQldrUQ?oc=5",
+          "published_at": "2026-09-25T10:58:03+09:00"
+        },
+        {
+          "title": "부산역 내린 김에 ‘부캉이’ 보러…추석 연휴 첫날 10만 인파 몰렸다",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yX25CdHNWSmVVYTJCbldUejBqamViVEwwTzQ2ZmtldDRjZ19FbWt1VTdyOGc5NFFhaXl0NGZOMmtJb0pTbDZxNFVZdDYxSmdQUV8wcExRYm41UUlJSEpJLXlyLXpkVTB5aVl5U05tamVfQQ?oc=5",
+          "published_at": "2026-09-25T09:50:00+09:00"
+        },
+        {
+          "title": "DJ 정부 이래 초대 비서실장 평균 13개월 재임…강훈식 ‘사표 수리’ 앞두고 거취 촉각",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TWkNaZE1hcW9ka0tFRDRtRlJkdEVFTG9TczBVckRfbEFwYXNyYVUycnR3cnpMUE0tSi1DaVI1WW5mRWc1R1kwdnRWQnpCS1c2dnhMYW1rUUlJZ9IBX0FVX3lxTE9sdlZ6OWVtcVJCQVR1WXJmR0hET0NuMVhScVdiUnE1c08tWGdlamJ0ek5oR3pMSmpPSmV5UEVpc2hmYWdiQV9uT3dGTmp0QS1yUkYyejFUXzZ6Sm45a2E4?oc=5",
+          "published_at": "2026-09-25T10:14:00+09:00"
+        },
+        {
+          "title": "靑 \"DMZ 지뢰폭발 조사 신속·철저…은폐 절대 없어\"",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZU5QTTVnOTZxb3ZaRnVrbHJfYjhGTDZjdHVFSzRaSDhONzdIN09WOWV4Z0x4QnJ6dEtIV2JjRm9vdU93OUVoaS1sMDNXZmNkUktLNEs3Z2lKZVBfam8tZU5LZzkzTzg?oc=5",
+          "published_at": "2026-09-25T15:42:00+09:00"
+        },
+        {
+          "title": "연휴 첫날 다낭행 에어서울 여객기 화재…보조배터리 발화",
+          "source": "chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlEyWkdrZkNBYnExU203eUpaQjBCc200cENqZ2pZMWh2Y1RIN1NwMUVJNmh3VlYzcHlQU3dZbUR6VUU3TnhUSFZJUmlfcWNaLVRwOUtNeGpMT2QweGwwSm5BWHNYNmpkRU5vR3paT3lsN3E0Q1QzVFlVaFZBbU1OWV9fUDNiWDV2VERZb21USQ?oc=5",
+          "published_at": "2026-09-25T11:50:00+09:00"
+        },
+        {
+          "title": "이 대통령 “모든 국민 삶에 환한 빛 비추겠다”…유튜브로 한가위 인사",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13MVJiOW1fWWZqek5NZTc2ZzVheXhzOFowRXBkUmxoMmVnV3lWT2hvOU5vQU54LWw5N0RRaWNwd2FJTjJiSU0ySHpVMkNxYlp3OEJibzg5VzJEN3hZZWoyeUxLTVRmbnNzTnR3?oc=5",
+          "published_at": "2026-09-25T11:28:00+09:00"
+        },
+        {
+          "title": "추석 당일 귀성·귀경길 곳곳 정체‥부산까지 8시간 40분",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tTjlKWnowNWJ3MDVxellDV1RkOFFOQjBJbjNZT3V3MHFJUHhOMDY3LXJUMWMyNUFxUGJBQmFyNnNpeWlhbUN6ZzBRSTNBb3dja0ltOWE2YWVMY0liZVRyVzZGWHIwSGRBYUdkVmQ3elhZUkx3MGlz0gF3QVVfeXFMTjBNbm5LbTFZeU1XZDZiVXFjOUxNNFBhTy1YQ042RHM3ZnVRZWl1WHl4WlBNZ2hPVUk2NWVvZVVMTlQwaHdWa3JrN2FFaDIzWjlXV3lrUElKUGZzTUJ6VWJXREVxNFlCMDkzSmtPQTUwWHRiOGdzdUk?oc=5",
+          "published_at": "2026-09-25T09:40:09+09:00"
+        }
+      ],
+      "window": "최근 36시간",
+      "feed_url": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    "it": {
+      "items": [
+        {
+          "title": "수출 절반이 반도체인데, 그 절반은 중국행…커지는 '쏠림 리스크'",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkNU1LcG1KQk52dVVrRmkxUFR4S3pnMDI0N2NOemFSUEk2azRnNEdnQjdwa0RfeFJBRzBXaURmOVVDUUNaSEE?oc=5",
+          "published_at": "2026-09-25T07:01:27+09:00"
+        },
+        {
+          "title": "증권사 앱도 AI 시대…’투자 비서’ 경쟁 본격화",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yb2Rkd2lYVS1nWFNTMjRqZTlHdEs5dzlIMmdGSGc3YmMxdl9UVkFzZTNmMUNjbUFCV1VOUG14Um1yMnZETDJZM3B0MEpsT3hNanhsdlNHNE9JSVpvdGNwSzB4bmRCR2c?oc=5",
+          "published_at": "2026-09-25T10:39:00+09:00"
+        },
+        {
+          "title": "AI 안전 우려 심각하지만, 프런티어 개발 둔화 가능성 낮아: BMO",
+          "source": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MFI5SnNSSFZQaV9UNVBXSHF2elEzaklrTVBvUXZHdkZEVlhQX2J4YkxlYkIzUDhvSDdpTThzYXpuek9zRC01UTR4ZW1EaWlSWEQ1ZXpXOTNMRURJeTNGb2ZIcERnT3VWMVdBODNDMEI?oc=5",
+          "published_at": "2026-09-25T15:04:00+09:00"
+        },
+        {
+          "title": "AI 놓고 온도차...트럼프 '개발' 시진핑 '통제' 강조",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSb1dBajVOXzN5NHN4b3M2dS1FVnpWa3ZzcmJBVUpvcXh6RWJQQ3NXTFVtZ3RNWXc0TWhQbFVMVm1tTGMwMzNTMV9sVWVjUnBPTUlJcW9NdV8tRmJGR2c?oc=5",
+          "published_at": "2026-09-25T15:08:00+09:00"
+        },
+        {
+          "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MUZCeXJhb1FueHJwb2kxaEZMbFdyaXZ1c2E3UEFfeXVtb19TLUhzbWJUNDhqT0pMdVJRTnBWY3ZYRkQtaUFXSWFrcmJaQ09XSUJHcExR?oc=5",
+          "published_at": "2026-09-25T12:33:07+09:00"
+        },
+        {
+          "title": "메타, 키링형 AI 기기 '뮤즈 참' 발표",
+          "source": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NV0R4WUxyMEtvY1JyUS1rZm9KUW9JcTNsOUI4MmRjRm1NeEJyZmh2RzZ1UEVteHpSd1dMeHJfZE9pUDZvSFJKNkxlOUt2LTNpY05OTDFqTXJKeGRqX0lZV1VIdWpaQQ?oc=5",
+          "published_at": "2026-09-25T14:40:21+09:00"
+        },
+        {
+          "title": "[2026 AI 보안 솔루션 리포트] 어시스턴트를 넘어 ‘자율형 에이전트’ 시대로... AI가 만드는 K-보안",
+          "source": "보안뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OU3NYdGZ2UWtvZFhHMHV6SUZIT0VQVTI3WV81ZlVscmVTR09nVTZ6LTRUdFdEVDBoTGZHOE1UcGhVV3dYUHVxeW9EVWhIejdKTUpYNVVXbHc5WXZWRWVGWkNqOUVudndiSUdv?oc=5",
+          "published_at": "2026-09-25T15:00:00+09:00"
+        },
+        {
+          "title": "“국산 AI만이 주권 AI 아니다”…코히어 CEO가 말하는 ‘소버린 AI’",
+          "source": "chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG1sSjdPMU9ZeWxmeVA1bnFyaUp6dHNCUmN1SEI4ZlFjMXhSYWFQME5ydjZBeF94QVJrbC1kXzJOQmVCYk5ZTmpDZmtpdlNJV0lCeExaMmxZMnBFcFRHdnFmRUJ0QzlYQVIyMEFRV1c4VVdxZnExSWdaMHRmbFNBN2tRWQ?oc=5",
+          "published_at": "2026-09-25T08:07:27+09:00"
+        }
+      ],
+      "window": "최근 36시간",
+      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+OR+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+OR+%EB%B0%98%EB%8F%84%EC%B2%B4"
+    },
+    "sds": {
+      "items": [
+        {
+          "title": "삼성SDS 피지컬AI 확대…미라콤아이앤씨 역할론 커지나",
+          "source": "톱데일리",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4aTdyaUZld0pRQWs4eWhTeGFYZlRrUm43ejljdklWR3oySkVLY2N1cldJSE9aSlFaNl9iQndmZDJkTm84bkZ1cXVyTXRGU0dB?oc=5",
+          "published_at": "2026-09-23T10:29:00+09:00"
+        },
+        {
+          "title": "AI 시대, 기업 데이터의 재발견: 버려지던 데이터가 원유가 되다 | 인사이트리포트 | 삼성SDS",
+          "source": "Samsung SDS",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVV9IQzZ0cF9sWmxhYUxzMkhrdjRzaEJRUFI3YW9PZ1Y5ZVRMZ3FoVDIzWDNucnRRN3IzMnRQZVEzVlduTHdkUk0yRVowcjBsN2pDc1pUNnRESmYwVHVnQjUxbTdCM09MY0V5Rk9aVWFxYkNndFpaRDg5N2M5czR2OG1Wc1F1TFJwMHlnRFlqVHY3OWxRcHdZ?oc=5",
+          "published_at": "2026-09-23T13:25:35+09:00"
+        },
+        {
+          "title": "삼성SDS, 퓨리오사AI ‘레니게이드’",
+          "source": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NzZjNFcwUEhQRTZVMDdfUEI4UEpfdUROZGxnWFVaQ3BWWFBMTDBMYnJQVjNoWG5NdU53TjNnbFk2am9xa2NaalhyMllxalVOV2U5czJneTVROWx5NjY4TkFmMlhIWnNs?oc=5",
+          "published_at": "2026-09-23T01:19:36+09:00"
+        }
+      ],
+      "window": "최근 72시간",
+      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1SDS"
+    }
+  },
+  "errors": []
+}
