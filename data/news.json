@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:15:54+09:00",
+  "generated_at": "2026-09-25T16:16:38+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -19,7 +19,7 @@
         },
         {
           "title": "국영언론으로 '언플'하는 시진핑, 회담 내용 안 밝힌 트럼프 [이상은의 워싱턴나우]",
-          "source": "hankyung.com",
+          "source": "한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMDl3a1lrYkVIckg2NVRqbmk2d1VmVHZaNURuNzlSd2R4MVNtSWkzdHNqQlEwcW9Wb2lxdVJrd2I5TnRUUFk4ZlFhWEFHV1JHbWN5TEtlQldrUQ?oc=5",
           "published_at": "2026-09-25T10:58:03+09:00"
         },
@@ -37,13 +37,13 @@
         },
         {
           "title": "靑 \"DMZ 지뢰폭발 조사 신속·철저…은폐 절대 없어\"",
-          "source": "연합뉴스TV",
+          "source": "yonhapnewstv.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZU5QTTVnOTZxb3ZaRnVrbHJfYjhGTDZjdHVFSzRaSDhONzdIN09WOWV4Z0x4QnJ6dEtIV2JjRm9vdU93OUVoaS1sMDNXZmNkUktLNEs3Z2lKZVBfam8tZU5LZzkzTzg?oc=5",
           "published_at": "2026-09-25T15:42:00+09:00"
         },
         {
           "title": "연휴 첫날 다낭행 에어서울 여객기 화재…보조배터리 발화",
-          "source": "chosun.com",
+          "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlEyWkdrZkNBYnExU203eUpaQjBCc200cENqZ2pZMWh2Y1RIN1NwMUVJNmh3VlYzcHlQU3dZbUR6VUU3TnhUSFZJUmlfcWNaLVRwOUtNeGpMT2QweGwwSm5BWHNYNmpkRU5vR3paT3lsN3E0Q1QzVFlVaFZBbU1OWV9fUDNiWDV2VERZb21USQ?oc=5",
           "published_at": "2026-09-25T11:50:00+09:00"
         },
@@ -73,7 +73,7 @@
         },
         {
           "title": "증권사 앱도 AI 시대…’투자 비서’ 경쟁 본격화",
-          "source": "연합뉴스TV",
+          "source": "yonhapnewstv.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yb2Rkd2lYVS1nWFNTMjRqZTlHdEs5dzlIMmdGSGc3YmMxdl9UVkFzZTNmMUNjbUFCV1VOUG14Um1yMnZETDJZM3B0MEpsT3hNanhsdlNHNE9JSVpvdGNwSzB4bmRCR2c?oc=5",
           "published_at": "2026-09-25T10:39:00+09:00"
         },
@@ -103,13 +103,13 @@
         },
         {
           "title": "[2026 AI 보안 솔루션 리포트] 어시스턴트를 넘어 ‘자율형 에이전트’ 시대로... AI가 만드는 K-보안",
-          "source": "보안뉴스",
+          "source": "boannews.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OU3NYdGZ2UWtvZFhHMHV6SUZIT0VQVTI3WV81ZlVscmVTR09nVTZ6LTRUdFdEVDBoTGZHOE1UcGhVV3dYUHVxeW9EVWhIejdKTUpYNVVXbHc5WXZWRWVGWkNqOUVudndiSUdv?oc=5",
           "published_at": "2026-09-25T15:00:00+09:00"
         },
         {
           "title": "“국산 AI만이 주권 AI 아니다”…코히어 CEO가 말하는 ‘소버린 AI’",
-          "source": "chosun.com",
+          "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG1sSjdPMU9ZeWxmeVA1bnFyaUp6dHNCUmN1SEI4ZlFjMXhSYWFQME5ydjZBeF94QVJrbC1kXzJOQmVCYk5ZTmpDZmtpdlNJV0lCeExaMmxZMnBFcFRHdnFmRUJ0QzlYQVIyMEFRV1c4VVdxZnExSWdaMHRmbFNBN2tRWQ?oc=5",
           "published_at": "2026-09-25T08:07:27+09:00"
         }
