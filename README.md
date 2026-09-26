@@ -3,6 +3,8 @@
 매일 아침의 주요 뉴스, IT·삼성SDS 소식, 주식 관심 종목을 보여주는 개인 웹페이지입니다.
 
 - [홈페이지](index.html): 한국 주요 뉴스, IT·삼성SDS 뉴스, 투자 관찰 후보 3개
+- [트래블 인포그래픽](travel-yangcheon-2026-09-26.svg): 2026년 9월 26일 양천구 출발 아이와 나들이 추천 기록
+- 아겜: 홈페이지의 2026년 9월 25일 아시안게임 경기·기사 요약 스냅샷
 - [삼성SDS 사업·재무 분석](sds-report.html): 공개 DART 공시와 공식 IR 자료 기반 보고서
 - [뉴스 수집 스크립트](scripts/update_news.py): Google News RSS에서 제목·출처·발행 시각·원문 링크만 수집
 - [자동 갱신 설정](.github/workflows/site.yml): 매일 오전 7시(Asia/Seoul) 실행을 예약하고 GitHub Pages에 배포
