@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-26T09:19:18+09:00",
+  "generated_at": "2026-09-26T10:12:01+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "top": {
       "items": [
         {
-          "title": "차담으로 사흘연속 대면… 트럼프 “엄청난 진전 이뤄” 시진핑 “전략적 안정 관계”",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFBKcXNQZS0tZkx6Sk5jLWxmc3NxWE5IQUQ2NUs3ZThWMktmUlgtU0ozUFRvdEttcW52VUJCZlc1d3ZEZ3FqdmczWTVpYlFNdnBzRlk1aUVoX1puYnNybDhjd1RWQm9INFQzUllMeV9Dd2lwOS05U1d1NHhBcWQ4M1Rhdkw?oc=5",
-          "published_at": "2026-09-26T00:56:00+09:00"
-        },
-        {
           "title": "이 대통령 “한-멕시코 경제는 상호보완…포괄적 무역협정 나아가야”",
           "source": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYmZlU3pQczVCZjVEOWpNajJXc1Z4NTFlTkYxYmNtZHJZMTJzNDF6YldtaXRCa2p3OGFzYTFOUEVfLTZzaXhmX0tWb0VkemtWd3FDb25wOWFDbFBpX3pQQ3Q3akI1cHd5RlNB?oc=5",
           "published_at": "2026-09-26T08:01:00+09:00"
+        },
+        {
+          "title": "청와대 “DMZ 지뢰 사고, 안전 문제로 유엔사와 신중 접근…늑장 조사 아냐”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SZkg3VENNSy1rSlhteUVTdmdFdGNTejI2ZmprVTF6TnFod0o2a2J4TkN5SXp5anREWmlUVjRQdUFBR3ExSGRQWFltbk41MElDR3FTZE9EbmR5blRCQjNRZDZYWGl4VDl6aVkxUk0yS18xaDNB?oc=5",
+          "published_at": "2026-09-25T15:34:00+09:00"
         },
         {
           "title": "靑 “원만한 송환 막으려 방해하는 자들…날카롭게 움직여”",
@@ -24,10 +24,10 @@
           "published_at": "2026-09-25T15:01:00+09:00"
         },
         {
-          "title": "[속보] 靑 “지뢰폭발 조사, 신속·철저 진행…추호도 흑막·은폐 없어”",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vRFdULWR0Yy1SLXZNOWo1dW9qM05oVGlLMjFxNk5McG9yOUo2MjMtaU96cHN4Z2xBeWx3NWNnMlhsUDd1T0JQUkt1UUlPajFYYVdZVzBR?oc=5",
-          "published_at": "2026-09-25T15:03:23+09:00"
+          "title": "공동성명도 기자회견도 없이… 미·중 정상회담 ‘빈손 의전 외교’",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmdaV0JUQ2FyazlYWV9nWTZpWWwxQ1RJSU1iTGlia3hLRXBUWkJKSGg5c0xQclhnX2VHTWtGdWx6T1hOSkR6QjZYVEppbXUwb1I0Yjd5eE4tc0JRLXVodmw2ZmoyaEJ0TExfSHdwbGJHYlBEandHOUcwbXE0d05hTlZLdXBvRDNtT004VW9zS2N3elpXNjNIX0JVdXRJdw?oc=5",
+          "published_at": "2026-09-26T06:25:00+09:00"
         },
         {
           "title": "조국 “조희대, 이 대통령 인정 안 해…대법관 공석 ‘후임 대법원장’과 채워야”",
@@ -36,28 +36,28 @@
           "published_at": "2026-09-25T20:09:00+09:00"
         },
         {
-          "title": "이란 “호르무즈 개방 ‘7일 계획’ 미국 전달…선택은 미국에 달려”",
+          "title": "로이터 “이란, 미 호르무즈 재개방 조건 수용해도 핵 양보 없다”",
           "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xU3V0b0VkNkdxRkotODItb016UkNlVjd5RngzYTllUjlVaTQxMDBSaEtJazFwaWcyZkJ6dllBOUxDYUtob3duMFBFWV9IY3BXWnYzTFZzY3lHalE?oc=5",
-          "published_at": "2026-09-26T07:04:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLS01GekowX19fcWIxQWlBTVR4akltc2xONHg2MHVGcXRuRkc4R040c1dwN0dqVW1BTjBKNldsakNPeXlzMkM1M0c2bndmRzdZaU1IOTM2eGMyWlE?oc=5",
+          "published_at": "2026-09-26T05:13:00+09:00"
         },
         {
-          "title": "전남 진도에 호우주의보",
+          "title": "추석 연휴 토요일 비 소식…전남해안 최대 80㎜",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTThoeVRfMFBvUHgxeVc3VmxnUkdQM3RQVWktNjVkQVlpNGFhMDlXV2o0VlJucGFhMVB5a1lVY29TUVlGZXlDMUxaVkZ0aGZDaXRoMWFVNDI3OFU?oc=5",
-          "published_at": "2026-09-26T05:23:48+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTkRYSm93ZjlCWDY3dHRXTDRLTjIzck1kNzJlVlN5emhTUkM3SE5mOGNSeXVua1hWXy05UFBtOFI0SUVZWFFza01jSW96ZHRjZzBUTDViN0lvQVHSAWBBVV95cUxQUmxrdkZvRlo0VjdIWm5zM1NTRW95cFpibW9wN1l0U0g3SmlQQV81SUZRUGtkVThUMlFDU2ZoU0F3U1VjbHNRNUdDV2ZZajhrOTJkMC1xVWwxeHlkdWUzRmg?oc=5",
+          "published_at": "2026-09-26T05:23:03+09:00"
+        },
+        {
+          "title": "‘김승원 저격수’로 존재감 키운 한동훈…정치적 득실은?",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QVWNmVno5SlpDU1R1aHRvOG5NeDYxeVA4STJEUkFEbzA5SlQydWxwN29UU1dPbTdXd0FNODRZWll1Sk9pbDlWbjFHdFhYMkExbTBkbEI1NkhPRzRFanVTaDFmTGJXUk05NXJWcTRpNjNpV2hL?oc=5",
+          "published_at": "2026-09-26T07:41:00+09:00"
         },
         {
           "title": "李대통령 \"국보법폐지 주장하다 독소조항 못없애\"…유시민 겨냥한듯",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EZ3lteFM3SjV0MTQ4dXBtWTYwVXlKUkdoYy1IbC1IWFUyMXh4ZnBFbDc2cmY2a0k2QUN6WGdreU9EcmxnQTNidWxSRDhYclRTX3l2cEdITVFMYlXSAWBBVV95cUxPU3ZuSlBLTzJCZnhXX1ZaV2pyZ3puU19JYmhCRW5FdzRJR3RILXBWQUcwb0hST29LR2tfb3F4RVZlRlgyRmllcnF5SDNwVHVlWjMxSXRyeUdINDk0Wl9fdWU?oc=5",
           "published_at": "2026-09-25T10:13:27+09:00"
-        },
-        {
-          "title": "추석 저녁 귀성길 정체 해소…귀경길은 여전히 혼잡",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qa2U4Q2k4SWtzYXRVZmNGUmQ1Q3pDNDRHWHNEYzlMbVc2eDlYNi1WMnBQdFJfRVd1Z1ZzSXpfZ1E3SWNTSGxwOGlQejNDcmJRQ002OFItclV5c3fSAWBBVV95cUxQcDVqTWF1MWtfWjNIUEtnaTdWS0ZNampNcm1ScFFkNmNBOFBLRWwxaVctMkJwVGc5eEVCTy1mTzJnRHNIUzJDdl9rVzdseG5JVUlXWExHbURhTHhHR2tBaFU?oc=5",
-          "published_at": "2026-09-25T19:16:11+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -66,8 +66,14 @@
     "it": {
       "items": [
         {
+          "title": "발전소·편의점 등 보유한 GS의 'AI 드라이브'… \"올해가 원년\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXOTM0LXU5SldBZFR0djg3NndzdlpENkRLY1pnbmRGazdEZTN0VGNtWDMxYXRnRzF6VzJMQlh0RU5TckRzQzFVbVp3b0poaktSTG5MRnFQdkZEZnhxMWNEemNyNXpsd2tVd09KeNIBckFVX3lxTE0zQ3NxQVNNZk9pblVXM2lpN1otVGJnOXNYcVBGelp4Q19KUElhaUh5VEdLRGhiSUc2WDNPYWM3dEE1aG9OeWw1Q05oVS04QjRZVWRRa0lacHY1czFUT21ZWHFxQjFKaXkwT2NWdmVCVGI5Zw?oc=5",
+          "published_at": "2026-09-26T08:05:00+09:00"
+        },
+        {
           "title": "해외 로펌 AI 담당은 빅테크 출신",
-          "source": "lawtimes.co.kr",
+          "source": "법률신문",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yRHgwZG5GSlE5ZDF6ZS1xeTZ3Q3h5Y3FLemRDVFVyZnlVWTMtbS1lcGtJdUVVYzV3WW9pQWg1MW5lTWlDbEljN2VXX0syUFh6R2RuOHhOck9kbG5oTjB2dWVMMUVEcndfVXQwc0J30gFyQVVfeXFMT0dSWWxMRzA2SmlZWmR5MVh3QlVjMUJ0RHZJaFJCeTVpdGx0R253bmxqUmF1c0VGYThOTDBZRTc2aHlrMXBMN1JURHlXTC1kMkVCRTdkSXlkblZ6cDV2a1RxMWk2REhBVjdjLWZreGhMUkNB?oc=5",
           "published_at": "2026-09-26T05:00:00+09:00"
         },
@@ -78,40 +84,34 @@
           "published_at": "2026-09-26T08:57:00+09:00"
         },
         {
-          "title": "R&D부터 해외 진출까지...경기도, 의료 AI 육성 박차",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yQi01ZDdoWDZyNkFTaHBtN2ZGMmZuUzdRdUQ3WXNlcUg0d1RjVEo0R3ZySU1BTkpDSjYwbDI1WEJ1c3JkSU1RVTJ5QTlaZmNZZ2NxYmJqQXgwS3ZzREk5SC1hNU5iYnlwX1RBbzFGdw?oc=5",
-          "published_at": "2026-09-26T02:38:00+09:00"
-        },
-        {
           "title": "전통 제조업에서 반도체·AI로…전남광주 산업지도 다시 그린다",
           "source": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUXdibWh0ZGl3ODRkWkhjVXlIXzVoeUZ1Tk1ZR1I1QkVySG5lOWo4ckE3TWctWWhTNlpNRFZQaWs5aVY0MlREOW0yd2U4MTg?oc=5",
           "published_at": "2026-09-26T08:51:42+09:00"
         },
         {
-          "title": "ETF 대부 “AI 거품 터져도 돼”…1000만원→108억 키울 종목",
-          "source": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BN0ZxOHFuWGlSR3dLaFBBXzNmSHZQcDRxTkxneGhaNzJyc2ZMRG1rTEV2WDQxNjM3MTFZN1pKZEpONlZYdUYycFhXSDNGV214QTkyOHlR?oc=5",
-          "published_at": "2026-09-26T06:00:01+09:00"
+          "title": "R&D부터 해외 진출까지...경기도, 의료 AI 육성 박차",
+          "source": "ytn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yQi01ZDdoWDZyNkFTaHBtN2ZGMmZuUzdRdUQ3WXNlcUg0d1RjVEo0R3ZySU1BTkpDSjYwbDI1WEJ1c3JkSU1RVTJ5QTlaZmNZZ2NxYmJqQXgwS3ZzREk5SC1hNU5iYnlwX1RBbzFGdw?oc=5",
+          "published_at": "2026-09-26T02:38:00+09:00"
         },
         {
-          "title": "AI 콘텐츠에 피로감…SNS 이용자 10명 중 8명 \"표시해야\"",
-          "source": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyZHoxeVhLcnFhenk4VHR3RHpsRDJpdk5vZzV3REdMWkpUVUhldkJlRlJGNmd3SVhHemxHYVpweU1HRjZqa2xRS3JhQWI5MGVUYVE?oc=5",
-          "published_at": "2026-09-26T08:13:01+09:00"
+          "title": "배민, 다음 달부터 AI로 배달시간 예측…정확도 1.7배 향상",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJU1V4Vy1aTUEyT1JGeW40Y3lkeUxRdV92ci15SjhTcXJkN1VRR1BMa0tMWWhYb21PeGZQRG5VYmhVOXBNNnBjeEZVRVNhTGcxbk5hblBQem91a1NwWW92WE9TMUNJdHc?oc=5",
+          "published_at": "2026-09-26T10:08:00+09:00"
         },
         {
-          "title": "오픈AI '악성 에이전트' 연쇄 탈출…보안 통제 불능인가 '발칵'",
-          "source": "g-enews.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLURrd3RCTUZ3UVg0NVJoSFNFOGxlNmt3Z0tUV1k5VlhHSFVjc0xZajZUOWxna0ZpZWtJWVZlUFd5aEtyYURBejBNZ3NDZTRyMGVOdEdTZUtfWlBJakthTDdKQXdRSmVmRW1YaVFFNHI5VFJnanlqRHBybVNSNVBqWHBWNmtwZjQ?oc=5",
-          "published_at": "2026-09-26T06:56:23+09:00"
+          "title": "멈춘 日공장이 AI 광반도체 기지로…타워세미컨덕터 5조 투자",
+          "source": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE9YcWtvNWxrT3N6OHJGMjE0bi1sYTVoamlBMGNLakpfR05sYUN3dUpsZ1psdjBZUGhPOUtkZlBRVTk4NzY3Rzl5bERoX004VGRnMWNDbWVDNVJOMGV1bXlHLUdERGEwTDJvWlluaFAya2dLa1dXdzUtRzgyY3BRR2NlcnlOZGxr?oc=5",
+          "published_at": "2026-09-26T08:49:04+09:00"
         },
         {
-          "title": "[AI 프리즘] 미 AI 인프라 투자 규모, 역사적인 철도·인터넷 붐 뛰어넘었다",
-          "source": "위키리크스한국",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZEJjQlFGQTBTRUpDS0RuXzBEYjhfQUZXTDN4WnRKUkItU0ZraWh1MlB5Sm03YmIyWGd6Z3p0OE8tY0k3MUZqc0dtVWN3MGI1ZHB2dGJZQUZJUzZXQTJ3bFNDc1FmcTR4TEJ6eXk4U1A?oc=5",
-          "published_at": "2026-09-26T06:03:16+09:00"
+          "title": "배민, 내달 가게배달에 AI 시간 예측 도입…정확도 1.7배 향상",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMUThPcUd5Q19Lc29Ndm00ekxVTDFlaGVxT2lIYlNjd29oZUhLR3J2MXhpNzBFNkNSVGZMWUJmYjJCNVpFSWZHRTd5bVlhT1ktNVJiSTVpV3I5bXo0UkpCR9IBYEFVX3lxTFBMUThPcUd5Q19Lc29Ndm00ekxVTDFlaGVxT2lIYlNjd29oZUhLR3J2MXhpNzBFNkNSVGZMWUJmYjJCNVpFSWZHRTd5bVlhT1ktNVJiSTVpV3I5bXo0UkpCRw?oc=5",
+          "published_at": "2026-09-26T08:01:02+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -120,19 +120,13 @@
     "sds": {
       "items": [
         {
-          "title": "삼성SDS 피지컬AI 확대…미라콤아이앤씨 역할론 커지나",
-          "source": "톱데일리",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4aTdyaUZld0pRQWs4eWhTeGFYZlRrUm43ejljdklWR3oySkVLY2N1cldJSE9aSlFaNl9iQndmZDJkTm84bkZ1cXVyTXRGU0dB?oc=5",
-          "published_at": "2026-09-23T10:29:00+09:00"
-        },
-        {
-          "title": "AI 시대, 기업 데이터의 재발견: 버려지던 데이터가 원유가 되다 | 인사이트리포트 | 삼성SDS",
-          "source": "Samsung SDS",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVV9IQzZ0cF9sWmxhYUxzMkhrdjRzaEJRUFI3YW9PZ1Y5ZVRMZ3FoVDIzWDNucnRRN3IzMnRQZVEzVlduTHdkUk0yRVowcjBsN2pDc1pUNnRESmYwVHVnQjUxbTdCM09MY0V5Rk9aVWFxYkNndFpaRDg5N2M5czR2OG1Wc1F1TFJwMHlnRFlqVHY3OWxRcHdZ?oc=5",
-          "published_at": "2026-09-23T13:25:35+09:00"
+          "title": "삼성SDS·네이버, 공공 이어 국방 AX서도 격돌하나 [빛이나는비즈]",
+          "source": "sedaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50YmdpNmZ4LTRBMHR0WC1PdXRxd1dLZWFFOHNpUHQwcUtEbkpJWkJyRlpVOTBiU2I3Yk11WFY1Qi15dC1kSVgwbVlDYzFYcl8xc2fSAVNBVV95cUxPWk1vVlQwcEpZYl9mU21rS0ZMUU8tSWh6QlFmcVV1ZEhyYmp6dXhHTi1Ib1l6bElfSkZFMk5PRGlIVXFVOTVVVWJybko5RFYyUnYtcw?oc=5",
+          "published_at": "2026-09-26T09:00:00+09:00"
         }
       ],
-      "window": "최근 72시간",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1SDS"
     }
   },
