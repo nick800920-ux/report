@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:49:46+09:00",
+  "generated_at": "2026-09-26T23:57:59+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -24,12 +24,6 @@
           "published_at": "2026-09-26T20:19:00+09:00"
         },
         {
-          "title": "연휴 셋째 날 ‘귀경길 정체’ 집중…오후 5시 정체 절정",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oRFJFcmljajhaZEdzaUlUMk84bzYzTmtiN21jcC1TWkVQOXBmOFFWSkV6OEtrYVNOQy1CaHBhV2dVcDZDQVNNZ0Jwb0RUV3BGeDU4ZG9laTk4WjhUcDVUYWRfOVBWUQ?oc=5",
-          "published_at": "2026-09-26T12:06:00+09:00"
-        },
-        {
           "title": "부산 북항 수로에 나타난 상어 ‘부캉이’… 추석 연휴 관람객 대성황",
           "source": "경기일보",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0SEJGSThITFhUNmpBWmlRRGUtUjJCZGFMN25NSDQwSktCVlVXeVBpcVFHZFk5emhoYW4xMm5LZkszT1RuaWoxMUxSbEZYZmRIX1g3eHhuUGJuSlU?oc=5",
@@ -40,6 +34,12 @@
           "source": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpRXlHeW81QWtkRkRLYm03ZU52bTR3UEhHck1zYkktN3RzZ2hPSUlGZER1bklGWkcxd01HYzhfUjVhcW5DTTkxTDluSjFMMmlXMEF0NUtpNnpIelk0T0Y3VHJ3YTF0a2cxZlQycldIV1NjY2Rj?oc=5",
           "published_at": "2026-09-26T23:14:00+09:00"
+        },
+        {
+          "title": "[날씨] 연휴 마지막날 맑다가 오후 구름…남부·제주는 비",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWk5Hcm91Wnl0dTlBekZmbDJlNXZUSkZfNjRxSUdSQ0M0bnRSZHZRc2gyR2tuOW13Y1RRcjI2UWhVX1QxWEd2LTcyTzlBV0t5UzVEV1FiMFB1M2fSAWBBVV95cUxPSl9fTmM0OHptREJNTGtpdngtZEZPM2w0R3F4NnlXZzN2SWhyRV9vNS0zWm1Gb0ZneDBqV0Jhd0JRdHlXNzk5bkxHeFA3OWVweEgwWk5Ld0Z1Si1TbTB4bUU?oc=5",
+          "published_at": "2026-09-26T20:00:01+09:00"
         },
         {
           "title": "맏언니 주장 강이슬의 끝내기 자유투…한국 여자농구 일본 꺾고 아시아 정상",
@@ -54,10 +54,10 @@
           "published_at": "2026-09-26T19:21:42+09:00"
         },
         {
-          "title": "이 대통령, '작은 서울'로 불리는 소나 로사 방문…한인동포 등과 소통",
-          "source": "정책브리핑",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ3hESEJwVDJyOXFQR3FHR0lqMFNGZW9PVGFQclRvVlNSMHpNQ0J2MXdyckJTVkdmcTZkY2J6MEFONldOcXBZM3I1aGxjcXEwRjdZRnFNUkpxOVVtT0pJbzczZkt5RXZWOExoTQ?oc=5",
-          "published_at": "2026-09-26T17:15:00+09:00"
+          "title": "'막바지 귀경행렬' 부산→서울 5시간‥새벽 2~3시쯤 정체 해소",
+          "source": "imnews.imbc.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GUGhsUG5LaThuTVBhX0hJek5aRGx0RGNYTGgxMjdaaTB0cnN6N3N1RlFNa29kcHJVb0lRMTJvOUdPV003MFNFRFF1cm53YXNXdWVRTUhNbERDRDM2N2xjYUxTa3RWVXVSb0xQbHctalhLamt6M1ZJ0gF3QVVfeXFMT3prMXgtc0k3d25EQXR6dmRmS0twRG8xNXVYRlFaLWRqdlBfaThhbHlZSTJPNFJrRW9GMzVMTWVqQ29rRDh6QUF1WVRCUTA3d0FIcHZoZ1dwRGVTRHlCRTMxUlNadUVZWXJUUHoydDlreThKa09FclU?oc=5",
+          "published_at": "2026-09-26T21:27:01+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -73,7 +73,7 @@
         },
         {
           "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어 '전용 배포' 선보인다",
-          "source": "aitimes.com",
+          "source": "AI타임스",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xcHVCeU85VUlpdkxHamJ0bmRnRjJtbkxTcUlVVTVfaDVmN3k0ZkpSM201OGxXelJUcVNMeHhLcC1qeUZmQWpDR0NyNjhhZ2ZHU0VpRWQ4VUV5UW9yZjdwMG5jVFNoMjVSOVE?oc=5",
           "published_at": "2026-09-26T08:57:00+09:00"
         },
@@ -175,7 +175,7 @@
       "items": [
         {
           "title": "추석 이후 분양 큰 장…반포 재건축·동탄 대단지 쏟아진다 - 머니투데이",
-          "source": "mt.co.kr",
+          "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14X0liU3FVVDZ0RXRaRDNqdndLQlZ1MHZ3YmsxRS1ZUDV2MWhSVGdHQ2xwaUItNC1ZYVVqTmQxT2h2a2JIRDZYVkV4Skk3UTBpdjVuazBmVktiMW9oQUt0dXBIUXpmUk9PUTZGQjhtTdIBb0FVX3lxTE14X0liU3FVVDZ0RXRaRDNqdndLQlZ1MHZ3YmsxRS1ZUDV2MWhSVGdHQ2xwaUItNC1ZYVVqTmQxT2h2a2JIRDZYVkV4Skk3UTBpdjVuazBmVktiMW9oQUt0dXBIUXpmUk9PUTZGQjhtTQ?oc=5",
           "published_at": "2026-09-25T05:00:00+09:00"
         }
@@ -202,12 +202,6 @@
           "source": "대학지성 In&Out",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1QWdsRGFtcTZoRE1IT0lhUHMwdWNlbnhZNFNqRE1vMmd5VG95dFFiSHg2SHViREhsYlRIOGlzdGIxVHpibG1QQzlGaGV1R2ZDNXFGeGtISXlKYnBkdE9CWHRrQ2RFbzFHZXh3cQ?oc=5",
           "published_at": "2026-09-26T21:55:12+09:00"
-        },
-        {
-          "title": "삼성전자, “사람의 삶을 향상시키는 AI” 연구 성과 논의",
-          "source": "Samsung Global Newsroom",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ial91WDAtTlRsUWpZdkFzN0Zldmc2b3lXdmo4UXlNSjlUcjZHanByM3I1NkRDb2cxckZvMnlPZ2laQnZmRGozUFdGNlM4Q3pMMVVfajFwMktPZzNPU1FEMGQ0OV9rYVp0R3ZuQmhqYw?oc=5",
-          "published_at": "2026-09-26T14:12:01+09:00"
         },
         {
           "title": "KAIST, 세계 최초 ‘로봇 풀코스 마라톤’ 완주, 네이처 본지에 실렸다",
