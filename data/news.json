@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:09:42+09:00",
+  "generated_at": "2026-09-27T00:16:40+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -24,40 +24,40 @@
           "published_at": "2026-09-26T20:19:00+09:00"
         },
         {
-          "title": "부산 북항 수로에 나타난 상어 ‘부캉이’… 추석 연휴 관람객 대성황",
-          "source": "경기일보",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0SEJGSThITFhUNmpBWmlRRGUtUjJCZGFMN25NSDQwSktCVlVXeVBpcVFHZFk5emhoYW4xMm5LZkszT1RuaWoxMUxSbEZYZmRIX1g3eHhuUGJuSlU?oc=5",
-          "published_at": "2026-09-26T20:19:54+09:00"
-        },
-        {
-          "title": "'막바지 귀경행렬' 부산→서울 5시간‥새벽 2~3시쯤 정체 해소",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GUGhsUG5LaThuTVBhX0hJek5aRGx0RGNYTGgxMjdaaTB0cnN6N3N1RlFNa29kcHJVb0lRMTJvOUdPV003MFNFRFF1cm53YXNXdWVRTUhNbERDRDM2N2xjYUxTa3RWVXVSb0xQbHctalhLamt6M1ZJ0gF3QVVfeXFMT3prMXgtc0k3d25EQXR6dmRmS0twRG8xNXVYRlFaLWRqdlBfaThhbHlZSTJPNFJrRW9GMzVMTWVqQ29rRDh6QUF1WVRCUTA3d0FIcHZoZ1dwRGVTRHlCRTMxUlNadUVZWXJUUHoydDlreThKa09FclU?oc=5",
-          "published_at": "2026-09-26T21:27:01+09:00"
-        },
-        {
-          "title": "조희대 ‘재제청 거부’에... 與 “외부세력 결탁” 野 “겁박 중단하라”",
+          "title": "\"부캉이 돌려보내지 마세요\" 추석에만 전국서 23만명 왔다",
           "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDZCbmpCdjJiaG1pZ0hjQXhTcHg1SXExbFpmc3cwQ0hHMC1PQ1plNU10cTkzeWV6bzc4ZmVySUFlT1ItSjVOSXVtR3lEZ0liSW1IVGU1bmFtaUFPclZ1NkE5NWtuRDh6NDVjUTZfZ0ZSNmRPVzVUcVIyejJIUko2d2hXaUtCLUVhSmlMWDhfUGk?oc=5",
-          "published_at": "2026-09-26T13:12:50+09:00"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnlCWTFob1c3SHgyVFRPeGxhZTVSYmlwQ1NFZGNmdVBGaVRtMnhFMzlEaDVsSzZUZXZPMm5veHF4eTBXMkM2eVlBLXlybnRKaG5KbV9IQUFZTTA0SzZwSllob0lObGxVenJwZFlLM19TM0ZPb1lvMWoyd3NNT3FuenJwaVVfUQ?oc=5",
+          "published_at": "2026-09-26T15:48:23+09:00"
+        },
+        {
+          "title": "[날씨] 연휴 마지막날 맑다가 오후 구름…남부·제주는 비",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWk5Hcm91Wnl0dTlBekZmbDJlNXZUSkZfNjRxSUdSQ0M0bnRSZHZRc2gyR2tuOW13Y1RRcjI2UWhVX1QxWEd2LTcyTzlBV0t5UzVEV1FiMFB1M2fSAWBBVV95cUxPSl9fTmM0OHptREJNTGtpdngtZEZPM2w0R3F4NnlXZzN2SWhyRV9vNS0zWm1Gb0ZneDBqV0Jhd0JRdHlXNzk5bkxHeFA3OWVweEgwWk5Ld0Z1Si1TbTB4bUU?oc=5",
+          "published_at": "2026-09-26T20:00:01+09:00"
+        },
+        {
+          "title": "조희대 ‘재제청 거부’ 파장…민주 “사법부 망가뜨려” 국힘 “겁박 중단”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpRXlHeW81QWtkRkRLYm03ZU52bTR3UEhHck1zYkktN3RzZ2hPSUlGZER1bklGWkcxd01HYzhfUjVhcW5DTTkxTDluSjFMMmlXMEF0NUtpNnpIelk0T0Y3VHJ3YTF0a2cxZlQycldIV1NjY2Rj?oc=5",
+          "published_at": "2026-09-26T23:14:00+09:00"
         },
         {
           "title": "여자농구, 일본 꺾고 금…12년 만에 남녀 동반 우승",
-          "source": "yonhapnewstv.co.kr",
+          "source": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWnpESkxXcW5Od29PZU91ZFFaRTRORy1WT2ctUENEaFdRYWxVeFN6ZGRueVpvZG9pTUhVR3pENDRvSGwyZmQxcUZlZWZ3WVJqZEw4YWVqTzFROG5qX2g5N1prSHRLR00?oc=5",
           "published_at": "2026-09-26T21:34:00+09:00"
         },
         {
-          "title": "[1보] 한국 펜싱 남자 사브르, 아시안게임 단체전 4연패…오상욱 2관왕",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qcm5tcjZTLUpiZHI4T2ZqVHBFbzA4T19hVlMyVVRjVWVoclpaVGNzUXJ4a3F6SEFCY3ZfVHJHbEV6OHVjUDB3UnptcTZ0d3pocGJyazZmZXAwMjTSAWBBVV95cUxNR1p5SjR6MXdDZ000U1htLW5tbXdwUWxkd3lKOXZ4Rl9pemtGTnpDLVYyVGpwMUpWMlN4dlV1TE5rRUNEZEQ5Z1ZvVWNsdkdvOEx2UWM1ZW01LXota1lHRGc?oc=5",
-          "published_at": "2026-09-26T19:21:42+09:00"
+          "title": "[아시안게임] 펜싱 남자 사브르 단체전 4연패‥오상욱 막판 4득점 대역전극",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLSF9RUTJELVlqempvZmpmMmlIdTRTaENWQzZWZVAzR2JZSWJ3RVlCY2xCbDc2cVhob2lWWHF2TWFOdnN0OUZTbklucVI4Q1FULUsyLWNNWUdqU2dPZkZKS3VJTFFzUW4wU1pnVUtWek5NY1BCMXfSAXZBVV95cUxQZF9WNWJJT0laMER4Q3pjc3c2S0NsTElnRmJ3SGZ5QzNXWERtVGJBQ0lmXzBTRkZ2SWhBeEkxSldXd2Zfdmc5dXJhalgxeExiWXd1UTRpUi1oXzhEc2YtdmhDRkt2emw2ajBBdl9sbFNyUk5ZYmxR?oc=5",
+          "published_at": "2026-09-26T19:54:25+09:00"
         },
         {
-          "title": "'우크라 북한군 포로 송환' 논란에 청와대 \"일관된 원칙 따라 대응\"",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Y21Wc1J4Q1lDenBpQUNxTnZkandEVV9LVkV6U3RKd1I2Vm5udTJ4REktSDBtbTVpRndlN0VrZGM4VGcySkNlY0VveXlCWDlTQS1jSk0xWU81WjVQX0ZfR1ZTb1FQVUJ2RmJ3OU9hZ2MzLUEwX2tJVdIBeEFVX3lxTE9tRVpaVGRRTFJLV25OODlnSzhWMkd3VkMwcXFSYUFTaHozR0FORjBxamQ1ZUpfLVhOLVQ3ZTllSlBUbkdxaDhwSGotWjRXZVBQX0Z2V0xydTZLTTBCX0dvSVVSWGhHQU5qMjNEVFJ2dE9JQUQ3OXVXQw?oc=5",
-          "published_at": "2026-09-26T15:32:27+09:00"
+          "title": "귀경길 정체 완화, 부산→서울 5시간40분…오후 7~8시 해소 예상",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RZndUZnpTX2RyY0FVZGVSNzBLUFN3eGpmbk5tQWJhYXI0TTBCYy1yekdkVnNUX1dBbHJpWUlMNlI1d2p4ZHpkRWJIaTZhbjg3amZOLXlRZkx2MEhfclh0eHlpdkjSAWpBVV95cUxOYWxUV2ZJNGpRclRBWThaclJ3RmlzOWM3YjJrQUtMc0c0MDc0alFBbG9wNkZYeXc2VC1ZTXo3cjhCWTliRjZXaEZZN29SQmlsUWpNNVcyOFJreVZsTHNkMFhBNmVidjF4VHpB?oc=5",
+          "published_at": "2026-09-26T18:00:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -85,7 +85,7 @@
         },
         {
           "title": "미중, AI·안보 입장차…\"시진핑, 트럼프 패 약하다\"",
-          "source": "yonhapnewstv.co.kr",
+          "source": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NVkRTdnZUcXdDUjRiaDA2ckFtUXNiRzRJcExkMnJPR2xiRXhRM01YNnBWZzJVdmNTdjVVdnpnOExsdXlMdmRZX1Y0Z0g1MHB0X2E1VnYyTDVhdXltZjZ6bjczSmNiYlE?oc=5",
           "published_at": "2026-09-26T19:47:00+09:00"
         },
@@ -96,16 +96,16 @@
           "published_at": "2026-09-26T21:00:00+09:00"
         },
         {
-          "title": "어느 가족의 추석 잔치 화제…“AI 아닙니다”",
-          "source": "weekly.khan.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15RE8tMmhoLUQyUkVhdUpONmVNTGxDdV8wTUM2TFBDREo1dW9MbmpUWDBzRzU3c2ZyLVViZmc1TnY0eWVIdlR1aWxvQXEwbnVXeF9rRUVBQy1VN1dWeFE?oc=5",
-          "published_at": "2026-09-26T16:28:00+09:00"
-        },
-        {
           "title": "“AI로 쓴 소설이 문학상 수상?”… 프랑스 출판계 덮친 ‘AI 집필’ 파문",
           "source": "동아일보",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0dnpBT3hEbEFBZHNzSHZJQ01GSVFuaWFUZGdNSHZ6RGdScEttckg0U1I3QUFhS3Q1R0RiRlI3alRKdHF2bWxFLWpoSFM4WjhBc0lLWXlfcHJoMlZ3US01ZVFjVmZrYVBsWk5MRmZyRThBVTDSAWZBVV95cUxPOHZMZlk0UDFOVWZRN1FkaWFXZ0lVWjFXXzJGd3ZvRjZxZFN5N3hBakxDVThuZ1F5QnNQSjVvamR4WldjTDNyZzFha0Z1Y2lzZUc4aG9VME54bm5SX0w0VXVDT2ZlSWc?oc=5",
           "published_at": "2026-09-26T20:53:31+09:00"
+        },
+        {
+          "title": "어느 가족의 추석 잔치 화제…“AI 아닙니다”",
+          "source": "weekly.khan.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15RE8tMmhoLUQyUkVhdUpONmVNTGxDdV8wTUM2TFBDREo1dW9MbmpUWDBzRzU3c2ZyLVViZmc1TnY0eWVIdlR1aWxvQXEwbnVXeF9rRUVBQy1VN1dWeFE?oc=5",
+          "published_at": "2026-09-26T16:28:00+09:00"
         },
         {
           "title": "정치판까지 장악한 AI...총선 앞둔 이스라엘서 각종 ‘생성형 정치광고’ 성행",
@@ -214,12 +214,6 @@
           "source": "도민연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHU1RybGZRUm42d0FRa2dleUtkajVfZ0VRbTdESlBYZmF5YUxCNnVDOGZaUmdyaUdZb0VIdzJ5Wmh2bGxMdEZEQl82ZHlHeW4xLXpzSE1CTFVPeFhxSVB2YXBuSWFYVTFFZEE?oc=5",
           "published_at": "2026-09-25T17:04:07+09:00"
-        },
-        {
-          "title": "연구 결과의 상업화를 촉진합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80NTNWVldPa2lCZ09OUVZSbTdGN0EyWUFFdFZLZ29CaldUSkVMLXhvNU1NVXpQcVJreDJJTEFkbG45OTNBTkV1R3pweXpDTGJEbDFsR3k0dWw3eUhWd09BQ3ZJaldqNGsySktrTmVKZFNvVVhfd1dXMGdHMHI?oc=5",
-          "published_at": "2026-09-25T12:10:05+09:00"
         },
         {
           "title": "오현정 경기도의원, 경기 마을공동체 가치확산 및 성과지표 발전 포럼 성료 > 뉴스",
