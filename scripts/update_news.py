@@ -29,6 +29,8 @@ FEEDS = {
     "realestate_policy": ("부동산 대출 규제 OR 주택 세제 OR 재건축 정책", 5),
     "realestate_market": ("서울 아파트 실거래가 OR 경기 아파트 가격 OR 오피스텔 가격동향", 5),
     "realestate_presale": ("서울 경기 아파트 청약 입주자모집공고", 5),
+    "samsung_baseball": ("삼성 라이온즈 경기 결과 OR 삼성 라이온즈 경기 일정 OR 삼성 라이온즈 구단 소식", 6),
+    "science_tech": ("과학기술 OR 신기술 OR 연구 성과", 6),
 }
 
 
