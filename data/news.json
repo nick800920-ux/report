@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-09-26T10:12:01+09:00",
+  "generated_at": "2026-09-26T22:03:32+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "top": {
       "items": [
         {
-          "title": "이 대통령 “한-멕시코 경제는 상호보완…포괄적 무역협정 나아가야”",
+          "title": "미·중 정상, ‘슈퍼지능 대화체’ 운영 합의…“AI 대신 SI로 부를 것”",
           "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYmZlU3pQczVCZjVEOWpNajJXc1Z4NTFlTkYxYmNtZHJZMTJzNDF6YldtaXRCa2p3OGFzYTFOUEVfLTZzaXhmX0tWb0VkemtWd3FDb25wOWFDbFBpX3pQQ3Q3akI1cHd5RlNB?oc=5",
-          "published_at": "2026-09-26T08:01:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFlRM19DTHo3bFY1MHVSM0VGSERUZTR0TWxhcXhNVGpaWTV0WkZBX05qSjVEWTVmOUJOLS1OOFFoNVFhdVdJczNfUkxpVnA2dzFQWXh1R0JhblJOUWE0enhTdkFheE1NNExHeVZPU1Jabm1MSDFuSkdwazYwUGNGaUpR?oc=5",
+          "published_at": "2026-09-26T16:38:00+09:00"
         },
         {
-          "title": "청와대 “DMZ 지뢰 사고, 안전 문제로 유엔사와 신중 접근…늑장 조사 아냐”",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SZkg3VENNSy1rSlhteUVTdmdFdGNTejI2ZmprVTF6TnFod0o2a2J4TkN5SXp5anREWmlUVjRQdUFBR3ExSGRQWFltbk41MElDR3FTZE9EbmR5blRCQjNRZDZYWGl4VDl6aVkxUk0yS18xaDNB?oc=5",
-          "published_at": "2026-09-25T15:34:00+09:00"
+          "title": "DMZ 지뢰·북한 포로 송환 '비공개' 논란...미중 \"국제수로 통행료 반대\"",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Vnpfd0duQlhmV1ZuT3lNZjBONHpGbnl3Z0hNSUw2dDhZM3M4YzlJMk5BRzdieWJVQmtubTdDNzRqV1N4V1NJWGdmS0VpOFFvWUNEQndnOG1lMzI0MkE?oc=5",
+          "published_at": "2026-09-26T18:37:00+09:00"
         },
         {
-          "title": "靑 “원만한 송환 막으려 방해하는 자들…날카롭게 움직여”",
-          "source": "동아일보",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NNUhqQnBPUTQ2SXJiYnRKdGoxNUY4eU9HTXlHME1jbUp4VTNCSW1VLURIV1hnMkJhdDNEQ2tDdDZzLUs5NGtXbE5GN29UT2Z2SXJCZlJ1TEpUT1djUC00dnMxSzludGlCazR5MDNPQTBwSHpFakZZ0gFmQVVfeXFMT0hMMUVvQlQ3Tks2S1RoNldUdkMwUjdaM1dFSXZvaEl1dmJLYXJBR1EwbURTbkNTOVh3Z2NUWFlLVFhlblRuRkYwVnFBWjlLRnFveUQzM2Jwd3EyN28wLW5XOHp4QWh3?oc=5",
-          "published_at": "2026-09-25T15:01:00+09:00"
-        },
-        {
-          "title": "공동성명도 기자회견도 없이… 미·중 정상회담 ‘빈손 의전 외교’",
+          "title": "조희대 ‘재제청 거부’에... 與 “외부세력 결탁” 野 “겁박 중단하라”",
           "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmdaV0JUQ2FyazlYWV9nWTZpWWwxQ1RJSU1iTGlia3hLRXBUWkJKSGg5c0xQclhnX2VHTWtGdWx6T1hOSkR6QjZYVEppbXUwb1I0Yjd5eE4tc0JRLXVodmw2ZmoyaEJ0TExfSHdwbGJHYlBEandHOUcwbXE0d05hTlZLdXBvRDNtT004VW9zS2N3elpXNjNIX0JVdXRJdw?oc=5",
-          "published_at": "2026-09-26T06:25:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDZCbmpCdjJiaG1pZ0hjQXhTcHg1SXExbFpmc3cwQ0hHMC1PQ1plNU10cTkzeWV6bzc4ZmVySUFlT1ItSjVOSXVtR3lEZ0liSW1IVGU1bmFtaUFPclZ1NkE5NWtuRDh6NDVjUTZfZ0ZSNmRPVzVUcVIyejJIUko2d2hXaUtCLUVhSmlMWDhfUGk?oc=5",
+          "published_at": "2026-09-26T13:12:50+09:00"
         },
         {
-          "title": "조국 “조희대, 이 대통령 인정 안 해…대법관 공석 ‘후임 대법원장’과 채워야”",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EYW5odUlfSmFiTTNuekhSTDNkWU90MnRuOVQyNnB0cnRSTk4zbjljYkpSYlRESTN6Y2RtWi13SG83RnkzUHVsdDc1VXNuSUo4UnpXcnhWaGxaQ3hkODV1QS1pUmZVR29lS0E?oc=5",
-          "published_at": "2026-09-25T20:09:00+09:00"
-        },
-        {
-          "title": "로이터 “이란, 미 호르무즈 재개방 조건 수용해도 핵 양보 없다”",
+          "title": "연휴 셋째 날 ‘귀경길 정체’ 집중…이시각 고속도로",
           "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLS01GekowX19fcWIxQWlBTVR4akltc2xONHg2MHVGcXRuRkc4R040c1dwN0dqVW1BTjBKNldsakNPeXlzMkM1M0c2bndmRzdZaU1IOTM2eGMyWlE?oc=5",
-          "published_at": "2026-09-26T05:13:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRGdZZlBYWDNOalgyT3FKNHp0VXdtV0RlQUdRb1ZRZTE2LUhHdTFlQUhwU1p4RkFoS2duMldfN0lBMlFYSmNabnZ4QVF5V0V1Q0toN1p3a2x3SkU?oc=5",
+          "published_at": "2026-09-26T19:23:00+09:00"
         },
         {
-          "title": "추석 연휴 토요일 비 소식…전남해안 최대 80㎜",
+          "title": "강훈식 사의 표명에 與 서울시장 보궐 후보군 요동? “민심 악화” 딜레마",
+          "source": "munhwa.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10WENYYXZPdXc0aU10eFZCUlBCQlV5NVk1S2dWaWE2ZTRINFN4NWdBV3hVOF9rX3dObXEzOWxwUUdOc0g5UUw3V2NEYTNZMUli?oc=5",
+          "published_at": "2026-09-26T16:13:23+09:00"
+        },
+        {
+          "title": "\"트럼프, 이란 '7일 계획' 제안 거부‥선거 후 폭격 가능성\"",
+          "source": "imnews.imbc.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fRGExbVFNQTVURlQ2d0hoQ05sUzNQRzV6Uy1qaTZvdWE3THBkU2hIWkxITDBJOE41dHhNc2NWbG5IelBHcWptdXZoVmhucHc3OFZYM1VwZ19EOFNJekdEV00zWnpaZGs4Wld5Qi14WkFhb0040gF0QVVfeXFMTzE4NW00UkQ4QUpYSmNXZi1BbHJjbGpOUEJTMWIzZjY1UGw1RUxqcW1US1ZzREJtWko0SHlrNXdQZkwwMHg0MGNuZXgwTmViQTVwUUprQUc3MVNkbjNzVUVVYUtSSEZSYi0yaTQzWTNsSjVFa3M?oc=5",
+          "published_at": "2026-09-26T10:49:54+09:00"
+        },
+        {
+          "title": "아시안게임 여자 농구: 한국, 일본 물리치고 금메달 획득 [아이치-나고야 2026]",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekJaYlNMcFNqSl9hTnVwdU8ySFRnZC1CcHBISHRNSlRiaTdYQlF6bmRoTGxuRUk4N0tRUjRCaVdoeW0zMXNYTDFac0c1Z2ptYUI5MXU3Uzlpd0ZHMzlyVFBpM2VRLXZqbFI1TWM2SEg1T1BScURZb3VhOHVEeV9ndFdGam5pZHBqOU5BUWd3?oc=5",
+          "published_at": "2026-09-26T21:13:00+09:00"
+        },
+        {
+          "title": "[1보] 한국 펜싱 남자 사브르, 아시안게임 단체전 4연패…오상욱 2관왕",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTkRYSm93ZjlCWDY3dHRXTDRLTjIzck1kNzJlVlN5emhTUkM3SE5mOGNSeXVua1hWXy05UFBtOFI0SUVZWFFza01jSW96ZHRjZzBUTDViN0lvQVHSAWBBVV95cUxQUmxrdkZvRlo0VjdIWm5zM1NTRW95cFpibW9wN1l0U0g3SmlQQV81SUZRUGtkVThUMlFDU2ZoU0F3U1VjbHNRNUdDV2ZZajhrOTJkMC1xVWwxeHlkdWUzRmg?oc=5",
-          "published_at": "2026-09-26T05:23:03+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qcm5tcjZTLUpiZHI4T2ZqVHBFbzA4T19hVlMyVVRjVWVoclpaVGNzUXJ4a3F6SEFCY3ZfVHJHbEV6OHVjUDB3UnptcTZ0d3pocGJyazZmZXAwMjTSAWBBVV95cUxNR1p5SjR6MXdDZ000U1htLW5tbXdwUWxkd3lKOXZ4Rl9pemtGTnpDLVYyVGpwMUpWMlN4dlV1TE5rRUNEZEQ5Z1ZvVWNsdkdvOEx2UWM1ZW01LXota1lHRGc?oc=5",
+          "published_at": "2026-09-26T19:21:42+09:00"
         },
         {
-          "title": "‘김승원 저격수’로 존재감 키운 한동훈…정치적 득실은?",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QVWNmVno5SlpDU1R1aHRvOG5NeDYxeVA4STJEUkFEbzA5SlQydWxwN29UU1dPbTdXd0FNODRZWll1Sk9pbDlWbjFHdFhYMkExbTBkbEI1NkhPRzRFanVTaDFmTGJXUk05NXJWcTRpNjNpV2hL?oc=5",
-          "published_at": "2026-09-26T07:41:00+09:00"
-        },
-        {
-          "title": "李대통령 \"국보법폐지 주장하다 독소조항 못없애\"…유시민 겨냥한듯",
+          "title": "\"부캉이 보니 힐링 되네요\" 비 와도 인파 몰린 부산 북항",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EZ3lteFM3SjV0MTQ4dXBtWTYwVXlKUkdoYy1IbC1IWFUyMXh4ZnBFbDc2cmY2a0k2QUN6WGdreU9EcmxnQTNidWxSRDhYclRTX3l2cEdITVFMYlXSAWBBVV95cUxPU3ZuSlBLTzJCZnhXX1ZaV2pyZ3puU19JYmhCRW5FdzRJR3RILXBWQUcwb0hST29LR2tfb3F4RVZlRlgyRmllcnF5SDNwVHVlWjMxSXRyeUdINDk0Wl9fdWU?oc=5",
-          "published_at": "2026-09-25T10:13:27+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96S3hUNDZ4RFJOREpqT3ZMNXpkWjBvdDFLaHlTUWl5czU4MDNtLWkzV2V1bGRyNnVQU3FIVVZRcWVMNHFmQTRLaGFYUmlzTjV6QUlqRVAzb01HMUHSAWBBVV95cUxONXc5YUZ0TV9ZNWdxZHhEQTNhM1FlMGtTTFRZWHllOXl3b1dqbTdHR1BJUG9Kbi0yM3VYRTZWSFByMWkxMExZMFBUWjFEcjFGM1BMWTJWVHpFdUtoTDZocGg?oc=5",
+          "published_at": "2026-09-26T12:22:38+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -66,52 +66,52 @@
     "it": {
       "items": [
         {
-          "title": "발전소·편의점 등 보유한 GS의 'AI 드라이브'… \"올해가 원년\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXOTM0LXU5SldBZFR0djg3NndzdlpENkRLY1pnbmRGazdEZTN0VGNtWDMxYXRnRzF6VzJMQlh0RU5TckRzQzFVbVp3b0poaktSTG5MRnFQdkZEZnhxMWNEemNyNXpsd2tVd09KeNIBckFVX3lxTE0zQ3NxQVNNZk9pblVXM2lpN1otVGJnOXNYcVBGelp4Q19KUElhaUh5VEdLRGhiSUc2WDNPYWM3dEE1aG9OeWw1Q05oVS04QjRZVWRRa0lacHY1czFUT21ZWHFxQjFKaXkwT2NWdmVCVGI5Zw?oc=5",
-          "published_at": "2026-09-26T08:05:00+09:00"
+          "title": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSks5U1Q4aHZJd3BzNjFqVnZpLU5scmJaNXZVZThIdUhWd2tsdDlFZWZCSUQ1cVQwWmZxYWxuVFdmMzZlbzlpUldfa1JRSjdtRENRcVFyQnUxd1R6THpLbmlhelVyNjRDZEJpSjFEUXdwSXBJWW9MekRTUDFfb0xjMDg0QQ?oc=5",
+          "published_at": "2026-09-26T14:21:11+09:00"
         },
         {
-          "title": "해외 로펌 AI 담당은 빅테크 출신",
-          "source": "법률신문",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yRHgwZG5GSlE5ZDF6ZS1xeTZ3Q3h5Y3FLemRDVFVyZnlVWTMtbS1lcGtJdUVVYzV3WW9pQWg1MW5lTWlDbEljN2VXX0syUFh6R2RuOHhOck9kbG5oTjB2dWVMMUVEcndfVXQwc0J30gFyQVVfeXFMT0dSWWxMRzA2SmlZWmR5MVh3QlVjMUJ0RHZJaFJCeTVpdGx0R253bmxqUmF1c0VGYThOTDBZRTc2aHlrMXBMN1JURHlXTC1kMkVCRTdkSXlkblZ6cDV2a1RxMWk2REhBVjdjLWZreGhMUkNB?oc=5",
-          "published_at": "2026-09-26T05:00:00+09:00"
-        },
-        {
-          "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+          "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어 '전용 배포' 선보인다",
           "source": "AI타임스",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xcHVCeU85VUlpdkxHamJ0bmRnRjJtbkxTcUlVVTVfaDVmN3k0ZkpSM201OGxXelJUcVNMeHhLcC1qeUZmQWpDR0NyNjhhZ2ZHU0VpRWQ4VUV5UW9yZjdwMG5jVFNoMjVSOVE?oc=5",
           "published_at": "2026-09-26T08:57:00+09:00"
         },
         {
-          "title": "전통 제조업에서 반도체·AI로…전남광주 산업지도 다시 그린다",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUXdibWh0ZGl3ODRkWkhjVXlIXzVoeUZ1Tk1ZR1I1QkVySG5lOWo4ckE3TWctWWhTNlpNRFZQaWs5aVY0MlREOW0yd2U4MTg?oc=5",
-          "published_at": "2026-09-26T08:51:42+09:00"
+          "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHZmYWI0U1lNN0FjdUNWcG5HT21heWJXQm5yRWt2WkVNVC1SbU14SVdZczhaSjBielRnT3NYaTlMTTVHQ3g2aE1ya052bjNvbWk1MmZoTndfRTkzN0cxR0pteWVvYjc0UzBpUjVHUkdCcnE2MFdkYi1YOHR1S1R2aUhB?oc=5",
+          "published_at": "2026-09-26T11:26:00+09:00"
         },
         {
-          "title": "R&D부터 해외 진출까지...경기도, 의료 AI 육성 박차",
-          "source": "ytn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yQi01ZDdoWDZyNkFTaHBtN2ZGMmZuUzdRdUQ3WXNlcUg0d1RjVEo0R3ZySU1BTkpDSjYwbDI1WEJ1c3JkSU1RVTJ5QTlaZmNZZ2NxYmJqQXgwS3ZzREk5SC1hNU5iYnlwX1RBbzFGdw?oc=5",
-          "published_at": "2026-09-26T02:38:00+09:00"
-        },
-        {
-          "title": "배민, 다음 달부터 AI로 배달시간 예측…정확도 1.7배 향상",
+          "title": "미중, AI·안보 입장차…\"시진핑, 트럼프 패 약하다\"",
           "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJU1V4Vy1aTUEyT1JGeW40Y3lkeUxRdV92ci15SjhTcXJkN1VRR1BMa0tMWWhYb21PeGZQRG5VYmhVOXBNNnBjeEZVRVNhTGcxbk5hblBQem91a1NwWW92WE9TMUNJdHc?oc=5",
-          "published_at": "2026-09-26T10:08:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NVkRTdnZUcXdDUjRiaDA2ckFtUXNiRzRJcExkMnJPR2xiRXhRM01YNnBWZzJVdmNTdjVVdnpnOExsdXlMdmRZX1Y0Z0g1MHB0X2E1VnYyTDVhdXltZjZ6bjczSmNiYlE?oc=5",
+          "published_at": "2026-09-26T19:47:00+09:00"
         },
         {
-          "title": "멈춘 日공장이 AI 광반도체 기지로…타워세미컨덕터 5조 투자",
-          "source": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE9YcWtvNWxrT3N6OHJGMjE0bi1sYTVoamlBMGNLakpfR05sYUN3dUpsZ1psdjBZUGhPOUtkZlBRVTk4NzY3Rzl5bERoX004VGRnMWNDbWVDNVJOMGV1bXlHLUdERGEwTDJvWlluaFAya2dLa1dXdzUtRzgyY3BRR2NlcnlOZGxr?oc=5",
-          "published_at": "2026-09-26T08:49:04+09:00"
+          "title": "어느 가족의 추석 잔치 화제…“AI 아닙니다”",
+          "source": "주간경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15RE8tMmhoLUQyUkVhdUpONmVNTGxDdV8wTUM2TFBDREo1dW9MbmpUWDBzRzU3c2ZyLVViZmc1TnY0eWVIdlR1aWxvQXEwbnVXeF9rRUVBQy1VN1dWeFE?oc=5",
+          "published_at": "2026-09-26T16:28:00+09:00"
         },
         {
-          "title": "배민, 내달 가게배달에 AI 시간 예측 도입…정확도 1.7배 향상",
+          "title": "“우리가 괴물을 만드는 건가”…'AI 위험' 부담 얼마나 크길래, 개발자 줄줄이 병가·퇴사",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5aUJNOTE4VnBDTFZQSnZDdXZhWUdBU2pFYldtOFNwbzMza0lsQjZoYzVRUU9sZWxwWUV2UjVxTGs5TEtyTzY3UTFRWl9oUQ?oc=5",
+          "published_at": "2026-09-26T16:30:00+09:00"
+        },
+        {
+          "title": "백악관 \"미중, AI 대화채널 구축 합의‥사고 때도 소통\"",
+          "source": "imnews.imbc.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81ejVsMWxKUWQ2YzZYRG9TY1l0VjBTVDdaZGN1U3BqMzB6MTJ0b2szYmJJNTBtUEFJYTY0WnRoUVBTVnkyRHBmRWY1eXJzaDlncF9TTG9GbWFINHRqVm5yd3FCM2VxeDZGRjZQbmo1WDVfZTlL0gF0QVVfeXFMTUJ0X0VoV0pFcUdXNjJEaU80R1pXblBiU1hUbkRqZlJEVmc4dXRGZkkwNWpqVkYzQ043cld0T0gzX0ZZMGNzam9OclduaHVDUFFrM0RfMTNBMUhmZGh6aXZreF9uZDdNUWZOR242aXNGRWpQamg?oc=5",
+          "published_at": "2026-09-26T14:15:44+09:00"
+        },
+        {
+          "title": "백악관 \"미중, AI 대화채널 구축 합의…사고 때도 소통\"",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMUThPcUd5Q19Lc29Ndm00ekxVTDFlaGVxT2lIYlNjd29oZUhLR3J2MXhpNzBFNkNSVGZMWUJmYjJCNVpFSWZHRTd5bVlhT1ktNVJiSTVpV3I5bXo0UkpCR9IBYEFVX3lxTFBMUThPcUd5Q19Lc29Ndm00ekxVTDFlaGVxT2lIYlNjd29oZUhLR3J2MXhpNzBFNkNSVGZMWUJmYjJCNVpFSWZHRTd5bVlhT1ktNVJiSTVpV3I5bXo0UkpCRw?oc=5",
-          "published_at": "2026-09-26T08:01:02+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUUJNREROZzFOSmVRd01xLWU3cFVVd016WEVYdklBdmx1ejhsR29VeEVRdG9SSEZXZld4ajFvS20zYlBvNEhydmNDS19qY25UUTR1TlY1VXhqa25QVEVEV9IBYEFVX3lxTFBFUUJNREROZzFOSmVRd01xLWU3cFVVd016WEVYdklBdmx1ejhsR29VeEVRdG9SSEZXZld4ajFvS20zYlBvNEhydmNDS19qY25UUTR1TlY1VXhqa25QVEVEVw?oc=5",
+          "published_at": "2026-09-26T14:04:52+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -128,6 +128,66 @@
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1SDS"
+    },
+    "realestate_policy": {
+      "items": [
+        {
+          "title": "추석 이후 집값 어디로…'규제·세제·금리' 다시 시험대",
+          "source": "민주신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzR2NUM3F0bzYwejUydHcxbEU3WE43NVpHemZ0c1RGcjcyQnoxVXNuazY0cnBCaG9KUDlfWV95NU5ualhqbEViaDM3Y2pIVUF0bkxsd0J2QmJzMzRRZl9UdzZsdWpyRknSAWtBVV95cUxPSnJ4YzU4TzlkT001R3pFUllxN0JSUm4tS2NJMDRRalRQY0VKR1dqRXg5SVRQZDJPSFI1Q1ZlOEJRSGtpZXBGUkVjclVNWmx4bWdxaF9GeGxMeGl1UUdpOC15amxxcWFYdmF4MA?oc=5",
+          "published_at": "2026-09-25T09:01:00+09:00"
+        },
+        {
+          "title": "프리스핀 중 달라질 수 있는 바카라 오토프로그램 적용 규칙",
+          "source": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ1ZzZjZhWUNvam5jeWZ1Sml3aFJiOFo4SGF3dk1hSFYwWmt5RzZpbjZUUU5hT2Z4eTdkQVhRM3gwNGFHWkNFeGFKQjhjdU5nSHBDSmVkREcwdGgxSlVNZ0FwdnRLNjBOcDgwRVJsRnpWV29QRjExWXhhbEJ3ZFk4SlVEdFZrOEhDcW81VVF2ZTQ4bWZWSDFLcDI2Y2hwM1IwNlZYUTA0b01HSVhCNDQ3X2sybFJPY21VRWhWdDJVQnVYX2pxYW94Y255MkNBVDlQVnlnMjZSdU1Nb1BJZVlYOGZhZ3d4dlpUTUROYlp4ZXpnRHgySHJaOURmdTl3RFRmQVJSdVVnZw?oc=5",
+          "published_at": "2026-09-25T07:11:26+09:00"
+        }
+      ],
+      "window": "최근 72시간",
+      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EB%B6%80%EB%8F%99%EC%82%B0+%EB%8C%80%EC%B6%9C+%EA%B7%9C%EC%A0%9C+OR+%EC%A3%BC%ED%83%9D+%EC%84%B8%EC%A0%9C+OR+%EC%9E%AC%EA%B1%B4%EC%B6%95+%EC%A0%95%EC%B1%85"
+    },
+    "realestate_market": {
+      "items": [
+        {
+          "title": "서울·수도권 껑충 뛰는데…대구 아파트값 ‘장기 침체 늪’ 탈출 진통",
+          "source": "대구일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05eC0wWUF3emwtRU9rcm9GZHFqQTZqMFZYaFRQTWw5c1UzX09oQ05JZmlHS3luRHpHWlFYTFhMc0twT2YwZ3RaZk1ZMTRQSzZoaEhPZzBCZDhqOEJUS2xzVWE5azV5RXY2?oc=5",
+          "published_at": "2026-09-26T16:06:37+09:00"
+        },
+        {
+          "title": "강남3구는 꺾였는데 서울 아파트값 85주째 올랐다",
+          "source": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LOXkxYUN3bTRiN0dvNGxIMGZGVHVTbjJMR29DdWxWVFZRUm1MaUFkQnppby1sakdZXzlYS0xwZ1NBWUhicDlPTHR6QWxGUk9lN2cyaXRQR3ptZlpPQVNPZy1FOW9fT0ZIdkpvWV9R?oc=5",
+          "published_at": "2026-09-26T07:00:00+09:00"
+        },
+        {
+          "title": "서울 아파트 상승세 4주째 둔화.. 강남3구 하락세 뚜렷 > 뉴스",
+          "source": "지데일리",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdGludUF2LXBYU21fY2d5WWxmeWtDR1ZMNHlaLWo3RTRNaXhCemYzaTRMTXhPbkh4U2tHaVJqRFlRckpDdzlTQVEyZVdUcXpuMGd3eDh6bGFWVXJyTnk0elpNeVZMX3R1T0VvZw?oc=5",
+          "published_at": "2026-09-25T19:14:00+09:00"
+        },
+        {
+          "title": "삼성 사내대출 효과?…'반도체 벨트' 수원 영통 1.09% 올라 전국 1위",
+          "source": "피플투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pUTljR05MWEFrVzQ1UEN2RmNQWF8zREtib1VnZHMtMGpIcXg2V2NfYkVzckgwcXY0T3ZZS1UtOWlDZmVONUV6U0dGcnV0OGxIMUJPb0tfc24wQ1luZ0pUeHlpQmxDd1hEWDFGX3VfYw?oc=5",
+          "published_at": "2026-09-25T10:22:28+09:00"
+        }
+      ],
+      "window": "최근 36시간",
+      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80+OR+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EA%B0%80%EA%B2%A9+OR+%EC%98%A4%ED%94%BC%EC%8A%A4%ED%85%94+%EA%B0%80%EA%B2%A9%EB%8F%99%ED%96%A5"
+    },
+    "realestate_presale": {
+      "items": [
+        {
+          "title": "추석 이후 분양 큰 장…반포 재건축·동탄 대단지 쏟아진다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14X0liU3FVVDZ0RXRaRDNqdndLQlZ1MHZ3YmsxRS1ZUDV2MWhSVGdHQ2xwaUItNC1ZYVVqTmQxT2h2a2JIRDZYVkV4Skk3UTBpdjVuazBmVktiMW9oQUt0dXBIUXpmUk9PUTZGQjhtTdIBb0FVX3lxTE14X0liU3FVVDZ0RXRaRDNqdndLQlZ1MHZ3YmsxRS1ZUDV2MWhSVGdHQ2xwaUItNC1ZYVVqTmQxT2h2a2JIRDZYVkV4Skk3UTBpdjVuazBmVktiMW9oQUt0dXBIUXpmUk9PUTZGQjhtTQ?oc=5",
+          "published_at": "2026-09-25T05:00:00+09:00"
+        }
+      ],
+      "window": "최근 72시간",
+      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%B2%AD%EC%95%BD+%EC%9E%85%EC%A3%BC%EC%9E%90%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0"
     }
   },
   "errors": []
