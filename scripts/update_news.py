@@ -26,6 +26,9 @@ FEEDS = {
     "top": (None, 9),
     "it": ("AI OR 클라우드 OR 반도체", 8),
     "sds": ("삼성SDS", 8),
+    "realestate_policy": ("부동산 대출 규제 OR 주택 세제 OR 재건축 정책", 5),
+    "realestate_market": ("서울 아파트 실거래가 OR 경기 아파트 가격 OR 오피스텔 가격동향", 5),
+    "realestate_presale": ("서울 경기 아파트 청약 입주자모집공고", 5),
 }
 
 
