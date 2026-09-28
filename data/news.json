@@ -1,68 +1,8 @@
 {
-  "generated_at": "2026-09-29T07:01:36+09:00",
+  "generated_at": "2026-09-29T07:36:21+09:00",
   "timezone": "Asia/Seoul",
-  "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
+  "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
-    "top": {
-      "items": [
-        {
-          "title": "DMZ 사고 현장 장병 “목함지뢰와 유사한 형상 지뢰 봤다”",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QZkN5UVVTWVctVm8xX29NcVJJN09yYzByUTNfZzMtVXRNN2FsS2phdGJkeTZZY1A0N0JfenhibEEtT3R1aU5sUTRhTENEUkg2czBjNHdtcW5qUdIBX0FVX3lxTE5QeEpBWUhiOU81Wmo3a25mWUJLU0JVRVVLOHhSb3pscWZlSHozTUZsZFZnRGRIRzNTM1NmOUVib0F3SjAzN2cwMGV1Zk15SnZ3OGROVjNnSFlkcHl5WUs4?oc=5",
-          "published_at": "2026-09-28T22:28:00+09:00"
-        },
-        {
-          "title": "청와대 “젤렌스키 엄청난 외교 결례”…외교부, 주한우크라 대사대리 초치",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aeFRkMGM2UmxaZXRESW9iZXhVUlJFWnktelV6clhTM2NaUjFZZWlPWk9hY3lNVDJ3RjQ4bEJndW1hc3loUzZ3a1A3QkN5WS1odlVpeWNOVGxkc2tBRjFxRWVpY3ZpRjl4Q05hcVNPX3IxYVJP?oc=5",
-          "published_at": "2026-09-29T06:03:00+09:00"
-        },
-        {
-          "title": "청탁금지법 시행 10년, 여전히 연 300명씩 금품 수수로 처벌",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2dtN21PNHhHZWJrekRtWEhYdGY5aTFjQXNWbF8ybGlqTnQxR3BfSDlqSUlPRjZyQnBNYmZ4blZMeDJib25DT3BQWTBmdHdkMkNJcGFmc2tpaVZDUnNYVThvUDFkWG9iS2RCT25obnMyUkRwc2ZOY2JQUlRCWU1VWnVQaXFPYXM?oc=5",
-          "published_at": "2026-09-28T11:17:22+09:00"
-        },
-        {
-          "title": "北, 유엔 연설서 비핵화 일축…북미회담 언급 없어",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkWWdOMGRSUVM3SGhWMnVQdkt0aENhMFUzbWlQSEpOZnJBcGJDYm5MMFJ4QXJLcnBtZ1RtcnRETURrWGlsWXJKNVBad1RLOFE0RlVJdzlUbTBIVHpnZmt1WThFNWxlcmM?oc=5",
-          "published_at": "2026-09-29T06:07:00+09:00"
-        },
-        {
-          "title": "“트럼프, 이란이 구체적 ’핵양보’ 시 제재 완화 의향“",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ZnM2LUdiQXZrdHhIOWl2WFpkMkg2R1lvSE1IbmctRHR2OFF2SERNRk9VZWRaM2VicHM4SkpBeFR5LTJXb2VuN1I4cGFTSEM5YlFJdENsb3h3UVc5c1Y1SHpISDlidXM?oc=5",
-          "published_at": "2026-09-29T06:08:00+09:00"
-        },
-        {
-          "title": "트럼프 \"中에 무기판매, 좋은 생각이지만 시진핑과 논의 안해\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92TS1jNVA0Mkh0dXgzTWVXMlhiYktNcmljbzVBb2xlSGk2WWFTNlVBYThXdFA0Y1BPVlV2QU5ORzhNSTJyemN0YjNaYXpRT2pPWXZXZl9VckhHOGRwTVE5ZWxWQkZta3pjOVdSeW9ZWnVQRHh6cjVlZmlBRFhGZw?oc=5",
-          "published_at": "2026-09-29T06:48:00+09:00"
-        },
-        {
-          "title": "법사위 ‘조희대 국감 증인’ 채택 …행정처장, ‘격노설’ 묻자 “거짓말”",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92RDhrXzNvUDc1MFdxMHJhemVhaHY5V1hwUVIzWTEzODNDeXVUZWNNU0pJQ3Ftb2h1cnNXbDlQVmxyTkhrUERRQkh1dHlIV21ndTNRT095SklzMkRzU1ROVHItUjBHbTJtQU1ka1R1NGgxNUxJ?oc=5",
-          "published_at": "2026-09-28T22:12:00+09:00"
-        },
-        {
-          "title": "젤렌스키 \"러에 북한군 8천 명 이상 있어‥1만명 추가 배치 준비 중\"",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jSlhlR1dmdlhsQWM1VDlNdWNnM2NXa2diN2M2Qzl3WXJBSGlfemo1bUpUVkFoNk5nakNXREFrRWQzdm9vVnU0WUlnTWJiMlRsX09saFhsWW5ET1FSeDJrcFc2bnJOUHpHVFJadUJ4ZlRfM0Nt0gF0QVVfeXFMTlZPQ2huOWZpNW0zWUhSQWlGT3pwdUJ2Z1VJM2RPUDRvMnQzQUJFT1dkVjBHWVpac3VsSDlUVHh6ekpLdllaNnhxa1VmNmFGQWxWT2tYYlJuaUk3eHFOUl9VMVJnTUs2Y1RoWXpzRkR6Ui0xU28?oc=5",
-          "published_at": "2026-09-29T04:43:05+09:00"
-        },
-        {
-          "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUlSVzZwYVJpZUltRlRXZGVIUnN3eVg5d0laeFl2eG10VTgwNHBfQmdHdEl6ay14Y3pOeXZEck5tWWtLZ3o2RF95THZkbHFuazUtX0NFQVJlcnlRdnpxWnVlQWVULXk2MFhoQkx3MUt6ZVZEX1d3bGVRa08wQ1BlLVIzdGJYTEh0bVZVUm9IYXM?oc=5",
-          "published_at": "2026-09-29T00:00:00+09:00"
-        }
-      ],
-      "window": "최근 36시간",
-      "feed_url": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR%3Ako"
-    },
     "it": {
       "items": [
         {
@@ -72,22 +12,28 @@
           "published_at": "2026-09-29T03:43:00+09:00"
         },
         {
-          "title": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaGc4RVVFYlJvVmZPRnBPS3NVaEpXR1l5S1NKS2xFblFoa2NtUFZrNU1LeGZDSjdkNGFsRENrSGhqQWIwLTVpeF9HRzFIeUQ3RkZEZ0tSWVFNZFXSAWBBVV95cUxPVzRsT2tiNF8ydEJpbkJCNzFHanNGX01TckJRay13SUt1Q2hBblQycGo0X2RwU0NKcUdHXzhQczJqZnBLNkZaYXp1YkFKcjN4RWNNcVdSWWdmSHhITVJwZUI?oc=5",
-          "published_at": "2026-09-29T03:10:15+09:00"
-        },
-        {
           "title": "[단독] 정부 2000억 쓴 ‘국가대표 AI’ 접고, 5조 들여 SPC 설립 검토",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmVNYjlTWkg5UFZ1eHNmbHRXNWJuZVVWR3dlSFVOV0J0SUVPTm84TjFZM2FWZll3N2JoQXg2OWxqRFZUd0NzYmd5a1ozblZHVXA3czBGb0FOelIzSHVoUWVrdTNMVEdEaDBVSkNWWGR6TnItUjFyRUtxc1RQcGRvc2RWaw?oc=5",
           "published_at": "2026-09-28T15:49:35+09:00"
         },
         {
+          "title": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaGc4RVVFYlJvVmZPRnBPS3NVaEpXR1l5S1NKS2xFblFoa2NtUFZrNU1LeGZDSjdkNGFsRENrSGhqQWIwLTVpeF9HRzFIeUQ3RkZEZ0tSWVFNZFXSAWBBVV95cUxPVzRsT2tiNF8ydEJpbkJCNzFHanNGX01TckJRay13SUt1Q2hBblQycGo0X2RwU0NKcUdHXzhQczJqZnBLNkZaYXp1YkFKcjN4RWNNcVdSWWdmSHhITVJwZUI?oc=5",
+          "published_at": "2026-09-29T03:10:15+09:00"
+        },
+        {
           "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
           "source": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4teDU5QTJkS19neU9NMXBlT1c5aHJWWGRtWTRXZkhIeEctX3pXbzJGVWFIbE8xclZEU25taVpEUkhVd3lXZTRGcmUtVUxrUWstbHRiVXpXVDZQX3NtUVZQUUZJbmttV0E?oc=5",
           "published_at": "2026-09-29T03:56:00+09:00"
+        },
+        {
+          "title": "“인간 뜻대로 움직이는 AI 만들겠다는 꿈 좌초…해결책도 없다”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
+          "published_at": "2026-09-29T05:01:00+09:00"
         },
         {
           "title": "[AI 포모와 포비아 사이]기업들 “AI 잘 쓰는지 보겠습니다”…취준생들 “어디까지 해야 잘 쓰는 건데요?”",
@@ -106,12 +52,6 @@
           "source": "동아일보",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kd3pLTXRBUlBTWXg4Y2hoYjdaUVF1eFhSQXFybVREeUxvdkZZRm5WN05MX2gyV2NpcWU3eUxlaGNiNW1pNGhnT05HZzlnUTJkWlZjWTFwakFxZ3VnbXlFaXhyUkIzR2RZU3pfRFNuNjJ5dlVmY1HSAWZBVV95cUxQRXJhRHNLbDJVSThMRV9uaUVNRWsyQ1F5Si0xWHBuaTFJRk9oeGdQcUdWQUduUjdid3dhTENwSkdlRTdicm5vMUlaWVRjMWxUUFBFZmZ5OU1lYTJkeDhWTFdVNi1xcnc?oc=5",
           "published_at": "2026-09-29T04:30:00+09:00"
-        },
-        {
-          "title": "주요 AI연구자 22명 \"AI 지능폭발 임박‥통제 못하면 인류 멸망\"",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wRFRRU3dKLVBnRThFNlRXLWVHM24xRV9LaHVhendQUkpSWUVMUmhsc2RjeTJCaEtYRXc3dlFBbV9pMXpNbGZmdUp1djJHOUFUVmZVdEk2cUJBb0tGNXNMV0ZidU55aWJBbXVHanZjRjBGc0kw0gF0QVVfeXFMT0RzX1lnX1Z3NHlGM2NsRUxHMnB2RHhfR1RKUjY4VFJWTVhjanozSWZ1ZlJIaHZYNVJKbkdyeHBqOFZmNml4eTFLZ05BQ3NqRF9SMUtnRkJqbHNMZFh4cG9VRmJiZ1dGdU1ZS0dNdVBFb3Z5dmY?oc=5",
-          "published_at": "2026-09-29T03:36:17+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -168,16 +108,16 @@
     "realestate_market": {
       "items": [
         {
-          "title": "9월 서울 강북권 아파트 강세 '여전'…강남구 하락 전환 |",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tOWRYWVJ5WmFTMUQ0OUM1S3dDMUp0RzZQc093ajhkWGk1THNJaGFDWE45TG41TFBfUW56SGx5eEhrZExwVm1yRDlRUWNUcXJtbEo1dDRWbjl6Zm1scFBCdEgzRDVRWjNrWFloNkJHRXVLMlpK?oc=5",
-          "published_at": "2026-09-28T11:30:10+09:00"
-        },
-        {
           "title": "서울·경기 토허구역 33곳, 지정 후 전셋값 상승률 4.6배로",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbC1iTENjbFpBNXBldy1EYi1JZFY3dVV5dXh2VVZsVVJjU0k2T3ZKTjExU1VOZGtBWElDUElwY21yaDVFWmxQRzh0aEE2QnE3NTdNYnpLdUtja1pMTlc3dUtYa3FWNVRZMVBzVDdnMkt3NUx4NkpLbHljTVBQdHdUWlZRZ2pHLWt2?oc=5",
           "published_at": "2026-09-29T00:31:00+09:00"
+        },
+        {
+          "title": "9월 서울 강북권 아파트 강세 '여전'…강남구 하락 전환 |",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tOWRYWVJ5WmFTMUQ0OUM1S3dDMUp0RzZQc093ajhkWGk1THNJaGFDWE45TG41TFBfUW56SGx5eEhrZExwVm1yRDlRUWNUcXJtbEo1dDRWbjl6Zm1scFBCdEgzRDVRWjNrWFloNkJHRXVLMlpK?oc=5",
+          "published_at": "2026-09-28T11:30:10+09:00"
         },
         {
           "title": "KB 상위 50위권 고가 아파트 가격 4개월만에 하락 전환",
@@ -192,10 +132,10 @@
           "published_at": "2026-09-28T13:24:11+09:00"
         },
         {
-          "title": "고가 아파트 4개월 만에 하락 전환…서울 강북·경기 남부는 강세",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RSmZDY1R2eWtlS21GWWJCWFpQMnhHSmtDbzZvSkVNaUJNMnRZSFRrelpCN0NiV1lod0xmUVVuc1gyX0hBZ0E?oc=5",
-          "published_at": "2026-09-28T15:01:24+09:00"
+          "title": "서울 집값 7개월째 오르는데 강남은 뒷걸음…경기 남부로 번진 상승세 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44QWFpUGZibl81aTZBLWVnZzJSdUJsWG5WWjRqTEdEMC1IdTNaZDUyeFhGcGZTR1ZqQ0VLbEM5M1ZUNGdmck1taHZyVzRsaTVVa3hvU3FubjN2SHFSdFRuYlNaZk9xajFxU2pSZHBqMNIBb0FVX3lxTE44QWFpUGZibl81aTZBLWVnZzJSdUJsWG5WWjRqTEdEMC1IdTNaZDUyeFhGcGZTR1ZqQ0VLbEM5M1ZUNGdmck1taHZyVzRsaTVVa3hvU3FubjN2SHFSdFRuYlNaZk9xajFxU2pSZHBqMA?oc=5",
+          "published_at": "2026-09-28T15:58:38+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -229,7 +169,7 @@
         },
         {
           "title": "다시 선두와 3G 차 삼성라이온즈···홈 6연전 치르면서 지켜볼 KIA 6경기",
-          "source": "dgmbc.com",
+          "source": "대구MBC",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IT1NRMVlPX0hGbnlxNHdIM0F4NmpjdWdDSTZsQm1kd1R0cjRia0lTaV9tM3hic3FyTktUSFZzdFVHOWdHaC1sWS0zUjE?oc=5",
           "published_at": "2026-09-27T21:04:10+09:00"
         }
@@ -278,6 +218,79 @@
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0+OR+%EC%8B%A0%EA%B8%B0%EC%88%A0+OR+%EC%97%B0%EA%B5%AC+%EC%84%B1%EA%B3%BC"
+    },
+    "top": {
+      "items": [
+        {
+          "title": "美국채 금리 급등에도 버티는 뉴욕증시…과거는 어땠나",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91c1VrZGFyaHFodXotUHhZaUYwTUVmNWM2MDhkeHdrUm8wSkFJTWtVQ3VGUVd2T0dpMG9PRTRLTG14TDU1d21pUkpJbTU1VXE0ODM0Q2ZScnBQOWM4Z1lGZdIBYEFVX3lxTE91c1VrZGFyaHFodXotUHhZaUYwTUVmNWM2MDhkeHdrUm8wSkFJTWtVQ3VGUVd2T0dpMG9PRTRLTG14TDU1d21pUkpJbTU1VXE0ODM0Q2ZScnBQOWM4Z1lGZQ?oc=5",
+          "published_at": "2026-09-28T05:28:56+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "미·이란 대치에 국채금리 급등…뉴욕증시 3대 지수 하락",
+          "source": "스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Z2F5cGI0bEw1XzVrOE5kdzJEaGZYZUphN2s2SUdpTnBDWDNDak9saDV6LWN6VUlmbkFMam14d1JuUGNfY2xPaVJ3U3BLVXdhQ3JWV2pEUXRIQnZHVG9mNU9jeHJ5S2U0U3NtZ3JRWjJPdw?oc=5",
+          "published_at": "2026-09-29T05:58:46+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[금주 뉴욕증시 전망] PCE·고용지표에 쏠린 시선…마이크론 실적·국제유가도 변수",
+          "source": "goodkyung.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bjU2bDVRTkFLRG90ZzlGZ1p4bEdEU2dSa19Pcjg1dE1aSG1oSkMwVFJXdmkwMlRUb25GRFcxRXFzQTg1SFRmZ0RLeml3cG5NZTJ5Z3FzLTRlTVh0TUs0MEdCMGt5OERXOWV6bg?oc=5",
+          "published_at": "2026-09-28T09:53:03+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "美 10년물 금리 2007년 이후 최고… 그런데 뉴욕증시는 왜 버티나",
+          "source": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11am9hYmVmNTdfQmVCQTZGc0Z4UXl5bXFadFNpZWt3ZVV1SFRUdHVFSjFpT2Nwd3RKX2hZTVFyMWRkLWtZbmplNTRaLWNhMy13NzNHWW1lek9Wb2t2blBQUjZ4cXlXZEpHTmlsODJLNWhSaUxZRnJN0gF3QVVfeXFMTXVqb2FiZWY1N19CZUJBNkZzRnhReXltcVp0U2lla3dlVXVIVFR0dUVKMWlPY3B3dEpfaFlNUXIxZGQta1luamU1NFotY2EzLXc3M0dZbWV6T1Zva3ZuUFBSNnhxeVdkSkdOaWw4Mks1aFJpTFlGck0?oc=5",
+          "published_at": "2026-09-28T08:46:21+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[외환+] 美 국채 금리 충격···원·달러 환율, 1360원대 마감",
+          "source": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VQ1E2MkFQWXVhMmRNLV9tTmhJR3htZnhaUmRwWkpiUFdhbHFtVm1aMmNLRDVLY0tqM0JRU2sybVVSMWNjbVJYd095bHZETW9oZ1hzaldUODV4VkxYXzRnS0ZQYnNmYzlCZUE?oc=5",
+          "published_at": "2026-09-28T16:11:08+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "올 서울 경매 아파트 낙찰자 70%가 실수요자",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzNrUzhmSWd2bFFPVUk1WXhER2JWOGFpQUh6cmlyMW9EbW5SUm85LUdIY1Z3Q193RHExTnNsR3h6OHFfdFBoLUNSVzl0OXNVeGRoNF9BdHZvRjNDd3F1Q09JT21uZUxwNWt6SlIxLWpsRVc0dDhkRFFVXzl0eW9NdkRQWUxfcnVr?oc=5",
+          "published_at": "2026-09-28T06:11:42+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "[기획] 서울 정비사업 대규모 이주 예고…전세시장 ‘비상’",
+          "source": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93cEJ3LXYzdXpIeGRJOHZ1TkN5eGdDLVdQX1loeFlVMFhDNWg0UEVITzRJMW1ES0JNZTZFaW1rVTBOVVdpMEVFME9rRWtPQU1qeGJXbEd6NnNKN2xkV29jeEF4ZEXSAWhBVV95cUxNWmNWTDBGdWc5YWRZb1pVV1R3U0RJR05zdm0tX1IwMWZQeGpEY1U1dDZocmZJUm1BYUgtdW9mNXVwZklYUVo2Z2JUenB5cHF6U2ozc2N5Z2dMSC1kUVlDZzk2V2J0SVJNTw?oc=5",
+          "published_at": "2026-09-28T13:51:36+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "[추석 이후 주택시장]① 씨 마른 서울 전세… 이사철 ‘대란’ 경보",
+          "source": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WQVVBaXY4OUdoTGdqZlEyemlkbjF5MGp2WVlULWpPYlBvd0tCVXBFbVVZTWR2S2lSQkQzMnNBWm1WQnh3SG9IYXg2M2MtVGpVR3U3MkV5dEkxS0ZGSnJLMjQ4SkpEWEtwTW5Lb0pyWFlOYkZl?oc=5",
+          "published_at": "2026-09-28T05:00:41+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "한국부동산원, 전국 아파트 매매가 0.09% 상승…수도권·서울이 견인",
+          "source": "gukjenews.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iVXF4YkMtZDM5Z2g2MnMzQ001V184cWJaZ1ZBZk9kc3hrMnBzX1pOdmI1UHFiSXF3bXl2Y3BIeTdlYTYyU3FYdkZWYzdGRmhxUmdpVXppU0pOaUpNWEkyNDRjcXBPNjlSUENZbUZB?oc=5",
+          "published_at": "2026-09-27T21:09:47+09:00",
+          "category": "부동산"
+        }
+      ],
+      "window": "최근 36시간",
+      "feed_urls": [
+        "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EB%AF%B8%EA%B5%AD+%EC%A6%9D%EC%8B%9C+OR+%EC%9C%A0%EB%9F%BD+%EC%A6%9D%EC%8B%9C+OR+%EC%84%B8%EA%B3%84+%EA%B2%BD%EC%A0%9C+OR+%EA%B5%AD%EC%A0%9C+%EC%9C%A0%EA%B0%80+OR+%EB%AF%B8%EA%B5%AD+%EC%97%B0%EC%A4%80",
+        "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EB%AF%B8%EA%B5%AD+%EA%B2%BD%EC%A0%9C+OR+%EC%A4%91%EA%B5%AD+%EA%B2%BD%EC%A0%9C+OR+%EA%B8%80%EB%A1%9C%EB%B2%8C+%EC%A6%9D%EC%8B%9C+OR+%EA%B5%AD%EC%A0%9C%EC%9C%A0%EA%B0%80+OR+%EB%8B%AC%EB%9F%AC+%ED%99%98%EC%9C%A8",
+        "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%8B%9C%EC%9E%A5+OR+%EC%88%98%EB%8F%84%EA%B6%8C+%EB%B6%80%EB%8F%99%EC%82%B0+OR+%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C+OR+%EC%B2%AD%EC%95%BD"
+      ]
     }
   },
   "errors": []
