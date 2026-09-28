@@ -23,7 +23,9 @@ from zoneinfo import ZoneInfo
 KST = ZoneInfo("Asia/Seoul")
 BASE = "https://news.google.com/rss"
 FEEDS = {
-    "top": (None, 9),
+    "top_world_markets": ("미국 증시 OR 유럽 증시 OR 세계 경제 OR 국제 유가 OR 미국 연준", 12),
+    "top_world_macro": ("미국 경제 OR 중국 경제 OR 글로벌 증시 OR 국제유가 OR 달러 환율", 12),
+    "top_property": ("서울 아파트 시장 OR 수도권 부동산 OR 주택담보대출 OR 청약", 12),
     "it": ("AI OR 클라우드 OR 반도체", 8),
     "sds": ("삼성SDS", 8),
     "realestate_policy": ("부동산 대출 규제 OR 주택 세제 OR 재건축 정책", 5),
@@ -32,6 +34,35 @@ FEEDS = {
     "samsung_baseball": ("삼성 라이온즈 경기 결과 OR 삼성 라이온즈 경기 일정 OR 삼성 라이온즈 구단 소식", 6),
     "science_tech": ("과학기술 OR 신기술 OR 연구 성과", 6),
 }
+
+DOMESTIC_POLITICS_TERMS = (
+    "대통령실", "청와대", "국회", "여당", "야당", "여야", "민주당",
+    "국민의힘", "당대표", "원내대표", "탄핵", "국정감사", "지방선거",
+    "대선", "총선", "정치권", "이 대통령", "이재명 대통령",
+)
+
+
+def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]:
+    """Keep the headline deck focused, balanced and free of domestic politics."""
+    seen = set()
+
+    def take(feeds: list[dict], category: str, limit: int) -> list[dict]:
+        selected = []
+        for feed in feeds:
+            for item in feed.get("items", []):
+                title = item["title"]
+                key = "".join(title.casefold().split())
+                if key in seen or any(term in title for term in DOMESTIC_POLITICS_TERMS):
+                    continue
+                seen.add(key)
+                selected.append({**item, "category": category})
+                if len(selected) >= limit:
+                    return selected
+        return selected
+
+    world = take(world_feeds, "세계 경제", 5)
+    property_items = take([property_feed], "부동산", 4)
+    return world + property_items
 
 
 def feed_url(query: str | None) -> str:
@@ -112,12 +143,24 @@ def build() -> dict:
         except Exception as exc:
             errors.append(f"{name}: {exc}")
             sections[name] = {"items": [], "window": "가져오기 실패", "feed_url": feed_url(query)}
+    world_markets = sections.pop("top_world_markets")
+    world_macro = sections.pop("top_world_macro")
+    property_feed = sections.pop("top_property")
+    top_items = select_top_items([world_markets, world_macro], property_feed)
+    sections["top"] = {
+        "items": top_items,
+        "window": "최근 36시간" if all(
+            datetime.fromisoformat(item["published_at"]) >= now - timedelta(hours=36)
+            for item in top_items
+        ) else "최근 72시간",
+        "feed_urls": [feed["feed_url"] for feed in (world_markets, world_macro, property_feed)],
+    }
     if not any(section["items"] for section in sections.values()):
         raise RuntimeError("All news feeds failed or contained no recent items: " + "; ".join(errors))
     return {
         "generated_at": now.isoformat(timespec="seconds"),
         "timezone": "Asia/Seoul",
-        "method": "Google News RSS 헤드라인 수집; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
+        "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
         "sections": sections,
         "errors": errors,
     }
