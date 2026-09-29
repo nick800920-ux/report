@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:09:50+09:00",
+  "generated_at": "2026-09-29T22:37:03+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -7,7 +7,7 @@
       "items": [
         {
           "title": "오픈AI, 안전 문제로 'GPT-6.1 아스트라' 출시 철회...\"기만·무단 접근\"",
-          "source": "AI타임스",
+          "source": "aitimes.com",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbGNza3BxU2ZFVVVfNkQ0YzRhbmtXb0lJR0NGbWk0YTctNkZfRlVSM2hpTVhaYktET1EyODQzcmI2YjB3ZFhKS1NXTy1Ja2xqWkpYSGJ0UFA4X2IwQklaX2k5REhsZ05sOGc?oc=5",
           "published_at": "2026-09-29T14:45:44+09:00"
         },
@@ -16,12 +16,6 @@
           "source": "정책브리핑",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXdzLUFSeHpDSVFMeFdNaTF5RDE1amY5VFdxRDRmVEMzSFJha0NtUUZPU2dIUnVtWWEycTc5ekNsOUdubGdOak10S2pDb3JGUE9yVVlwMTBqVVJxTmlnLUpHOXVOTGVuOHMtRGdYTzhnQUptajhJbEJuTDhNRE8xZWZ5czcwaUdza2c?oc=5",
           "published_at": "2026-09-29T18:09:52+09:00"
-        },
-        {
-          "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外",
-          "source": "DongA Science",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RXzdxb1JNSERUZF83cGJKWEFmYUgzckluOE5hY3NTS0pycUxQSnlpNHl3cnpBVXd5QTNLaDZFNzh3enhiMndtLVBXZkFWeFdzZE1lNw?oc=5",
-          "published_at": "2026-09-29T16:55:00+09:00"
         },
         {
           "title": "\"AI 경쟁력 출발점은 데이터센터…투자·활용 기반 갖춰야\"",
@@ -52,6 +46,12 @@
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmdOOEIySG42eVpsUGI1U1JQeGpkeUVkeFVzSXhSSmR4aXZKVUE0YUxqLWN1VjhsaXhLZHlXUE94M1NwYnIyalhFNF85U1RLeHVYWjR3anpGZ3hiajZOZGdkek5Ob3p3dk5wUlJvbVRnbVpmVkRPT1BoUWhsZF9DSGRUQ1dBZUhFSDZRSXN3?oc=5",
           "published_at": "2026-09-29T15:50:36+09:00"
+        },
+        {
+          "title": "美 시마AI, 1억5000만달러 시리즈 C 투자 유치",
+          "source": "로봇신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTRnl4QzlzVXRwcXpmWlY2SHhMai11cFF1Y1VUWkp0Nk5scGhFczFBU1E3ZVUta1Rrd3hVVFlhckdLLXA5ZWI2dFFPcDRPQjNsOFQwSlJPdmF3Ung5c05UOHdnWkRfbDZIVUh0dQ?oc=5",
+          "published_at": "2026-09-29T17:24:14+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -97,7 +97,7 @@
         },
         {
           "title": "삼성전자·삼성SDS 등 그룹 6개사, 美 헬릭스에 10억 달러 투자… AI 인프라 주도권 확보 총력",
-          "source": "finance-scope.com",
+          "source": "파이낸스스코프",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cl9oYjBZRjR2eEFmRXk1VFpVZlNfOGlhekJkaVRidTl3ZWRxMzZNVl9Ua1dkZk84TjFEM0JqNkNjZTI3VGlrajdMX1MxQWY5RnBIbGt0T3E1UzhDcl9HRjFzMm83VVVHSWc?oc=5",
           "published_at": "2026-09-29T08:53:00+09:00"
         },
@@ -197,12 +197,6 @@
           "published_at": "2026-09-29T10:23:14+09:00"
         },
         {
-          "title": "‘1위 추격 vs 2위 굳히기’ 기로 선 삼성 라이온즈, 가을야구 채비 어떻게?",
-          "source": "영남일보",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iY19qNzJIVVNsbDdyS1NrQ2p6ZmpyZjYxdDBaMmdodGRicGdXY2t4VmxNNl9DTkp4dmlYZ2xxZnRpQlVoUnlxU2dmVXJ6WmFZVmdUd05xdXpMVUZNZXNJMkVjMF9jd2p1b2FV?oc=5",
-          "published_at": "2026-09-28T10:23:44+09:00"
-        },
-        {
           "title": "[프로야구 전망대] `1위 탈환?` 삼성 라이온즈, 운명의 6연전",
           "source": "매일신문",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FUjRwOThWalh3aEVXQndfSlNYbkdEWUZia0JncDFwODlsUTRUSmVXX2xJN3prNEluVTdYMVhnZUxpMURtbW8zQ3BpelhKSUdWSmpBYlNFOEUxdEtGXy00ajdn?oc=5",
@@ -222,7 +216,7 @@
         },
         {
           "title": "HLB파나진, 'PNA 화학적 변형' 연구성과 美학회 발표",
-          "source": "biospectator.com",
+          "source": "바이오스펙테이터",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PVzR1OWRoXzAxNEFnLURmMDJ3NEduTFBuTzhYeEUxLU03OXYxVmh2M3RuUGxtMzZja3lJM1E5OGVrMW81b2RIbkJOblc3LURESUpNMlRjOA?oc=5",
           "published_at": "2026-09-29T10:48:00+09:00"
         },
@@ -234,7 +228,7 @@
         },
         {
           "title": "인벤티지랩, 초고농축 항체 피하주사 플랫폼 PCT 출원… 美 PODD서 연구성과 발표",
-          "source": "kpanews.co.kr",
+          "source": "약사공론",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1d0hWa2c3X2hOM21fdnFqSF9RQmhvX3N2bV8zei1jUnJmY0J6aV9Zd1UwMWxDaXNXYTdyaEZ4VDB4N2FaVzYxTWpPVzVuV29KN3gzMWtBRnY0Y1h4NUViYU56Nk5ET05BTzJEbg?oc=5",
           "published_at": "2026-09-29T16:39:19+09:00"
         },
@@ -258,7 +252,7 @@
       "items": [
         {
           "title": "[AI MY 증시전망] 코스피, 美 금리·유가에 부담…마이크론 실적 주목",
-          "source": "newspim.com",
+          "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81dlpyTE9VZnJ0Q0VXakxfaUFPS1Z5eF9aWDBOMERQSHh1MmZiWTliTGdqSy1WZ0d1aTN2UTNRTkZRSXh3TWg2OWV6dG5VYjNCODVScXROanFrd3ND?oc=5",
           "published_at": "2026-09-29T08:47:00+09:00",
           "category": "세계 경제"
@@ -279,21 +273,21 @@
         },
         {
           "title": "[외환+] 분기말 네고에···원·달러 환율, 1350원대 하락 마감",
-          "source": "seoulfn.com",
+          "source": "서울파이낸스",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nazBobkJra29uUjlrcFVycVpqQ0oxT3Z2TVBDY1FYUUYzYmtVcnBGZnNVbTVRSUJUcmRrTUQwYVRVZnhFdC1pUmZ0SmloT3N3Nm1EVmdBVi1lSVB0OEJfT180S0ZEX1hSMUE?oc=5",
           "published_at": "2026-09-29T16:34:30+09:00",
           "category": "세계 경제"
         },
         {
           "title": "강달러에도 버티는 원화, 반도체와 국제유가 주시",
-          "source": "KB Think",
+          "source": "kbthink.com",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ZjVzZzYwY05aVnUyMWl5QXpNdXltTGk4Rzg0YklPSmxia0pzMGpZMjVqdmNHZDhBNnRWa2RoX2VUOFduSUhZOERLVGh5MXRhaE8yQ2t2LVBUSVZBb09uak5B?oc=5",
           "published_at": "2026-09-28T12:57:13+09:00",
           "category": "세계 경제"
         },
         {
           "title": "매물은 늘고 거래는 줄고…서울 부동산시장 관망세 짙어진다",
-          "source": "한국금융신문",
+          "source": "fntimes.com",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pb290Z0hTaEVTUUtzdlhjNW5XSDUzYWQ1QkNUZ3Z6Q2ZqT3VpMVdOTjNoSVBscEVjcUw1NG5keElZb0FCeHIxNDB2MmdjX25ETldRZmM0aW16QmFMOUtHNURJSUZqQ3RLVXBfOGhZeS11cXVqb1ExV2tnUmo?oc=5",
           "published_at": "2026-09-29T10:19:15+09:00",
           "category": "부동산"
