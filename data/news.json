@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-09-29T10:24:30+09:00",
+  "generated_at": "2026-09-29T22:09:50+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "전 구글 연구원 “인간 뜻대로 움직이는 AI는 헛꿈…해결책도 없다” [인터뷰]",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
-          "published_at": "2026-09-29T09:18:00+09:00"
+          "title": "오픈AI, 안전 문제로 'GPT-6.1 아스트라' 출시 철회...\"기만·무단 접근\"",
+          "source": "AI타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbGNza3BxU2ZFVVVfNkQ0YzRhbmtXb0lJR0NGbWk0YTctNkZfRlVSM2hpTVhaYktET1EyODQzcmI2YjB3ZFhKS1NXTy1Ja2xqWkpYSGJ0UFA4X2IwQklaX2k5REhsZ05sOGc?oc=5",
+          "published_at": "2026-09-29T14:45:44+09:00"
         },
         {
-          "title": "오픈AI 훈련 멈추자 반도체주 휘청, 보안주는 솟구쳤다",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTURuQ3BpZ25GbkpLdmtVMnJnYkJ5em4yR1E4YnktY2NVaHQyY0twVTYyZVRHS3VncjdxUW5DNWdycVY3R1dHaTVfNDlqbWFGSTl5eUlnQXlkRE92UWsyWUphMWVtX2Y1NklxUlRrY1JDMWl3dDMwN3EzUEM5eEhucQ?oc=5",
-          "published_at": "2026-09-29T09:25:00+09:00"
+          "title": "강원·경북서 소상공인 가게 운영·지역 정착 '맞춤형 AI서비스'",
+          "source": "정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXdzLUFSeHpDSVFMeFdNaTF5RDE1amY5VFdxRDRmVEMzSFJha0NtUUZPU2dIUnVtWWEycTc5ekNsOUdubGdOak10S2pDb3JGUE9yVVlwMTBqVVJxTmlnLUpHOXVOTGVuOHMtRGdYTzhnQUptajhJbEJuTDhNRE8xZWZ5czcwaUdza2c?oc=5",
+          "published_at": "2026-09-29T18:09:52+09:00"
         },
         {
-          "title": "AMD, 'AI 대모' 페이페이 리 월드랩스 11조원에 인수",
+          "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外",
+          "source": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RXzdxb1JNSERUZF83cGJKWEFmYUgzckluOE5hY3NTS0pycUxQSnlpNHl3cnpBVXd5QTNLaDZFNzh3enhiMndtLVBXZkFWeFdzZE1lNw?oc=5",
+          "published_at": "2026-09-29T16:55:00+09:00"
+        },
+        {
+          "title": "\"AI 경쟁력 출발점은 데이터센터…투자·활용 기반 갖춰야\"",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzSTYxLUpoZERSeDBfRDA4cDdsNmV6cHI4MDBaQlJQZkU1VE5yY285eXgzZmc4eFVtbDFKbUtKSElPNVlpRWtnMm56OWFNclQ3ZUVhWklRX09MZXBoWGFSM9IBYEFVX3lxTFBzSTYxLUpoZERSeDBfRDA4cDdsNmV6cHI4MDBaQlJQZkU1VE5yY285eXgzZmc4eFVtbDFKbUtKSElPNVlpRWtnMm56OWFNclQ3ZUVhWklRX09MZXBoWGFSMw?oc=5",
-          "published_at": "2026-09-29T07:13:11+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYNzRWaHhuNjM5SlBFbEpYN2FrblVhRjRTOFMtV3hQTDgxMlp1SkpKWWprUmhncWo5Vm9IVkJmTVJfV2lxclBTb0JHYUtwZWoxdTZkckNGaXZVYzlHck43OdIBYEFVX3lxTFBYNzRWaHhuNjM5SlBFbEpYN2FrblVhRjRTOFMtV3hQTDgxMlp1SkpKWWprUmhncWo5Vm9IVkJmTVJfV2lxclBTb0JHYUtwZWoxdTZkckNGaXZVYzlHck43OQ?oc=5",
+          "published_at": "2026-09-29T14:00:02+09:00"
         },
         {
-          "title": "[AI 포모와 포비아 사이]“AI 잘 쓰는지 보겠습니다”…취준생들 “어디까지 해야 잘 쓰는 건데요?”",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45d19tcm5nc01vZGEwS0w3OHJRY2xQQ0RZd3FSVmpicHA1N280eTZfbmJyMnRDUkRwc3VfaXgtc0R6T3JjaVJUM3BFLXppRzFTUTVWMzhQN0Q0d9IBX0FVX3lxTE55a0V1bmpaRHhWRkVOclQ1QmtJSFZlMjRpOVRkeDhDZ1puTXd3QnlfeERXclFUc0E4TWtIbVlCSV90RmpPd2paR1h0Sktid1hMWEdwWUg2bW9YQU5ocldJ?oc=5",
-          "published_at": "2026-09-29T06:00:00+09:00"
+          "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOGFLUUZkM0s1dHhfS0JsYUh3aHJIQTMwZEFzc1JnY2F1VTNXRnVZUlF0QVgtWVF1eXllZ25JS0ZsZHdnOXNDbFVMWVAxeHZsOWRhLWtKb2w3bWE4MHRxMkdXUlNZdnVUTWczM2xjYw?oc=5",
+          "published_at": "2026-09-29T20:09:00+09:00"
         },
         {
-          "title": "'AI 대모' 페이페이 리, AMD에 합류한다",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNnVnQUtWcUFwVTViMWtlMWZOYVNJQk5YSUtkTjYxaERndkpEY0NScXg2eUprRFlOcFBNQm15bU1XTmpSbnRUZ2V4SDk4MkI3ZnNwY1JR?oc=5",
-          "published_at": "2026-09-29T09:41:43+09:00"
+          "title": "\"윤아가 임신?\" AI 합성 사진 확산…SM \"형사 고소 마쳤다\"",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TY1FWSFN6ZWs5ejE0bW5JTFM0bEZ6UDhwX09URHd1anUtVXM3ZE5TX1F6TUpLRVA0VlpSVFRyX0lGSkVhUkdNQ2FSS21OazhaZ1lNOEd3UEpTbWpZZVZfSXRmU25TdW8?oc=5",
+          "published_at": "2026-09-29T11:21:00+09:00"
         },
         {
-          "title": "데이터센터부터 전력망까지…삼성 美 AI 인프라기업에 1.3조대 투자",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42Ul9aclNzblFVRG96TzJsTzA4eWc2TXA4MVJOa0JWS1YzUmVzb2lMdC1OYmNmQjQzS0ctYV9DdHQwWUFQX0JfRG52cTJzbUpuWktGQnkwdWVWZkJQV1dNTXFjMFY2VVI2czJodQ?oc=5",
-          "published_at": "2026-09-29T08:21:38+09:00"
+          "title": "과기인 10명 중 9명 \"中 제대로 알아야\"AI 다음은 반도체? 1256명 \"韓 기술우위 5년 못간다\"",
+          "source": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTMlRYOE9OemFvck5DUnhtOFV1eDFEQmpsRTlwZFhYY0NEMWhFb1hQNlRGalpoSVM3eW9LTmpCVVF5Q0p2azBPY2E1SzRPeE1jeVQxbmRYd3o1QzcyN0xNTXFFYXc1WElhRHc?oc=5",
+          "published_at": "2026-09-29T18:00:00+09:00"
         },
         {
-          "title": "삼성, 엔비디아와 함께 미국 AI 인프라 기업 창립 투자자로 나서",
-          "source": "이코노미스트",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRMkppcm1tbVdlY2xkOUEwaFU2bUt5dXcxdkU0dGJWNWxUUlp6MFRydzhERDNONmNrWE42TkxfU0hTUmc0eHdwcnJsd0xsYXN1RXpfaGE5STFpSnNRMngzdjln?oc=5",
-          "published_at": "2026-09-29T09:20:00+09:00"
-        },
-        {
-          "title": "삼성전자, 타임스스퀘어에 '젠슨 황' 축하 영상…AI 동맹 부각",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTzNkMHI0TDRIOENaQjhIVV9VMy1Cano0UlVEMFBCWkc0RGVEaV9LZGRIZHZJZ01GUHVVbVdJa0dPWDhvZlBNV0h4SkV4S1U0LVJrZ045aEh2elVWUGpCSmk5QnhjRXBMTXpaUHFGdE0?oc=5",
-          "published_at": "2026-09-29T09:40:15+09:00"
+          "title": "AI가 먹어치우는 전기... \"전력망 비용, 왜 우리가 내나\" 세계적 딜레마",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmdOOEIySG42eVpsUGI1U1JQeGpkeUVkeFVzSXhSSmR4aXZKVUE0YUxqLWN1VjhsaXhLZHlXUE94M1NwYnIyalhFNF85U1RLeHVYWjR3anpGZ3hiajZOZGdkek5Ob3p3dk5wUlJvbVRnbVpmVkRPT1BoUWhsZF9DSGRUQ1dBZUhFSDZRSXN3?oc=5",
+          "published_at": "2026-09-29T15:50:36+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -60,22 +60,22 @@
     "sds": {
       "items": [
         {
-          "title": "삼성전자·삼성SDS 등 그룹 6개사, 美 헬릭스에 10억 달러 투자… AI 인프라 주도권 확보 총력",
-          "source": "파이낸스스코프",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cl9oYjBZRjR2eEFmRXk1VFpVZlNfOGlhekJkaVRidTl3ZWRxMzZNVl9Ua1dkZk84TjFEM0JqNkNjZTI3VGlrajdMX1MxQWY5RnBIbGt0T3E1UzhDcl9HRjFzMm83VVVHSWc?oc=5",
-          "published_at": "2026-09-29T08:53:00+09:00"
-        },
-        {
-          "title": "삼성SDS, AI 밑단부터 서비스까지…'풀스택 AX' 사업화 속도",
-          "source": "위키리크스한국",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFhvMkJtQ291ZnJCT0NCXzVZaVdOZnl6TkVMME5sMUhPNjVnLVoxMGNPejUtdmVRTERkS2Q5Y0lpMjREZnN1WldTaDZwd1g5NVgxZUVtUHdLTFhZQU5GMElaRHdpNHZJV0tqN3V3X3A?oc=5",
-          "published_at": "2026-09-29T09:56:21+09:00"
-        },
-        {
           "title": "삼성SDS, 공무원용 AI 플랫폼 고도화 사업에 응찰",
           "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3a3FoLWx4S0ZZQjR3emhJQVUxZTBWVk1xZHh4SnRPMER2OWRUYi1rd1lxQUNrN2NpM1VrbzhxelJPUzgwbmZ2emxKN0dUVXNOaHZmRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4a055TU5OTWRaSzZIbXFtaks0blRjLXpQcXpzd0NTRGRTcWtpQUd1Z0hYMGlaSG5MYmZFWGd5aXpWVXNWU3NKMnlveG5qeWs?oc=5",
           "published_at": "2026-09-28T14:43:00+09:00"
+        },
+        {
+          "title": "[유미's 픽] '원 LG' 견제 들어가나…팀 삼성, 美 헬릭스 1.4조 투자로 AI 인프라 본격 공략",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScFJMVllDOC1jTHQxNjNtLWhnYXBCN3BWX2owNHFFdlA5aHAtQmF6a094M0NMQlZIcVZPTy1KNTR6QWhqWEVUZlY5XzFCeGdfdlQ5MEV3?oc=5",
+          "published_at": "2026-09-29T17:06:46+09:00"
+        },
+        {
+          "title": "[삼성SDS 굴기] 10조 실탄·반도체 캡티브…'로봇 관제' 선점한 LG CNS 맹추격",
+          "source": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZQ2duYVpKRmlScUlpZTNVZ2JOWUNZeHFHV0hzMUd3YlJ0NVFzRE5PMEw4R3lNUkJxek53VzVXRy0xQk8xN2ZlTVZ6ZEN2NjhuN0R3M3VCVUxNWXR2amFWanJMa2Ywa25G?oc=5",
+          "published_at": "2026-09-29T15:31:45+09:00"
         },
         {
           "title": "삼성SDS, 65억원 규모 ‘범정부 AI 공통기반’ 2차 사업 단독 응찰 - 조선비즈",
@@ -84,28 +84,28 @@
           "published_at": "2026-09-28T15:39:00+09:00"
         },
         {
-          "title": "삼성 6개사, 美 AI 인프라 기업 ‘헬릭스’에 10억달러 투자",
-          "source": "팍스경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44TkpHWDdYWjhPU3BwTGo1RlllQ19uVkh6ajhZaFJCeEc3UXhLRERBWEU4SDFYenpwVlpHalM3VGNaQUQ3Y2I4bC1ieXN4TVUzaVRPU0ZiWXhSYmFLMmdSSzRabEtTUHc?oc=5",
-          "published_at": "2026-09-29T09:46:20+09:00"
+          "title": "삼성SDS, AI 밑단부터 서비스까지…'풀스택 AX' 사업화 속도",
+          "source": "위키리크스한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFhvMkJtQ291ZnJCT0NCXzVZaVdOZnl6TkVMME5sMUhPNjVnLVoxMGNPejUtdmVRTERkS2Q5Y0lpMjREZnN1WldTaDZwd1g5NVgxZUVtUHdLTFhZQU5GMElaRHdpNHZJV0tqN3V3X3A?oc=5",
+          "published_at": "2026-09-29T09:56:21+09:00"
         },
         {
-          "title": "삼성 6개사, 美 헬릭스에 10억달러 투자…AI 인프라 협력 확대(종합)",
-          "source": "edaily.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ19NNVF0cl91Ulh4VzBkYlZ3OWtMVGl3TTM5cEZfMjZpS0JGY1BSZ0lJY2ExNm5ONGxuemp0N0NxcEk5ZEJZRTV4S3pMRE9qR0Z6SndpcWVhMG9vWkxpeHFxdllnWktjTkV2cWFOMEhwYmN5al9jUTVaSzJOZkN5Ug?oc=5",
-          "published_at": "2026-09-29T08:24:36+09:00"
+          "title": "국방 AX 선점 나선 삼성SDS·네이버클라우드… 차세대 지휘통제체계 수주전 예고 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelUxTGtTTVg2cXhIMTJodHdxVWJJb1JHWDlmY18xRnFLS090OXFLMmY4dUlWbS12cE91WUdDOFZGTVNyUGxOWERvU3NxSkY2ZDVnaGNYMjJWWDdvWmp2UjZmYWJnamJfNkROamV1UkFkOEhwZ0UzSTB1MDNNU3EyUWZR0gGWAUFVX3lxTFB3ZEViY1NPelhqdXhVS2ZCUkFJWEJPWUU5Q3pzcFNjOVZFVkZSUFFHTFpRVU9DUWxjZFNSay1YbTRJZHhTV0l5XzhKVHhhQTdyQ01CVUZ5V2VTYlFkRlo0RlhTbXgyS3R2enNLMzRiN0RhNjJvVGMwcU5JQm1hNWFiNDZqSFJZb0tpeU5fdjB3QjJQMjl6UQ?oc=5",
+          "published_at": "2026-09-29T17:44:00+09:00"
         },
         {
-          "title": "삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억 달러 투자",
-          "source": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MdENISXNYUFpPMWp1d0s3Q0ZJckJMcmhTR0QtV0w4X3Z2SkYzQmp6SE9pT19lUEVjdE50ZElqUGpOd21DM1VQeC1EWV90MzhQWjdmQ0FST0daMVhHRDJUbldDV1A0QdIBU0FVX3lxTE9pSHh2TGx0SC1IZWpxcDVQVWxVX0l3QmlHQnY0RUVvWl9nR0hVQ0loRHlvNjVyMmtvNXJEcjFyMjdDNE5mX0lYWjRpSm0xSlN6M0l3?oc=5",
-          "published_at": "2026-09-29T09:00:40+09:00"
+          "title": "삼성전자·삼성SDS 등 그룹 6개사, 美 헬릭스에 10억 달러 투자… AI 인프라 주도권 확보 총력",
+          "source": "finance-scope.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1cl9oYjBZRjR2eEFmRXk1VFpVZlNfOGlhekJkaVRidTl3ZWRxMzZNVl9Ua1dkZk84TjFEM0JqNkNjZTI3VGlrajdMX1MxQWY5RnBIbGt0T3E1UzhDcl9HRjFzMm83VVVHSWc?oc=5",
+          "published_at": "2026-09-29T08:53:00+09:00"
         },
         {
-          "title": "삼성전자 등 6개사, 美 헬릭스에 총 10억불 투자…AI 인프라 사업 발굴 총력전",
-          "source": "CEO스코어데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1WTVkWlNPTkdKZzFuRGxXdVp2MV9aOGRFMG5vUjhjUlhoeEh3UGxvS05nUHRmcnNUeTVzSWNTNzNFZ25SVW9UVkZJYk0xUEdnUnJ3SHd2OGdKMmRNRGJ0MDlYMDNkSzQ?oc=5",
-          "published_at": "2026-09-29T10:00:14+09:00"
+          "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자",
+          "source": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5Zk5HRjB0dEVKOFByU3NDVHRBQkJHOVNkeGtua3gyTWt0aUFTTllRM3BiNEdWUDgzbHc5QkhPUmVGcVgxbnFYMFdGc3ZOUERxNmFDTWlDenlUYXNwbWt0c0Z1R1VSdw?oc=5",
+          "published_at": "2026-09-29T11:20:15+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -114,10 +114,16 @@
     "realestate_policy": {
       "items": [
         {
-          "title": "다음 카드는 '전월세 안정'…전문가 70% \"추가 대책 필요\"",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVjNFRE9Bdkxud0VTQnhBbXV2djBLVkdKV3hnVjROV0N2Y1J1R0puOXBxbnVfOUNRTDhiNWdhLThHQTFMa0tRbkU2VXNTWUVkRUFSQmxvcVZvdWJhUGZiX9IBYEFVX3lxTE1lVjNFRE9Bdkxud0VTQnhBbXV2djBLVkdKV3hnVjROV0N2Y1J1R0puOXBxbnVfOUNRTDhiNWdhLThHQTFMa0tRbkU2VXNTWUVkRUFSQmxvcVZvdWJhUGZiXw?oc=5",
-          "published_at": "2026-09-28T05:05:00+09:00"
+          "title": "30대 78.8%는 왜 \"부동산 정책 잘못\"이라 답했나…무주택 2030, 대출규제發 구매기회 격차 체감",
+          "source": "창업일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISWxBR1VyQ1NPYTY2M045YnV2dGZqQWEyYVpQdmJTd1pudmZOdGV6S04wSEFIdkNkOERodVUycHplS0JoazhsQkxpckxrSWlZazMtZnhETUF2RGJ5TWM0Mjc2QW9rZHdw?oc=5",
+          "published_at": "2026-09-29T15:49:44+09:00"
+        },
+        {
+          "title": "고동진 의원, 강남서 부동산 정책 긴급 간담회 개최",
+          "source": "강남포스트",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CTE0wYjV2SHVmbkNlTnAzU0FUd0owS04yS1dBWW1xTy1jTTJfcUNyQWRCeGl2RE9STjFPMnlPNjF2RzdIOVk4a3BtSEg1UUJqeWZrMU1DU3pNOTFXTE9PVUF5M3UzUQ?oc=5",
+          "published_at": "2026-09-29T13:17:35+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -126,10 +132,22 @@
     "realestate_market": {
       "items": [
         {
+          "title": "9월 셋째 주 전국 아파트가격 여전히 대구·경북 아파트값은 하락 지속",
+          "source": "영남경제",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Rdk1xdC1xS2FKU2NHeTdWYVFtMERqX1ViZndPejV4RXMxM2tzWkZrQW82SHdvWWlZWjcyc2tWMGV6dTdfeVRSdkpqdEU0Skh4NF9DelN6ZFNaTFdISlhtcllNMFl6WU0?oc=5",
+          "published_at": "2026-09-29T08:04:09+09:00"
+        },
+        {
           "title": "서울·경기 토허구역 33곳, 지정 후 전셋값 상승률 4.6배로",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbC1iTENjbFpBNXBldy1EYi1JZFY3dVV5dXh2VVZsVVJjU0k2T3ZKTjExU1VOZGtBWElDUElwY21yaDVFWmxQRzh0aEE2QnE3NTdNYnpLdUtja1pMTlc3dUtYa3FWNVRZMVBzVDdnMkt3NUx4NkpLbHljTVBQdHdUWlZRZ2pHLWt2?oc=5",
-          "published_at": "2026-09-29T00:31:00+09:00"
+          "published_at": "2026-09-29T05:50:09+09:00"
+        },
+        {
+          "title": "'서울 집값 감당 안 되네'…인천 아파트 거래량 10% 증가",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNGZwRk9xb2NLR21Eem1zVEhuRm96VGVoUEZ1U0hvaXZlOVh1Qm02dmFxUnNmTk9TVTJiME8tTUZlSi1BZVRwcXVmcTR5NzNaY0lYQmZjZDVqZw?oc=5",
+          "published_at": "2026-09-29T09:27:58+09:00"
         },
         {
           "title": "9월 서울 강북권 아파트 강세 '여전'…강남구 하락 전환 |",
@@ -142,33 +160,14 @@
           "source": "매일경제 마켓",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOENRZUhmUXEtTnVCOFctTjFvYlRJckNlUWlkeUNhbHF3QUhsZHhMTmcwbjRiczJkcDVCNE9mU0lFQUhVLWF4M1liVzdrZHQtT0E?oc=5",
           "published_at": "2026-09-28T13:24:11+09:00"
-        },
-        {
-          "title": "KB 상위 50위권 고가 아파트 가격 4개월만에 하락 전환",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zM0x3ckozM19VRV9mVExRRk9zRy1iZk5uV2tnQnp0X2o5cjJtd2ZRdTVicnh3cktnWFdzRlJOYnNvUGNSWDB5ZUNRWEJIYmxpN0ZOUXEwUWxLcWfSAWBBVV95cUxPSDI5TnVkNDJ5Tk5Wck10QjhPYk0tT2hWTWpPZTFzOS04cVpaQWpDMzhjMVFKcnR1RjhKanoydGh4UzZjbVcyUmdtRnBnVlNpdmZ1Qmw5bEhCeWNibWZ6NHo?oc=5",
-          "published_at": "2026-09-28T10:09:38+09:00"
-        },
-        {
-          "title": "서울 집값 7개월째 오르는데 강남은 뒷걸음…경기 남부로 번진 상승세 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44QWFpUGZibl81aTZBLWVnZzJSdUJsWG5WWjRqTEdEMC1IdTNaZDUyeFhGcGZTR1ZqQ0VLbEM5M1ZUNGdmck1taHZyVzRsaTVVa3hvU3FubjN2SHFSdFRuYlNaZk9xajFxU2pSZHBqMNIBb0FVX3lxTE44QWFpUGZibl81aTZBLWVnZzJSdUJsWG5WWjRqTEdEMC1IdTNaZDUyeFhGcGZTR1ZqQ0VLbEM5M1ZUNGdmck1taHZyVzRsaTVVa3hvU3FubjN2SHFSdFRuYlNaZk9xajFxU2pSZHBqMA?oc=5",
-          "published_at": "2026-09-28T15:58:38+09:00"
         }
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80+OR+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EA%B0%80%EA%B2%A9+OR+%EC%98%A4%ED%94%BC%EC%8A%A4%ED%85%94+%EA%B0%80%EA%B2%A9%EB%8F%99%ED%96%A5"
     },
     "realestate_presale": {
-      "items": [
-        {
-          "title": "서울 사람들 경기 아파트로 몰렸다…청약 10명 중 3명, 당첨은 ‘바늘구멍’",
-          "source": "코리아이글뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CSVlYdTVRUDFZWEV1eFY3WFNwTWc3NWZEVkNXdTctbTdGamtzRHVWT29VMEFCRERfbE9ic3R0RTFFUUM5QjZBZ3hlOXNMNzN3djdqT0d3cXdPdHdYMmxIMXVsQzFNM0V2LXNvWVoyUWt2NHc?oc=5",
-          "published_at": "2026-09-28T09:45:00+09:00"
-        }
-      ],
-      "window": "최근 36시간",
+      "items": [],
+      "window": "최근 72시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%B2%AD%EC%95%BD+%EC%9E%85%EC%A3%BC%EC%9E%90%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0"
     },
     "samsung_baseball": {
@@ -180,16 +179,34 @@
           "published_at": "2026-09-29T07:40:00+09:00"
         },
         {
-          "title": "[프로야구 전망대] `1위 탈환?` 삼성 라이온즈, 운명의 6연전",
+          "title": "삼성 라이온즈 퓨처스팀, 日 소프트뱅크 3군과 교류전 진행",
+          "source": "영남일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsbjBDOW41YlBfVzNPNW1LZF94RmJQQlNSbXJ2WGZaZzBnVUNPb2ppcXB3UjZkdlZPTnZPUjBNUkduQU1ncEZ3d3dQVV9KUC1zQ3ZPN0thR3pWSlFNRTVyeHEzemFUZ0FkZ2Zn?oc=5",
+          "published_at": "2026-09-29T10:40:36+09:00"
+        },
+        {
+          "title": "삼성 라이온즈 퓨처스팀, 일본서 소프트뱅크 3군과 교류전 진행",
           "source": "매일신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FUjRwOThWalh3aEVXQndfSlNYbkdEWUZia0JncDFwODlsUTRUSmVXX2xJN3prNEluVTdYMVhnZUxpMURtbW8zQ3BpelhKSUdWSmpBYlNFOEUxdEtGXy00ajdn?oc=5",
-          "published_at": "2026-09-28T15:05:09+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4UWMyOWY5OW9JZnY1eC1xM2VINzBRSTdjdUNmVk9uWlpqOF9OQmNpRHNtU28wQkg4Q2VadWFERjhkUVMwY1VueS1OLW1xY1NiVTJqN1VBWHdLQ0NsM1d0SmJB?oc=5",
+          "published_at": "2026-09-29T13:33:14+09:00"
+        },
+        {
+          "title": "후쿠오카 원정 7경기…삼성 퓨처스, 日 소프트뱅크와 맞대결",
+          "source": "톱스타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kcWVhRXo1aEo4eW50VTRmY1Y0ejZLQjR6N1lDUGRTUEMtVkRybFRqSlpOaXpDVl9KSGROWkxpSGlkc29lSWlTLWhKM0RRcFZHUGtGcFdYMGVnbVdYWkUzMVlLTl95M2U0enBwOE56Nk1TQQ?oc=5",
+          "published_at": "2026-09-29T10:23:14+09:00"
         },
         {
           "title": "‘1위 추격 vs 2위 굳히기’ 기로 선 삼성 라이온즈, 가을야구 채비 어떻게?",
           "source": "영남일보",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iY19qNzJIVVNsbDdyS1NrQ2p6ZmpyZjYxdDBaMmdodGRicGdXY2t4VmxNNl9DTkp4dmlYZ2xxZnRpQlVoUnlxU2dmVXJ6WmFZVmdUd05xdXpMVUZNZXNJMkVjMF9jd2p1b2FV?oc=5",
           "published_at": "2026-09-28T10:23:44+09:00"
+        },
+        {
+          "title": "[프로야구 전망대] `1위 탈환?` 삼성 라이온즈, 운명의 6연전",
+          "source": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FUjRwOThWalh3aEVXQndfSlNYbkdEWUZia0JncDFwODlsUTRUSmVXX2xJN3prNEluVTdYMVhnZUxpMURtbW8zQ3BpelhKSUdWSmpBYlNFOEUxdEtGXy00ajdn?oc=5",
+          "published_at": "2026-09-28T15:05:09+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -198,40 +215,40 @@
     "science_tech": {
       "items": [
         {
-          "title": "애경산업, 세계화장품학회서 식물성 PDRN 등 연구성과 3건 발표",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16U3RKRkptaGxEdENYY1ZfY1NUeHpFOEdXczNlUWJURU1Zd0xhVVhLWWRrTDVfMmdzTE42Z1hUU29HbHV4TElXNEF0Y0l5bDFNcERFd3I2TXZRQ2Q1bXU2VA?oc=5",
-          "published_at": "2026-09-29T08:09:42+09:00"
+          "title": "롯데이노베이트, 글로벌 AI 학회 연구성과 입증…‘AI 회의록’ 정교함 더한다",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qdnhReUl6QnNEbUd4OFR6SmRubUhBbVk5aFgyTjgwWHZtaGxHTkNZOVMtSDhBWE5mU2VlREdWRzlNUF8yWUtKVkhEU2JOejA?oc=5",
+          "published_at": "2026-09-29T18:03:00+09:00"
         },
         {
-          "title": "포스텍, 연구성과 3653억 달성… 국내 넘어 세계 상위 수준",
-          "source": "영남경제",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lWDh4a19JQnJFcldvTTZfQ243MUYxczVYSzdGaEVJallHRG81YV96X2JGZWEtdHVEQkt1dzlqYmhTNmVBNHh0VzFwbjdBVWg3bk5vczNSc052YTNRRjZJQXNicDlLVlE?oc=5",
-          "published_at": "2026-09-28T19:10:40+09:00"
+          "title": "HLB파나진, 'PNA 화학적 변형' 연구성과 美학회 발표",
+          "source": "biospectator.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PVzR1OWRoXzAxNEFnLURmMDJ3NEduTFBuTzhYeEUxLU03OXYxVmh2M3RuUGxtMzZja3lJM1E5OGVrMW81b2RIbkJOblc3LURESUpNMlRjOA?oc=5",
+          "published_at": "2026-09-29T10:48:00+09:00"
         },
         {
-          "title": "정부, 동물실험 조작 전력에도 R&D 지원…“연구성과 검증은 구멍” > 뉴스",
-          "source": "한의신문",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KbkFnS0J3UFY4Y0JJY1AxcDdhRXNSWllzYVhLMXpFa0ptcmpBSXVCcjFLb2JxWUdIUWZ1MGlRTTBmY3B1VGxJRWZVemZ3Tk9pVzdUYTNxZGtaempTMjlydjZRczZEMkUyaHREV1BMTldEUQ?oc=5",
-          "published_at": "2026-09-29T09:05:00+09:00"
+          "title": "롯데이노베이트, AI 회의록 정확도 높인다…자연어처리 연구 성과 인정",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53U0htdEliWFRQckszYXc1T2xmQmRiX2o3MXJaZ2VPRGYycGZEMWRlVzduS2EzbnR5WF9Uai1RZktjUlNMT1BVU2c1dnA5REtoTU5UWkVB?oc=5",
+          "published_at": "2026-09-29T13:32:51+09:00"
         },
         {
-          "title": "쿼드메디슨 ‘멜트릭스’ 연구성과 국제학술지 게재…",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5teXBjYzlCRWVZUzVyMzFrNnhKSFBuZmExUDh3Yzg3WHBfREVQdUROQk1mWE50TWJhZFJQTVJJNGlnMWFDUXhBZ2NKR1VJVXN0TWRWVWt0bGxKQQ?oc=5",
-          "published_at": "2026-09-29T10:05:38+09:00"
+          "title": "인벤티지랩, 초고농축 항체 피하주사 플랫폼 PCT 출원… 美 PODD서 연구성과 발표",
+          "source": "kpanews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1d0hWa2c3X2hOM21fdnFqSF9RQmhvX3N2bV8zei1jUnJmY0J6aV9Zd1UwMWxDaXNXYTdyaEZ4VDB4N2FaVzYxTWpPVzVuV29KN3gzMWtBRnY0Y1h4NUViYU56Nk5ET05BTzJEbg?oc=5",
+          "published_at": "2026-09-29T16:39:19+09:00"
         },
         {
-          "title": "한림대, 광고 창작 과정 조명하고 치매 진단 센서 연구 성과",
-          "source": "강원신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGOTNKQ1c5QThQNE1pQzZaRVJXS1I1UG85QTNFaFhrdV9CbXdVVDc0R0tOS2RkNFg2bjdtYklKQ0ljWWJVWldoemRMaE9jUUtiaUpBWVZ4b1lKYXN4SC1VZlZaWjVpcEhW?oc=5",
-          "published_at": "2026-09-28T20:56:11+09:00"
+          "title": "[사이언스게시판] 과기정통부, 서울대에 'AI반도체 혁신 연구소' 개소 外",
+          "source": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RXzdxb1JNSERUZF83cGJKWEFmYUgzckluOE5hY3NTS0pycUxQSnlpNHl3cnpBVXd5QTNLaDZFNzh3enhiMndtLVBXZkFWeFdzZE1lNw?oc=5",
+          "published_at": "2026-09-29T16:55:00+09:00"
         },
         {
-          "title": "HLB파나진, PNA 변형기술 AOC로 확장…美 OTS서 연구성과 공개",
-          "source": "PRESS9",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QMjBBUl9hTFNveWdMd0d6NlNzYzlzYzNYTkRHMUFNVUJEQVVQQm8yOXBYQkpuQWdfRmswRGR6NHhCcHJSa1g2THRmeUc0cWlSU3U2Zm9UaVpOYmVuTkoyT0ktamg?oc=5",
-          "published_at": "2026-09-29T10:05:02+09:00"
+          "title": "한국수치모델개발원 공식 출범…수치예보 기술 연구개발 전담",
+          "source": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTEV4WHZjTGtsdkdVWnNsLXpIOG8tVTZVcC1ORWlxWGRvTkdvTlJXMzRqN1F0bldzWUFCWGtHdHZaeU5KaGVUNzByTks5MTFmTGE1VUNURGViS2NNMVVLWU4yTjZTSWlVQ3JRRdIBcEFVX3lxTE5WMHFCWnVQN3FJUWJkQlV2c2F2bDFQZTJ1c3IzZ0VONzNZRENKZjluNDB2UTFqUFVnNE04cnRqOXloVDRzY0tHT1BQYVdiR0Z0OXBFZ1V0TE9HWTBxZDBnV3p4QjQ3Z2lDZXQ1TUtRM2E?oc=5",
+          "published_at": "2026-09-29T14:03:49+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -241,65 +258,65 @@
       "items": [
         {
           "title": "[AI MY 증시전망] 코스피, 美 금리·유가에 부담…마이크론 실적 주목",
-          "source": "뉴스핌",
+          "source": "newspim.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81dlpyTE9VZnJ0Q0VXakxfaUFPS1Z5eF9aWDBOMERQSHh1MmZiWTliTGdqSy1WZ0d1aTN2UTNRTkZRSXh3TWg2OWV6dG5VYjNCODVScXROanFrd3ND?oc=5",
           "published_at": "2026-09-29T08:47:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "美국채 금리 급등에도 버티는 뉴욕증시…과거는 어땠나",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91c1VrZGFyaHFodXotUHhZaUYwTUVmNWM2MDhkeHdrUm8wSkFJTWtVQ3VGUVd2T0dpMG9PRTRLTG14TDU1d21pUkpJbTU1VXE0ODM0Q2ZScnBQOWM4Z1lGZdIBYEFVX3lxTE91c1VrZGFyaHFodXotUHhZaUYwTUVmNWM2MDhkeHdrUm8wSkFJTWtVQ3VGUVd2T0dpMG9PRTRLTG14TDU1d21pUkpJbTU1VXE0ODM0Q2ZScnBQOWM4Z1lGZQ?oc=5",
-          "published_at": "2026-09-28T05:28:56+09:00",
+          "title": "美국채금리 또 뛰었다…나스닥 0.9% 하락[월스트리트in]",
+          "source": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk1KSXNRb2d2VFZjUkFxR21UaGZBbXg2cnAtdm1ybm91MmROTGRNcDFmRkpYVlNFNUN5TGYxQnhxUDA0V2xZdHF6aGh4UzZ3Mk80R29ybzBfMlhPQklzYzhBTjRpOGhfN1ZPNEZBSXU0Nl8yWUNhczJmWThUbGMwdA?oc=5",
+          "published_at": "2026-09-29T05:50:15+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "미·이란 대치에 국채금리 급등…뉴욕증시 3대 지수 하락",
-          "source": "스페셜타임스",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Z2F5cGI0bEw1XzVrOE5kdzJEaGZYZUphN2s2SUdpTnBDWDNDak9saDV6LWN6VUlmbkFMam14d1JuUGNfY2xPaVJ3U3BLVXdhQ3JWV2pEUXRIQnZHVG9mNU9jeHJ5S2U0U3NtZ3JRWjJPdw?oc=5",
-          "published_at": "2026-09-29T05:58:46+09:00",
+          "title": "미국 8월 PCE 전망: 인플레이션 고착화 가능성, 미국 증시, 달러, 금은 어떻게 반응할까?",
+          "source": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRkgtcWl2V0RYb1pkY3Q1bnFMdXdPMTZCODQyM2s5dURMbGpKaDhIQVg2c01qbVo2MUVOYjF1cXNpUEJxRzJINWdzNkVPWVk1ME40LS1nQkkxbFYxWnYzR051dnJqSVBTRWktUnVvTGZ3OHI1LWZfUTlzQUVhcHdLYTlDWjItY1B0Ty14eU5CUW9FTTk3elpNR0x3RXpoMXNiVFF0c29tZFFwY2JvMmhOV0JxNVNsWllWTVJ2dzZScDduTmxmUmZnVllaLWtXdjlkaXNwWUR5X2tnbHJCS0o3dHF5TQ?oc=5",
+          "published_at": "2026-09-28T23:42:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "[금주 뉴욕증시 전망] PCE·고용지표에 쏠린 시선…마이크론 실적·국제유가도 변수",
-          "source": "굿모닝경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bjU2bDVRTkFLRG90ZzlGZ1p4bEdEU2dSa19Pcjg1dE1aSG1oSkMwVFJXdmkwMlRUb25GRFcxRXFzQTg1SFRmZ0RLeml3cG5NZTJ5Z3FzLTRlTVh0TUs0MEdCMGt5OERXOWV6bg?oc=5",
-          "published_at": "2026-09-28T09:53:03+09:00",
+          "title": "[외환+] 분기말 네고에···원·달러 환율, 1350원대 하락 마감",
+          "source": "seoulfn.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nazBobkJra29uUjlrcFVycVpqQ0oxT3Z2TVBDY1FYUUYzYmtVcnBGZnNVbTVRSUJUcmRrTUQwYVRVZnhFdC1pUmZ0SmloT3N3Nm1EVmdBVi1lSVB0OEJfT180S0ZEX1hSMUE?oc=5",
+          "published_at": "2026-09-29T16:34:30+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "美 10년물 금리 2007년 이후 최고… 그런데 뉴욕증시는 왜 버티나",
-          "source": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11am9hYmVmNTdfQmVCQTZGc0Z4UXl5bXFadFNpZWt3ZVV1SFRUdHVFSjFpT2Nwd3RKX2hZTVFyMWRkLWtZbmplNTRaLWNhMy13NzNHWW1lek9Wb2t2blBQUjZ4cXlXZEpHTmlsODJLNWhSaUxZRnJN0gF3QVVfeXFMTXVqb2FiZWY1N19CZUJBNkZzRnhReXltcVp0U2lla3dlVXVIVFR0dUVKMWlPY3B3dEpfaFlNUXIxZGQta1luamU1NFotY2EzLXc3M0dZbWV6T1Zva3ZuUFBSNnhxeVdkSkdOaWw4Mks1aFJpTFlGck0?oc=5",
-          "published_at": "2026-09-28T08:46:21+09:00",
+          "title": "강달러에도 버티는 원화, 반도체와 국제유가 주시",
+          "source": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ZjVzZzYwY05aVnUyMWl5QXpNdXltTGk4Rzg0YklPSmxia0pzMGpZMjVqdmNHZDhBNnRWa2RoX2VUOFduSUhZOERLVGh5MXRhaE8yQ2t2LVBUSVZBb09uak5B?oc=5",
+          "published_at": "2026-09-28T12:57:13+09:00",
           "category": "세계 경제"
+        },
+        {
+          "title": "매물은 늘고 거래는 줄고…서울 부동산시장 관망세 짙어진다",
+          "source": "한국금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pb290Z0hTaEVTUUtzdlhjNW5XSDUzYWQ1QkNUZ3Z6Q2ZqT3VpMVdOTjNoSVBscEVjcUw1NG5keElZb0FCeHIxNDB2MmdjX25ETldRZmM0aW16QmFMOUtHNURJSUZqQ3RLVXBfOGhZeS11cXVqb1ExV2tnUmo?oc=5",
+          "published_at": "2026-09-29T10:19:15+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "거래규제 중심 부동산정책과 시장 정상화의 과제",
+          "source": "하우징헤럴드",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVzlSTmhWRk90clZJbTVaTW55M0lIaWhWOEYyajl1Yy1wZ0NKNlRaZjlEaS1VQmMtUkpzeXZlLVcxcFFNak9FOXBKTEJFS2FXQWh4Q0w3UXYzbTlqU1ljUXVkcldtV2VCYnpRQmJMRjkxeHc?oc=5",
+          "published_at": "2026-09-29T14:01:44+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "아파트 막으니 수요자 비아파트로 이동",
+          "source": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZmZKOXg2Q1V3dG5oNEFDY3NDcVdnSndnQzFNLWJ4OVpyQi1TR1FZdElCejRLdWVWTVBTSnlMMTJ2YnFIaFJSYzBmRE5YWWlpWWhvcXhEME4tbHp5aXBfc3pxZVE?oc=5",
+          "published_at": "2026-09-29T15:13:09+09:00",
+          "category": "부동산"
         },
         {
           "title": "'서울 집값 감당 안 되네'…인천 아파트 거래량 10% 증가",
           "source": "한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNGZwRk9xb2NLR21Eem1zVEhuRm96VGVoUEZ1U0hvaXZlOVh1Qm02dmFxUnNmTk9TVTJiME8tTUZlSi1BZVRwcXVmcTR5NzNaY0lYQmZjZDVqZw?oc=5",
           "published_at": "2026-09-29T09:27:58+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "올 서울 경매 아파트 낙찰자 70%가 실수요자",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzNrUzhmSWd2bFFPVUk1WXhER2JWOGFpQUh6cmlyMW9EbW5SUm85LUdIY1Z3Q193RHExTnNsR3h6OHFfdFBoLUNSVzl0OXNVeGRoNF9BdHZvRjNDd3F1Q09JT21uZUxwNWt6SlIxLWpsRVc0dDhkRFFVXzl0eW9NdkRQWUxfcnVr?oc=5",
-          "published_at": "2026-09-28T06:11:42+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "[추석 이후 주택시장]① 씨 마른 서울 전세… 이사철 ‘대란’ 경보",
-          "source": "대한경제",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WQVVBaXY4OUdoTGdqZlEyemlkbjF5MGp2WVlULWpPYlBvd0tCVXBFbVVZTWR2S2lSQkQzMnNBWm1WQnh3SG9IYXg2M2MtVGpVR3U3MkV5dEkxS0ZGSnJLMjQ4SkpEWEtwTW5Lb0pyWFlOYkZl?oc=5",
-          "published_at": "2026-09-28T05:00:41+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "[기획] 서울 정비사업 대규모 이주 예고…전세시장 ‘비상’",
-          "source": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93cEJ3LXYzdXpIeGRJOHZ1TkN5eGdDLVdQX1loeFlVMFhDNWg0UEVITzRJMW1ES0JNZTZFaW1rVTBOVVdpMEVFME9rRWtPQU1qeGJXbEd6NnNKN2xkV29jeEF4ZEXSAWhBVV95cUxNWmNWTDBGdWc5YWRZb1pVV1R3U0RJR05zdm0tX1IwMWZQeGpEY1U1dDZocmZJUm1BYUgtdW9mNXVwZklYUVo2Z2JUenB5cHF6U2ozc2N5Z2dMSC1kUVlDZzk2V2J0SVJNTw?oc=5",
-          "published_at": "2026-09-28T13:51:36+09:00",
           "category": "부동산"
         }
       ],
