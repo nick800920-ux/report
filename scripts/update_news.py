@@ -33,6 +33,7 @@ FEEDS = {
     "realestate_presale": ("서울 경기 아파트 청약 입주자모집공고", 5),
     "samsung_baseball": ("삼성 라이온즈 경기 결과 OR 삼성 라이온즈 경기 일정 OR 삼성 라이온즈 구단 소식", 6),
     "science_tech": ("과학기술 OR 신기술 OR 연구 성과", 6),
+    "italy_travel": ("이탈리아 여행 OR 로마 여행 OR 베네치아 관광 OR 피렌체 박물관 OR 밀라노 관광", 12),
 }
 
 DOMESTIC_POLITICS_TERMS = (
@@ -90,7 +91,7 @@ def get_xml(url: str) -> bytes:
     raise RuntimeError(f"RSS fetch failed: {type(error).__name__}: {error}")
 
 
-def parse_feed(xml_bytes: bytes, now: datetime, limit: int) -> dict:
+def parse_feed(xml_bytes: bytes, now: datetime, limit: int, max_age_hours: int = 72, fresh_hours: int = 36) -> dict:
     root = ET.fromstring(xml_bytes)
     found = []
     seen = set()
@@ -109,7 +110,7 @@ def parse_feed(xml_bytes: bytes, now: datetime, limit: int) -> dict:
             published = published.astimezone(KST)
         except (TypeError, ValueError):
             continue
-        if published > now + timedelta(minutes=10) or published < now - timedelta(hours=72):
+        if published > now + timedelta(minutes=10) or published < now - timedelta(hours=max_age_hours):
             continue
         if source and title.endswith(" - " + source):
             title = title[: -(len(source) + 3)].strip()
@@ -125,10 +126,10 @@ def parse_feed(xml_bytes: bytes, now: datetime, limit: int) -> dict:
                 "published_at": published.isoformat(timespec="seconds"),
             }
         )
-    fresh = [item for item in found if datetime.fromisoformat(item["published_at"]) >= now - timedelta(hours=36)]
+    fresh = [item for item in found if datetime.fromisoformat(item["published_at"]) >= now - timedelta(hours=fresh_hours)]
     if fresh:
-        return {"items": fresh[:limit], "window": "최근 36시간"}
-    return {"items": found[:limit], "window": "최근 72시간"}
+        return {"items": fresh[:limit], "window": f"최근 {fresh_hours // 24}일" if fresh_hours >= 24 and fresh_hours != 36 else "최근 36시간"}
+    return {"items": found[:limit], "window": f"최근 {max_age_hours // 24}일" if max_age_hours >= 24 and max_age_hours != 72 else "최근 72시간"}
 
 
 def build() -> dict:
@@ -137,7 +138,12 @@ def build() -> dict:
     errors = []
     for name, (query, limit) in FEEDS.items():
         try:
-            result = parse_feed(get_xml(feed_url(query)), now, limit)
+            if name == "italy_travel":
+                result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
+                travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
+                result["items"] = [item for item in result["items"] if "이탈리아" in item["title"] and any(term in item["title"] for term in travel_terms)][:limit]
+            else:
+                result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)
             sections[name] = result
         except Exception as exc:
