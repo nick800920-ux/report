@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-09-30T07:08:54+09:00",
+  "generated_at": "2026-09-30T09:57:41+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "[AI리더의 서가] 스프링 AI 2.0으로 배우는 AI 에이전트 개발 완벽 가이드",
+          "source": "AI타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ka2I1MG5IRXdPd2dvYlVwYmRlMW5TblJjU0pxMENYNGljMzBhZVhuTHYzVnFUWFJIQzM3MmNGTXBkMEJSMFJSMHFUMmxxUjFUbFU4RldQMkRzOHRJdkpFOHVzVFJHUVA4RkE?oc=5",
+          "published_at": "2026-09-30T09:00:00+09:00"
+        },
         {
           "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
           "source": "한겨레",
@@ -12,46 +18,40 @@
           "published_at": "2026-09-29T20:09:00+09:00"
         },
         {
-          "title": "'AI 다음 병목은 MLCC'…美 이어 국내도 MLCC ETF 시동",
-          "source": "인베스트조선",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3FIeVJLNUtRbE0yODJLQk9RLWU0c2ZmQmlJSjktX2RhM2d0N0l1c0ZUblk0alZDOVdLYldldERzVlBOeERsb3UySnJCeEtuN25UT3U5ejFCZnlLYlRKazI0VERmN3U4Y2dNYlNrZUdMQ1dseXlTR29qb1dTY01oZnc4dw?oc=5",
-          "published_at": "2026-09-30T07:01:36+09:00"
+          "title": "“AI에 일자리 뺏길까 두려워” 전문가들이 말하는 불안 관리법",
+          "source": "health.chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lYndNdWpyME9xZXFKR3k2M19oZ1lfVjAycE9yVWVFWTU0ZU5iTmNfSVhXRG1PNWtRQkV2MXlMSDlOeVIxem9UR3dJR0xTZWtqWTR3eUVINklaSnJOM2JhQms5eGZ2bVE1VFJsRUFBdmNKRnhGT25kS1p3NUJTM0E?oc=5",
+          "published_at": "2026-09-30T09:16:00+09:00"
         },
         {
-          "title": "오픈AI, 안전 문제로 'GPT-6.1 아스트라' 출시 철회...\"기만·무단 접근\"",
-          "source": "AI타임스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbGNza3BxU2ZFVVVfNkQ0YzRhbmtXb0lJR0NGbWk0YTctNkZfRlVSM2hpTVhaYktET1EyODQzcmI2YjB3ZFhKS1NXTy1Ja2xqWkpYSGJ0UFA4X2IwQklaX2k5REhsZ05sOGc?oc=5",
-          "published_at": "2026-09-29T14:45:44+09:00"
+          "title": "[AI프리즘] AI데이터센터 경제효과 따져보니…최대 3.5조",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wVjJGUFVMb1htV1lpSFhVaVJWNjZEZzluTVdMQkZURFFvNzM3X2FrQ0pUR29qbUhpeTgwX2pHZUZVYzVESFlKWG10S1V3RzlFYUhtam5nZXdGbU1ubXNLbNIBYEFVX3lxTE9wVjJGUFVMb1htV1lpSFhVaVJWNjZEZzluTVdMQkZURFFvNzM3X2FrQ0pUR29qbUhpeTgwX2pHZUZVYzVESFlKWG10S1V3RzlFYUhtam5nZXdGbU1ubXNLbA?oc=5",
+          "published_at": "2026-09-30T06:33:00+09:00"
         },
         {
-          "title": "‘현금 부자’ 美 5대 빅테크도 ‘빚투’... 내년 AI에 1700조 투자",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUwxX3VqelE5dl84eHpNVTBjM1NTbXd3N3E4QW1waHpyWG0zWk5aR2EwdkRYY0h6WUs1OWlGSjdXelF0WXRYY0JvS0F2LWJuWFVOY3lWX1ZXVmNzVzhlNnl2VHEzdjBsaWJwbE5HUGIzbFByTU9YLXRVY2RyRlBlVGZoSQ?oc=5",
-          "published_at": "2026-09-30T06:00:00+09:00"
+          "title": "오픈AI, 40조원 신규 투자 유치 추진…기업가치 1900조원 목표",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zYTdjMmczUWdWcnd1QnA1QW9hcDlHeldXRzA4M2tjQklmRU5rVXh5b1FhSnZzamNjWktTYTR1Z1pCaGlveUxpMjlPMXJmQQ?oc=5",
+          "published_at": "2026-09-30T08:45:55+09:00"
         },
         {
-          "title": "(9) ‘글로벌 AI 기본사회’는 멀지 않다",
-          "source": "법률신문",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yeDlqNU5veVdOSkdHZmVKa0Y4dUZ4NGtSXzhibHJHNldyazkzMTczSTNBMllNdU5OX21lMmxZdTBtWXBzYl9rM1JIem1KRzZRd29saXBxRkEtektjSlp5dUlfSlZ0N05zV1JmbGR30gFyQVVfeXFMTVd4QXozXzhzVDFqeDRhLWYxVDhnbXVTY1BTUWdrZ3hmenh4bVVjM0w2TGFnQnIxZjZTd3RYM1hVdzVpNmRBYk5NU2FZSHlKZWNnSjdmNXp4elVQOS12YzZ2T0NUVU1xcGFnRFBtN1VyWFJn?oc=5",
-          "published_at": "2026-09-30T05:20:00+09:00"
+          "title": "전영현 삼전 부회장 \"에이전틱 AI, 일하는 방식 근본적 변화 가져올 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mLXZiX2oteElydVIyQkMzN2FjUjZmQUhkZzd1U0dLUkZGX1VlTmx1bHZQSUxGN0kyWDhNSjBjUFozaVBxVE11SGE0Q0M3TE41WHZLLTBFMnNDcWxpWUFRT2pKSS1Na3BRM2VPS2trMWQ?oc=5",
+          "published_at": "2026-09-30T09:00:23+09:00"
         },
         {
-          "title": "AI가 쏟아낸 신약 후보, 검증은 누가? 답은 다시 '실험실'로",
-          "source": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNmMxZEF1WHJvOUFkazAxeVdtb24wVzVXOFdyUDZsZGwzSGIyNlJPemFXbVZiRTBtTWhoZjVDME1jbWZwOXV6ZHBXM1NUR240ZFo2b1hOT0hQRUU5eDVPeGZJeHY0ZS1TT0NJ?oc=5",
-          "published_at": "2026-09-30T06:07:00+09:00"
+          "title": "NYT “오픈AI 경영진, ’보안 경고’ 있었지만 묵살“",
+          "source": "yonhapnewstv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVF94cGxvbkxVSDllalBJSkJKVkNpSFN5MkZRdDZydmdHM3gzdGRaRVFHM2QyRVdCQkNiZjdraTI1UDhxVEx3MHFFd0xNS0VHeWFSODlDZUhnNVBDSHBfVHphc2Flczg?oc=5",
+          "published_at": "2026-09-30T09:26:00+09:00"
         },
         {
-          "title": "'물'로 식힌 데이터센터···바로AI, 열·소음 잡았다별도 서버실 없이 AI 활용 '손 안에'",
-          "source": "헬로디디",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bV9HY243bzN0YXB6c0ptQXF5TnlnOXlvb0dRUU8zUHJNWXJqVEJkZ0VicDdEUDdPcW5BdHZkRFlXU3IxVlYtRnF1YTNNSWdzYzhhUWNscU11YlJtS3ZXckN6b1hTN0lzUmc?oc=5",
-          "published_at": "2026-09-30T00:07:59+09:00"
-        },
-        {
-          "title": "[외신 헤드라인] 오픈AI, AI에이전트 '닷츠' 공개",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVFRqTWlDZVRBS3JQNDF6MWVlcUpZTmRoWWJRRjhOZEw2M21wM1RoZmlSNUVlMFN2YlJ1N0FIMmZMV09yYUsxM1RhOVA2ZkE?oc=5",
-          "published_at": "2026-09-30T06:28:00+09:00"
+          "title": "배경훈 \"독파모·프런티어 AI 함께 간다\"…韓 AI 전략 '두 축'",
+          "source": "zdnet.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VLTBJQ2RnRk1wWTk5M3JZZU5VRUVoU1F3R3pjV3c0YWRTYU54WVBOUmViVlZJZkNZbXVhQ2lCSE5RVGh3ZE1ObGdRcXdDbnFuMThKeFNR?oc=5",
+          "published_at": "2026-09-30T08:26:27+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -60,22 +60,16 @@
     "sds": {
       "items": [
         {
-          "title": "[삼성SDS 굴기] 10조 실탄·반도체 캡티브…'로봇 관제' 선점한 LG CNS 맹추격",
-          "source": "녹색경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZQ2duYVpKRmlScUlpZTNVZ2JOWUNZeHFHV0hzMUd3YlJ0NVFzRE5PMEw4R3lNUkJxek53VzVXRy0xQk8xN2ZlTVZ6ZEN2NjhuN0R3M3VCVUxNWXR2amFWanJMa2Ywa25G?oc=5",
-          "published_at": "2026-09-29T15:31:45+09:00"
-        },
-        {
           "title": "[유미's 픽] '원 LG' 견제 들어가나…팀 삼성, 美 헬릭스 1.4조 투자로 AI 인프라 본격 공략",
-          "source": "지디넷코리아",
+          "source": "zdnet.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScFJMVllDOC1jTHQxNjNtLWhnYXBCN3BWX2owNHFFdlA5aHAtQmF6a094M0NMQlZIcVZPTy1KNTR6QWhqWEVUZlY5XzFCeGdfdlQ5MEV3?oc=5",
           "published_at": "2026-09-29T17:06:46+09:00"
         },
         {
-          "title": "삼성SDS, AI 밑단부터 서비스까지…'풀스택 AX' 사업화 속도",
-          "source": "위키리크스한국",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFhvMkJtQ291ZnJCT0NCXzVZaVdOZnl6TkVMME5sMUhPNjVnLVoxMGNPejUtdmVRTERkS2Q5Y0lpMjREZnN1WldTaDZwd1g5NVgxZUVtUHdLTFhZQU5GMElaRHdpNHZJV0tqN3V3X3A?oc=5",
-          "published_at": "2026-09-29T09:56:21+09:00"
+          "title": "[삼성SDS 굴기] 10조 실탄·반도체 캡티브…'로봇 관제' 선점한 LG CNS 맹추격",
+          "source": "greened.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZQ2duYVpKRmlScUlpZTNVZ2JOWUNZeHFHV0hzMUd3YlJ0NVFzRE5PMEw4R3lNUkJxek53VzVXRy0xQk8xN2ZlTVZ6ZEN2NjhuN0R3M3VCVUxNWXR2amFWanJMa2Ywa25G?oc=5",
+          "published_at": "2026-09-29T15:31:45+09:00"
         },
         {
           "title": "국방 AX 선점 나선 삼성SDS·네이버클라우드… 차세대 지휘통제체계 수주전 예고 - 조선비즈",
@@ -84,28 +78,34 @@
           "published_at": "2026-09-29T17:44:00+09:00"
         },
         {
-          "title": "\"美 AI 인프라 기업에 1조3600억원 투자\" 삼성, 데이터센터 전반으로 AI 사업 확장",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHhwRmRlanRySkx5OUJYNzVfamItTlFCQV9LOGRRU0hOM1NMT01EbGt4YkpzS2ljeENuM056R1ZyZHBLMDJSdEhXOE85TmRoSmxYLW5GX1dLSlNfdVBEWi13eVpLVi1DMmVTX29ZV2ZoUkpJbGRSellpVmdrNGo0TWhjVQ?oc=5",
-          "published_at": "2026-09-30T00:33:00+09:00"
-        },
-        {
-          "title": "삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억달러 투자",
-          "source": "기호일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NLTBScE1Vb0pxUGtJcDJrakJkMkdlTTM2emJTeno2RGdjeThBNXRXMFdWbzN3WGE5VmozUHV3dHRobXlhclc0UGRHaHN1NVZiVk5GSDRxQUloTkhpM2ZsMkZiV1lIT2ZKZF9MZ0Vibw?oc=5",
-          "published_at": "2026-09-29T21:51:31+09:00"
-        },
-        {
           "title": "삼성 6개사, 美 AI 인프라 기업 ‘헬릭스’에 10억 달러 투자",
-          "source": "Samsung Global Newsroom",
+          "source": "news.samsung.com",
           "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWm9ESEg2VGR0TEFiZTZTMng0VEpTUnppbW85Z0xXNHFpWlQyUktibUNnR3dPMlkxUDItZmVFalplalNybHNyMEFnMzNYaEppbXF0bl8tMlhrOUt0RUJaMnNlV0JXdVNxTDFUd2RPZzZibE9IYmRXbGVtaHh3V1doSG9mREVMdjVKZTlielJGdGIxVmlUR3BpODM3MW95djNpcVM3MVFveWVvUUozdUs4RGJiZ2VUdUJLbGNTVmhOMURESnBwYVFhTW00Z3g2NVhSLTIwRkVZYVZIelpRTEswdTVVUHk1TVVLRjE5U0I0VDdteWNlX29MaVBsTHdyQzlhbUt4c3BPbW9aZXhHdWRyazJWeUpPM2kwVEZtMGlqYkFXSUR1ZVltNVhQQ2JfYXdtdE5tdnBUaEM?oc=5",
           "published_at": "2026-09-29T08:00:00+09:00"
+        },
+        {
+          "title": "삼성 6개사, 美 AI 인프라에 10억 달러 베팅…헬릭스 투자자 합류",
+          "source": "sisajournal.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xSmNhV3NCaGtULTZWckg1VzdFWmVwZ0hEalhrOF91R25vaUszb196dVNVR2txakdocEJfNGFmQzM0RHNjZGxyZ3dGT3B1ZzVtblZtNnVhcUpxOUg0SllFa0xsMGtWeGJfaERyX29lY9IBc0FVX3lxTE9zSTFQNkU5N2xCd2sxS2JtZEZuYUtMZnVDOUFPdUN4Y0pkcHM1WnZweFdmQWpkZWNtOUNHN2ExQlN3Z0NrM0YzQUY0WTh3SUhITGhfMXlCRV9uQnBfNmpOTkVZQnhaQnpHUGtRYjViMWRRNzg?oc=5",
+          "published_at": "2026-09-29T17:57:54+09:00"
+        },
+        {
+          "title": "삼성 6개사, 美 AI 인프라에 10억달러 베팅…반도체부터 전력까지 묶는다",
+          "source": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yOGxIME1NVzFVdjRlYm9ORFFlYmtiYUF4dUFCekl1MWwwdjNBU0c0NVRSTU1LYU42MlVBV2J4aGJXUWRTYWEwc184MzZ1VkxWd3gzTjRPNUI1ZndwT05QLWM1NzE?oc=5",
+          "published_at": "2026-09-29T15:45:52+09:00"
         },
         {
           "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자",
           "source": "디일렉",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5Zk5HRjB0dEVKOFByU3NDVHRBQkJHOVNkeGtua3gyTWt0aUFTTllRM3BiNEdWUDgzbHc5QkhPUmVGcVgxbnFYMFdGc3ZOUERxNmFDTWlDenlUYXNwbWt0c0Z1R1VSdw?oc=5",
           "published_at": "2026-09-29T11:20:15+09:00"
+        },
+        {
+          "title": "삼성SDS, AI 밑단부터 서비스까지…'풀스택 AX' 사업화 속도",
+          "source": "위키리크스한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFhvMkJtQ291ZnJCT0NCXzVZaVdOZnl6TkVMME5sMUhPNjVnLVoxMGNPejUtdmVRTERkS2Q5Y0lpMjREZnN1WldTaDZwd1g5NVgxZUVtUHdLTFhZQU5GMElaRHdpNHZJV0tqN3V3X3A?oc=5",
+          "published_at": "2026-09-29T09:56:21+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -118,6 +118,12 @@
           "source": "창업일보",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISWxBR1VyQ1NPYTY2M045YnV2dGZqQWEyYVpQdmJTd1pudmZOdGV6S04wSEFIdkNkOERodVUycHplS0JoazhsQkxpckxrSWlZazMtZnhETUF2RGJ5TWM0Mjc2QW9rZHdw?oc=5",
           "published_at": "2026-09-29T15:49:44+09:00"
+        },
+        {
+          "title": "장르에 익숙한 사용자도 읽어볼 구글 미니 게임 무료 개별 규칙",
+          "source": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9sVjBYTHhBc2xFTU50MjluVS15X0djMmtLV3VobUV2S3Q5Zk9nVTVWZlJSNlY3N3M2dFhGNWxLZExNOHM2YXE0dnl4ZEhXVUh5U0lQRDhqd0N4aEpEcVd4T1k2VGZQOEVySU9vNXp0dGE4aTBlc2kwUE96V2N2X01TLTRqTFFVenVvaDh1bWl3dHk0LXV1NWd5blU5TERqSmF0end1ZUI?oc=5",
+          "published_at": "2026-09-29T22:49:43+09:00"
         },
         {
           "title": "고동진 의원, 강남서 부동산 정책 긴급 간담회 개최",
@@ -161,16 +167,16 @@
     "samsung_baseball": {
       "items": [
         {
-          "title": "\"일단 승리부터\" 삼성라이온즈···'2위 수성·1위 추격' 분수령 될 한화 3연전",
+          "title": "3연승 달린 삼성라이온즈···페덱 9K, 김성윤·강민호 '3안타 3타점'",
           "source": "대구MBC",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aU1l2NGJvX2RJemZJT3Noc1FpNXJOUnpsRV9EN1g3R1dxRk9ZVzRILUdteU0zeXloLU5vVjFaTmh4SVJzeE1leFctYWI?oc=5",
-          "published_at": "2026-09-29T07:40:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05Z0R0UjB5SmowZkVyU3pVcE1hRUpEaHBOZ0g4VXNKNVBDdVR2cl83QXJLU1A4amFEUmpwOHZEeUNDbDdTb1A1WDdTOEw?oc=5",
+          "published_at": "2026-09-29T22:38:43+09:00"
         },
         {
-          "title": "삼성 라이온즈 퓨처스팀, 일본서 소프트뱅크 3군과 교류전 진행",
-          "source": "매일신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4UWMyOWY5OW9JZnY1eC1xM2VINzBRSTdjdUNmVk9uWlpqOF9OQmNpRHNtU28wQkg4Q2VadWFERjhkUVMwY1VueS1OLW1xY1NiVTJqN1VBWHdLQ0NsM1d0SmJB?oc=5",
-          "published_at": "2026-09-29T13:33:14+09:00"
+          "title": "리센느 제나·원이, 신제품 받더니 삼성 라이온즈 시구·시타까지",
+          "source": "마이데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vM2tORTZET01lalBhVXJrdHBJVEhQOUhtZWxzNWRNX29YQkswd04tZXZIOXFmRk9HaEd3U3VkVnA0SWVtVVh5LVhDb1BFUWZidjQ5UWlWNm1ERGFKVjlSUXhEdUVFUQ?oc=5",
+          "published_at": "2026-09-30T09:33:31+09:00"
         },
         {
           "title": "와 KIA 무너뜨리고 '역대 최다 신기록', 역대 2번째 역사 쓰나…\"우승해야죠, 우승해야 합니다\"",
@@ -179,16 +185,22 @@
           "published_at": "2026-09-30T01:22:00+09:00"
         },
         {
+          "title": "\"일단 승리부터\" 삼성라이온즈···'2위 수성·1위 추격' 분수령 될 한화 3연전",
+          "source": "대구MBC",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aU1l2NGJvX2RJemZJT3Noc1FpNXJOUnpsRV9EN1g3R1dxRk9ZVzRILUdteU0zeXloLU5vVjFaTmh4SVJzeE1leFctYWI?oc=5",
+          "published_at": "2026-09-29T07:40:00+09:00"
+        },
+        {
           "title": "후쿠오카 원정 7경기…삼성 퓨처스, 日 소프트뱅크와 맞대결",
-          "source": "톱스타뉴스",
+          "source": "TopStarNews",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kcWVhRXo1aEo4eW50VTRmY1Y0ejZLQjR6N1lDUGRTUEMtVkRybFRqSlpOaXpDVl9KSGROWkxpSGlkc29lSWlTLWhKM0RRcFZHUGtGcFdYMGVnbVdYWkUzMVlLTl95M2U0enBwOE56Nk1TQQ?oc=5",
           "published_at": "2026-09-29T10:23:14+09:00"
         },
         {
-          "title": "삼성 라이온즈 퓨처스팀, 日 소프트뱅크 3군과 교류전 진행",
-          "source": "yeongnam.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsbjBDOW41YlBfVzNPNW1LZF94RmJQQlNSbXJ2WGZaZzBnVUNPb2ppcXB3UjZkdlZPTnZPUjBNUkduQU1ncEZ3d3dQVV9KUC1zQ3ZPN0thR3pWSlFNRTVyeHEzemFUZ0FkZ2Zn?oc=5",
-          "published_at": "2026-09-29T10:40:36+09:00"
+          "title": "삼성 라이온즈 퓨처스팀, 일본서 소프트뱅크 3군과 교류전 진행",
+          "source": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4UWMyOWY5OW9JZnY1eC1xM2VINzBRSTdjdUNmVk9uWlpqOF9OQmNpRHNtU28wQkg4Q2VadWFERjhkUVMwY1VueS1OLW1xY1NiVTJqN1VBWHdLQ0NsM1d0SmJB?oc=5",
+          "published_at": "2026-09-29T13:33:14+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -197,16 +209,22 @@
     "science_tech": {
       "items": [
         {
+          "title": "\"연구의 미래는 논문을 넘어선다\"... 14개국 과학자들이 그린 '오픈 지식' 생태계",
+          "source": "BRIC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlVCWmpDdWw3aGpCSkJ4bDM3N0NnbHF6RW1DNFN6Q3ZjLVMzWldQRXpKa2lpdk1uaHlhREZRTW1LWkdRd0lCZ2dMVVVQZ3d1RTUyVDh0dWx2TW5KdWtEU3BPQ0lIcWJLOFVoVzgxWG5zeDFlalVrREJRV0N6MkVfTkY4NmQ5VnR5b3YtdV9semFzX0FqT2dzbEd1VlNfaWRudkhIWF80RXNJZw?oc=5",
+          "published_at": "2026-09-30T09:49:38+09:00"
+        },
+        {
+          "title": "농진청·전북 식품연구기관 맞손…지역 농식품 산업 육성",
+          "source": "축산신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZEs0MHdTejNjd2RXOTVQTWEwbmhaVTZEM09weEFjTnpDM3pYeFJmRGExOGQ0MHIwNkR4di1rUFNMMUJWVkVNNXRTNjYydGp2QlJwejRmeHFubExXOFRKTnJ0THV2UThZ?oc=5",
+          "published_at": "2026-09-30T09:34:08+09:00"
+        },
+        {
           "title": "제주녹색환경지원센터, 올해 연구 성과 발표…정책·현장 활용 추진",
           "source": "지금제주",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzN2g1aVVtOUZzWWhLM1Q1ZkoxRXhFbTNlOEF4djJJamQ4VWlEeGtrSjBtTDNUMVB1LVpLTzc0dmd6VkdJUGtkeTJOOVdRcm1LZzA2d1VUZUc2aU96WTlrTk41b3BUc1U2ZW8yX0VR?oc=5",
           "published_at": "2026-09-29T22:34:37+09:00"
-        },
-        {
-          "title": "롯데이노베이트, 글로벌 AI 학회 연구성과 입증…‘AI 회의록’ 정교함 더한다",
-          "source": "동아일보",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XaFZHRS1XQTZJck11TDJ2Z096ZGVZZ2JVcHRPcjdXS2tFMnFma1RFR29PSER2SmtTMTdOa0tUZlg4V3lxS29UVzNDX3Y2TVhxY0lON2RZTnEtUEdTMUZYVkhJSGQzd9IBZkFVX3lxTE1XaFZHRS1XQTZJck11TDJ2Z096ZGVZZ2JVcHRPcjdXS2tFMnFma1RFR29PSER2SmtTMTdOa0tUZlg4V3lxS29UVzNDX3Y2TVhxY0lON2RZTnEtUEdTMUZYVkhJSGQzdw?oc=5",
-          "published_at": "2026-09-29T18:01:53+09:00"
         },
         {
           "title": "\"AI, 새 효소 발견\" 앤트로픽 주장 논란…연구자 \"같은 연구, 클로드에 공유\"",
@@ -215,22 +233,16 @@
           "published_at": "2026-09-30T00:43:00+09:00"
         },
         {
-          "title": "HLB파나진, PNA 화학적 변형 연구성과 국제학회서 발표",
-          "source": "데일리팜",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwQmtrZjR2VjhXUG1LZmcxVkJYQTlMNGk1azdlMXhzODM4NXlnWG1DWnk2X1RQWFBGeXZWRWdBOVdFYklWRUtYNFVPc1A4d1p3dm5VUzRn?oc=5",
-          "published_at": "2026-09-29T15:22:10+09:00"
+          "title": "롯데이노베이트, 글로벌 AI 학회 연구성과 입증…‘AI 회의록’ 정교함 더한다",
+          "source": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XaFZHRS1XQTZJck11TDJ2Z096ZGVZZ2JVcHRPcjdXS2tFMnFma1RFR29PSER2SmtTMTdOa0tUZlg4V3lxS29UVzNDX3Y2TVhxY0lON2RZTnEtUEdTMUZYVkhJSGQzd9IBZkFVX3lxTE1XaFZHRS1XQTZJck11TDJ2Z096ZGVZZ2JVcHRPcjdXS2tFMnFma1RFR29PSER2SmtTMTdOa0tUZlg4V3lxS29UVzNDX3Y2TVhxY0lON2RZTnEtUEdTMUZYVkhJSGQzdw?oc=5",
+          "published_at": "2026-09-29T18:01:53+09:00"
         },
         {
-          "title": "HLB파나진, 'PNA 화학적 변형' 연구성과 美학회 발표",
-          "source": "바이오스펙테이터",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PVzR1OWRoXzAxNEFnLURmMDJ3NEduTFBuTzhYeEUxLU03OXYxVmh2M3RuUGxtMzZja3lJM1E5OGVrMW81b2RIbkJOblc3LURESUpNMlRjOA?oc=5",
-          "published_at": "2026-09-29T10:48:00+09:00"
-        },
-        {
-          "title": "쿼드메디슨, 국제학술지 '멜트릭스' 연구성과 게재",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZG1vWC04RlVjcEVBYnplZkYwR2ZQQnZSUzNSbUp3bl96WVBtdXlWUFEzTW9BRnFOUXRSTFB5dDVpcS1wMWVseTFkeEk3N1ZlSGYyeDhGNDV2Z1lO?oc=5",
-          "published_at": "2026-09-29T14:41:00+09:00"
+          "title": "시흥시, 서울대 'SNU BIO-DAY' 참가…바이오 특화단지 경쟁력 알렸다",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVk1yT2lZaHdOTXhzemlUdlRVaWMzOWJvNGkySlJfWkM1WnRfaWEtSjl2SUZvTDRSRE45V3NpZ1hOdDRsMkF6VGVSZjRxcnA3bHBnNmcxTElHUE0?oc=5",
+          "published_at": "2026-09-30T09:31:50+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -252,7 +264,7 @@
         },
         {
           "title": "이탈리아 여행, 기차 타고 도시 넘어 국경까지…철도관광 넓어진다",
-          "source": "newstravel.co.kr",
+          "source": "뉴스트래블",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVG85Snp1eUo4LVVxTlpBSEdQZGx3akxyeTNzNEFyN2dqcDJ0YmtKTG1CZllWN21jX0hxaFhhX3RPbmJuaXAxXzBrWlVIRjNLWi1JWlVMYWhNU2sxYWNxUXd4WTRwUQ?oc=5",
           "published_at": "2026-09-18T08:12:18+09:00"
         },
@@ -287,6 +299,20 @@
     "top": {
       "items": [
         {
+          "title": "[뉴욕증시] 연준 매파 발언·장기금리 상승에 하락…다우지수 0.26%↓",
+          "source": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kYi1KVldlRnd0bElDUTVBUGFRR05mS3QxRDVrOFI1Y1hidk5aUEJ5VlFoRFRHbl9LbFM0S2VmdDc4a01BbDV2WGR4ZVZiRHdIQzNnNWNBaXZ5TVhXYmhfS2lIeU9qSWtUYVhLaTBsN0U?oc=5",
+          "published_at": "2026-09-30T08:28:13+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "뉴욕증시, 美 국채금리 급등에 3대 지수 하락 마감",
+          "source": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpM2VzMTl0MUU1ckhicl94ZkJWMlBrMmQ0T3dIaklvUl83Zzg4bHE4TTdTVVNVT2FMNG5IOW44d01uYTJ0aDhuRG1vcnA4XzdzMmd6STB5X2xOVW4yMEp5aEgwR3VsVjhEZjQzNA?oc=5",
+          "published_at": "2026-09-30T08:49:34+09:00",
+          "category": "세계 경제"
+        },
+        {
           "title": "[AI MY 증시전망] 코스피, 美 금리·유가에 부담…마이크론 실적 주목",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81dlpyTE9VZnJ0Q0VXakxfaUFPS1Z5eF9aWDBOMERQSHh1MmZiWTliTGdqSy1WZ0d1aTN2UTNRTkZRSXh3TWg2OWV6dG5VYjNCODVScXROanFrd3ND?oc=5",
@@ -308,31 +334,17 @@
           "category": "세계 경제"
         },
         {
-          "title": "미국 8월 PCE 전망: 인플레이션 고착화 가능성, 미국 증시, 달러, 금은 어떻게 반응할까?",
-          "source": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRkgtcWl2V0RYb1pkY3Q1bnFMdXdPMTZCODQyM2s5dURMbGpKaDhIQVg2c01qbVo2MUVOYjF1cXNpUEJxRzJINWdzNkVPWVk1ME40LS1nQkkxbFYxWnYzR051dnJqSVBTRWktUnVvTGZ3OHI1LWZfUTlzQUVhcHdLYTlDWjItY1B0Ty14eU5CUW9FTTk3elpNR0x3RXpoMXNiVFF0c29tZFFwY2JvMmhOV0JxNVNsWllWTVJ2dzZScDduTmxmUmZnVllaLWtXdjlkaXNwWUR5X2tnbHJCS0o3dHF5TQ?oc=5",
-          "published_at": "2026-09-28T23:42:00+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "[외환+] 분기말 네고에···원·달러 환율, 1350원대 하락 마감",
-          "source": "서울파이낸스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nazBobkJra29uUjlrcFVycVpqQ0oxT3Z2TVBDY1FYUUYzYmtVcnBGZnNVbTVRSUJUcmRrTUQwYVRVZnhFdC1pUmZ0SmloT3N3Nm1EVmdBVi1lSVB0OEJfT180S0ZEX1hSMUE?oc=5",
-          "published_at": "2026-09-29T16:34:30+09:00",
-          "category": "세계 경제"
+          "title": "아파트 막으니 수요자 비아파트로 이동",
+          "source": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZmZKOXg2Q1V3dG5oNEFDY3NDcVdnSndnQzFNLWJ4OVpyQi1TR1FZdElCejRLdWVWTVBTSnlMMTJ2YnFIaFJSYzBmRE5YWWlpWWhvcXhEME4tbHp5aXBfc3pxZVE?oc=5",
+          "published_at": "2026-09-29T15:13:09+09:00",
+          "category": "부동산"
         },
         {
           "title": "매물은 늘고 거래는 줄고…서울 부동산시장 관망세 짙어진다",
           "source": "한국금융신문",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pb290Z0hTaEVTUUtzdlhjNW5XSDUzYWQ1QkNUZ3Z6Q2ZqT3VpMVdOTjNoSVBscEVjcUw1NG5keElZb0FCeHIxNDB2MmdjX25ETldRZmM0aW16QmFMOUtHNURJSUZqQ3RLVXBfOGhZeS11cXVqb1ExV2tnUmo?oc=5",
           "published_at": "2026-09-29T10:19:15+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "아파트 막으니 수요자 비아파트로 이동",
-          "source": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZmZKOXg2Q1V3dG5oNEFDY3NDcVdnSndnQzFNLWJ4OVpyQi1TR1FZdElCejRLdWVWTVBTSnlMMTJ2YnFIaFJSYzBmRE5YWWlpWWhvcXhEME4tbHp5aXBfc3pxZVE?oc=5",
-          "published_at": "2026-09-29T15:13:09+09:00",
           "category": "부동산"
         },
         {
