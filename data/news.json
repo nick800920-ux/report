@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:46:53+09:00",
+  "generated_at": "2026-10-01T08:03:14+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -19,7 +19,7 @@
         },
         {
           "title": "서울대연구팀, 판결문 최적화 AI비식별화 기술개발",
-          "source": "사이언스타임즈",
+          "source": "sciencetimes.co.kr",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWxuOTl5R2dDZG56MFpGUVFwRVpvYXYxS0VmcmsxajNUdWctY3ZWenc5bU5HbnZjZGdOMkc2ZWVtZWNOR1JtSnlUSTI3VnRHaTVRM2tzdEdLaTk1dFgxQUpNV1lRZ3hlMGRIQjJ1M3ZtdnVHbTc2Zkl5UGhsRzRjSjQ0eldSVFQxQS12SG5MRQ?oc=5",
           "published_at": "2026-10-01T07:05:02+09:00"
         },
@@ -30,28 +30,28 @@
           "published_at": "2026-10-01T06:05:00+09:00"
         },
         {
-          "title": "구글, 제미나이4 플래그십 AI '아르곤' 공개…오픈AI·앤트로픽 추격",
-          "source": "news1.kr",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZeHZjYThtSjcyaHJiS2ZlM3VteGRkTmZtdXRSZGpHLUw3UHk2NW96cTc5eHI1MXM2dXZSVHlSb29iajVnb1I5Zjcydnl6M29mTTdyS3AxV0HSAV5BVV95cUxNTXZCMDRHMDBRemEtWkFudGxVRVozdHAzRkp1M2ZsRzJOT01MUDZ3OVV3M1lZQnE4YXFfM1hCcmRsVW41SG5jOHd4MERnOWduT3pBNmozei1zMHVHbnFB?oc=5",
-          "published_at": "2026-10-01T05:26:45+09:00"
+          "title": "마이크론 실적·전망 예상 상회…AI 데이터센터 매출 11배 폭증(종합)",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtemRxekZNSXpLeE5wNXJIOFR6alBxMUpxa1JnV1RGcXU3cl80b3YxbzJDc3JaRkJpRXU5Z3FpNDczUjdkeFIwLXdZNEVFSTJJYzZLc3kyTkRkTEl3bFd6OW5uNFBYTjDSAWxBVV95cUxQaTV4ZDdXN3I4OEQxenJ4LTBKNDJlYldELU1DQjlOdC1QZEF6bHRFVktJM2hvQVdIaVItWkFlYUJDU0R1MENMRWFGZFB1QWRwZG4tRmlhMVhQZG5fdDZieXZPWkxPY3BXREUzM3Q?oc=5",
+          "published_at": "2026-10-01T06:20:53+09:00"
+        },
+        {
+          "title": "LG전자, 美 버지니아에 '칠러 공장' 신설…AI데이터센터 수요 잡는다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11WlBkWGpvNHUwOXlxbHp4cjBrY0VuVE16TTI3THVsNXB3WXRFRmJRc0JIQlYwOWJtZmJOSm5YRmJ0VldMRHZxZVk2YnRXRzdLTFFtaUtwa3hyYnAxQjdzNGxhdGNzMTlXZmxYZdIBckFVX3lxTE83QjRPTXIzWnkzcDNHZEVTVUcxVzYtdHBvdlFTZ0ZBenZXZ0pqbHBWV2FDcmNGR1VHSHN1eklNTUJWYU5OSnRXUU1jSGNtSFJacGxvZW1yZmttal9LNmpFRW9TVUZPRl9DZS0zWkRfWTZaZw?oc=5",
+          "published_at": "2026-10-01T07:19:47+09:00"
         },
         {
           "title": "SKT·카카오·KT, 10월 중 '모두의 AI' 첫선…전국민 무료",
-          "source": "yna.co.kr",
+          "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaEhYZUlCMWJuU3dIU0NDOEhwOG81bGdUOGd6eGFSMGs3YVNCSVYtTXRKNkhFLUlpcjBOTTZSSi1va1BFQm1iLWZUZmxocmJyLWpvVkxUbHg2aknSAWBBVV95cUxORDY3SlpfWk9vZUo3RXVBc0VXR2IxOUIxbFpwZjJqU2RQcjI5Rk1JeW5lYTg2bGlpbmt2LUZuX2lEcjA1WTFHWDZnT0NNbnVuRER5dFZrTmJZdVpFZGpNZlc?oc=5",
           "published_at": "2026-10-01T06:13:01+09:00"
         },
         {
-          "title": "[인터뷰] 구글 떠난 연구원 “AI는 스스로 자란다, 해결책도 없다”",
-          "source": "hani.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
-          "published_at": "2026-09-30T15:58:00+09:00"
-        },
-        {
-          "title": "[칼럼] AI 시대 어떤 전문가로 준비할 것인가?",
-          "source": "청년의사",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSmxzdnItcy1ORmdLQkpUY2dnLXlRVVBPVHBBWmJMd1ZYYlI5R3k1UllKb0hERmFLY2xvRkRhWEs0UHNhZ2ZwTnZzLVBWYmFJUTVhX1A5cFlMakRLdXk5TU13d3BNYTVVWnBOSENrMnbSAXNBVV95cUxQYW9KdE52Q295X0p4UkhhQW90T3NZWkpycE9LT3RPNmljZlRVRDRxeDcyd3p2NkRfRFdZdXpaTzVEeUx0Vk83ZFhqemhaRFdwWmFfaVlCOGdSMmlBU2dPcDRVSVlOUjMyUUZvWmFPejZfX0dF?oc=5",
-          "published_at": "2026-10-01T06:54:22+09:00"
+          "title": "'빅 쇼트' 버리 \"증시 폭락해 오픈AI·앤트로픽 IPO 막는게 인류에 도움\"",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45N3ktSlRnVVFGMTU4VGhEYmlrcFFMX01fUmhXX3RReXpXODZoa2pYY3ExelYyNHNza2dqcUVjWjdJU2hOS1hMazZXS2ZqNkJLSWM2UmlaZEgxMFJWOGJRUzlDb3lCQlJHSVJuLU9UYW4?oc=5",
+          "published_at": "2026-10-01T07:36:15+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -73,7 +73,7 @@
         },
         {
           "title": "[기획] AI 데이터센터 경쟁, GPU 넘어 ‘냉각 기술’로",
-          "source": "sentv.co.kr",
+          "source": "서울경제TV",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSVZ1Um85OElhWXJ1OE44YzZDTU5Cb1JHNmVPN1hFUVJSYXk1OFpaeC1NNHFGb0ZyNTE4aXFUZ1lETFQzNHNFMHNobDlOb3FmUjc3cE9lckFTSHowXzN1cTdzclI?oc=5",
           "published_at": "2026-10-01T07:00:04+09:00"
         },
@@ -97,7 +97,7 @@
         },
         {
           "title": "수원소방서, 경기도의원과 함께하는 삼성전자 수원사업장 현장안전지도…화재 대응 협력 강화",
-          "source": "sobangnews.kr",
+          "source": "소방신문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52MldRcU9idEdiWDVvcDM5b0RLY1ZUQTJMYWxvWnJaTHRDQ3dCR3lBZmVMMlNiRlhzUXBYZUVmVndkNlJQZ2xSS2hJUzVwalc3N1lzbHVDRHd3WXdGaE1CeGxXcjhaZmlVT2tN?oc=5",
           "published_at": "2026-09-30T19:02:28+09:00"
         },
@@ -151,7 +151,7 @@
         },
         {
           "title": "전국 집값 양극화 사상 최대 … '서울만 평탄화'의 역설",
-          "source": "biz.newdaily.co.kr",
+          "source": "뉴데일리",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fQWY4dWY5N1FPTEdyWjlPWDdKMUY4UWFEXzFiYjhLWmgzM29vdWVvUUZjdEpZYm55UW4xSmNOUGZKY1MzNWZQQlpHM0FtVktOOXNPX3lzTzdsUVJOS09jQWs4eUJELV9aaFQ3NEhERDZOUW5GSGxscnhxa9IBgAFBVV95cUxOVS1wMDVvM3pIdnVSeHVnSnI3TGZXbENIeHRGc1NNZDAyYlJacmlFc1lHMVZFZmRpUTdyenBmU25Jc0p5ZnRmX1JiZjVzMTI3aVRzYU44RmRYakVQRjhXcmN6X0I3U1YwR2VZblB0QzA0cS0wbjBvRFRnei1Td3BYcw?oc=5",
           "published_at": "2026-09-30T15:30:44+09:00"
         },
@@ -186,7 +186,7 @@
         },
         {
           "title": "삼성 대형 악재…'타율 1위' 구자욱, 햄스트링 통증으로 교체",
-          "source": "news1.kr",
+          "source": "뉴스1",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcU9NR21kVG0zSUxlMUZ1TmtsR0M0bDBSaWxTWEFOQTJBaVg3RHFHaXEyWXplVThWbDVwa0VXYzRmdFZCQkJCNEVIMjQyOTZDdVUwYzE0WQ?oc=5",
           "published_at": "2026-09-30T21:10:14+09:00"
         },
@@ -258,19 +258,19 @@
       "items": [
         {
           "title": "[현장] 한국인 100만 명 찾은 이탈리아, 다음 목적지는 ‘소도시’…슬로 트래블 뜬다",
-          "source": "travelnbike.com",
+          "source": "트래블바이크뉴스",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwYUhuaUxyS0RQUFlNSm9ucDNiaDBLQTg2U0RKY29qRkFCRS1ndTZiQmxYNENZTjhNZFhWLWR1aUVUcjJ5bVdJelNNOUR0V2pXczFyck52b0RFOUNhV2stQW5QRlJWRm0xendjNGVB?oc=5",
           "published_at": "2026-09-28T21:36:22+09:00"
         },
         {
           "title": "[현장] 오페라 보고 농장에 머물고 알프스 걷고…낭만 더한 이탈리아 여행",
-          "source": "onews.tv",
+          "source": "열린뉴스통신",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOHN0clVEeHc1U2x2cERaWHNOUlc2MFVYYktrWlJ0dWdkNWwxRV9TRENxS0dMZEFnbjFxVjJEaEd6S0NkbFhVOUI1NWR6WFZnRzBSakJzMnQxV0RQWVdHZUxtZHV0dw?oc=5",
           "published_at": "2026-09-23T16:30:53+09:00"
         },
         {
           "title": "이탈리아 여행, 기차 타고 도시 넘어 국경까지…철도관광 넓어진다",
-          "source": "뉴스트래블",
+          "source": "newstravel.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVG85Snp1eUo4LVVxTlpBSEdQZGx3akxyeTNzNEFyN2dqcDJ0YmtKTG1CZllWN21jX0hxaFhhX3RPbmJuaXAxXzBrWlVIRjNLWi1JWlVMYWhNU2sxYWNxUXd4WTRwUQ?oc=5",
           "published_at": "2026-09-18T08:12:18+09:00"
         },
@@ -282,7 +282,7 @@
         },
         {
           "title": "[여행소식] 이탈리아 찾는 한국인 100만명 돌파…소도시·슬로 트래블 뜬다",
-          "source": "yna.co.kr",
+          "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcm5qb3RLeTM2WWpZcnFQVlR6bUJzUUxkYkptTF9sdU1VRnNQUER5dmxfakJOOU9Zay1JRko2T3NCRm1TYktnUDN2NDFnQzAtaTNZLTluMXdKRHfSAWBBVV95cUxQX3haZF95RW9Yd0hvblFYcFFwaHRKUFV4clItWnNyQ2d5d0N6NlBWWFd1MVBRS3RRQzYtdFF1b1NvTzliM3hzbXpSNzljb2VlZTZGRzN2bm9JNGo1RzFrUmk?oc=5",
           "published_at": "2026-09-22T14:07:42+09:00"
         },
@@ -324,7 +324,7 @@
         },
         {
           "title": "흉노 '김일제의 후손' 문무대왕 기린다…경주서 역사문화축제",
-          "source": "통일경제뉴스",
+          "source": "tongildaily.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WTVOeEJfTzYyRnBMUGIybEFuUk4wLTMwejVCdTJ4S2U5TjRIbVk3VGI4dm1jajlmY3dNa25QUWZnVU1qSC04cVIzai1XZ25Oa3hndE16bVBOaVB0SDB3ZUJsMEh5b2NwR2xuQw?oc=5",
           "published_at": "2026-09-30T13:01:18+09:00"
         },
@@ -388,7 +388,7 @@
         },
         {
           "title": "[환율 전망] 금리는 중력인데, 원화는 공중부양 중",
-          "source": "kbthink.com",
+          "source": "KB Think",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDJiN2tCZS1ySjROZ0NXUzNDVmVsOVdVeldHMTlMM1BYcHBmLU9VTkR1Zkc4NG5tVDAzSmJpeG8zX3hPRHV0VHBwRmxXM2xZejA2TlZiaWVLQnlnY3J0cg?oc=5",
           "published_at": "2026-09-30T07:58:26+09:00",
           "category": "세계 경제"
@@ -402,7 +402,7 @@
         },
         {
           "title": "가을 분양시장 큰 장…아크메르 동탄 등 10월 4.6만가구",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTmgwYnpPZndjWUdtQVg3enhGZERMZEJBSkE5U0xPaHdlZXJ0M25sd2RHZEFkTTZJY2dQWTc3Ylo1bmx5VlRDdk41UUx6ZUw3SDJWR0FiOVdzNUNCRmdna1V1ZktlWFZxR1RXWXpvRk1wQlNNMmlycNIBeEFVX3lxTE1OTmgwYnpPZndjWUdtQVg3enhGZERMZEJBSkE5U0xPaHdlZXJ0M25sd2RHZEFkTTZJY2dQWTc3Ylo1bmx5VlRDdk41UUx6ZUw3SDJWR0FiOVdzNUNCRmdna1V1ZktlWFZxR1RXWXpvRk1wQlNNMmlycA?oc=5",
           "published_at": "2026-09-30T10:02:07+09:00",
           "category": "부동산"
