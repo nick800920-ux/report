@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:11:10+09:00",
+  "generated_at": "2026-10-01T07:46:53+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -12,26 +12,38 @@
           "published_at": "2026-09-30T12:38:07+09:00"
         },
         {
+          "title": "美 마이크론, ‘AI 붐’ 타고 실적 5배… 韓 반도체도 청신호",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanduUjFZT0hXTzNmcnpUS1UzSDJzd1UyTFExUTI2UXFwWUNsVGVhQjJoRkRqNWhsd3FLRk1UOGFRT1lHbjVKVENvU0lkem1DcjJiM3VuSE8wMC1NZEptcDVhQ0gtUW4xR0ZHVC15NmJjNXh5R3NJbE9PUHFpMGgzdHo4aw?oc=5",
+          "published_at": "2026-10-01T07:09:00+09:00"
+        },
+        {
+          "title": "서울대연구팀, 판결문 최적화 AI비식별화 기술개발",
+          "source": "사이언스타임즈",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWxuOTl5R2dDZG56MFpGUVFwRVpvYXYxS0VmcmsxajNUdWctY3ZWenc5bU5HbnZjZGdOMkc2ZWVtZWNOR1JtSnlUSTI3VnRHaTVRM2tzdEdLaTk1dFgxQUpNV1lRZ3hlMGRIQjJ1M3ZtdnVHbTc2Zkl5UGhsRzRjSjQ0eldSVFQxQS12SG5MRQ?oc=5",
+          "published_at": "2026-10-01T07:05:02+09:00"
+        },
+        {
           "title": "글로벌 공급망 주도권 쥔 삼성… 韓 ‘AI 반도체’ 격전지 부상",
           "source": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaOWxiODd0QWNNQ2Qtb1plSHBZcmpvY3ZOQjBVM1gweGpiRTlNODQ5TTJzQjVTZmpaVzhPX0tONnI0emZpVkpkY3AwUjhKbVE?oc=5",
           "published_at": "2026-10-01T06:05:00+09:00"
         },
         {
-          "title": "서울대연구팀, 판결문 최적화 AI비식별화 기술개발",
-          "source": "sciencetimes.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWxuOTl5R2dDZG56MFpGUVFwRVpvYXYxS0VmcmsxajNUdWctY3ZWenc5bU5HbnZjZGdOMkc2ZWVtZWNOR1JtSnlUSTI3VnRHaTVRM2tzdEdLaTk1dFgxQUpNV1lRZ3hlMGRIQjJ1M3ZtdnVHbTc2Zkl5UGhsRzRjSjQ0eldSVFQxQS12SG5MRQ?oc=5",
-          "published_at": "2026-10-01T07:05:13+09:00"
+          "title": "구글, 제미나이4 플래그십 AI '아르곤' 공개…오픈AI·앤트로픽 추격",
+          "source": "news1.kr",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZeHZjYThtSjcyaHJiS2ZlM3VteGRkTmZtdXRSZGpHLUw3UHk2NW96cTc5eHI1MXM2dXZSVHlSb29iajVnb1I5Zjcydnl6M29mTTdyS3AxV0HSAV5BVV95cUxNTXZCMDRHMDBRemEtWkFudGxVRVozdHAzRkp1M2ZsRzJOT01MUDZ3OVV3M1lZQnE4YXFfM1hCcmRsVW41SG5jOHd4MERnOWduT3pBNmozei1zMHVHbnFB?oc=5",
+          "published_at": "2026-10-01T05:26:45+09:00"
         },
         {
-          "title": "오픈AI, '불량 에이전트 해킹' 첫 피소…美FTC도 조사 압박",
+          "title": "SKT·카카오·KT, 10월 중 '모두의 AI' 첫선…전국민 무료",
           "source": "yna.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcVZxU1BkLXZienNUYmZ4bW5FMnZRRWFsTUMxTENwWGRSam5UMUxvUjRtWnpBbHFYTEhRQlpxR1dsXzFuaFBBcHVoQzJVc2dtMW5nQmxCYTEtOEHSAWBBVV95cUxQY3VLQXh4a0MxQ0J1N29PZUUzcmNDSlprSExVUkdDYk9HTEFRN2hFNU1yTU9pLTZMdEdlVjJXUVRXSkRzQzExZnc1dFFpdWdyZ0ZKeUtjemR2djZQcE9vVlQ?oc=5",
-          "published_at": "2026-10-01T03:02:23+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaEhYZUlCMWJuU3dIU0NDOEhwOG81bGdUOGd6eGFSMGs3YVNCSVYtTXRKNkhFLUlpcjBOTTZSSi1va1BFQm1iLWZUZmxocmJyLWpvVkxUbHg2aknSAWBBVV95cUxORDY3SlpfWk9vZUo3RXVBc0VXR2IxOUIxbFpwZjJqU2RQcjI5Rk1JeW5lYTg2bGlpbmt2LUZuX2lEcjA1WTFHWDZnT0NNbnVuRER5dFZrTmJZdVpFZGpNZlc?oc=5",
+          "published_at": "2026-10-01T06:13:01+09:00"
         },
         {
           "title": "[인터뷰] 구글 떠난 연구원 “AI는 스스로 자란다, 해결책도 없다”",
-          "source": "한겨레",
+          "source": "hani.co.kr",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
           "published_at": "2026-09-30T15:58:00+09:00"
         },
@@ -40,18 +52,6 @@
           "source": "청년의사",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSmxzdnItcy1ORmdLQkpUY2dnLXlRVVBPVHBBWmJMd1ZYYlI5R3k1UllKb0hERmFLY2xvRkRhWEs0UHNhZ2ZwTnZzLVBWYmFJUTVhX1A5cFlMakRLdXk5TU13d3BNYTVVWnBOSENrMnbSAXNBVV95cUxQYW9KdE52Q295X0p4UkhhQW90T3NZWkpycE9LT3RPNmljZlRVRDRxeDcyd3p2NkRfRFdZdXpaTzVEeUx0Vk83ZFhqemhaRFdwWmFfaVlCOGdSMmlBU2dPcDRVSVlOUjMyUUZvWmFPejZfX0dF?oc=5",
           "published_at": "2026-10-01T06:54:22+09:00"
-        },
-        {
-          "title": "10월 증시, 금리 공포보다 실적…AI·반도체로 좁혀지는 승부 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DLTVfd2xZcUNYNVpFNnZVWjgyanNBQWUyZzdCUWhaY3Y4MWtOaTE3VU1XaDF5WDN0ZzFxVVZrYVNFNC1xSzBMc2lWdVBpRlV6UU5kMFhEUnhMMGdQSlBNVlZvX01ZZkJxdXAtZzZhZEE?oc=5",
-          "published_at": "2026-10-01T06:41:00+09:00"
-        },
-        {
-          "title": "경기도, 장애인 자립지원주택에 ‘AI 자립비서’ 도입…10월 시범운영",
-          "source": "경기도뉴스포털",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXpUck9PWFo0WjAtVUJzdDhoTklwMWx0WmhFa2VsU1hhQTdrMXprUWt5REpKeENaMExCWjE0dEYyS0JjcVpuZEtVRkRVdkd1dTFENWxLUWdGT3h5RlczTkRfUUg2ZGhkTWlhZTJvbWlPcGhxd0pmX1FEWTJzRm9mX1BUNjk?oc=5",
-          "published_at": "2026-10-01T07:00:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -73,7 +73,7 @@
         },
         {
           "title": "[기획] AI 데이터센터 경쟁, GPU 넘어 ‘냉각 기술’로",
-          "source": "서울경제TV",
+          "source": "sentv.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSVZ1Um85OElhWXJ1OE44YzZDTU5Cb1JHNmVPN1hFUVJSYXk1OFpaeC1NNHFGb0ZyNTE4aXFUZ1lETFQzNHNFMHNobDlOb3FmUjc3cE9lckFTSHowXzN1cTdzclI?oc=5",
           "published_at": "2026-10-01T07:00:04+09:00"
         },
@@ -96,16 +96,16 @@
           "published_at": "2026-09-30T08:50:52+09:00"
         },
         {
+          "title": "수원소방서, 경기도의원과 함께하는 삼성전자 수원사업장 현장안전지도…화재 대응 협력 강화",
+          "source": "sobangnews.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52MldRcU9idEdiWDVvcDM5b0RLY1ZUQTJMYWxvWnJaTHRDQ3dCR3lBZmVMMlNiRlhzUXBYZUVmVndkNlJQZ2xSS2hJUzVwalc3N1lzbHVDRHd3WXdGaE1CeGxXcjhaZmlVT2tN?oc=5",
+          "published_at": "2026-09-30T19:02:28+09:00"
+        },
+        {
           "title": "\"美 AI 인프라 기업에 1조3600억원 투자\" 삼성, 데이터센터 전반으로 AI 사업 확장",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHhwRmRlanRySkx5OUJYNzVfamItTlFCQV9LOGRRU0hOM1NMT01EbGt4YkpzS2ljeENuM056R1ZyZHBLMDJSdEhXOE85TmRoSmxYLW5GX1dLSlNfdVBEWi13eVpLVi1DMmVTX29ZV2ZoUkpJbGRSellpVmdrNGo0TWhjVQ?oc=5",
           "published_at": "2026-09-30T00:33:00+09:00"
-        },
-        {
-          "title": "수원소방서, 경기도의원과 함께하는 삼성전자 수원사업장 현장안전지도",
-          "source": "뉴스팟",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE11eTZXMDlrclpOSmlGSkNqX3AwVVM3NUFBaEQ1eFdXdTc4ZUtjUHU3TlZKUy1FODlCUTBSVVRmM19UdGM?oc=5",
-          "published_at": "2026-09-30T17:20:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -151,7 +151,7 @@
         },
         {
           "title": "전국 집값 양극화 사상 최대 … '서울만 평탄화'의 역설",
-          "source": "뉴데일리",
+          "source": "biz.newdaily.co.kr",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fQWY4dWY5N1FPTEdyWjlPWDdKMUY4UWFEXzFiYjhLWmgzM29vdWVvUUZjdEpZYm55UW4xSmNOUGZKY1MzNWZQQlpHM0FtVktOOXNPX3lzTzdsUVJOS09jQWs4eUJELV9aaFQ3NEhERDZOUW5GSGxscnhxa9IBgAFBVV95cUxOVS1wMDVvM3pIdnVSeHVnSnI3TGZXbENIeHRGc1NNZDAyYlJacmlFc1lHMVZFZmRpUTdyenBmU25Jc0p5ZnRmX1JiZjVzMTI3aVRzYU44RmRYakVQRjhXcmN6X0I3U1YwR2VZblB0QzA0cS0wbjBvRFRnei1Td3BYcw?oc=5",
           "published_at": "2026-09-30T15:30:44+09:00"
         },
@@ -174,19 +174,19 @@
       "items": [
         {
           "title": "‘최형우 쐐기 3점포+후라도 9승’ 삼성 라이온즈, 한화 꺾고 4연승 질주…KBO 최초 ‘팀 5,600홈런’ 금자탑",
-          "source": "yeongnam.com",
+          "source": "영남일보",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yVjJRdUhHaUhNbjlPZWhpeGRLT01GYllvQVI2aUEzcVJOVDAwOGduZ3hKNWJTdFlYTGMwN0QyeVBCZVdLdkFKZ3MxNU9hTWZGVWVOVERfRTh2YXJDeEFLYjBRcnhTbGJicUg0?oc=5",
           "published_at": "2026-09-30T21:30:07+09:00"
         },
         {
           "title": "`후라도 역투에 힘 실은 최형우의 한 방` 삼성 라이온즈, 한화 꺾고 4연승",
-          "source": "imaeil.com",
+          "source": "매일신문",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSzFoaXltYkdGRURwVDJMWVI0QnYtLS00WkpFekhhSlF6MWw1VC1pM0QycVRwZWhHTFp1cmdHT3pIUnNEU0NmdnV0XzA3YTN1cEs1TE16Q1NZajJScEZKc2x3?oc=5",
           "published_at": "2026-09-30T21:33:13+09:00"
         },
         {
           "title": "삼성 대형 악재…'타율 1위' 구자욱, 햄스트링 통증으로 교체",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcU9NR21kVG0zSUxlMUZ1TmtsR0M0bDBSaWxTWEFOQTJBaVg3RHFHaXEyWXplVThWbDVwa0VXYzRmdFZCQkJCNEVIMjQyOTZDdVUwYzE0WQ?oc=5",
           "published_at": "2026-09-30T21:10:14+09:00"
         },
@@ -198,7 +198,7 @@
         },
         {
           "title": "“남은 경기 모든 것 쏟아붓겠다”…삼성 라이온즈 ‘안방마님’ 강민호, KT 추격 불씨 다시 지폈다",
-          "source": "yeongnam.com",
+          "source": "영남일보",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SNFBTQ3pSNGlwT3czN1d0djhud3pJX0RXWVNXcFJlcGNDU2xnYjBBNkxMSldkZmpNVlZUaUZ6a2RSYjJIZDJaZy15blA3WENpRGFJNEQ2dkx2ekt5RDhjSFRjUFIxVERvc3Vz?oc=5",
           "published_at": "2026-09-30T10:40:11+09:00"
         },
@@ -216,7 +216,7 @@
       "items": [
         {
           "title": "[혁신도시 10년 원주] 대학 연구성과는 기업 성장으로, 인재는 지역 정주로",
-          "source": "joongang.co.kr",
+          "source": "중앙일보",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95SnZFbkNaZDVleTlCN0dfXzhpMFRoU0pUSDNPYmViSjVRWkd5Q1ZsejV2cjh6Q1E5MTJiWE1kWF9YTE5YWVFqY092cm1HY0o2OVJ4Yll3?oc=5",
           "published_at": "2026-10-01T05:30:00+09:00"
         },
@@ -258,13 +258,13 @@
       "items": [
         {
           "title": "[현장] 한국인 100만 명 찾은 이탈리아, 다음 목적지는 ‘소도시’…슬로 트래블 뜬다",
-          "source": "트래블바이크뉴스",
+          "source": "travelnbike.com",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwYUhuaUxyS0RQUFlNSm9ucDNiaDBLQTg2U0RKY29qRkFCRS1ndTZiQmxYNENZTjhNZFhWLWR1aUVUcjJ5bVdJelNNOUR0V2pXczFyck52b0RFOUNhV2stQW5QRlJWRm0xendjNGVB?oc=5",
           "published_at": "2026-09-28T21:36:22+09:00"
         },
         {
           "title": "[현장] 오페라 보고 농장에 머물고 알프스 걷고…낭만 더한 이탈리아 여행",
-          "source": "열린뉴스통신",
+          "source": "onews.tv",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOHN0clVEeHc1U2x2cERaWHNOUlc2MFVYYktrWlJ0dWdkNWwxRV9TRENxS0dMZEFnbjFxVjJEaEd6S0NkbFhVOUI1NWR6WFZnRzBSakJzMnQxV0RQWVdHZUxtZHV0dw?oc=5",
           "published_at": "2026-09-23T16:30:53+09:00"
         },
@@ -275,16 +275,22 @@
           "published_at": "2026-09-18T08:12:18+09:00"
         },
         {
-          "title": "“이탈리아 찾은 한국인 100만명 첫 돌파”…로마·피렌체 넘어 소도시·돌로미티로 여행지도 넓힌다",
-          "source": "투어코리아",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZnotTzRTd0h6V1RpeW55b2F3NmF6ZXdiS1hjRktlNUloYUhRZlJlU3NYV0ZxZkJOdWVkQ2JCd2g0UmFMck9rYzU3SGdTenFsN3NYQ2VURVpOVTdUVHJ1ano4bURUN0ZsdlQtUWtn?oc=5",
-          "published_at": "2026-09-22T17:21:33+09:00"
+          "title": "이탈리아관광청, 서울서 ‘Workshop Italia(워크숍 이탈리아) 2026’ '열기 후끈'",
+          "source": "대한일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oVENKOEFObWNMdnkxOHJjemNnZXNia3psazZaZzJqb0oycjF1Zi1lS3dQYjRPeXprek9vVDV4cGgxNTQwNWlmWDlDTUluOXlYVnFrMnVCU2JLSm9hZ2NLUFBSNDEyV0cwMUFmR3ZlWQ?oc=5",
+          "published_at": "2026-09-22T11:26:01+09:00"
         },
         {
           "title": "[여행소식] 이탈리아 찾는 한국인 100만명 돌파…소도시·슬로 트래블 뜬다",
           "source": "yna.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcm5qb3RLeTM2WWpZcnFQVlR6bUJzUUxkYkptTF9sdU1VRnNQUER5dmxfakJOOU9Zay1JRko2T3NCRm1TYktnUDN2NDFnQzAtaTNZLTluMXdKRHfSAWBBVV95cUxQX3haZF95RW9Yd0hvblFYcFFwaHRKUFV4clItWnNyQ2d5d0N6NlBWWFd1MVBRS3RRQzYtdFF1b1NvTzliM3hzbXpSNzljb2VlZTZGRzN2bm9JNGo1RzFrUmk?oc=5",
           "published_at": "2026-09-22T14:07:42+09:00"
+        },
+        {
+          "title": "“이탈리아 찾은 한국인 100만명 첫 돌파”…로마·피렌체 넘어 소도시·돌로미티로 여행지도 넓힌다",
+          "source": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZnotTzRTd0h6V1RpeW55b2F3NmF6ZXdiS1hjRktlNUloYUhRZlJlU3NYV0ZxZkJOdWVkQ2JCd2g0UmFMck9rYzU3SGdTenFsN3NYQ2VURVpOVTdUVHJ1ano4bURUN0ZsdlQtUWtn?oc=5",
+          "published_at": "2026-09-22T17:21:33+09:00"
         },
         {
           "title": "[현장] 이탈리아관광청 ‘WORKSHOP ITALIA 2026’ 성료.. 한국인 100만 명 찾은 이탈리아, '소도시·슬로 트래블'로 새로운 지평 연다",
@@ -341,10 +347,10 @@
           "published_at": "2026-09-29T16:17:49+09:00"
         },
         {
-          "title": "경북문화관광공사, 경주세계차문화축제서 경북 관광 매력 알린다",
-          "source": "경북매일",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raW5NanE0azltMXZORVFlRHl1SzJMUGpnSW1DRkRoUkE0T3ZxTGZWN05KVGFqbmZFbTlERFNGSi11M0JMeW5KdGM0eFJfb3lQcndwbGt1MTVmdw?oc=5",
-          "published_at": "2026-09-30T10:09:00+09:00"
+          "title": "천년 신라의 울림 경주에 퍼진다… 경주 신라소리축제, 10월 개막",
+          "source": "울산종합일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtT3gzUC1acXA3blU2T1dXaDZNbFFnRUlRQ1pGd0VNYzJfUlY1bjFxZ0lQT0hmQ1JQdFc2UlRsSXhGUjJiSk9kZ1VOcVhsLTd2d3MyRndjNllVbmI5akx0YjQ4S3loWmxJLW1LN0hB?oc=5",
+          "published_at": "2026-09-28T10:16:09+09:00"
         }
       ],
       "window": "최근 14일",
@@ -353,17 +359,17 @@
     "top": {
       "items": [
         {
-          "title": "[뉴욕증시] 연준 매파 발언·장기금리 상승에 하락…다우지수 0.26%↓",
-          "source": "신아일보",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kYi1KVldlRnd0bElDUTVBUGFRR05mS3QxRDVrOFI1Y1hidk5aUEJ5VlFoRFRHbl9LbFM0S2VmdDc4a01BbDV2WGR4ZVZiRHdIQzNnNWNBaXZ5TVhXYmhfS2lIeU9qSWtUYVhLaTBsN0U?oc=5",
-          "published_at": "2026-09-30T08:28:13+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "뉴욕증시 혼조 마감…미 장기금리 20여년 만에 최고",
           "source": "스페셜타임스",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OTZITkpMaXVxZ2RCUXVkejhWSU1nbkhjRFlSZGNMWTZjWTRtek0wSk9wZDdtZDJpUEZxaUpmSHBZcWFGeFFoX0lKVWdsOTFqV3BSRC05c1ZwSk9iQldlUFUxOE5LVW83WlpEZElTRDF5QQ?oc=5",
           "published_at": "2026-10-01T06:33:23+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[뉴욕증시] 연준 매파 발언·장기금리 상승에 하락…다우지수 0.26%↓",
+          "source": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kYi1KVldlRnd0bElDUTVBUGFRR05mS3QxRDVrOFI1Y1hidk5aUEJ5VlFoRFRHbl9LbFM0S2VmdDc4a01BbDV2WGR4ZVZiRHdIQzNnNWNBaXZ5TVhXYmhfS2lIeU9qSWtUYVhLaTBsN0U?oc=5",
+          "published_at": "2026-09-30T08:28:13+09:00",
           "category": "세계 경제"
         },
         {
@@ -382,14 +388,21 @@
         },
         {
           "title": "[환율 전망] 금리는 중력인데, 원화는 공중부양 중",
-          "source": "KB Think",
+          "source": "kbthink.com",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDJiN2tCZS1ySjROZ0NXUzNDVmVsOVdVeldHMTlMM1BYcHBmLU9VTkR1Zkc4NG5tVDAzSmJpeG8zX3hPRHV0VHBwRmxXM2xZejA2TlZiaWVLQnlnY3J0cg?oc=5",
           "published_at": "2026-09-30T07:58:26+09:00",
           "category": "세계 경제"
         },
         {
+          "title": "\"서울·수도권 더 오른다\"⋯전문가들 전세 상승 '이견 없음' [4분기 부동산 전망②]",
+          "source": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHZnBqTGx4WWlJdHJyeWRoZHFJb1F6RWZ0RF9idUd4SG1zN3F1eDBUdVRDUkthLVA0aGhXWFFMU3BHaXZhcUd0dWU1ZjA4Y0xnOGtqMnNKUVFzWG5YNW55eklRODZJVlpMQUM0eGRR?oc=5",
+          "published_at": "2026-10-01T06:00:00+09:00",
+          "category": "부동산"
+        },
+        {
           "title": "가을 분양시장 큰 장…아크메르 동탄 등 10월 4.6만가구",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTmgwYnpPZndjWUdtQVg3enhGZERMZEJBSkE5U0xPaHdlZXJ0M25sd2RHZEFkTTZJY2dQWTc3Ylo1bmx5VlRDdk41UUx6ZUw3SDJWR0FiOVdzNUNCRmdna1V1ZktlWFZxR1RXWXpvRk1wQlNNMmlycNIBeEFVX3lxTE1OTmgwYnpPZndjWUdtQVg3enhGZERMZEJBSkE5U0xPaHdlZXJ0M25sd2RHZEFkTTZJY2dQWTc3Ylo1bmx5VlRDdk41UUx6ZUw3SDJWR0FiOVdzNUNCRmdna1V1ZktlWFZxR1RXWXpvRk1wQlNNMmlycA?oc=5",
           "published_at": "2026-09-30T10:02:07+09:00",
           "category": "부동산"
