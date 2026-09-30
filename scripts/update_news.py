@@ -34,6 +34,7 @@ FEEDS = {
     "samsung_baseball": ("삼성 라이온즈 경기 결과 OR 삼성 라이온즈 경기 일정 OR 삼성 라이온즈 구단 소식", 6),
     "science_tech": ("과학기술 OR 신기술 OR 연구 성과", 6),
     "italy_travel": ("이탈리아 여행 OR 로마 여행 OR 베네치아 관광 OR 피렌체 박물관 OR 밀라노 관광", 12),
+    "gyeongju_travel": ("경주 신라문화제 OR 경주 문화유산 OR 경주 박물관 OR 경주 역사축제", 8),
 }
 
 DOMESTIC_POLITICS_TERMS = (
@@ -142,6 +143,10 @@ def build() -> dict:
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
                 result["items"] = [item for item in result["items"] if "이탈리아" in item["title"] and any(term in item["title"] for term in travel_terms)][:limit]
+            elif name == "gyeongju_travel":
+                result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
+                heritage_terms = ("신라", "문화유산", "박물관", "축제", "유적", "역사", "관광", "여행")
+                result["items"] = [item for item in result["items"] if "경주" in item["title"] and any(term in item["title"] for term in heritage_terms)][:limit]
             else:
                 result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)
