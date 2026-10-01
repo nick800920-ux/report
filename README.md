@@ -10,9 +10,9 @@
 - 아겜: 홈페이지의 2026년 9월 25일 아시안게임 경기·기사 요약 스냅샷
 - [삼성SDS 사업·재무 분석](sds-report.html): 공개 DART 공시와 공식 IR 자료 기반 보고서
 - [뉴스 수집 스크립트](scripts/update_news.py): Google News RSS에서 제목·출처·발행 시각·원문 링크만 수집
-- [자동 갱신 설정](.github/workflows/site.yml): 매일 오전 7시(Asia/Seoul) 실행을 예약하고 GitHub Pages에 배포
+- [자동 갱신 설정](.github/workflows/site.yml): 매일 오전 5시 45분(Asia/Seoul)에 최신 기사를 수집하고 GitHub Pages에 배포하여 오전 6시 갱신을 목표로 함
 
-GitHub Pages를 처음 활성화할 때 저장소 **Settings → Pages → Build and deployment → Source**를 **GitHub Actions**로 설정해야 합니다. GitHub Actions의 예약 실행은 지연되거나 누락될 수 있으므로 정확히 7시 배포를 보장하지 않습니다. 뉴스 화면에는 실제 마지막 수집 시각과 오래된 자료 여부가 표시됩니다.
+GitHub Pages를 처음 활성화할 때 저장소 **Settings → Pages → Build and deployment → Source**를 **GitHub Actions**로 설정해야 합니다. GitHub Actions의 예약 실행은 지연되거나 누락될 수 있으므로 정확히 6시 배포를 보장하지 않습니다. 뉴스 화면에는 실제 마지막 수집 시각과 오래된 자료 여부가 표시됩니다. 여행 일정·세금 달력·학습 기록 등 고정 콘텐츠는 매일 무조건 바꾸지 않고, 새로 확인된 정보가 있을 때만 수정합니다.
 
 날씨 영역은 페이지를 열거나 새로고침 버튼을 누를 때 Open-Meteo 예보 API에서 양천구 부근의 현재 기온·당일 최저/최고기온·최대 강수확률을 조회합니다. 연결 실패 시 오래된 예보를 표시하지 않고 기상청 링크로 안내합니다.
 
