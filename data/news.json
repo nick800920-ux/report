@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-10-01T08:03:14+09:00",
+  "generated_at": "2026-10-01T10:01:01+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "대학 교육 AI 중심으로 전환…AI중심대학 18곳·AX대학원 15곳 출범",
-          "source": "정책브리핑",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRWsySzIyaFVpYnNISlBLV1IzUnNiQk5KczhoYU4xTUc5TzZUQ2I2YmpGZmZOVzU0ZkpRWXpaN3FBR2QxOWF2NXc0ejgyUnRjdVg3R0NUcm44cGoyUHZLVi1CTlh4N2kwUGE2cA?oc=5",
-          "published_at": "2026-09-30T12:38:07+09:00"
+          "title": "[인터뷰] 구글 떠난 연구원 “AI는 스스로 자란다, 해결책도 없다”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
+          "published_at": "2026-10-01T07:13:40+09:00"
+        },
+        {
+          "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력 | 뉴스 | 현대자동차그룹",
+          "source": "Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU5oRUFFTVlEbmZlVHA5YzZSY1hRQkhjbzZLd0JueE5vVXFiU05DOEhSX0o5RnE1ZDIyUGxSMFJ1VkhjRXRCbmZNMW1yZzBNdjh1Z0lMQUxtTWpRdlJ5ck4ycmd6WUttWHRQTVE3MzVESVN1NGZmSm5weUdqMXdYOFY3eTg2ZUNPOVQwaHkzNE5qbHlrWWUyZUFOb29RZ0lydlFWMWktVFpKbTZOUG5qSzdLZ01EOGczZlA3eU5PLVY?oc=5",
+          "published_at": "2026-10-01T08:30:00+09:00"
         },
         {
           "title": "美 마이크론, ‘AI 붐’ 타고 실적 5배… 韓 반도체도 청신호",
@@ -18,40 +24,34 @@
           "published_at": "2026-10-01T07:09:00+09:00"
         },
         {
-          "title": "서울대연구팀, 판결문 최적화 AI비식별화 기술개발",
-          "source": "sciencetimes.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWxuOTl5R2dDZG56MFpGUVFwRVpvYXYxS0VmcmsxajNUdWctY3ZWenc5bU5HbnZjZGdOMkc2ZWVtZWNOR1JtSnlUSTI3VnRHaTVRM2tzdEdLaTk1dFgxQUpNV1lRZ3hlMGRIQjJ1M3ZtdnVHbTc2Zkl5UGhsRzRjSjQ0eldSVFQxQS12SG5MRQ?oc=5",
-          "published_at": "2026-10-01T07:05:02+09:00"
-        },
-        {
-          "title": "글로벌 공급망 주도권 쥔 삼성… 韓 ‘AI 반도체’ 격전지 부상",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaOWxiODd0QWNNQ2Qtb1plSHBZcmpvY3ZOQjBVM1gweGpiRTlNODQ5TTJzQjVTZmpaVzhPX0tONnI0emZpVkpkY3AwUjhKbVE?oc=5",
-          "published_at": "2026-10-01T06:05:00+09:00"
-        },
-        {
-          "title": "마이크론 실적·전망 예상 상회…AI 데이터센터 매출 11배 폭증(종합)",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtemRxekZNSXpLeE5wNXJIOFR6alBxMUpxa1JnV1RGcXU3cl80b3YxbzJDc3JaRkJpRXU5Z3FpNDczUjdkeFIwLXdZNEVFSTJJYzZLc3kyTkRkTEl3bFd6OW5uNFBYTjDSAWxBVV95cUxQaTV4ZDdXN3I4OEQxenJ4LTBKNDJlYldELU1DQjlOdC1QZEF6bHRFVktJM2hvQVdIaVItWkFlYUJDU0R1MENMRWFGZFB1QWRwZG4tRmlhMVhQZG5fdDZieXZPWkxPY3BXREUzM3Q?oc=5",
-          "published_at": "2026-10-01T06:20:53+09:00"
-        },
-        {
-          "title": "LG전자, 美 버지니아에 '칠러 공장' 신설…AI데이터센터 수요 잡는다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11WlBkWGpvNHUwOXlxbHp4cjBrY0VuVE16TTI3THVsNXB3WXRFRmJRc0JIQlYwOWJtZmJOSm5YRmJ0VldMRHZxZVk2YnRXRzdLTFFtaUtwa3hyYnAxQjdzNGxhdGNzMTlXZmxYZdIBckFVX3lxTE83QjRPTXIzWnkzcDNHZEVTVUcxVzYtdHBvdlFTZ0ZBenZXZ0pqbHBWV2FDcmNGR1VHSHN1eklNTUJWYU5OSnRXUU1jSGNtSFJacGxvZW1yZmttal9LNmpFRW9TVUZPRl9DZS0zWkRfWTZaZw?oc=5",
-          "published_at": "2026-10-01T07:19:47+09:00"
-        },
-        {
-          "title": "SKT·카카오·KT, 10월 중 '모두의 AI' 첫선…전국민 무료",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaEhYZUlCMWJuU3dIU0NDOEhwOG81bGdUOGd6eGFSMGs3YVNCSVYtTXRKNkhFLUlpcjBOTTZSSi1va1BFQm1iLWZUZmxocmJyLWpvVkxUbHg2aknSAWBBVV95cUxORDY3SlpfWk9vZUo3RXVBc0VXR2IxOUIxbFpwZjJqU2RQcjI5Rk1JeW5lYTg2bGlpbmt2LUZuX2lEcjA1WTFHWDZnT0NNbnVuRER5dFZrTmJZdVpFZGpNZlc?oc=5",
-          "published_at": "2026-10-01T06:13:01+09:00"
-        },
-        {
-          "title": "'빅 쇼트' 버리 \"증시 폭락해 오픈AI·앤트로픽 IPO 막는게 인류에 도움\"",
+          "title": "\"AI가 주담대 실행한다는데\"…금융위, 규율체계 마련 착수",
           "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45N3ktSlRnVVFGMTU4VGhEYmlrcFFMX01fUmhXX3RReXpXODZoa2pYY3ExelYyNHNza2dqcUVjWjdJU2hOS1hMazZXS2ZqNkJLSWM2UmlaZEgxMFJWOGJRUzlDb3lCQlJHSVJuLU9UYW4?oc=5",
-          "published_at": "2026-10-01T07:36:15+09:00"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUGJza3NROVBQWjhsYllxM3NUV2U0QTR3UTl5U2laMFJDdW54MkNmdVE2SDE3aWNGaFpGMjFSOGdfaVByMzV1V2U1UmFiLXdyblZ2dlVCRFRQRnZyQzFCNGhOS00zRGh3a29fSWVsRXnSAXRBVV95cUxQSkprUmYwTzlPVmNGZjVjb29NNXhaZ2tKVE54NGc3ZmRkMlcxYmdmbzZGa1FLRkdLUExhUEZVNjdoby1HU3RKRWk2OEJNWFA4ZXczSm43T1BWbmVQVV9ZYmlfTklfckd4VnNYYmVpN0cyYTFGTw?oc=5",
+          "published_at": "2026-10-01T09:04:26+09:00"
+        },
+        {
+          "title": "대학 교육 AI 중심으로 전환…AI중심대학 18곳·AX대학원 15곳 출범",
+          "source": "정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRWsySzIyaFVpYnNISlBLV1IzUnNiQk5KczhoYU4xTUc5TzZUQ2I2YmpGZmZOVzU0ZkpRWXpaN3FBR2QxOWF2NXc0ejgyUnRjdVg3R0NUcm44cGoyUHZLVi1CTlh4N2kwUGE2cA?oc=5",
+          "published_at": "2026-09-30T12:38:07+09:00"
+        },
+        {
+          "title": "대원씨티에스, 카자흐스탄 AI·디지털개발부와 AI 모듈러 데이터센터 협력",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iaHpyTTZONDBYYnhrczh3YzFwVEhRckk0RERXVXFJYXJ0dE14LW4xcDNyaTFTZmV0NURYN3RKa1puM19IOWhWWnZGa1FHQQ?oc=5",
+          "published_at": "2026-10-01T09:47:45+09:00"
+        },
+        {
+          "title": "기아, 인도 쏘렌토에 '차세대 AI 비서' 전격 탑재…\"헤이 기아\"로 지능화 차량 포문",
+          "source": "더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aa2oxUHNIZjRybS1LSzVMYXpLZnJRR0ZFcjBIaklJVmxDajlqN2pNeGNQTVAyeVhhU0stQmF3MkoyRkEzTGs2MFBsYk1oYndSYzJMZWM4UUo0aTJZUlpWRTlUbw?oc=5",
+          "published_at": "2026-10-01T08:15:58+09:00"
+        },
+        {
+          "title": "인천보건환경연구원, 생성형AI 활용해 소음원 자동 분류 실무 시연",
+          "source": "인천투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SXFtTkJ1UkI2UlVBZk9CbERoWXhqeUdjUF83VnpfdDBSbjBsR2p0OHQtS2I5Mk1iNzhXR2NxTkRTZG5nWkFhdWE1a2ZFM2Rwcy1sWkRaenpMQnU5d2V1UDFmTXhINlI3VWRab2Q1c2s?oc=5",
+          "published_at": "2026-10-01T09:07:43+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -60,10 +60,28 @@
     "sds": {
       "items": [
         {
+          "title": "다올투자證 \"삼성SDS, AI 데이터센터 본격 확장…목표가 27만원\"",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVk5xanhzUGctTC0ya3EzS0RJNnQzS01zZUdVWVJSbVBrNDFuVG9tUkhJVDF5bmxMd01GS0VOUkUyYUJ5QzhIQlB2dkMwazRVTVJ4QktHWXFFYkV2OG8xVg?oc=5",
+          "published_at": "2026-10-01T09:01:14+09:00"
+        },
+        {
           "title": "[GPU 똑똑하게 쓰기 (1)] 모델 학습은 더 쉽게, GPU 활용은 더 효율적으로 - Managed Training과 Mixed Workload",
           "source": "Samsung SDS",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWljNkRvbkRRdVdlOUFYSTJrbVk5THNOTFdmVzVDLU9GZ3FHaEV2R3hBd3hONnpQeU5vNDBpZ2pGMVlDbW41UWJDdnpmaHNCMUtoaUowTzBjNFhSdXVlb2F4RU1aNllpazA0a2JsUXB3aDQ3S2VaTmZWVy1ob0pzRA?oc=5",
           "published_at": "2026-09-30T15:03:52+09:00"
+        },
+        {
+          "title": "삼성SDS, AI 전환 수요로 성장세 뚜렷…영업익 1조 시대 목전",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sa1FTZWhGVHFDU2YwMmFFSmNCTGNVRktNanNuYWpFaWFKel9vZXNMU1hqZXN3akZaNVNvSzh5VGJDUExPS0lDU0UtSFdZT1lHSkNnMmFVSE9idw?oc=5",
+          "published_at": "2026-10-01T06:00:18+09:00"
+        },
+        {
+          "title": "삼성SDS, '로봇 관제'로 RX 사업 확장 [현장 속 로봇 ①]",
+          "source": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XMk9TclRtZkg3TGVHbjMxb3UycFR6QUg3cFYyWkF0ejFxUi02U0ZQcnR1aFhJTnppRHpFNnl0VGlFVWd6NXVnNGhuQ0o3Q0tSN0NqMlZiQWdtOGZfQ25lX0V3cGZkc1Y0?oc=5",
+          "published_at": "2026-10-01T09:58:22+09:00"
         },
         {
           "title": "구미시, 로봇 국가첨단전략산업 특화단지 지정…‘휴머노이드 제조 허브’로",
@@ -82,24 +100,6 @@
           "source": "녹색경제신문",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ODdEQ3p0ek05WWpmLUhnUm9uNVN6S1FHRXJyVnZpREFWeEVpOWlfbUNOSXU0UUFIcnZXVXBiT0lBN2lvM2RJNVhDWjhUOFdwY21FejgwTVc2Z25BdDBFQlVRODl0RG5h?oc=5",
           "published_at": "2026-09-30T15:37:28+09:00"
-        },
-        {
-          "title": "2,174억 'K-에듀파인' 고도화, 아이티센엔텍이 삼성SDS·LG CNS 제쳤다",
-          "source": "조달경제신문",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbWtpY3V2d3VLOFoyTkYtbmgtWVN5SlAzcjhZZnp6MjJqZ0ZtSk5XMWNyeVpvTG43MlBzU1lERVJFT0hGaXZyOWhyXzQxNUVGNlY4OWZqR1NvZjlGRVN1RE9randEU1NzQTlROFdB?oc=5",
-          "published_at": "2026-09-30T10:12:22+09:00"
-        },
-        {
-          "title": "“삼성전자, 메모리 사업의 가치 재평가 기대”…증권가 분석 보니",
-          "source": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RNzAxelpxbnRRdVkwNlJXU3hDeVpWMHJqVFNzWHducnFVQzFhQlVzVkd6OFhvekg4OXkyTnR2dnBSM2RoYU4zQURjMFdidDBMdnc?oc=5",
-          "published_at": "2026-09-30T08:50:52+09:00"
-        },
-        {
-          "title": "수원소방서, 경기도의원과 함께하는 삼성전자 수원사업장 현장안전지도…화재 대응 협력 강화",
-          "source": "소방신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52MldRcU9idEdiWDVvcDM5b0RLY1ZUQTJMYWxvWnJaTHRDQ3dCR3lBZmVMMlNiRlhzUXBYZUVmVndkNlJQZ2xSS2hJUzVwalc3N1lzbHVDRHd3WXdGaE1CeGxXcjhaZmlVT2tN?oc=5",
-          "published_at": "2026-09-30T19:02:28+09:00"
         },
         {
           "title": "\"美 AI 인프라 기업에 1조3600억원 투자\" 삼성, 데이터센터 전반으로 AI 사업 확장",
@@ -146,7 +146,7 @@
         {
           "title": "\"그때 살걸\" 집값 1억 '껑충'...강남 주춤, 10억 이하 아파트는 뛴다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5idzJDM1lra0M0YWdkZ2Fhc1VZVDdhZlBGeWd0aUg3M3VmTkUzWXdVekpQWWtqMHQxdWZCWjd2eVVyUE1BUl9URlhmMGhtWTNXZ21LLVRsZElYMU8yM1NENVRiTWo4c3ZMOWQzUWx4RdIBb0FVX3lxTE5idzJDM1lra0M0YWdkZ2Fhc1VZVDdhZlBGeWd0aUg3M3VmTkUzWXdVekpQWWtqMHQxdWZCWjd2eVVyUE1BUl9URlhmMGhtWTNXZ21LLVRsZElYMU8yM1NENVRiTWo4c3ZMOWQzUWx4RQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qbE5UZ1NiT0xfelR5QTBjZjZwMlBBeWVnRUFwTV9TQ2d6MExuTDVPSTVSTTV5allSQVlGMWVYNU1aa1BSVUx5cjN1b2Zyek55TEpCc2YtQ3NLcTJlUUxld3RTV21TYUNUMUHSAW9BVV95cUxOYncyQzNZa2tDNGFnZGdhYXNVWVQ3YWZQRnlndGlINzN1Zk5FM1l3VXpKUFlrajB0MXVmQlo3dnlVclBNQVJfVEZYZjBobVkzV2dtSy1UbGRJWDFPMjNTRDVUYk1qOHN2TDlkM1FseEU?oc=5",
           "published_at": "2026-10-01T04:00:00+09:00"
         },
         {
@@ -174,7 +174,7 @@
       "items": [
         {
           "title": "‘최형우 쐐기 3점포+후라도 9승’ 삼성 라이온즈, 한화 꺾고 4연승 질주…KBO 최초 ‘팀 5,600홈런’ 금자탑",
-          "source": "영남일보",
+          "source": "yeongnam.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yVjJRdUhHaUhNbjlPZWhpeGRLT01GYllvQVI2aUEzcVJOVDAwOGduZ3hKNWJTdFlYTGMwN0QyeVBCZVdLdkFKZ3MxNU9hTWZGVWVOVERfRTh2YXJDeEFLYjBRcnhTbGJicUg0?oc=5",
           "published_at": "2026-09-30T21:30:07+09:00"
         },
@@ -197,16 +197,16 @@
           "published_at": "2026-09-30T08:00:05+09:00"
         },
         {
-          "title": "“남은 경기 모든 것 쏟아붓겠다”…삼성 라이온즈 ‘안방마님’ 강민호, KT 추격 불씨 다시 지폈다",
-          "source": "영남일보",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SNFBTQ3pSNGlwT3czN1d0djhud3pJX0RXWVNXcFJlcGNDU2xnYjBBNkxMSldkZmpNVlZUaUZ6a2RSYjJIZDJaZy15blA3WENpRGFJNEQ2dkx2ekt5RDhjSFRjUFIxVERvc3Vz?oc=5",
-          "published_at": "2026-09-30T10:40:11+09:00"
+          "title": "3연승 달린 삼성라이온즈···페덱 9K, 김성윤·강민호 '3안타 3타점'",
+          "source": "대구MBC",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05Z0R0UjB5SmowZkVyU3pVcE1hRUpEaHBOZ0g4VXNKNVBDdVR2cl83QXJLU1A4amFEUmpwOHZEeUNDbDdTb1A1WDdTOEw?oc=5",
+          "published_at": "2026-09-29T22:38:43+09:00"
         },
         {
-          "title": "리센느 제나·원이, 신제품 받더니 삼성 라이온즈 시구·시타까지",
-          "source": "네이트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWE1BcXNnOHdZd2pGNlNMdGM4Sm1XcVBUNUNMNUlrNEdnQnE1Q2VLdGZhb010WEE4eGdNcFJsaGVySE5jckJPNEFDM3BuTTZSek9JbXpHOFZndERjdkQxLQ?oc=5",
-          "published_at": "2026-09-30T09:34:00+09:00"
+          "title": "“남은 경기 모든 것 쏟아붓겠다”…삼성 라이온즈 ‘안방마님’ 강민호, KT 추격 불씨 다시 지폈다",
+          "source": "yeongnam.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SNFBTQ3pSNGlwT3czN1d0djhud3pJX0RXWVNXcFJlcGNDU2xnYjBBNkxMSldkZmpNVlZUaUZ6a2RSYjJIZDJaZy15blA3WENpRGFJNEQ2dkx2ekt5RDhjSFRjUFIxVERvc3Vz?oc=5",
+          "published_at": "2026-09-30T10:40:11+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -227,28 +227,28 @@
           "published_at": "2026-09-30T17:00:00+09:00"
         },
         {
-          "title": "농진청, 노인의 날 맞이 핵심 연구 성과 소개",
-          "source": "전북도민일보",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVU93Rlk0OTdwY1JmR1B0anRtR3FSaEJiQnFpVFl1d245VXU3UmFkdTF3eG9EZ0s3VmRMdnF3WFp5LUNOUjU4RlpibmdySGc2SE5yRkhSekxRNHU1OGVIRmFFb2Q4Z1U2UGEwLTlhUWZuRVhKakJJeDdzTFZRNXlmSDBtS0ZVdXc?oc=5",
-          "published_at": "2026-09-30T17:08:00+09:00"
+          "title": "[비즈초대석] 프레스티지바이오파마, 강태흥 IDC신약개발본부장 “추가파이프라인 준비 완료...연구 성과 드라이브”",
+          "source": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CUEp3MXZaVnQtSV9yR2RIVlVqeDNJSVJQaWRpX1pNY1M1WnJvQUNuOHM3MVNfOTE5QWZxckFncW5sSVhjNUsxcXExaTRqbnFVQWY3R0c3N0llcGloOHpnTVBqTkV6SWNj?oc=5",
+          "published_at": "2026-10-01T09:11:57+09:00"
+        },
+        {
+          "title": "루닛, 폐암서 'AI' PD-L1 평가 대규모 연구 \"ESMO 발표\"",
+          "source": "바이오스펙테이터",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Pc0ZwT1NNNGpTdk5EY19NSHoyY2xoVnVUMl9McUJaZ2tUbUNMYjlMYUVGeVRucE9LNW9DQ0xmSUxpdXNvR2pONzh4SWFKRVhWVzhtZDZwaw?oc=5",
+          "published_at": "2026-10-01T09:22:00+09:00"
+        },
+        {
+          "title": "[똑똑한케어] 리필드, 디오디너리, 애경산업 AGE20’S, 라엘, 대봉엘에스",
+          "source": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBSjh2YTlHTERDVkRMdC1PTnAyaTc2RG9EblF2b1RhbmdnNkkzQXJ2Z1FaeElCbHJpMUs0VnZHUTZXeTE3UVNQVUtkcmh1clVTSFY5VTJXdTZIdVVNSjZMTFdFSQ?oc=5",
+          "published_at": "2026-10-01T09:00:00+09:00"
         },
         {
           "title": "인천대 산학협력단, 우수사례 경진대회 '교육부장관상' 수상",
           "source": "미디어인천신문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWjFpTGZudU5nNXp4SGpzNHBnWWNHLTNrMlMydUhLal9sakJ5THU4bW9aWHJXM0N2cVhzNWh1WEpLUnk3RWo3SHlfMmt6WnNuOWI4a2ZRUjFNQTM5aVpQcFphU1otZ3dQTU0w?oc=5",
           "published_at": "2026-10-01T06:16:59+09:00"
-        },
-        {
-          "title": "국립공주대, 글로벌 공동연구랩 성과 본격화",
-          "source": "충청메시지",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1OGxZUE14Nkl5SFlVaXJsWV91b050ckEySjFIRk9zQk9QYWt3S3JEaE4wYlBqZnRabUxqaWxXMkpQSWFpMVdicnU3MUVNMHlVUi1uUDV1SXY1UU1uQWR3aHRFMWw5LW1TS0Zr?oc=5",
-          "published_at": "2026-09-30T17:27:00+09:00"
-        },
-        {
-          "title": "연세대 김원석 교수팀, 독도 해저단구에 새겨진 60만 년 지형 진화의 비밀 밝혀",
-          "source": "대학지성 In&Out",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrU3doRDJ0QjR1QzZlSmFzeVcyWk1WdWxPbHJzN1NtaUFvOGRZSzBNUEM3alRtTzdQVHd0RGx2a1B6Y04wVVE3N0FJRFhwWTRxU1EwblNqWDFQcXR5WUFXUi1vNDRsVFg1SmNKUg?oc=5",
-          "published_at": "2026-09-30T22:30:05+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -264,13 +264,13 @@
         },
         {
           "title": "[현장] 오페라 보고 농장에 머물고 알프스 걷고…낭만 더한 이탈리아 여행",
-          "source": "열린뉴스통신",
+          "source": "onews.tv",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOHN0clVEeHc1U2x2cERaWHNOUlc2MFVYYktrWlJ0dWdkNWwxRV9TRENxS0dMZEFnbjFxVjJEaEd6S0NkbFhVOUI1NWR6WFZnRzBSakJzMnQxV0RQWVdHZUxtZHV0dw?oc=5",
           "published_at": "2026-09-23T16:30:53+09:00"
         },
         {
           "title": "이탈리아 여행, 기차 타고 도시 넘어 국경까지…철도관광 넓어진다",
-          "source": "newstravel.co.kr",
+          "source": "뉴스트래블",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVG85Snp1eUo4LVVxTlpBSEdQZGx3akxyeTNzNEFyN2dqcDJ0YmtKTG1CZllWN21jX0hxaFhhX3RPbmJuaXAxXzBrWlVIRjNLWi1JWlVMYWhNU2sxYWNxUXd4WTRwUQ?oc=5",
           "published_at": "2026-09-18T08:12:18+09:00"
         },
@@ -305,6 +305,18 @@
     "gyeongju_travel": {
       "items": [
         {
+          "title": "천년 신라의 역사와 문화, 경주의 가을을 물들인다",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVUgzcW5XWl9qUGs1LUJEUXNfVVlSbDRpc25XczdqTVNhN1Z4d2g4bXRXRkJmV0hOT05JWWx3TjhRaFZZREVTUmJWTWdmeXh1OW40TXpQRktYdw?oc=5",
+          "published_at": "2026-10-01T09:48:31+09:00"
+        },
+        {
+          "title": "천년 신라, 경주의 가을을 깨운다…제53회 신라문화제 9일 개막",
+          "source": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWUVhwTFdMX0UxOHZoOFU5MFpDX01aQmZ4QmpyTkFsb1ZuTklmUURueC1tRzc2dDhOWDJ1dzdRYXBHazRsb0E?oc=5",
+          "published_at": "2026-10-01T09:19:00+09:00"
+        },
+        {
           "title": "경주국가유산야행에 13만 명 몰렸다…경주의 밤을 밝힌 역사문화 축제",
           "source": "stnsports.co.kr",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ejhMektHS1h1aWV4WG1QU0xTV09kWTZnOUszV2xVS1hiSUJPd3RtZ1RNSzEzbDY0U0E2TU94SXA0UHV6cHpOWlZwVGFhWFFMbUdBVXZUSnpnV2V3SXk2VC05Q2NIaFd6WC1SVkJjTQ?oc=5",
@@ -312,7 +324,7 @@
         },
         {
           "title": "경주 첨성대서 ‘제14회 신라소리축제 에밀레전’ 개최",
-          "source": "축제뉴스",
+          "source": "chookjenews.kr",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbDI1Nm9xbTVaalhMeDJmaWFfRWlkLTRRU0tndE5jVzNvWEV2dnNWaktRUFFEZDBVTjFjcldUT21YS21tYzlPVHgyaFo5VG5XNURBUDVIazFmZWlWcFZFanhtblhHZlg5QWczZg?oc=5",
           "published_at": "2026-09-30T12:48:57+09:00"
         },
@@ -324,7 +336,7 @@
         },
         {
           "title": "흉노 '김일제의 후손' 문무대왕 기린다…경주서 역사문화축제",
-          "source": "tongildaily.com",
+          "source": "통일경제뉴스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WTVOeEJfTzYyRnBMUGIybEFuUk4wLTMwejVCdTJ4S2U5TjRIbVk3VGI4dm1jajlmY3dNa25QUWZnVU1qSC04cVIzai1XZ25Oa3hndE16bVBOaVB0SDB3ZUJsMEh5b2NwR2xuQw?oc=5",
           "published_at": "2026-09-30T13:01:18+09:00"
         },
@@ -335,22 +347,10 @@
           "published_at": "2026-09-30T15:20:00+09:00"
         },
         {
-          "title": "경북문화관광공사, ‘경주세계차문화축제’서 경북 관광 알리기 총력",
-          "source": "프라임경북뉴스",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XWGhhcmExN0N0cnNlWEFhWXJiVGlKNHNlbTNzdGhEN3BIMC1ESGZ2MUY5UFhXeGg3U2wyT3FhdHhvbC0xUnpHbjhiM0JXNjZGRmxTUnY5cWRtLWQ5LWZWOVRWMHRON3NOTkxNeHRzOA?oc=5",
-          "published_at": "2026-09-30T21:34:41+09:00"
-        },
-        {
           "title": "천년고도 밤하늘 수놓은 빛과 역사… ‘2026 경주국가유산야행’에 13만 구름 인파",
           "source": "스트레이트뉴스",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gbkk3Wk1yc0tFQkxRZEJBMklhdi1GTFIwNDRHM0s0YzYwT2NXSURhNDBJRWFXZGtFdC1TV2QyR01qcHZSMnNCYkREMTgxWF9GUVpNa3RQRVI1TmI3VmcxTTBMOUM3bkFpRkxFdXlRbngxNEHSAXdBVV95cUxQYW45NW80TVRFa1lNc1VQc3JVZ3FrOW5WcFlFQ1RhdmFsdDEwcDJkQWVGUWF1cDUwejRaampPV1UzeHFJWXBmX003dks3dHh4UTh3VVNldmlxVnZlQkdUdElKOGJWRGlyamFERXN4Y0J3MXJ3UFNDTQ?oc=5",
           "published_at": "2026-09-29T16:17:49+09:00"
-        },
-        {
-          "title": "천년 신라의 울림 경주에 퍼진다… 경주 신라소리축제, 10월 개막",
-          "source": "울산종합일보",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtT3gzUC1acXA3blU2T1dXaDZNbFFnRUlRQ1pGd0VNYzJfUlY1bjFxZ0lQT0hmQ1JQdFc2UlRsSXhGUjJiSk9kZ1VOcVhsLTd2d3MyRndjNllVbmI5akx0YjQ4S3loWmxJLW1LN0hB?oc=5",
-          "published_at": "2026-09-28T10:16:09+09:00"
         }
       ],
       "window": "최근 14일",
@@ -373,10 +373,10 @@
           "category": "세계 경제"
         },
         {
-          "title": "뉴욕증시, 美 국채금리 급등에 3대 지수 하락 마감",
-          "source": "스페셜경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpM2VzMTl0MUU1ckhicl94ZkJWMlBrMmQ0T3dIaklvUl83Zzg4bHE4TTdTVVNVT2FMNG5IOW44d01uYTJ0aDhuRG1vcnA4XzdzMmd6STB5X2xOVW4yMEp5aEgwR3VsVjhEZjQzNA?oc=5",
-          "published_at": "2026-09-30T08:49:34+09:00",
+          "title": "오늘 밤 미국 PCE 발표｜10년물 5.2%·연준 추가 인상 갈림길, 이번에는 왜 더 중요할까",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oM3Y5QW1iSFY3VDd3RHUzU1BCLTNNRTg1NnlyX19fQlRjd245NGJGLU1qYlZ4OHJSeU95cWtqT0NKSGxUN1RvNk1ySWFKcWt3QUhZOW5OekZYLWxfQy1MUzZsSHRjTkRTTDk0R1JtYjU5MW1FYkRyUFBnakh2UQ?oc=5",
+          "published_at": "2026-09-30T08:31:39+09:00",
           "category": "세계 경제"
         },
         {
@@ -387,10 +387,10 @@
           "category": "세계 경제"
         },
         {
-          "title": "[환율 전망] 금리는 중력인데, 원화는 공중부양 중",
+          "title": "[외환] 美 고성장·금리 상승에 1,360원 위로…7.20원↑",
           "source": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDJiN2tCZS1ySjROZ0NXUzNDVmVsOVdVeldHMTlMM1BYcHBmLU9VTkR1Zkc4NG5tVDAzSmJpeG8zX3hPRHV0VHBwRmxXM2xZejA2TlZiaWVLQnlnY3J0cg?oc=5",
-          "published_at": "2026-09-30T07:58:26+09:00",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0Z0s0NDhZclVZUkg0R2tuR2M4LUxaeUZaUkhTTVBkbVdFWmgzN3JwT3Y3dHd1ZnQ5b0EzMzdWRG41M0t6YTktdlVrbUt5OWZCX0sxaU9wQ01rOThDeXVwdXppbWQyVGN2WW14WmQwV2xiQQ?oc=5",
+          "published_at": "2026-10-01T09:17:22+09:00",
           "category": "세계 경제"
         },
         {
