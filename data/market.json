@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T23:21:46+09:00",
+  "checked_at": "2026-10-02T06:02:43+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
@@ -12,16 +12,16 @@
     },
     "sp500": {
       "name": "S&P 500",
-      "value": 7635.71,
+      "value": 7666.45,
       "unit": "지수",
-      "as_of": "2026-10-01T23:21:45+09:00",
+      "as_of": "2026-10-02T05:35:37+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1361.03,
+      "value": 1359.53,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-01T23:21:46+09:00",
+      "as_of": "2026-10-02T06:02:36+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/"
     }
   },

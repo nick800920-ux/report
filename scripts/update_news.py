@@ -147,6 +147,14 @@ def build() -> dict:
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 heritage_terms = ("신라", "문화유산", "박물관", "축제", "유적", "역사", "관광", "여행")
                 result["items"] = [item for item in result["items"] if "경주" in item["title"] and any(term in item["title"] for term in heritage_terms)][:limit]
+            elif name == "realestate_policy":
+                result = parse_feed(get_xml(feed_url(query)), now, 25)
+                policy_terms = ("부동산", "주택", "아파트", "대출", "세제", "재건축", "청약", "공급", "임대", "보유세", "양도세", "LTV", "DSR")
+                change_terms = ("시행", "발표", "확정", "개정", "규제", "완화", "강화", "도입", "공고", "입법", "대책")
+                result["items"] = [item for item in result["items"] if any(term in item["title"] for term in policy_terms) and any(term in item["title"] for term in change_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+            elif name == "samsung_baseball":
+                result = parse_feed(get_xml(feed_url(query)), now, 20)
+                result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]")][:limit]
             else:
                 result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)
