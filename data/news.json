@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:02:38+09:00",
+  "generated_at": "2026-10-03T06:03:21+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -7,7 +7,7 @@
       "items": [
         {
           "title": "5대 은행 다 공격당했다... 동시다발 ‘AI 해킹’ 공포",
-          "source": "chosun.com",
+          "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVU4ZGNHeWtYSkNhaWlXREJucUhOb1BzS1BzeUZJY3VmRl9vT2tOSGhsNGFNb3RzTzFoVi1JSkh1TXJkb2hfM1phNTBZOU1HcGxpRjJsLWVHMEY0RVg1ejRmNFFaWTk3Y3M3TkllQnl1NEh4ZHVsZ1BXbENvbFdyNGszUE1FXzZtSExF?oc=5",
           "published_at": "2026-10-02T18:26:00+09:00"
         },
@@ -79,7 +79,7 @@
         },
         {
           "title": "‘삼성물산 협력업체를 모집합니다’ 삼성SDS 구미 AI 데이터센터, 지역과 함께 짓는다",
-          "source": "OMATE 시니어",
+          "source": "omate.kr",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jS2RFMDVJVDhZTXdzYzVEbGN6emFpVjNaaE5xOVVxOXJhTVdlRVlwd2ZlTjhFWG5GcF9IWlZmaFpTVTU1VmNRWTVJM19aRklMdlIyRm5EM20zRUNyaTNIMG5mRWU?oc=5",
           "published_at": "2026-10-02T13:27:07+09:00"
         },
@@ -139,7 +139,7 @@
         },
         {
           "title": "강남·용산 꺾였지만… 서울 아파트값 86주째 상승 ‘신기록’",
-          "source": "segye.com",
+          "source": "세계일보",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CbDg5WkdrM253UlluUVB6bWU3aER6cHBlTWlwN3dfM2dKYndOcTVENUVKVEJRTkVBM2hOT3NUR2pBQ0lvYXo1Wm12a3NvTnV0aHFTUzIzUDTSAVRBVV95cUxONFpFWnpLc1hiaU1yVmY3OVV3RnFUZ3pBdUZDWnBVM3NTYmRsc0w4YXZUcEY1bGhJR3VJc2JoVFczb19MVzd4UzdESEo4YXVlZHdkOFQ?oc=5",
           "published_at": "2026-10-01T21:00:00+09:00"
         }
@@ -222,7 +222,7 @@
         },
         {
           "title": "GC녹십자, 국내외 학회서 독자 mRNA-LNP 플랫폼 연구 성과 공개",
-          "source": "docdocdoc.co.kr",
+          "source": "청년의사",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91YnF1RXZQSFRpQ3ROY0hiajU0UXhQYlFKa2ZDdDJpZGxvRmstUV9JZVVNSnNOZEx6MDlMVDZibDRKSnNhRFVuQTlrQV9aeTRNSjFaNWVYUTlFaF80MnQzZVMwcV9ZaDRJVmgzU1FRRHgxQm_SAXNBVV95cUxPdWJxdUV2UEhUaUN0TmNIYmo1NFF4UGJRSmtmQ3QyaWRsb0ZrLVFfSWVVTUpzTmRMejA5TFQ2Ymw0SkpzYURVbkE5a0FfWnk0TUoxWjVlWFE5RWhfNDJ0M2VTMHFfWWg0SVZoM1NRUUR4MUJv?oc=5",
           "published_at": "2026-10-02T18:32:50+09:00"
         },
@@ -347,16 +347,9 @@
         },
         {
           "title": "서울 아파트값 상승세 주춤…강남3구 일제히 하락",
-          "source": "더구루",
+          "source": "theguru.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TmhvRzNPUmNjcFNJaGxsMGRVemR3OGVMamR6LTNBdG4tWmRkdnp4a09oRGRSdHM5YkM2MVZDUE5lcFRmeFJDNFFCeUNBVjdOYWV3QTRIZkNfUk1zSE0yTlFGY3Nxdw?oc=5",
           "published_at": "2026-10-03T00:00:28+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "집값 언제까지 오를지… \"공급부족, 더 간다\" vs \"세제·금리, 다 갔다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUVRPQXZqeXc2VHY4N2g1NjliOUJZaWJIRVlRQ1ZPaGdEcVh4Ymo1VkhRbTBpUzJTSFZZS3NCVndmd2wwcWdiYnZIZG54bzd6OUtkOURkay15N0xQSDNPNVpNalBhT1NJUHfSAW9BVV95cUxPTTRzNVhhby1Ud25Qa0I3eXRydTZwRVc4TV9JelZIZXhfQXFjS0N5RVRjOXVXM1pKNkpMQkVoTXBJd2VIUzdHMlJRM3lJUGlDMXh5NEFONkNtQWllUU9SRV9JeFVyWG5NOVg4QnlfY1E?oc=5",
-          "published_at": "2026-10-02T03:05:00+09:00",
           "category": "부동산"
         },
         {
@@ -371,6 +364,13 @@
           "source": "미디어데일",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OMWpCMFR3YUhfdW1oaEp0V2J2a2NVNVlSM1p5T1BrUVc1QTRjRUNKQUJHMzIwWUIwcGhMOUIwdF9Ba3A5SnIyNzhNaVBjZ2Jwd3JwQVpIMkEtOE1PcnFIbW9DakZwY0V1dFZJ?oc=5",
           "published_at": "2026-10-02T16:59:25+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "집값 언제까지 오를지… \"공급부족, 더 간다\" vs \"세제·금리, 다 갔다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUVRPQXZqeXc2VHY4N2g1NjliOUJZaWJIRVlRQ1ZPaGdEcVh4Ymo1VkhRbTBpUzJTSFZZS3NCVndmd2wwcWdiYnZIZG54bzd6OUtkOURkay15N0xQSDNPNVpNalBhT1NJUHfSAW9BVV95cUxPTTRzNVhhby1Ud25Qa0I3eXRydTZwRVc4TV9JelZIZXhfQXFjS0N5RVRjOXVXM1pKNkpMQkVoTXBJd2VIUzdHMlJRM3lJUGlDMXh5NEFONkNtQWllUU9SRV9JeFVyWG5NOVg4QnlfY1E?oc=5",
+          "published_at": "2026-10-02T03:05:00+09:00",
           "category": "부동산"
         }
       ],
