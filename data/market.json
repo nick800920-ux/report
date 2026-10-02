@@ -1,27 +1,27 @@
 {
-  "checked_at": "2026-10-02T09:13:35+09:00",
+  "checked_at": "2026-10-03T06:01:34+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
     "kospi": {
       "name": "코스피",
-      "value": 6971.35,
+      "value": 7003.74,
       "unit": "지수",
-      "as_of": "2026-10-01T20:05:40+09:00",
+      "as_of": "2026-10-02T20:05:40+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11/"
     },
     "sp500": {
       "name": "S&P 500",
-      "value": 7666.45,
+      "value": 7722.72,
       "unit": "지수",
-      "as_of": "2026-10-02T05:35:37+09:00",
+      "as_of": "2026-10-03T05:59:13+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1361.98,
+      "value": 1342.51,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-02T09:13:34+09:00",
+      "as_of": "2026-10-03T05:59:56+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/"
     }
   },
