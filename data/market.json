@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T06:07:01+09:00",
+  "checked_at": "2026-10-02T09:13:35+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
@@ -19,9 +19,9 @@
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1359.53,
+      "value": 1361.98,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-02T06:02:36+09:00",
+      "as_of": "2026-10-02T09:13:34+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/"
     }
   },
