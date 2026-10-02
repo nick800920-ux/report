@@ -13,7 +13,7 @@ import math
 import time
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -28,7 +28,7 @@ SYMBOLS = {
 
 def fetch_quote(symbol: str, name: str, unit: str, now: datetime) -> dict:
     encoded = urllib.parse.quote(symbol, safe="")
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{encoded}?range=5d&interval=1d"
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{encoded}?range=1mo&interval=1d"
     request = urllib.request.Request(
         url,
         headers={"User-Agent": "Mozilla/5.0 (compatible; PersonalMarketDashboard/1.0)", "Accept": "application/json"},
@@ -45,18 +45,58 @@ def fetch_quote(symbol: str, name: str, unit: str, now: datetime) -> dict:
                 raise ValueError("Invalid quote")
             if quoted_at > now + timedelta(minutes=15):
                 raise ValueError("Quote timestamp is in the future")
+            changes = calculate_changes(result, quoted_at, value)
             return {
                 "name": name,
                 "value": round(value, 4),
                 "unit": unit,
                 "as_of": quoted_at.isoformat(timespec="seconds"),
                 "source_url": f"https://finance.yahoo.com/quote/{encoded}/",
+                **changes,
             }
         except Exception as exc:
             error = exc
             if attempt < 2:
                 time.sleep(attempt + 1)
     raise RuntimeError(f"{symbol}: {type(error).__name__}: {error}")
+
+
+def comparison(value: float, baseline: tuple[date, float] | None) -> dict | None:
+    if baseline is None:
+        return None
+    baseline_date, baseline_value = baseline
+    return {
+        "baseline": round(baseline_value, 4),
+        "baseline_date": baseline_date.isoformat(),
+        "amount": round(value - baseline_value, 4),
+        "percent": round((value / baseline_value - 1) * 100, 4),
+    }
+
+
+def calculate_changes(result: dict, quoted_at: datetime, value: float) -> dict:
+    """Compare with the prior trading session and prior ISO week's last close."""
+    exchange_zone = ZoneInfo(result["meta"]["exchangeTimezoneName"])
+    session_date = quoted_at.astimezone(exchange_zone).date()
+    previous_week_start = session_date - timedelta(days=session_date.weekday() + 7)
+    previous_week_end = previous_week_start + timedelta(days=6)
+    bars = {}
+    closes = result["indicators"]["quote"][0]["close"]
+    for timestamp, raw_close in zip(result.get("timestamp", []), closes):
+        if raw_close is None:
+            continue
+        close = float(raw_close)
+        if not math.isfinite(close) or close <= 0:
+            continue
+        bar_date = datetime.fromtimestamp(timestamp, exchange_zone).date()
+        if bar_date < session_date:
+            bars[bar_date] = close
+    earlier = [(day, bars[day]) for day in sorted(bars) if day < session_date]
+    prior_day = earlier[-1] if earlier else None
+    prior_week = next(
+        ((day, close) for day, close in reversed(earlier) if previous_week_start <= day <= previous_week_end),
+        None,
+    )
+    return {"day_change": comparison(value, prior_day), "week_change": comparison(value, prior_week)}
 
 
 def build(previous: dict | None = None) -> dict:

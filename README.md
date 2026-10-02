@@ -9,7 +9,7 @@
 - 트래블 기사: 홈페이지에서 이탈리아와 경주 역사·여행 관련 Google News RSS 헤드라인을 자동 갱신
 - [삼성SDS 사업·재무 분석](sds-report.html): 공개 DART 공시와 공식 IR 자료 기반 보고서
 - [뉴스 수집 스크립트](scripts/update_news.py): Google News RSS에서 제목·출처·발행 시각·원문 링크만 수집
-- [시장 지표 수집 스크립트](scripts/update_market.py): Yahoo Finance 지연 시세에서 코스피·S&P 500·USD/KRW의 값과 기준 시각을 수집. 실시간 매매용 자료가 아님
+- [시장 지표 수집 스크립트](scripts/update_market.py): Yahoo Finance 지연 시세에서 코스피·S&P 500·USD/KRW의 값과 기준 시각, 전 거래일·전주 마지막 거래일 대비 증감액과 증감률을 수집. 실시간 매매용 자료가 아님
 - [자동 갱신 설정](.github/workflows/site.yml): 매일 오전 5시 45분(Asia/Seoul)에 최신 기사를 수집하고 GitHub Pages에 배포하여 오전 6시 갱신을 목표로 함
 
 GitHub Pages를 처음 활성화할 때 저장소 **Settings → Pages → Build and deployment → Source**를 **GitHub Actions**로 설정해야 합니다. GitHub Actions의 예약 실행은 지연되거나 누락될 수 있으므로 정확히 6시 배포를 보장하지 않습니다. 뉴스 화면에는 실제 마지막 수집 시각과 오래된 자료 여부가 표시됩니다. 여행 일정·세금 달력·학습 기록 등 고정 콘텐츠는 매일 무조건 바꾸지 않고, 새로 확인된 정보가 있을 때만 수정합니다.
