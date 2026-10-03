@@ -43,6 +43,18 @@ DOMESTIC_POLITICS_TERMS = (
     "대선", "총선", "정치권", "이 대통령", "이재명 대통령",
 )
 
+REALESTATE_MARKET_TERMS = ("서울", "경기", "수도권", "아파트", "오피스텔", "주택", "집값", "실거래", "전세", "월세")
+REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토")
+
+
+def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
+    """Keep housing-market headlines and reject unrelated search-result spam."""
+    return [
+        item for item in items
+        if any(term in item["title"] for term in REALESTATE_MARKET_TERMS)
+        and not any(term in item["title"] for term in REALESTATE_SPAM_TERMS)
+    ][:limit]
+
 
 def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]:
     """Keep the headline deck focused, balanced and free of domestic politics."""
@@ -156,6 +168,9 @@ def build() -> dict:
                 policy_terms = ("부동산", "주택", "아파트", "대출", "세제", "재건축", "청약", "공급", "임대", "보유세", "양도세", "LTV", "DSR")
                 change_terms = ("시행", "발표", "확정", "개정", "규제", "완화", "강화", "도입", "공고", "입법", "대책")
                 result["items"] = [item for item in result["items"] if any(term in item["title"] for term in policy_terms) and any(term in item["title"] for term in change_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+            elif name == "realestate_market":
+                result = parse_feed(get_xml(feed_url(query)), now, 25)
+                result["items"] = select_realestate_market_items(result["items"], limit)
             elif name == "samsung_baseball":
                 result = parse_feed(get_xml(feed_url(query)), now, 20)
                 result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]")][:limit]
