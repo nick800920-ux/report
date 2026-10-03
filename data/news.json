@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:03:38+09:00",
+  "generated_at": "2026-10-04T08:19:29+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -7,15 +7,39 @@
       "items": [
         {
           "title": "회계 업무서 AI '완벽' 단계 도달…인간 '37%' 역전",
-          "source": "AI타임스",
+          "source": "aitimes.com",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdlJKQXJpdWdGR0o2enZaWUFWbEVkbmR6ckxHdEFvOVVYdU9nZ1NITFRFX2N3cGdkNXVzTFVoakJTR3VPUVkxc2FlWWZJTl8zZ2Fhd3VEbnFjZldPWFB2V1pfa3BrSHJieVE?oc=5",
           "published_at": "2026-10-03T10:47:06+09:00"
+        },
+        {
+          "title": "美재무 \"AI 분야 안전한 가속 원해\"…업계 자율 규제 강조",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJbFdPYWdmcUI4WHJlS0M2M2ZiWmtXQVNtdHhuRFJScGRvUXhkRlJjQ0pxemJHaFlmX3ZEeTd6MkZCN3pZSnJnNi1PLWp0YWs?oc=5",
+          "published_at": "2026-10-04T08:09:01+09:00"
         },
         {
           "title": "中 AI칩 시장 급성장…韓 HBM·첨단 패키징 수혜 기대",
           "source": "더구루",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOSXFVbEFQQ2IwRDhubUVZcm50TjZQNXVMQ204RnBNQmc3SXprbmFLYS1Cbkc3ckRaV2dWdkl4MmlIN2hnaVRpYjRNTUExRjN3QkFQUm1SWWg0b2pjUkE?oc=5",
           "published_at": "2026-10-04T05:04:40+09:00"
+        },
+        {
+          "title": "주요 IB, 엔비디아 HPE 등 'AI 인프라' 다시 주목 [월가 업&다운]",
+          "source": "hankyung.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Y2dYZEp4bEpnOUtwcFg3MFc4a1lxeWxYeUZ4MGpfeDlvaWhfbU9ONkREQUExdE9ETUx0dDJWU0dtV0xBd0N2ZEZlOFdLVnhIYnJBb2w0cjRsdw?oc=5",
+          "published_at": "2026-10-04T06:00:02+09:00"
+        },
+        {
+          "title": "메타 AI 다시 뛰게 한 29세 억만장자…‘뮤즈’ 흥행 이끈 알렉산더 왕 누구?",
+          "source": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdTRTR2FsNkxBR01Xc29rSjBabW9sZVFnOU1uVDZ6Nl9oaGExQ1duTW5FWHpyQURoaFp6dVc2bnFXdWVNMUFFcEUyNVNnNVZnYWwtYml1dnBiZXRZaUtELTUweG8?oc=5",
+          "published_at": "2026-10-04T08:00:00+09:00"
+        },
+        {
+          "title": "[제조AI②]AI가 불량 잡고 설비 돌려…자율제조로 현장 승부",
+          "source": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14cWpwNDQ1UVp0V3FIVEZGOWdmQXBhYWVydXRQS3VYbFAySW1DVkZtT19Ud0xzc3BTdkNHTzBudF9Bcks5Wm45U0RvanFNUGVhQWxoM2J3ekRkdVk3MHA3dTlSb3dFZw?oc=5",
+          "published_at": "2026-10-04T08:00:00+09:00"
         },
         {
           "title": "은행 'AI 해킹' 눈덩이...경찰, 본격 수사 임박",
@@ -25,33 +49,9 @@
         },
         {
           "title": "AI 투자가 이례적으로 큰 승수 효과를 창출하는 이유",
-          "source": "kr.investing.com",
+          "source": "Investing.com 한국어",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BUDQwT19ZNGtNbmZ4a1lQeXdpckZackRKV1RIMTlTdlRhcC1XbGI4aEp0Z21QWWpwNXFaSDE4SUlXMkV3OWtnVEk0ZkxGUENEYkRlUzZnLXY4N2lPSl8teXVHVVJpS29CUmdDLTdvM3o?oc=5",
           "published_at": "2026-10-04T05:21:00+09:00"
-        },
-        {
-          "title": "'통제 벗어난 인공지능' 우려에…韓 AI 업계, '안전 확보' 총력전",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04ZlR1OEEwWnlMS2ozTmVzRmRqNEpUSzV3aDR0T2V3TVlVRm5GQ2c3WFJzNmZIaUcxWWtxODRHZ1N4ckJhRHJRa2V1S01DX1k?oc=5",
-          "published_at": "2026-10-04T05:03:09+09:00"
-        },
-        {
-          "title": "주요 IB, 엔비디아 HPE 등 'AI 인프라' 다시 주목 [월가 업&다운]",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12Y2dYZEp4bEpnOUtwcFg3MFc4a1lxeWxYeUZ4MGpfeDlvaWhfbU9ONkREQUExdE9ETUx0dDJWU0dtV0xBd0N2ZEZlOFdLVnhIYnJBb2w0cjRsdw?oc=5",
-          "published_at": "2026-10-04T06:00:02+09:00"
-        },
-        {
-          "title": "AI에 4경원 쏟아붓는데 생산성은 아직…수익화 시험대",
-          "source": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2h4cS1heFo3cXRJRjF2SkxCWEVEa3B5QldkenBIbURDSFFTeUZxWDBhRUozWjduRkRueDR5ZE5BYTViQUEzSkdYTl9hbktBM3phZ2phVTBLU3lYcmpZeExhM2lBdlliOGNkZ2NlV05BM19XNTE1MEo1cTIxblRGcUM0NHp4SmM?oc=5",
-          "published_at": "2026-10-04T04:00:00+09:00"
-        },
-        {
-          "title": "한 총리 \"모든 변화의 중심엔 사람…'AI 기본사회' 차근차근 실현\"",
-          "source": "한국방송뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzdjZFVWp1TGloTW5xY0ZUSTdJQkFNamVXanFBXzVCVWQxN1ByWENzbzJmeUtDdzBFaGJPZTRGaTd6cDYzajc1RVVSQWFBYWxrLU1vb2xhUUZLM0xYd1E?oc=5",
-          "published_at": "2026-10-03T23:55:45+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -65,12 +65,6 @@
     "realestate_policy": {
       "items": [
         {
-          "title": "'대출 규제·보유세 강화' 하준경 전진 배치…부동산·세제 어디로?",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbTh3M0JGU3p0aXpfWUs2NFkzV05tOUlNQzlSSmRYd0Q5TkJBOWVjbUlsSk1JVEd2QmRPMGtqQkNFWl9oZTZrdjBheTdCTVpLcFZmWA?oc=5",
-          "published_at": "2026-10-02T18:27:08+09:00"
-        },
-        {
           "title": "86주 연속 상승, 규제는 강해졌지만 집값은 더 올랐다[손바닥부동산]",
           "source": "edaily.co.kr",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjhMcHNHUDhSaHd3OXpVNjByTFBiNW1XLVVSMjVSakd2YWhfdHRWTUYydnZyS2xQXzFJSHladGdUODJXVlRGZlNWVF9LclFqeEs2NFdXbDM3QWhqS3pibzF2cmF6ZkwyQ2k1RHN6LUdjajNDMmF4Nl9wd1ZiNWJXdA?oc=5",
@@ -82,6 +76,12 @@
     },
     "realestate_market": {
       "items": [
+        {
+          "title": "전·월세난에 불붙은 집값…비강남으로 번졌다[집값, 최장 랠리②]",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZU4welh5VzkwN2t6S2luZjgwNlloNEQ3NnNLWkxmUVVmSnRtQVhsTDdBS21ZS2RWbVRMRkxKMnZtT0FEOXlRUlEteXdJQ1lsUk9FUzM3NHNOaTFmblFNd29yTGxTN043TkFwNWttbTBpOHBEQnBLYtIBeEFVX3lxTE95ZU4welh5VzkwN2t6S2luZjgwNlloNEQ3NnNLWkxmUVVmSnRtQVhsTDdBS21ZS2RWbVRMRkxKMnZtT0FEOXlRUlEteXdJQ1lsUk9FUzM3NHNOaTFmblFNd29yTGxTN043TkFwNWttbTBpOHBEQnBLYg?oc=5",
+          "published_at": "2026-10-04T05:30:00+09:00"
+        },
         {
           "title": "[통계로 보는 부동산] 서울 집값 오르는데 매수심리는 식었다… 강남권 관망 짙어져",
           "source": "아주경제",
@@ -100,6 +100,12 @@
     "samsung_baseball": {
       "items": [
         {
+          "title": "다승왕도 긴장 모드, '좀비'처럼 끝까지… 포기하지 않으면 한 번의 '기회'는 온다",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1BheXlydFZyLTlUZlVUMm9sUEhiVnFJQVBiclBUeVVpNGYxdVFVVTREa2FpMEluX2xvcXM3c09yMjk1bTQzVzZMRnlYTGdSQjB2R2lGdW9QdXMzRktKTTVKQTZ1blh1dXp0cWRfTjItcWxkc1k4YmZOQjBPSjMxd2RRSQ?oc=5",
+          "published_at": "2026-10-04T01:45:00+09:00"
+        },
+        {
           "title": "하, 죽기살기로 이기면 뭐하냐...삼성, 6연승에도 하나도 기쁘지 않다 왜? [대구 현장]",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkVvNWlxc3RLWTlKOHV0VDJuQXdtM3lVc1lGYXlLZk1GRFZMbXl4ZU1aTHVKVmN1ZGRDN29idGdrYjgyTDFsdUtOQXpoQUJLZmtMcmFFZ2wxUWNMbkZ3anpvNGZrVXE4Um55dU11aDBFNkFFWGZ1bjdYclVEX0NNMl9jaw?oc=5",
@@ -112,22 +118,28 @@
     "science_tech": {
       "items": [
         {
-          "title": "나주 글로벌 에너지포럼서 국내 핵융합 기술·연구성과 선보여",
-          "source": "뉴스21 통신",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wM1JBMjgyYmVEaDIyempNLURibEJvNHJuNnhaZVp1NURsRmxzQlNSeVRHT0hqOGNvUWNUYi05Sk1adGU5eW1lX3JubTh3dmtrcWp3Yl93?oc=5",
-          "published_at": "2026-10-03T13:04:51+09:00"
-        },
-        {
           "title": "GC녹십자, mRNA-LNP 플랫폼 연구 성과 공개",
           "source": "데일리메디",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pemxMU0NwejczTko5VTd3RnV1SzJ3N1dOVjg1bHNpRlZ3dW5jYnVJNG5HZTRKN19SSkp0allQQkMzQWV2MW53SExVY3h5ZkdUU2ZDclMtMTJZMG1TN1g0WFVJM1p0S1NyM1dWYUJxajEwVVF5?oc=5",
           "published_at": "2026-10-03T05:01:00+09:00"
         },
         {
+          "title": "나주 글로벌 에너지포럼서 국내 핵융합 기술·연구성과 선보여",
+          "source": "뉴스21 통신",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wM1JBMjgyYmVEaDIyempNLURibEJvNHJuNnhaZVp1NURsRmxzQlNSeVRHT0hqOGNvUWNUYi05Sk1adGU5eW1lX3JubTh3dmtrcWp3Yl93?oc=5",
+          "published_at": "2026-10-03T13:04:51+09:00"
+        },
+        {
           "title": "이종하 계명대 교수 등 3명 연구성과 두각, 과학기술우수논문상 동시 수상",
-          "source": "헤럴드경제",
+          "source": "biz.heraldcorp.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVzhxN2ZuYWF4MWx4cDZvQzc4YTZOek1iOE1vSV92MC1ZNnlaOXNYamRXOXpxLV9YaVFFOVBIXy1WZERCSVVKZ0J3V1cyWHk0QVprWFpn?oc=5",
           "published_at": "2026-10-04T00:10:18+09:00"
+        },
+        {
+          "title": "‘노화 역전 유전자’로 손상된 간 회복시켰다",
+          "source": "BRIC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2lRaHVYUVluZHhkTkx0Z0hldXI4azdYTndMOXJzVWQ2TnlhOWFJRURiaUhmSXlnUVRWdE9Cek13UHhDWXlGSzYzLXdIREtfVFJ4ZWhhS0lIY19hcHcxWkE5V3dpc3JUcW5kb1Uwb3JPMG1EdEdpNmxxNUh4Tk5JRkxaVzlUbm4zazdSWA?oc=5",
+          "published_at": "2026-10-03T01:27:39+09:00"
         },
         {
           "title": "2천여명 모인 생물공학회 학술대회…AI·바이오 융합 주목",
@@ -136,16 +148,10 @@
           "published_at": "2026-10-03T14:53:17+09:00"
         },
         {
-          "title": "GC녹십자, 국내외 학회서 독자 mRNA-LNP 플랫폼 연구 성과 공개",
-          "source": "docdocdoc.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91YnF1RXZQSFRpQ3ROY0hiajU0UXhQYlFKa2ZDdDJpZGxvRmstUV9JZVVNSnNOZEx6MDlMVDZibDRKSnNhRFVuQTlrQV9aeTRNSjFaNWVYUTlFaF80MnQzZVMwcV9ZaDRJVmgzU1FRRHgxQm_SAXNBVV95cUxPdWJxdUV2UEhUaUN0TmNIYmo1NFF4UGJRSmtmQ3QyaWRsb0ZrLVFfSWVVTUpzTmRMejA5TFQ2Ymw0SkpzYURVbkE5a0FfWnk0TUoxWjVlWFE5RWhfNDJ0M2VTMHFfWWg0SVZoM1NRUUR4MUJv?oc=5",
-          "published_at": "2026-10-02T18:32:50+09:00"
-        },
-        {
-          "title": "“당 떨어졌나?” 초콜릿부터 찾았는데…연구 결과 보니 오히려 더 피곤해져",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54bzhzbldFSE11V094MTVXNF8xUFB5TjJmdHRXTkVkTmRGVEI4UlFoVG9GOHBvMTBFVVYzcWdrc1RiNmQwRU9FcXNLT3NWYVBsTndaWVM1S2RMQdIBX0FVX3lxTE9nd2FVaVViaXVYYXdXWk1HVXZJMjBzWVJzbVREM0hXUXotZlctelZERmozY0RnME51azFIVUNibjBWT1dMUllsMk1HNGNzbGI0dVRWRHZtbTdZd0lTNFg0?oc=5",
-          "published_at": "2026-10-03T11:00:00+09:00"
+          "title": "경인사연, AI 확산 따른 산업구조·사회 전환, 포용 정책 설계 논의",
+          "source": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUVVJdEdwaVZiVW1LVVNTYnNNUWxWc2UxemwyS0JXSWNUeFpkaW5VcmdiVTBYUzlZWFNjOVNzWERmOUpkSElId3Yta3RtS0tZXzJnWEhBY1ZxQQ?oc=5",
+          "published_at": "2026-10-03T15:16:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -173,7 +179,7 @@
       "items": [
         {
           "title": "경주 도심이 거대한 무대로···53번째 신라문화제 오는 9일 개막",
-          "source": "뉴데일리 대구경북",
+          "source": "tk.newdaily.co.kr",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOUxuZjdROXprdFJvQVdza1RWWmZ4OWJIUFZnbnc4cTI0YlRqaXVZekJob19OZndaVUs4T3Y1ZTZLR2FIamM0NVpJNGxydHlhMTJNMVg3YnNoaXlqMmRBNV82S19fUEVPYjMzYTJtU19RSU92cUdtOUxEUjNxRTjSAX9BVV95cUxOSjlMbmY3UTl6a3RSb0FXc2tUVlpmeDliSFBWZ253OHEyNGJUaml1WXpCaG9fTmZ3WlVLOE92NWU2S0dhSGpjNDVaSTRscnR5YTEyTTFYN2JzaGl5ajJkQTVfNktfX1BFT2IzM2EybVNfUUlPdnFHbTlMRFIzcUU4?oc=5",
           "published_at": "2026-10-03T14:00:42+09:00"
         },
@@ -197,7 +203,7 @@
         },
         {
           "title": "‘제53회 신라문화제’, 천년 신라의 역사와 문화, 경주의 가을을 물들인다",
-          "source": "news.bbsi.co.kr",
+          "source": "BBS불교방송",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wcmduQUJJcjFIcEd1Q0EwRTlLZDNqMWRsWjlZbGc2ek9Bak5fWlNmUGFtUXJZb2c4VFJqS25MZ3FDWmhLZ1hGQkNjaVM4bDlSWnNKTE5WUjNsYjdXUi1pNGpKa2w0SDc1eEJF?oc=5",
           "published_at": "2026-10-01T11:16:16+09:00"
         },
@@ -235,8 +241,8 @@
         {
           "title": "美 고용 둔화 속...미국증시 '상승', 나스닥 '활짝'",
           "source": "초이스경제",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zX3ZOdDYtcnZOdl9xNHlyS0dRWnBEWkFhV1hnYnBySjRXRXNGSkZ5SkNkS0NYYUhYZmd4S0RTbnc5LVFQcTVFVnpvMzlfemlEZ09mbHNpWWh5V2tRdmxFT3h2bU5NLS1hX1V6aUFTbU0xbWfSAXNBVV95cUxOc192TnQ2LXJ2TnZfcTR5cktHUVpwRFpBYVdYZ2Jwcko0V0VzRkpGeUpDZEtDWGFIWGZneEtEU253OS1RUHE1RVZ6bzM5X3ppRGdPZmxzaVloeVdrUXZsRU94dm1OTS0tYV9VemlBU21NMW1n?oc=5",
-          "published_at": "2026-10-03T08:21:02+09:00",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VT3M2SnNmQVBRcXZITTJodExPM2t3TW95MTZxSjA4ZFJ1djEtVHZoVTdoLWE5U0xsd0pINEJlQ3J0UXJHMWg5T19vbmcyR2lwbXpKcnlSdUVuMVBLQWs5VnpyejFKV3ZHOXJ2STcyRnHSAXNBVV95cUxOc192TnQ2LXJ2TnZfcTR5cktHUVpwRFpBYVdYZ2Jwcko0V0VzRkpGeUpDZEtDWGFIWGZneEtEU253OS1RUHE1RVZ6bzM5X3ppRGdPZmxzaVloeVdrUXZsRU94dm1OTS0tYV9VemlBU21NMW1n?oc=5",
+          "published_at": "2026-10-03T05:35:00+09:00",
           "category": "세계 경제"
         },
         {
@@ -247,17 +253,17 @@
           "category": "세계 경제"
         },
         {
-          "title": "연준 금리 인상은 미국 증시에 어떤 영향을 미치는가? 논리 상세 분석",
-          "source": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWU4Nm9lN29QazlQLTFrUDFoaUZNd2dxSmhqbUtiZVlqRGtwcExMbDJBZ1BDR1hkSUlUaElTRnNTcHdBbDJrYzQycVpYVU5qUnFqNlpMcUg3eW50cHFsSXJPRWlFY0I0MkI5aW0zWkdTVlVJNHBlMFl0cHY2N3ZSMjVaSlduNWdlVFNRRzRHbkJ2N0dhbU9JSC05eEt6QVVfVk90RFN6X3BQaXY4dXdpVXh5MC0wM3lDZVk4?oc=5",
-          "published_at": "2026-10-02T19:00:00+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "미국 증시는 상승하고, 글로벌 채권은 매도세에 휩싸였다.",
           "source": "Vietnam.vn",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHNQZTRkUE5BYVVwa0tpTkxWVWlXb09HMmhnT18tbmNXN2dBaGxGMENjUlhDdEQtZ2NEdzRDXzAtR1gwU3hnUkVIUnhsSFJLdThBTkRnZEJoYlNRNVNCeU9rbHJ5Y2xzSmlQQjJEc0ZPNHAxaXhjaVBURG1KQ2QwWlNXOFZSUQ?oc=5",
           "published_at": "2026-10-03T09:21:48+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "뉴욕증시, 美 고용 둔화에 금리동결 기대…3대 지수 상승",
+          "source": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12c3VWX25lLVd1d3FGUFVrdEtGektENWdtTGVrSTloUkp1OVN0YVV4QmJNOXVvbWtkalJId0UzREFZMG1lNzAycWM4VFVpTVY2cWhVV0dhSTVndjYzZ1AybXNKRk9rem9jS1ZoRQ?oc=5",
+          "published_at": "2026-10-03T08:53:07+09:00",
           "category": "세계 경제"
         },
         {
@@ -269,7 +275,7 @@
         },
         {
           "title": "부동산 전문가들 \"文정부 때와 다르다\"…이유 알고 보니 [시장톡]",
-          "source": "한국경제",
+          "source": "hankyung.com",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZeHQwZWp1R3ltTFNYcGtGYWZUMFVONTQzaGxaRGJMQTE3NHN1NXdWdHQ3bzNBekhJM01wa2hFdUlaNm42TWRQSWxxUjkwVzZOaThmY0hjbThJUQ?oc=5",
           "published_at": "2026-10-03T16:55:14+09:00",
           "category": "부동산"
