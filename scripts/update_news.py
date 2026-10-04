@@ -23,18 +23,18 @@ from zoneinfo import ZoneInfo
 KST = ZoneInfo("Asia/Seoul")
 BASE = "https://news.google.com/rss"
 FEEDS = {
-    "top_world_markets": ("미국 증시 OR 유럽 증시 OR 세계 경제 OR 국제 유가 OR 미국 연준", 12),
-    "top_world_macro": ("미국 경제 OR 중국 경제 OR 글로벌 증시 OR 국제유가 OR 달러 환율", 12),
-    "top_property": ("서울 아파트 시장 OR 수도권 부동산 OR 주택담보대출 OR 청약", 12),
-    "it": ("AI OR 클라우드 OR 반도체", 8),
+    "top_world_markets": ("뉴욕 증시", 20),
+    "top_world_macro": ("국제 유가", 20),
+    "top_property": ("서울 아파트", 20),
+    "it": ("AI 기술", 8),
     "sds": ("삼성SDS", 8),
     "realestate_policy": ("부동산 대출 규제 OR 주택 세제 OR 재건축 정책", 5),
-    "realestate_market": ("서울 아파트 실거래가 OR 경기 아파트 가격 OR 오피스텔 가격동향", 5),
+    "realestate_market": ("서울 아파트", 5),
     "realestate_presale": ("서울 경기 아파트 청약 입주자모집공고", 5),
     "samsung_baseball": ("삼성 라이온즈 경기 결과 OR 삼성 라이온즈 경기 일정 OR 삼성 라이온즈 구단 소식", 6),
-    "science_tech": ("과학기술 OR 신기술 OR 연구 성과", 6),
+    "science_tech": ("AI 연구", 20),
     "italy_travel": ("이탈리아 여행 OR 로마 여행 OR 베네치아 관광 OR 피렌체 박물관 OR 밀라노 관광", 12),
-    "gyeongju_travel": ("경주 신라문화제 OR 경주 문화유산 OR 경주 박물관 OR 경주 역사축제", 8),
+    "gyeongju_travel": ("경주 신라문화제 OR 경주 문화유산 OR 경주 박물관 OR 경주 역사축제", 4),
 }
 
 DOMESTIC_POLITICS_TERMS = (
@@ -44,14 +44,31 @@ DOMESTIC_POLITICS_TERMS = (
 )
 
 REALESTATE_MARKET_TERMS = ("서울", "경기", "수도권", "아파트", "오피스텔", "주택", "집값", "실거래", "전세", "월세")
-REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토")
+REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프")
+TRUSTED_NEWS_SOURCES = {
+    "연합뉴스", "연합뉴스tv", "연합인포맥스", "뉴스1", "newsis.com",
+    "kbs 뉴스", "mbc 뉴스", "ytn", "한국경제", "매일경제", "서울경제",
+    "서울경제tv", "한국일보", "한겨레", "경향신문", "서울신문",
+    "아시아경제", "머니투데이", "헤럴드경제", "뉴스핌", "chosunbiz",
+    "전자신문", "지디넷코리아", "it조선", "edaily.co.kr", "데일리한국",
+    "samsung sds", "대한민국 정책브리핑", "국토교통부", "금융위원회",
+}
+WORLD_MARKET_TERMS = ("뉴욕증시", "뉴욕 증시", "미국 증시", "국제유가", "국제 유가", "원유", "연준", "미국 국채", "g7", "wti")
+WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권")
+OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 정책브리핑", "서울특별시"}
+SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
+
+
+def trusted(item: dict, sources: set[str] = TRUSTED_NEWS_SOURCES) -> bool:
+    return item.get("source", "").casefold() in sources
 
 
 def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
     """Keep housing-market headlines and reject unrelated search-result spam."""
     return [
         item for item in items
-        if any(term in item["title"] for term in REALESTATE_MARKET_TERMS)
+        if trusted(item)
+        and any(term in item["title"] for term in REALESTATE_MARKET_TERMS)
         and not any(term in item["title"] for term in REALESTATE_SPAM_TERMS)
     ][:limit]
 
@@ -62,11 +79,22 @@ def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]
 
     def take(feeds: list[dict], category: str, limit: int) -> list[dict]:
         selected = []
-        for feed in feeds:
-            for item in feed.get("items", []):
+        rows = [feed.get("items", []) for feed in feeds]
+        for index in range(max((len(row) for row in rows), default=0)):
+            for row in rows:
+                if index >= len(row):
+                    continue
+                item = row[index]
                 title = item["title"]
                 key = "".join(title.casefold().split())
-                if key in seen or any(term in title for term in DOMESTIC_POLITICS_TERMS):
+                if (key in seen or not trusted(item)
+                        or any(term in title for term in DOMESTIC_POLITICS_TERMS)):
+                    continue
+                if category == "세계 경제" and (not any(term in title.casefold() for term in WORLD_MARKET_TERMS)
+                                                   or any(term in title for term in WORLD_ADVICE_TERMS)):
+                    continue
+                if category == "부동산" and (not any(term in title for term in REALESTATE_MARKET_TERMS)
+                                                 or any(term in title for term in REALESTATE_SPAM_TERMS)):
                     continue
                 seen.add(key)
                 selected.append({**item, "category": category})
@@ -151,7 +179,13 @@ def build() -> dict:
     errors = []
     for name, (query, limit) in FEEDS.items():
         try:
-            if name == "italy_travel":
+            if name in ("top_world_markets", "top_world_macro"):
+                result = parse_feed(get_xml(feed_url(query)), now, limit, max_age_hours=96, fresh_hours=72)
+            elif name == "it":
+                result = parse_feed(get_xml(feed_url(query)), now, 30)
+                tech_terms = ("AI", "인공지능", "클라우드", "반도체", "데이터센터", "보안")
+                result["items"] = [item for item in result["items"] if trusted(item) and any(term in item["title"] for term in tech_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+            elif name == "italy_travel":
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
                 result["items"] = [item for item in result["items"] if "이탈리아" in item["title"] and any(term in item["title"] for term in travel_terms)][:limit]
@@ -162,18 +196,22 @@ def build() -> dict:
             elif name == "sds":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 sds_terms = ("삼성sds", "삼성에스디에스", "samsung sds")
-                result["items"] = [item for item in result["items"] if any(term in item["title"].casefold() for term in sds_terms)][:limit]
+                result["items"] = [item for item in result["items"] if trusted(item) and any(term in item["title"].casefold() for term in sds_terms)][:limit]
             elif name == "realestate_policy":
                 result = parse_feed(get_xml(feed_url(query)), now, 25)
                 policy_terms = ("부동산", "주택", "아파트", "대출", "세제", "재건축", "청약", "공급", "임대", "보유세", "양도세", "LTV", "DSR")
                 change_terms = ("시행", "발표", "확정", "개정", "규제", "완화", "강화", "도입", "공고", "입법", "대책")
-                result["items"] = [item for item in result["items"] if any(term in item["title"] for term in policy_terms) and any(term in item["title"] for term in change_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+                result["items"] = [item for item in result["items"] if trusted(item, OFFICIAL_POLICY_SOURCES) and any(term in item["title"] for term in policy_terms) and any(term in item["title"] for term in change_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
             elif name == "realestate_market":
                 result = parse_feed(get_xml(feed_url(query)), now, 25)
                 result["items"] = select_realestate_market_items(result["items"], limit)
             elif name == "samsung_baseball":
                 result = parse_feed(get_xml(feed_url(query)), now, 20)
                 result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]")][:limit]
+            elif name == "science_tech":
+                result = parse_feed(get_xml(feed_url(query)), now, 30)
+                science_terms = ("연구", "기술", "개발", "실험", "발견", "우주", "과학", "신물질")
+                result["items"] = [item for item in result["items"] if trusted(item, SCIENCE_SOURCES) and any(term in item["title"] for term in science_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
             else:
                 result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)
