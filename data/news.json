@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:08:38+09:00",
+  "generated_at": "2026-10-05T06:10:32+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -16,12 +16,6 @@
           "source": "매일경제",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSb3NPclJPY2lPNjJJRnNLelJCS0V4ZDRPZmhnb2g0eGVPaWJZQVdDakk1aWhtZFBJVjU4bWZEUDZkUV84eEVkOTl5aV9lOFhPRl9HYQ?oc=5",
           "published_at": "2026-10-04T11:33:03+09:00"
-        },
-        {
-          "title": "[프리즘] ’AI 속도조절론’ 갑론을박…유엔 달군 AI 패권 경쟁",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCaEtJbW5PUlQ1LTB6QUozNHVndy1nZ3JVcm12ZnNhZThKMjNZN0dCblBCZHNuaElaem5xNGtHUGM2aVB2SkNOaV9ndHlETWlCMDFlMGhqRTkyMkRlWllYN20tU0hxdTg?oc=5",
-          "published_at": "2026-10-04T10:01:00+09:00"
         },
         {
           "title": "LG U+·구글, '제미나이' 활용한 크리에이터 AI 콘텐츠 제작 교육 - 머니투데이",
@@ -48,10 +42,16 @@
           "published_at": "2026-10-05T00:53:00+09:00"
         },
         {
-          "title": "[프리즘] 산업 현장 AI 속도전…동시에 ’안전성’ 화두로",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56ZFNfOFNuNUtMZ2hPckFZTGlLM3Q5bGRVWjFsZ0Z6cXkyc051QzY3bkdFRERvVGdJUENkRHZxUzE0eVdYSkJlVTJ6RC1DUDExRFF2RUVEbTRsQ1hSd2p6TWd0bzlRdw?oc=5",
-          "published_at": "2026-10-04T10:01:00+09:00"
+          "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84X3poMW5NQV9iaGdub3hWMU1UU2NJRVhUQllDUFZZbzloaEdiSi1jdjZJSlF0QnBlMl8wYV9XT091Y043LTRYTldhRG1yMXYwRjAtZERR?oc=5",
+          "published_at": "2026-10-04T09:06:26+09:00"
+        },
+        {
+          "title": "\"데이터 플랫폼 기업 도약\"...크리니티, 'AI페스타 2026'서 AI 워크OS '써팀' 선보여",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvcXJYMGkzelpDWkdOVG10eENqVllhSzBCOUxnOGNtZ1kyaHFLdHBZa19KUnQwbC1QbV9MQzZMX1VDZUpaUUlYQzFLaUtpR2dXV1RSVlNB?oc=5",
+          "published_at": "2026-10-04T13:41:18+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -161,7 +161,7 @@
         },
         {
           "title": "삼성 자력 1위 이렇게 무산되나…'에이스' 페덱 담 증세로 선발 불가→왼손 이승현 긴급 대체 등판",
-          "source": "마이데일리",
+          "source": "mydaily.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tbzhlRnczN3lvSkh4QkxpeGxnUzlhN1JEMXpfX3NnWnNGR0k3OHB6V1BTQUdnUnR1aGdaWUJiVmRGYzhvWmFiMlIzM3hCQTBfdmpPdFdjOWNackpydVVBZQ?oc=5",
           "published_at": "2026-10-04T13:31:00+09:00"
         }
@@ -251,13 +251,6 @@
           "category": "세계 경제"
         },
         {
-          "title": "트럼프 압박에 유럽 \"비축유 방출\"…국제유가 하락",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxZlFfWHptZmMwdXBTeE1SYmxuY3N3aVZUcXV4bFp6dlFFTnNmSjVBYWRpTXF1WC1FMl9iNk02Z245UHZVNmR2Mi15bFhZZjh4dUZncVE4dmtLYUpnTHQ3LWFjX2k0NkU?oc=5",
-          "published_at": "2026-10-03T15:21:00+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "美국채 금리 따라 등락 반복한 뉴욕증시…강보합 마감(종합)",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pNEFldzlESHl2NnlYU2xQaG1OTFpmb1NZdl9kRmRTTVh4OFppUXpQbDA5cEVldU5HRmt2WVhqWDRMUlM2b0prQk5CbzVnbERvQkpnTkxtd2pObzTSAWBBVV95cUxNclljaVdsdmFUX2VEV19uVGd0LV9xMGNJb092ZzVEcV9Ya3dFSzlLbDRoY0ljSUtVRnpmTjBvcS1aeFFoTHNmeTZyRnZ3OU1YNE13c0JkNnVzQnV6akwyeUs?oc=5",
@@ -276,6 +269,13 @@
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LM2RLMEhKRkplOHR6N3dRZXlkaG9naDRUSk52OExZeG1rTDVyREk5OE4wdGRGMVBnM1NTdFJIMVRhNS1BU2xHb1VyWGF1bUJqWVRvbE12dERGcVHSAWBBVV95cUxPcUc0NjkzX3Q0OGFNVVR6ZVQ5MkpFM1pRb19ESnJsckpydWJhTWpNbEN5U0pRNEhubnZnTmZmUWdOUlhiT2RnV0JKWnNlRnJSMC1vcHRXdGRyRjZqMkdFQUw?oc=5",
           "published_at": "2026-10-03T05:08:01+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "미국 고용 악재가 미 국채·뉴욕 증시엔 호재...힘 받는 금리 동결론",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CY3ZRSFZDZkFYSENCM3JQbzV0blM2STkxemstUnpLYXdGeHQtSmwwdkZmclRZLURZdHpJMExvVDYxS0M4WXZ6anVSWHdrUGVXd3ZRZnFUM3JjOHpOS3c?oc=5",
+          "published_at": "2026-10-03T06:22:00+09:00",
           "category": "세계 경제"
         },
         {
