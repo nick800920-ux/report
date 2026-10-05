@@ -1,9 +1,20 @@
 import unittest
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
-from scripts.update_news import select_realestate_market_items, select_top_items
+from scripts.update_news import add_current_sds_event, select_realestate_market_items, select_top_items
 
 
 class RealEstateHeadlineTests(unittest.TestCase):
+    def test_official_sds_event_only_during_event_dates(self):
+        kst = ZoneInfo("Asia/Seoul")
+        for day, expected in [(5, 0), (6, 1), (8, 1), (9, 0)]:
+            section = {"items": [], "window": "최근 72시간"}
+            add_current_sds_event(section, datetime(2026, 10, day, 12, tzinfo=kst))
+            self.assertEqual(len(section["items"]), expected)
+            if expected:
+                self.assertEqual(section["items"][0]["source"], "Samsung SDS")
+
     def test_filters_irrelevant_or_spam_headlines(self):
         items = [
             {"title": "서울 아파트 실거래가 변동", "source": "연합뉴스"},

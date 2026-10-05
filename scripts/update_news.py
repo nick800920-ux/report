@@ -57,10 +57,25 @@ WORLD_MARKET_TERMS = ("뉴욕증시", "뉴욕 증시", "미국 증시", "국제�
 WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권")
 OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 정책브리핑", "서울특별시"}
 SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
+SDS_AI_FESTA_START = datetime(2026, 10, 6, tzinfo=KST)
+SDS_AI_FESTA_END = datetime(2026, 10, 9, tzinfo=KST)
 
 
 def trusted(item: dict, sources: set[str] = TRUSTED_NEWS_SOURCES) -> bool:
     return item.get("source", "").casefold() in sources
+
+
+def add_current_sds_event(section: dict, now: datetime) -> None:
+    """Show a verified official event only while it is taking place."""
+    if not SDS_AI_FESTA_START <= now < SDS_AI_FESTA_END:
+        return
+    section["items"].insert(0, {
+        "title": "삼성SDS AI FESTA 26 · 10월 6~8일 코엑스 C홀",
+        "source": "Samsung SDS",
+        "url": "https://www.samsungsds.com/kr/event/ai-festa-2026.html",
+        "published_at": SDS_AI_FESTA_START.isoformat(timespec="seconds"),
+    })
+    section["window"] = "진행 중인 공식 행사 · 10월 6~8일"
 
 
 def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
@@ -222,6 +237,7 @@ def build() -> dict:
     world_markets = sections.pop("top_world_markets")
     world_macro = sections.pop("top_world_macro")
     property_feed = sections.pop("top_property")
+    add_current_sds_event(sections["sds"], now)
     top_items = select_top_items([world_markets, world_macro], property_feed)
     sections["top"] = {
         "items": top_items,
