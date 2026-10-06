@@ -59,6 +59,8 @@ OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 �
 SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
 SDS_AI_FESTA_START = datetime(2026, 10, 6, tzinfo=KST)
 SDS_AI_FESTA_END = datetime(2026, 10, 9, tzinfo=KST)
+GYEONGJU_FESTIVAL_START = datetime(2026, 10, 9, tzinfo=KST)
+GYEONGJU_FESTIVAL_END = datetime(2026, 10, 12, tzinfo=KST)
 
 
 def trusted(item: dict, sources: set[str] = TRUSTED_NEWS_SOURCES) -> bool:
@@ -76,6 +78,19 @@ def add_current_sds_event(section: dict, now: datetime) -> None:
         "published_at": SDS_AI_FESTA_START.isoformat(timespec="seconds"),
     })
     section["window"] = "진행 중인 공식 행사 · 10월 6~8일"
+
+
+def add_current_gyeongju_event(section: dict, now: datetime) -> None:
+    """Keep the city-confirmed festival visible immediately before and during it."""
+    if not GYEONGJU_FESTIVAL_START - timedelta(days=2) <= now < GYEONGJU_FESTIVAL_END:
+        return
+    section["items"].insert(0, {
+        "title": "경주시 공식 안내 · 제53회 신라문화제 10월 9~11일",
+        "source": "경주시",
+        "url": "https://www.gyeongju.go.kr/sillafestival/page.do?mnu_uid=1906&pageNo=1&pageOrder=0&pagePrvNxt=1&pageRef=0&parm_bod_uid=329221&parm_mnu_uid=0&srchBgpUid=-1&srchColumn=&srchEDate=&srchEnable=1&srchKeyword=&srchSDate=&srchVoteType=-1&step=258",
+        "published_at": "2026-10-01T00:00:00+09:00",
+    })
+    section["window"] = "경주시 공식 행사 · 10월 9~11일"
 
 
 def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
@@ -207,7 +222,7 @@ def build() -> dict:
             elif name == "gyeongju_travel":
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 heritage_terms = ("신라", "문화유산", "박물관", "축제", "유적", "역사", "관광", "여행")
-                result["items"] = [item for item in result["items"] if "경주" in item["title"] and any(term in item["title"] for term in heritage_terms)][:limit]
+                result["items"] = [item for item in result["items"] if "경주" in item["title"] and any(term in item["title"] for term in heritage_terms) and item["source"] != "Daum" and "신라왕들의 축제" not in item["title"]][:limit]
             elif name == "sds":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 sds_terms = ("삼성sds", "삼성에스디에스", "samsung sds")
@@ -222,7 +237,7 @@ def build() -> dict:
                 result["items"] = select_realestate_market_items(result["items"], limit)
             elif name == "samsung_baseball":
                 result = parse_feed(get_xml(feed_url(query)), now, 20)
-                result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]")][:limit]
+                result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]") and "하입프린세스" not in item["title"]][:limit]
             elif name == "science_tech":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 science_terms = ("연구", "기술", "개발", "실험", "발견", "우주", "과학", "신물질")
@@ -238,6 +253,7 @@ def build() -> dict:
     world_macro = sections.pop("top_world_macro")
     property_feed = sections.pop("top_property")
     add_current_sds_event(sections["sds"], now)
+    add_current_gyeongju_event(sections["gyeongju_travel"], now)
     top_items = select_top_items([world_markets, world_macro], property_feed)
     sections["top"] = {
         "items": top_items,
