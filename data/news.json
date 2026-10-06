@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-07T06:01:40+09:00",
+  "generated_at": "2026-10-07T06:04:05+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "\"우리 AI, 잘 쓰게 만들어야\"…이해민·하정우, 산업 활용성 ‘집중 점검’",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UV2IxTFNWelpyV0p0UXFKQTljV0NUbUpDdmhLcWg4a0wzSU82VXZmZEpOMl95VmNzT1pBcU53aHc5RWtJc0NKeUdPV2xQcXp4UXFxSWFR?oc=5",
+          "published_at": "2026-10-06T18:06:35+09:00"
+        },
         {
           "title": "딥엑스, 두산로보틱스와 AI 용접 로봇 솔루션 개발",
           "source": "서울경제",
@@ -40,6 +46,12 @@
           "source": "지디넷코리아",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWVJjejVHZ3dvZ3BMaUI1MTNxZU43R1JUdnNCNGxtbWhzR1B0WDNIb2w2azZxMjVIellIclBQUWhobmpUc0tRQlBvbk5mYjNIRnJDVnR3?oc=5",
           "published_at": "2026-10-06T17:27:59+09:00"
+        },
+        {
+          "title": "귀뚜라미, AI 기술 적용한 보일러·카본매트 신규 CF 공개",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nd2t3bmF5UkNNam1TZmJRX3Q0ZldpMFdLd2REd0VoMkJONnBQN3RBSzdDejBfbEEtZnNaQTFlREp5QTBxWExRLWFmRUdXLVBoRnJFOVZPSlNyaTc1?oc=5",
+          "published_at": "2026-10-06T15:49:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -147,6 +159,24 @@
           "source": "대구MBC",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CUDgzeXl6cDJwekdiNU44Y2lJQ1Fla2ZxRmxQSzI5aGxURm1ZQmVrbmdvM2dyM1RCbFVOdWhlRXdVSnpvcU5VQ1MtaDE?oc=5",
           "published_at": "2026-10-05T21:11:02+09:00"
+        },
+        {
+          "title": "'4홈런·19타점 폭발' 디아즈, 삼성 구단 선정 올곧은병원 9월 MVP",
+          "source": "스타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yY19aVHZINVBhd2djMjN0azJSeXJfSGpYSGNVd1RuSlNXWXlTeFR4aEVyUTlNaWw5MWNKTmRZazN0VzNaNHdlOG5KVzhfTnZaRUVhQl96UGRGZXJZZXNyT0kwa0RWRzhmQ0V0S0h2bzlsVkdqUnc?oc=5",
+          "published_at": "2026-10-05T19:07:00+09:00"
+        },
+        {
+          "title": "`졌지만 잘 싸웠다` 삼성 통한의 2위…`31승 1무 22패` 선수들은 최선 다했다, 상대가 미쳤을 뿐",
+          "source": "마이데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jcV81T0pOREhwQnVmOG90Tk1uWXlmNE1QaC1ZT1YyamNPT05BTFFSYXMxV19TZlJyOVFvVHhoVTlwbzhDWFp3MEtGS2NkaDBEQlV3b2hFN0l6OTB3THlPb0I1WnhXZw?oc=5",
+          "published_at": "2026-10-06T01:11:00+09:00"
+        },
+        {
+          "title": "삼성 라이온즈, 역대 팀 최다 관중 달성…리그 전체도 역대 최다 관중 신기록",
+          "source": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNVV5M0ZBYW0xMFU0MzNXdE9qX0hJdDdlVVZ5SWt4UnlIaGNRRUd5TVdFVTRkSEdLb2lmWTQ3SDdNTFJpNjMzWTBqLTRseG5RSXQyUlRzUjRjdHZ0eVQ3dWNn?oc=5",
+          "published_at": "2026-10-06T02:11:19+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -171,6 +201,12 @@
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jT040UUotLWZrOG9tVWNKc1RrcU1YbzQ5LUZBNkNPdDBxdjRHeUlwMHU4SjExY0gxcGg4OHh0UWI0bk4xUngzWHFLYmF6TDV6OV9KemN3S01GQnBxRVdRZnJzYVFwU0lINEHSAW9BVV95cUxQdFFyOF8ybHktUmhNUmFiWkdoWGJsSnhpd1h3SkM0RjAycVBrU21iOU95VEJNZHBmeE0zRWs1R2dMcWFHa2FNTkVRMmxpbjVFYmtjdmJpV05yREJzdzZiSHlobURyVG9GeU0wM3ZjRWc?oc=5",
           "published_at": "2026-10-06T13:46:51+09:00"
+        },
+        {
+          "title": "국립공주대 리빙디자인센터 개소…AI 융합 연구·산학협력 확대 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSzV6NjdpTGdwdUIzYWtBcW1ucWh2bnYweFZ5NU9UNEVwNjFhWU85WTIwNzhVLUxIdUkxOEdBTDgxNC1VTHI0ZXhfWk9yd0JLMVFVU0VDQlpfUDdtUVdlZm5VX1owc3lOc3fSAW9BVV95cUxNU3FtV0JiZ1gzMk5SWFU0el9HcWVQQWlNMmlaMlZ5WFpoc1pIRVc0TWtlYlk1OW14Q1BhY0c1NVRSZDkxM0N1LXo5T1RIRnVoeEJ3NWYtV0dpcmVybExNMlcyc0Zwa2dzbFZJTzc5bWs?oc=5",
+          "published_at": "2026-10-06T13:43:42+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -207,9 +243,21 @@
           "source": "경북신문",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVDlDYUI2dW5lM3RMczRCWmRuRFhRcnBORVdBZUo3V0xkQjNNTHQ1VDRJR25HaTEwTW9XUmdLZ3FFajVBRjQtMkppZGZQZmE3OEc0Tm41VnA?oc=5",
           "published_at": "2026-10-05T12:13:00+09:00"
+        },
+        {
+          "title": "경주 ‘문무대왕 페스티벌’ 성료…시민·관광객 2000여 명 발길",
+          "source": "스포츠동아",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DbEhkd3BLUkVZdUJVV3R1THpueTNhX2F0S0w2LWxIN2FXOXV4cnItaVFWYXl1SEMxMGhjV2VFaEpqOHBNTy1QR0I0SUlWcnVOd2l5cEE5RDlpZldXM3NhYkxRT2ZPTnppcDcxd2NwOVFRdw?oc=5",
+          "published_at": "2026-10-06T14:16:01+09:00"
+        },
+        {
+          "title": "경주 도심이 거대한 무대로···53번째 신라문화제 오는 9일 개막",
+          "source": "뉴데일리 대구경북",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91aWZ5c0kxTWlTYmRlNkwtN081VmliQWNqbUpoX2tEYUlwTzNKem1weDRmcnNzWnNVeWRxUjZaMVEyQzVxUVpQS1g0YzF0ZVF0ZHBTc1NaWF9ack9ZWEhJTHNSbFZZbkdBaWU5NkJLZUU0cHZlSmhkdFVR0gF_QVVfeXFMTko5TG5mN1E5emt0Um9BV3NrVFZaZng5YkhQVmdudzhxMjRiVGppdVl6QmhvX05md1pVSzhPdjVlNktHYUhqYzQ1Wkk0bHJ0eWExMk0xWDdic2hpeWoyZEE1XzZLX19QRU9iMzNhMm1TX1FJT3ZxR205TERSM3FFOA?oc=5",
+          "published_at": "2026-10-03T14:00:42+09:00"
         }
       ],
-      "window": "최근 14일",
+      "window": "경주시 공식 행사 · 10월 9~11일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EA%B2%BD%EC%A3%BC+%EC%8B%A0%EB%9D%BC%EB%AC%B8%ED%99%94%EC%A0%9C+OR+%EA%B2%BD%EC%A3%BC+%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0+OR+%EA%B2%BD%EC%A3%BC+%EB%B0%95%EB%AC%BC%EA%B4%80+OR+%EA%B2%BD%EC%A3%BC+%EC%97%AD%EC%82%AC%EC%B6%95%EC%A0%9C"
     },
     "top": {
@@ -226,6 +274,27 @@
           "source": "헤럴드경제",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUHYwNlhnZkl4SE5iMjJiX0xmUFAxd0pTcnlNb21GbVpkbnEtdlBFRFU2U1dJUjQzRWtfRTZESnJEUU5zYWY5WnpPbHhmYm1JMmVWMy1n?oc=5",
           "published_at": "2026-10-06T06:08:12+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "실적 시즌 기대감에 뉴욕증시 상승…S&P·나스닥 최고치",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za1FhNHliNFRJUF8tMm1kMlFmcjdLUE5hazdHWjVrQTlMQXNiaXE0MmoyZjJCbmttcWhZVEhpN0x5OHRCY1daN3RYUF9XTjJWUWExeG9sMm0tVU9XVWVUMmFMdDkyclk?oc=5",
+          "published_at": "2026-10-07T05:25:00+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "중동 수출 회복에 공급 우려 속 국제유가 강보합세 마감",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5MUhqRmtWdTB5Sng4MHdwc0hKXzlqVzZiYjVBOWpZRkUyb01ERVo1dGhjYUhVWDA0OGk0QURPTDlpblQzR0p4Q0xvSWY1WmlnNDdCbFJHVF9GSHFzWHVkbWRweDY0dFE?oc=5",
+          "published_at": "2026-10-07T05:00:00+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[뉴욕증시] 실적 발표 기대감에 S&P500·나스닥 또 사상 최고치",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vd2I2dWJIUVpLTTAyNXAxM3dlWDItc1NFU0dKQlZsVFVQN1FVdmlIaWFfSGRrUjFLaVRpdVBiSFBXLXdtMGhEb3pXSVh1Y0Fqc0ZMX2NWdl9HVHFnX0Y5Zg?oc=5",
+          "published_at": "2026-10-07T05:27:32+09:00",
           "category": "세계 경제"
         },
         {
