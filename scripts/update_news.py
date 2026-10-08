@@ -109,7 +109,8 @@ def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]
 
     def take(feeds: list[dict], category: str, limit: int) -> list[dict]:
         selected = []
-        rows = [feed.get("items", []) for feed in feeds]
+        rows = [sorted(feed.get("items", []), key=lambda item: item.get("published_at", ""), reverse=True)
+                for feed in feeds]
         for index in range(max((len(row) for row in rows), default=0)):
             for row in rows:
                 if index >= len(row):
@@ -134,7 +135,7 @@ def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]
 
     world = take(world_feeds, "세계 경제", 5)
     property_items = take([property_feed], "부동산", 4)
-    return world + property_items
+    return sorted(world + property_items, key=lambda item: item.get("published_at", ""), reverse=True)
 
 
 def feed_url(query: str | None) -> str:

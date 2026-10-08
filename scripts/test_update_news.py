@@ -50,6 +50,19 @@ class RealEstateHeadlineTests(unittest.TestCase):
             ["뉴욕증시 상승 마감", "국제유가 하락", "서울 아파트 전셋값"],
         )
 
+    def test_top_puts_newer_headlines_first(self):
+        market = {"items": [
+            {"title": "뉴욕증시 오래된 소식", "source": "연합뉴스", "published_at": "2026-10-07T08:00:00+09:00"},
+            {"title": "뉴욕증시 오늘 소식", "source": "연합뉴스", "published_at": "2026-10-09T05:00:00+09:00"},
+        ]}
+        homes = {"items": [
+            {"title": "서울 아파트 어제 소식", "source": "한국일보", "published_at": "2026-10-08T16:00:00+09:00"},
+        ]}
+        self.assertEqual(
+            [item["title"] for item in select_top_items([market], homes)],
+            ["뉴욕증시 오늘 소식", "서울 아파트 어제 소식", "뉴욕증시 오래된 소식"],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
