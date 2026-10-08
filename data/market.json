@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-10-08T11:04:48+09:00",
+  "checked_at": "2026-10-08T11:09:11+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
     "kospi": {
       "name": "코스피",
-      "value": 6779.62,
+      "value": 6789.66,
       "unit": "지수",
-      "as_of": "2026-10-08T10:44:40+09:00",
+      "as_of": "2026-10-08T10:49:10+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11/",
       "day_change": {
         "baseline": 6803.8999,
         "baseline_date": "2026-10-07",
-        "amount": -24.2799,
-        "percent": -0.3569
+        "amount": -14.2399,
+        "percent": -0.2093
       },
       "week_change": {
         "baseline": 7003.7402,
         "baseline_date": "2026-10-02",
-        "amount": -224.1202,
-        "percent": -3.2
+        "amount": -214.0802,
+        "percent": -3.0567
       }
     },
     "sp500": {
@@ -43,21 +43,21 @@
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1337.35,
+      "value": 1336.91,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-08T11:04:43+09:00",
+      "as_of": "2026-10-08T11:09:10+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/",
       "day_change": {
         "baseline": 1339.74,
         "baseline_date": "2026-10-07",
-        "amount": -2.39,
-        "percent": -0.1784
+        "amount": -2.83,
+        "percent": -0.2112
       },
       "week_change": {
         "baseline": 1360.59,
         "baseline_date": "2026-10-02",
-        "amount": -23.24,
-        "percent": -1.7081
+        "amount": -23.68,
+        "percent": -1.7404
       }
     }
   },
