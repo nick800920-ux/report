@@ -2,7 +2,7 @@ import unittest
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from scripts.update_news import add_current_gyeongju_event, add_current_sds_event, select_realestate_market_items, select_top_items
+from scripts.update_news import add_current_gyeongju_event, add_current_sds_event, add_recent_science_official, add_recent_sds_official, select_realestate_market_items, select_top_items, unique_headlines
 
 
 class RealEstateHeadlineTests(unittest.TestCase):
@@ -23,6 +23,32 @@ class RealEstateHeadlineTests(unittest.TestCase):
             self.assertEqual(len(section["items"]), expected)
             if expected:
                 self.assertEqual(section["items"][0]["source"], "Samsung SDS")
+
+    def test_official_sds_fallback_expires_and_does_not_override_news(self):
+        kst = ZoneInfo("Asia/Seoul")
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_sds_official(section, datetime(2026, 10, 10, tzinfo=kst))
+        self.assertEqual(len(section["items"]), 1)
+        self.assertEqual(section["items"][0]["source"], "Samsung SDS")
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_sds_official(section, datetime(2026, 10, 16, tzinfo=kst))
+        self.assertEqual(section["items"], [])
+
+    def test_duplicate_video_headlines_are_removed(self):
+        rows = [
+            {"title": "[영상] 크래프톤, 서울대와 AI 연구", "published_at": "2026-10-09T10:00:00+09:00"},
+            {"title": "영상크래프톤, 서울대와 AI 연구", "published_at": "2026-10-09T11:00:00+09:00"},
+        ]
+        self.assertEqual(len(unique_headlines(rows, 5)), 1)
+
+    def test_official_science_fallback_expires(self):
+        kst = ZoneInfo("Asia/Seoul")
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_science_official(section, datetime(2026, 10, 10, tzinfo=kst))
+        self.assertEqual(section["items"][0]["source"], "NASA")
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_science_official(section, datetime(2026, 10, 16, tzinfo=kst))
+        self.assertEqual(section["items"], [])
 
     def test_filters_irrelevant_or_spam_headlines(self):
         items = [

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import time
 import urllib.parse
@@ -57,6 +58,7 @@ WORLD_MARKET_TERMS = ("뉴욕증시", "뉴욕 증시", "미국 증시", "국제�
 WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권")
 OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 정책브리핑", "서울특별시"}
 SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
+BASEBALL_SOURCES = {"연합뉴스", "연합뉴스tv", "뉴스1", "머니투데이", "osen", "스포츠조선", "스포티비뉴스", "kbs 뉴스"}
 SDS_AI_FESTA_START = datetime(2026, 10, 6, tzinfo=KST)
 SDS_AI_FESTA_END = datetime(2026, 10, 9, tzinfo=KST)
 GYEONGJU_FESTIVAL_START = datetime(2026, 10, 9, tzinfo=KST)
@@ -65,6 +67,50 @@ GYEONGJU_FESTIVAL_END = datetime(2026, 10, 12, tzinfo=KST)
 
 def trusted(item: dict, sources: set[str] = TRUSTED_NEWS_SOURCES) -> bool:
     return item.get("source", "").casefold() in sources
+
+
+def unique_headlines(items: list[dict], limit: int) -> list[dict]:
+    """Remove repeat syndications and decorative video labels."""
+    seen = set()
+    result = []
+    for item in sorted(items, key=lambda row: row.get("published_at", ""), reverse=True):
+        title = re.sub(r"^\[[^]]+\]\s*|^영상\s*", "", item["title"])
+        title = re.sub(r"\s+-\s+[^-]{2,25}$", "", title)
+        key = "".join(title.casefold().split())
+        if key not in seen:
+            seen.add(key)
+            result.append(item)
+        if len(result) >= limit:
+            break
+    return result
+
+
+def add_recent_sds_official(section: dict, now: datetime) -> None:
+    """Keep the last verified company release visible briefly if RSS is empty."""
+    published = datetime(2026, 9, 30, tzinfo=KST)
+    if section["items"] or not published <= now < published + timedelta(days=15):
+        return
+    section["items"].append({
+        "title": "삼성 6개사, 미국 AI 인프라 기업 헬릭스 투자 발표",
+        "source": "Samsung SDS",
+        "url": "https://www.samsungsds.com/kr/news/sds20260930.html",
+        "published_at": published.isoformat(timespec="seconds"),
+    })
+    section["window"] = "최근 공식 발표 · 9월 30일"
+
+
+def add_recent_science_official(section: dict, now: datetime) -> None:
+    """Use the verified NASA research story when general RSS has no science."""
+    published = datetime(2026, 10, 8, tzinfo=KST)
+    if section["items"] or not published <= now < published + timedelta(days=7):
+        return
+    section["items"].append({
+        "title": "NASA, 중력파 관측용 LISA 시험 망원경 개발 단계 발표",
+        "source": "NASA",
+        "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+        "published_at": published.isoformat(timespec="seconds"),
+    })
+    section["window"] = "최근 공식 과학 기사 · 10월 8일"
 
 
 def add_current_sds_event(section: dict, now: datetime) -> None:
@@ -215,7 +261,7 @@ def build() -> dict:
             elif name == "it":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 tech_terms = ("AI", "인공지능", "클라우드", "반도체", "데이터센터", "보안")
-                result["items"] = [item for item in result["items"] if trusted(item) and any(term in item["title"] for term in tech_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+                result["items"] = unique_headlines([item for item in result["items"] if trusted(item) and any(term in item["title"] for term in tech_terms) and not item["title"].startswith("[포토]") and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + ("주가", "승자 될까", "트럼프"))], limit)
             elif name == "italy_travel":
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
@@ -238,11 +284,11 @@ def build() -> dict:
                 result["items"] = select_realestate_market_items(result["items"], limit)
             elif name == "samsung_baseball":
                 result = parse_feed(get_xml(feed_url(query)), now, 20)
-                result["items"] = [item for item in result["items"] if not item["title"].startswith("[사진]") and "하입프린세스" not in item["title"]][:limit]
+                result["items"] = unique_headlines([item for item in result["items"] if trusted(item, BASEBALL_SOURCES) and not item["title"].startswith("[사진]") and not any(term in item["title"] for term in ("하입프린세스", "샐캡"))], limit)
             elif name == "science_tech":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 science_terms = ("연구", "기술", "개발", "실험", "발견", "우주", "과학", "신물질")
-                result["items"] = [item for item in result["items"] if trusted(item, SCIENCE_SOURCES) and any(term in item["title"] for term in science_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS)][:limit]
+                result["items"] = unique_headlines([item for item in result["items"] if trusted(item, SCIENCE_SOURCES) and any(term in item["title"] for term in science_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + ("해고", "채용", "주가"))], limit)
             else:
                 result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)
@@ -254,6 +300,8 @@ def build() -> dict:
     world_macro = sections.pop("top_world_macro")
     property_feed = sections.pop("top_property")
     add_current_sds_event(sections["sds"], now)
+    add_recent_sds_official(sections["sds"], now)
+    add_recent_science_official(sections["science_tech"], now)
     add_current_gyeongju_event(sections["gyeongju_travel"], now)
     top_items = select_top_items([world_markets, world_macro], property_feed)
     sections["top"] = {
