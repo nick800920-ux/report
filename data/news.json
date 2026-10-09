@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-10T06:06:03+09:00",
+  "generated_at": "2026-10-10T06:06:32+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "[스타트UP] “AI가 판단하는 현장 만든다”…와이매틱스 폐쇄망 AI 추론 시장 공략 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3hOQlQ4NXJlR0VTUFc1UVBaU0I2TVd1VDh6RlBBQThoQ2VwalpVZ1ZhWlYwSG95RjBRRk5wUmZUVHFNUTNLd1FFQklkRW9uU2dieHJmTDU0RDJ3dlAzT1VwWFZ4d09vUVpUYkpFcGhkNjJqSmIyNmVJd0lwTUhibFNuMlRNN0xiWVZmMmJfbV_SAaQBQVVfeXFMTUhGMm1SbGk3TkJtMk5oNkNGUm81dkItVUJDSkhVaVMwT0doWXZTLTFXWFQ3dXJ5T25fdnFzMVZ0Y3JadVh1ZEl5b1lLb3pqZEdjVFJGWnNwQ0xhbmdqdGpRSUF1Q0x3dTRjaHdIaVYwZVdrVHVHaEJ5RnhVZUt1TkJIQ0hvclZ4dFhKM1NWZGZidTY0TGdaT2NyUFpRZ3M2cmwydnU?oc=5",
+          "published_at": "2026-10-10T06:03:42+09:00"
+        },
         {
           "title": "AI 해킹 '대중화'? 금융권 공격 일일 15만 번‥\"내년은 더 커질 것\"",
           "source": "MBC 뉴스",
@@ -201,10 +207,10 @@
           "category": "세계 경제"
         },
         {
-          "title": "중동발 공급 불안에‥국제유가 급등",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWF9tQk5FT0JiR0tnRV9SUkd5dkJxRGNrQlVub3BMUkNvUU9mY183SGE1SjRzQnpvMGg5NGVWaHhLQWRTb1ZVQVg0LWNMZUREVHJIT2NMM18yZ2szbWR2Sy0wUi1RRzhRLVJzaDA0YXdCQndYWmt2TdIBeEFVX3lxTE5SeWVDbGJYdDdWaF9pZzRvRGFEdW5yNjJzV0lXc2RYTE1ZTFRvbkxYUmladWVGM2s2eVIwSG5TRFNGeUEzRUg5SDNhSVBkSXEyUUE1c3U1VXdKUGxRUG54dmtUNVFIdEw2NDhuWlVUR3JNQXFCTkNMVQ?oc=5",
-          "published_at": "2026-10-09T12:45:28+09:00",
+          "title": "뉴욕증시 프리뷰, 미 지수 선물 상승…트럼프 이란 공격 유예에 유가 하락, 기술주 반등",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcUQ5Ymo5a0I4aHR3Tl95amRjMmVfSUhyMjRVdVdxbWtmcWp2c3VSdVVkWF9VaF9LUlhBeUJGeXdxVTEtb21XZnZQbjh2MVRvOW9aaHdJQnNCTXBf?oc=5",
+          "published_at": "2026-10-09T21:16:00+09:00",
           "category": "세계 경제"
         },
         {
