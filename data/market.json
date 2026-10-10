@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T06:06:38+09:00",
+  "checked_at": "2026-10-10T09:18:58+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
@@ -26,7 +26,7 @@
       "name": "S&P 500",
       "value": 7811.54,
       "unit": "지수",
-      "as_of": "2026-10-10T05:37:40+09:00",
+      "as_of": "2026-10-10T06:29:56+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "day_change": {
         "baseline": 7765.3599,
