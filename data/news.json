@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:01:39+09:00",
+  "generated_at": "2026-10-12T06:02:35+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -226,17 +226,17 @@
           "category": "세계 경제"
         },
         {
-          "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdzVPTWplNzRTZXBFVFB4VE5uN1hLaUdqSzc3WWtmVzJtWG5CSlpWYW9PRldMWWJHRnVkaGctR1hkTzFkR1RpcmdXMEpCSEY0bWd3QkNtbERoNG1CZlVUeDhfQ2wwMVR4emtqMDlCS2J6bUhW0gF0QVVfeXFMTjZ4dHRMa3RvT2traVEzYmlKbWR1b2hjbFI3THV1M0xQdk53WUdGZW5UbXJMOGtIQ01iY1I5VE1lTGN6UGQxMEtYMzNjV3hDTDFaelRSd2k1VklEVEJzNS1Kd2dxbTVaOUpvQU04emNPZm82Wng?oc=5",
-          "published_at": "2026-10-10T06:33:06+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5reGtQYlZjSTYySTdWODhSSlFFX0tpLUc4eGpTSU1KeFZJOHZqem1YMDFqV001RVA2RlRzUzR5OWp5UHRLN3JfaW4xc2hha3pnemRFdGhuQzhSQ1gySFluZ9IBYEFVX3lxTE5reGtQYlZjSTYySTdWODhSSlFFX0tpLUc4eGpTSU1KeFZJOHZqem1YMDFqV001RVA2RlRzUzR5OWp5UHRLN3JfaW4xc2hha3pnemRFdGhuQzhSQ1gySFluZw?oc=5",
           "published_at": "2026-10-10T06:21:16+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WklhZGF2Q3lFOUJWYVQ5c2kyUld0NzZyR3ptVmdWeGZqTjFyX1hHbW9RblZ0ZWRQNzdIa1A5OWxTS0NfeTVqaVU4cEhNd0NEWndBR0FLSEgybTNZR3A2ZEd4ZVYyTXJScEtNLTlLWWY?oc=5",
+          "published_at": "2026-10-10T06:03:05+09:00",
           "category": "세계 경제"
         }
       ],
