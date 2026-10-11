@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-10-12T06:02:35+09:00",
+  "generated_at": "2026-10-12T08:58:57+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "MS CEO \"AI에 '비상 브레이크' 필수…내부자 위험처럼 통제해야\"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NVTgtZEF6bEFLMzFsMXhsdEEyYzhKeENZYkhSS1FsSDZoenhwSGlJUmNBbUl1NGdRaFFkTjE2c0gwSjZDNVpFWXFRVERWeGMyUzVVelVWWVFIOEnSAWBBVV95cUxNQVpPcU9nRjdreENWT2tRa0FvOFU1MldCaHpEdFFDbC15MGZQZmx5Y25ZblJwb3dVc2pJSFFfdkxOWVZfOF9LcHZBMGthb1U1T2o2VGtNRWpkd1QxQTliYm0?oc=5",
-          "published_at": "2026-10-12T02:34:59+09:00"
+          "title": "성남시-카이스트 인공지능 경진대회…12대1 경쟁률",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qeThyNTBKTjRLdVV4TDJXSXc5RUo2QTRTOXJfT21JYzNtNERxVmdvcGxXSVhJTk9GM0xXdWoxU3BCaEg0SGFIUi1ERFNsVGI4S1N6NFln?oc=5",
+          "published_at": "2026-10-12T08:42:20+09:00"
         },
         {
-          "title": "제조 명장 통한 AI 모델 개발…기술 전수 보상 체계는 미흡",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYb2VHR2ZVVW9SZHBLc0JGdWVUMXNrYmNyS2o2NWNEVEd3Z0VNLVNxSTMyRERWUDAwN2NiSUVMaUp0Y0xFeDJLSHJSMmFXLXN3Tk80T2pGZnBod9IBX0FVX3lxTE9fV0J1NDBQeWdac0t5UG1qTVo2NUg5UWtieXhjNDZXUWc4Q1Zxb1pqMWRyOE5YVUlSREdxZGNMSk5HSmk0NDBpREk5cTAyU3lYczBrczJoVlA4aDlvcko4?oc=5",
-          "published_at": "2026-10-11T20:14:00+09:00"
+          "title": "김승연 \"낙관주의 설 자리 없다\"…AI 경쟁력·위기 대응 주문",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOE9WaVhkb094enhJRVF4M0lGOXdoZlBSa09KWlItV29HaUVld3BHamxhT3N5bmVITmF5YnF6Rm1jcEVLSDZqNlNCR2Z4V00yeEZfMWJn?oc=5",
+          "published_at": "2026-10-12T08:34:16+09:00"
+        },
+        {
+          "title": "루닛, 美 정밀의료 디스커버리와 협업…\"신약 임상에 AI 기술 접목\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94dlRwTlBDcHNLMndaaFhqZS1YSTdoeGJiVERvVmNoUzg5M0k1OFJhVEN2TmhUTFVzZUFuVERWbWFrWGRKVGlqc3NVZ05WaHhKUFNNVV8zSmZkSDkxMGZVb0Y1V29RTTFmdmfSAW9BVV95cUxQR1ZxSml2YzBKd3dCM0pNcllYUDVPVXBCM1U4My1PTWl1M0JxcWtqWlNNT2VYenRVTDFfcm13anVLX1FRd1ZqYi1XY2NwdXg0WmZKWURrXzNjVEcwZ0lOY2pINWVKckNCRXMxRWZmQ0U?oc=5",
+          "published_at": "2026-10-12T08:26:57+09:00"
+        },
+        {
+          "title": "[인터뷰] 윤성호 마키나락스 대표 \"AI 도입 넘어 수익화가 경쟁력\"",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82LURzMTlvVTdWSXJpWFBldVAwcGJZSjRUemphejVqUFBUUG9hRXA4dWdIOEJCLVJDYnk0dWcxZDFSZnh4bmgzMWpNZWNFa01Ba1RxRzI5dmduWnhsS0dia1NSZVhQQXNxamdidUVBYV8?oc=5",
+          "published_at": "2026-10-12T07:52:34+09:00"
+        },
+        {
+          "title": "정의선 취임 6년…글로벌 3위 넘어 'AI 사업 수익화' 과제로",
+          "source": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TXI5ZHdqQVpRN1NRc0xxN3otZlFPY0Q5R2t6cGo0LWttMGlsMzJPQjcyTnZqZzE4Q3RyMTRNblg4T2JmMmcxVVM0anQ5V3hETkN6MGNIa01tVjAyTjVmRl9MYkE?oc=5",
+          "published_at": "2026-10-12T07:45:23+09:00"
+        },
+        {
+          "title": "한국공학대, 유아 돌봄 AI 활용방안 제시",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EdGUtMExnYjNzLWdSaGtpR0EtWGVQZzVOWFBwbnlCbGVpbTJnLVQtbllhWG5oS2lNRUZ0c3Fqb29YTHc0X2NpTjczTzgtM2h0b2ZhSDVPMlV4a1djdjdHbw?oc=5",
+          "published_at": "2026-10-12T07:27:25+09:00"
         },
         {
           "title": "[ET시론] AI 실증, 기술을 넘어 국가 경쟁력을 혁신하다",
           "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12ME1vdnpRNzhZY2JlVlBKZlA5a0pvcXQ0bFhvM2pYSm1iTGNBVExKenRhRlVYbGR0STdMZlBWVUc1TkJDOVJRVG1rbnBfdw?oc=5",
           "published_at": "2026-10-11T16:00:00+09:00"
-        },
-        {
-          "title": "'버티컬AI' 파고든 초기 스타트업들…10월 첫주 벤처투자 몰렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJWk9SWkVuZ00yZTdNNXFBVkoxZG1uT19UTE9LSTVJUGQ5SEs4QXJUUTBJYUJrai1TSHVJMl9jYWlNNzdUZ09lWTNSYWdoZFd4czkwakFqMDUyRjBnR0hmdzg3ajNMUTBxV2fSAW9BVV95cUxNNG9vYVJHdmlGMEFKMXpmenBIdjduYk0xWmFITVFvTy0taXpOeDNCUUVQWDJOdUVlN0FNWFBfcWplNDhENjdyNTk1bEo2dDdpTDJoTWgwT2p2eU5PMmlSQ1pQUm15YzZDMWJMLTdENlU?oc=5",
-          "published_at": "2026-10-11T16:00:00+09:00"
-        },
-        {
-          "title": "엔비디아, AI 스타트업 리플렉션 추가 투자·인수 검토…핵심 인력 확보도 논의 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlscWJaZDBnVTNMUS0yRm8yWWlwcVh3U2RnVTdIb2xVOVNqY0hsUG5CWDU2aUw4R1o0SGZHS0lKZllOaU9mR0RVX3ZERFhtYXZLalJ1d0ZGQld6N29mcmp0WW9IclR3Vjk5S2NtWkZUX1ZVVWVwN2JnSGg4RGszTGVB0gGWAUFVX3lxTE1sZGtjZ01QbUZhNEEzd0tHNmZPaEVYZjRTUkdscjlZWUNzaWE3QVJLRDRmUkdXRW5yNkNZTXd3QkZDb2JtcmJsaGF1dDY0dy1rR190VDdIM0JUcVdjUzdHWVZUQXBSZlpWcWM3SWVZTFNfM2pHMXVveEdtZHlBYVpHNkNaUnRXaURUWXg3VDhVY25tYmNpQQ?oc=5",
-          "published_at": "2026-10-11T14:52:00+09:00"
-        },
-        {
-          "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ydU9fRC1RVG5DLUpPOUx4SXc1RmtvUlNVeGYydWNiVU9HODhyc1ctei1sai1WTkJwX3EwVGpMVEtUTGFGTEFZYzR0S1N2ZFgxaks1dTZR?oc=5",
-          "published_at": "2026-10-11T12:10:38+09:00"
-        },
-        {
-          "title": "“AI 기업 세무 부담 낮춘다”…중기부·국세청 2559개사 지원 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1RIS1hoeHVEUS1MTFl0R3dPQWZSZ0xULVZmUWEydXZfd3RRR1JzRDM2YTkxdTJTWWhXYXhEMDd4WjZ6Q20zYmEtYjZad0RUcFlfZ1JlbjA3Ukg2WGxHZHVPbC1XQktmaUdKMktXU0pwTjZWQWFhekdjbHlFMU40Y1FOSmJCX0xFbWFwQjhnNG3SAaQBQVVfeXFMTWVHR01SUllzZG1EcktySURQcHE3TC12NTl1RFlIRmw3eWZMWnhXUkRIQURGeXNtNDBaaGJVVld4RWxKUXhwbFV1SWNkeUJIYnlCYXhyZml1cTZFX01pSEhGS2NBTmNpWkFEZmh5NnAxV3YwSzFEZGZGcTcxUzFjb2hzZFB3TElWb3ptdUMzbWVyb0EybjRuMWlaazZETmwwOHJkU0E?oc=5",
-          "published_at": "2026-10-11T12:03:40+09:00"
         },
         {
           "title": "휴머노이드 넘어 '피지컬 AI' 가속…KAIST 13일 기술·전략 발표",
@@ -64,6 +64,12 @@
           "source": "한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00b2RIRHF2TWY0TDFnLTFuYXJkN0Y4V1lJeHI2WFhEM3ZzLU1EV2NvaGc2clB5WG50STQ5VVZfR0JKZGVjV2d3LWxEX2J3ZFFoYlpvN2xic1VhQQ?oc=5",
           "published_at": "2026-10-11T16:27:43+09:00"
+        },
+        {
+          "title": "[리포트 브리핑]삼성에스디에스, 'AI DC 추가 확보, 글로벌 사업 추진 기대' 목표가 240,000원 - 하나증권",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNmlVdUlHWFY4N08tSkotazBneE9pdW45NE5LWkdlMTd3YWdhY1A0eU9zN3drdkxEX0lpSU9hd2stdDlXQjUzeWtFOUpZQW1aM3haOExhZFVIZGpo?oc=5",
+          "published_at": "2026-10-12T08:34:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -101,10 +107,10 @@
           "published_at": "2026-10-11T06:21:41+09:00"
         },
         {
-          "title": "10·15 대책 1년…서울 중하위권 뜨고 강남 위축",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQRzNlZGJldmVnY3dIdWJaY0lkRFpXZk5uSWdkQ0JwdU1VSVZFOE9fLUFiUl9zOERqdGtuT3Z5NTVwR3RTREJEaFZlYnlnZnRiYWsyYWlMXzlJY0JRZ0I2bjVBYmE2RjQ?oc=5",
-          "published_at": "2026-10-11T18:17:00+09:00"
+          "title": "[2026국감]전국 아파트 매매 계약 해제 5년여간 14만건…서울 해제율 2.2배 급증",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtQ1RZQjdrd2ZpQkVIeE1XbFhiMWxpWDU2Y1p5Mjlna2xfNDUxUHYtbUV3MEFaRklHRkZGZElMQWZacW5hVXE3X3BYXzFPUDNKTmtkT0x5czJpck5OUWtaYw?oc=5",
+          "published_at": "2026-10-12T07:31:55+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -123,13 +129,19 @@
     "science_tech": {
       "items": [
         {
-          "title": "NASA, 중력파 관측용 LISA 시험 망원경 개발 단계 발표",
-          "source": "NASA",
-          "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-          "published_at": "2026-10-08T00:00:00+09:00"
+          "title": "[기고] AI시대 연구자의 기본 자세",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RNGo4OV9kOXhKRUJBN0pxOFI1aE5wSGlrSUpoYXk4WjV5WTcxbGFDSi1OX2pfQlpKQkl5Nk9qY2ZPZ0VDVTE3MUNWWF9MSXdpZVRJZ0k5WGRldk02?oc=5",
+          "published_at": "2026-10-12T08:34:00+09:00"
+        },
+        {
+          "title": "사이언스타임즈/사용자메뉴/과학기술/기초·응용과학",
+          "source": "사이언스타임즈",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXNIQkVMd2xwSm9aUEl1cGlUQWI4MjFLZkplQWtmUUpodG9Gdjd1bGZmN2QzMTVQVUFaVVNicWlCOGR1Z1BuckxpTDMzemVQTkpBR2NZVDg2LVFBWmJhYlRmdUhxVXUzSGh1S3hwWDVKYXlSTl9JdXB6aDZEN0k1Zi0xdUJzMmV6dXdHV0R2TQ?oc=5",
+          "published_at": "2026-10-12T07:03:36+09:00"
         }
       ],
-      "window": "최근 공식 과학 기사 · 10월 8일",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+%EC%97%B0%EA%B5%AC"
     },
     "italy_travel": {
@@ -177,6 +189,34 @@
     "top": {
       "items": [
         {
+          "title": "3분기 서울 아파트 매매가, 절반 이상이 전고점 넘었다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXZobXdoUXZpZDNLNEx2YmdGekVhUlVhOWRRSEhlbnp6VEJrT3BOMlRBUXkycVVpVW1ITlBjdTB6NHRnbEg0UU1NUDJoRFJxbWpQZGVfX3pPbkpIb2Z2dTR5RFBBWGNGaGxjaHVqYzdHdUpkeENJRlM5cVgyNzh0OXV2TFBwaGk0dXRHMWt5N01nZlhWRmhnb9IBrAFBVV95cUxNeC1PWEFDek9JWjl1OFZJV2ptVHZ1TDVTczRRQVdBQWloMnlKUXhkNmhNcndEWk5xRm1rdnY4ZnZDN2JSWkRqWlVEOHJock9BZkVYcEhTczNzdTF3QlR1eVRvZGJFeU5keFBGOG5IclRpa0VSdU5Fc1d2dnM5dWhfQ3RyaXB2aFNTSmppRFU2NVM2VDYxLVROWHhMdURqaFhnRVk0Uy1QSGw3cWd6?oc=5",
+          "published_at": "2026-10-12T08:25:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "뉴욕증시 날 때 갇힌 코스피…미국엔 빅테크·설계, 한국엔 메모리뿐",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpZFJNLS1wcFpQQ0hBWkJJbTRiWmE1Z2hrcUM5Uk03Ti0zeFkxandKTEFQV3JIRGhmdlJJVmlvb1lhUWRUUjFVV2QxemNmaFgwWmkxVUpBT2t4M2JFU1pxeQ?oc=5",
+          "published_at": "2026-10-12T08:23:00+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "[2026국감]전국 아파트 매매 계약 해제 5년여간 14만건…서울 해제율 2.2배 급증",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtQ1RZQjdrd2ZpQkVIeE1XbFhiMWxpWDU2Y1p5Mjlna2xfNDUxUHYtbUV3MEFaRklHRkZGZElMQWZacW5hVXE3X3BYXzFPUDNKTmtkT0x5czJpck5OUWtaYw?oc=5",
+          "published_at": "2026-10-12T07:31:55+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "뉴욕 증시, 은행 실적·물가 지표에 촉각…국채금리 5.2% 부담[월가프리뷰]",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TM1V3RjZUcjZzQm9tVGpXWHBnWkxWVXk1RWFsOWVDWEh2SDctbGM4d3N5Wl9vTXo4and1ZGxreDFXSUU1ZGNCa1p5R1dFSjRvREFxN0dCZVk5eXhYMzlaNXhraHA5cEU?oc=5",
+          "published_at": "2026-10-12T07:00:00+09:00",
+          "category": "세계 경제"
+        },
+        {
           "title": "서울 아파트 착공 34% 늘었지만…수도권 전체는 1.6% 증가 그쳐",
           "source": "뉴스1",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcWN5UUJIZld1VkJ1SEpQN3ZYdlluRnlSMXdfNjlxX1plMDhNQzg0VWV6U0czQjlIMjJyakZOMnk1NVlNLWlKU0prNjgyVUdTeVZHSThXaDBhQXM?oc=5",
@@ -188,20 +228,6 @@
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wb3VUMmJYRGNHS0pIOFZzTXhIUEN5NVk5ajJ3elAtR3o1Y0NUNzlScW14VjRJaHFDdTV5MC1rYTJuME5RbUJBaW8xUEJTbUEwaGZxYkxoNTB4VzllVXFfWndhOEZISnFuUVHSAW9BVV95cUxOZzlQa2o0STNUTEtwVnFQcGxsUTdmVlN6YkVkLWhSMWppaWpnT0xTRVNLN1haZ2dzWXNWTUJNbm9hQ29GT3U1bmhPY0d5OWpwam9kcjRGOU93M2dGZmdPU1RtdVNTQnI1SEZCQkgxbms?oc=5",
           "published_at": "2026-10-12T04:05:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전셋값 뛰었다",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwaF94VDlaR0Z1N015cXVGUnd1R3c3eDdIR0tsdkRFdFpLSTN1OWIwWmdGeDMzVFhMX1B5YUdrNGFQZDYxR2pjeURWWXFTWHhMekJ2UXk2a0ctRThycjl1dmF3eHJpQVhT?oc=5",
-          "published_at": "2026-10-11T19:43:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "10·15 대책 1년…서울 중하위권 뜨고 강남 위축",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQRzNlZGJldmVnY3dIdWJaY0lkRFpXZk5uSWdkQ0JwdU1VSVZFOE9fLUFiUl9zOERqdGtuT3Z5NTVwR3RTREJEaFZlYnlnZnRiYWsyYWlMXzlJY0JRZ0I2bjVBYmE2RjQ?oc=5",
-          "published_at": "2026-10-11T18:17:00+09:00",
           "category": "부동산"
         },
         {
@@ -219,24 +245,10 @@
           "category": "세계 경제"
         },
         {
-          "title": "뉴욕증시, 기술주 반등에 3대 지수 상승 마감 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlV5ZUZnN0pSc2E2V1dPRHNVeDRxN1FESEhDTDlQUFBMZF84QS0ta2J6WkpmdHJzVG8yd1JJWVU4N0pwVTh4WllheXNwQTBjb21PTW5kaUo1UUYyVzl6SHpxUlJ5ck9mRkpBWTNsdkFsQVk4d285OUtMMExuYzQ1Rm1lWDBaTTVkMU9GRlVDMFZ4bDltQVFKcVgza3ZEQdIBsgFBVV95cUxOelNXd3JsSFJmeHhLd2xTUWdlVmU1VFIzbS1nVmhtekV1VkpmeFBmSVBOMG9LTDhqWHl1MUVSYVV4d251cmZWYThPVDZOUFVOYlNqakExazVZX2RNZ0xwV1Bwc2UtVXZad3RDY1RDNVJEZmIxYi1FRHVqRWdtMXBGN0VndGRIRHVza0RjT1FELUpiSzg4RFZad0lHalhzN3lPWHlQUWUydFlQWklEQjJKakdn?oc=5",
-          "published_at": "2026-10-10T08:52:00+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "뉴욕증시, 기술주 반등·러시아 경유 공급 합의에 상승(종합)",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5reGtQYlZjSTYySTdWODhSSlFFX0tpLUc4eGpTSU1KeFZJOHZqem1YMDFqV001RVA2RlRzUzR5OWp5UHRLN3JfaW4xc2hha3pnemRFdGhuQzhSQ1gySFluZ9IBYEFVX3lxTE5reGtQYlZjSTYySTdWODhSSlFFX0tpLUc4eGpTSU1KeFZJOHZqem1YMDFqV001RVA2RlRzUzR5OWp5UHRLN3JfaW4xc2hha3pnemRFdGhuQzhSQ1gySFluZw?oc=5",
           "published_at": "2026-10-10T06:21:16+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WklhZGF2Q3lFOUJWYVQ5c2kyUld0NzZyR3ptVmdWeGZqTjFyX1hHbW9RblZ0ZWRQNzdIa1A5OWxTS0NfeTVqaVU4cEhNd0NEWndBR0FLSEgybTNZR3A2ZEd4ZVYyTXJScEtNLTlLWWY?oc=5",
-          "published_at": "2026-10-10T06:03:05+09:00",
           "category": "세계 경제"
         }
       ],
