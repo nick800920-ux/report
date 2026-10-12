@@ -56,6 +56,7 @@ TRUSTED_NEWS_SOURCES = {
 }
 WORLD_MARKET_TERMS = ("뉴욕증시", "뉴욕 증시", "미국 증시", "국제유가", "국제 유가", "원유", "연준", "미국 국채", "g7", "wti")
 WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권")
+PROPERTY_ADVICE_TERMS = ("매수 기회", "사도 될까", "추천 매물")
 OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 정책브리핑", "서울특별시"}
 SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
 BASEBALL_SOURCES = {"연합뉴스", "연합뉴스tv", "뉴스1", "머니투데이", "osen", "스포츠조선", "스포티비뉴스", "kbs 뉴스"}
@@ -100,17 +101,21 @@ def add_recent_sds_official(section: dict, now: datetime) -> None:
 
 
 def add_recent_science_official(section: dict, now: datetime) -> None:
-    """Use the verified NASA research story when general RSS has no science."""
+    """Keep a verified, child-friendly science story above generic RSS results."""
     published = datetime(2026, 10, 8, tzinfo=KST)
-    if section["items"] or not published <= now < published + timedelta(days=7):
+    if not published <= now < published + timedelta(days=7):
         return
-    section["items"].append({
+    if any(item.get("source") == "NASA" for item in section["items"]):
+        return
+    had_items = bool(section["items"])
+    section["items"].insert(0, {
         "title": "NASA, 중력파 관측용 LISA 시험 망원경 개발 단계 발표",
         "source": "NASA",
         "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
         "published_at": published.isoformat(timespec="seconds"),
     })
-    section["window"] = "최근 공식 과학 기사 · 10월 8일"
+    if not had_items:
+        section["window"] = "최근 공식 과학 기사 · 10월 8일"
 
 
 def add_current_sds_event(section: dict, now: datetime) -> None:
@@ -152,6 +157,7 @@ def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
 def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]:
     """Keep the headline deck focused, balanced and free of domestic politics."""
     seen = set()
+    seen_topics = set()
 
     def take(feeds: list[dict], category: str, limit: int) -> list[dict]:
         selected = []
@@ -171,9 +177,25 @@ def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]
                                                    or any(term in title for term in WORLD_ADVICE_TERMS)):
                     continue
                 if category == "부동산" and (not any(term in title for term in REALESTATE_MARKET_TERMS)
-                                                 or any(term in title for term in REALESTATE_SPAM_TERMS)):
+                                                 or any(term in title for term in REALESTATE_SPAM_TERMS + PROPERTY_ADVICE_TERMS)):
+                    continue
+                topic = None
+                if category == "세계 경제":
+                    if "뉴욕증시" in title or "뉴욕 증시" in title or "미국 증시" in title:
+                        topic = "us-stocks"
+                    elif "국제유가" in title or "국제 유가" in title or "원유" in title or "WTI" in title:
+                        topic = "oil"
+                elif "전고점" in title and "아파트" in title:
+                    topic = "apartment-highs"
+                elif "계약 취소" in title and "아파트" in title:
+                    topic = "apartment-cancellations"
+                elif "중간가격" in title or "중간 가격대" in title:
+                    topic = "apartment-median-price"
+                if topic and topic in seen_topics:
                     continue
                 seen.add(key)
+                if topic:
+                    seen_topics.add(topic)
                 selected.append({**item, "category": category})
                 if len(selected) >= limit:
                     return selected
@@ -273,7 +295,17 @@ def build() -> dict:
             elif name == "sds":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 sds_terms = ("삼성sds", "삼성에스디에스", "samsung sds")
-                result["items"] = [item for item in result["items"] if trusted(item) and any(term in item["title"].casefold() for term in sds_terms)][:limit]
+                candidates = [item for item in result["items"] if trusted(item) and any(term in item["title"].casefold() for term in sds_terms)]
+                result["items"] = []
+                covered_acquisition = False
+                for item in candidates:
+                    if "우정항공" in item["title"]:
+                        if covered_acquisition:
+                            continue
+                        covered_acquisition = True
+                    result["items"].append(item)
+                    if len(result["items"]) >= limit:
+                        break
             elif name == "realestate_policy":
                 result = parse_feed(get_xml(feed_url(query)), now, 25)
                 policy_terms = ("부동산", "주택", "아파트", "대출", "세제", "재건축", "청약", "공급", "임대", "보유세", "양도세", "LTV", "DSR")
@@ -287,8 +319,9 @@ def build() -> dict:
                 result["items"] = unique_headlines([item for item in result["items"] if trusted(item, BASEBALL_SOURCES) and not item["title"].startswith("[사진]") and not any(term in item["title"] for term in ("하입프린세스", "샐캡"))], limit)
             elif name == "science_tech":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
-                science_terms = ("연구", "기술", "개발", "실험", "발견", "우주", "과학", "신물질")
-                result["items"] = unique_headlines([item for item in result["items"] if trusted(item, SCIENCE_SOURCES) and any(term in item["title"] for term in science_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + ("해고", "채용", "주가"))], limit)
+                science_terms = ("연구 결과", "기술 개발", "실험", "발견", "관측", "규명", "입증", "신물질", "망원경")
+                noise_terms = ("[기고]", "[사설]", "위원장", "투자", "유치", "포럼", "협력", "개소", "진출", "공모")
+                result["items"] = unique_headlines([item for item in result["items"] if trusted(item, SCIENCE_SOURCES) and any(term in item["title"] for term in science_terms) and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + noise_terms + ("해고", "채용", "주가"))], min(limit, 5))
             else:
                 result = parse_feed(get_xml(feed_url(query)), now, limit)
             result["feed_url"] = feed_url(query)

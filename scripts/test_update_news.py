@@ -50,6 +50,13 @@ class RealEstateHeadlineTests(unittest.TestCase):
         add_recent_science_official(section, datetime(2026, 10, 16, tzinfo=kst))
         self.assertEqual(section["items"], [])
 
+    def test_official_science_story_leads_generic_results(self):
+        kst = ZoneInfo("Asia/Seoul")
+        section = {"items": [{"title": "일반 과학 기사", "source": "연합뉴스"}], "window": "최근 36시간"}
+        add_recent_science_official(section, datetime(2026, 10, 13, tzinfo=kst))
+        self.assertEqual(section["items"][0]["source"], "NASA")
+        self.assertEqual(section["window"], "최근 36시간")
+
     def test_filters_irrelevant_or_spam_headlines(self):
         items = [
             {"title": "서울 아파트 실거래가 변동", "source": "연합뉴스"},
@@ -76,7 +83,7 @@ class RealEstateHeadlineTests(unittest.TestCase):
             ["뉴욕증시 상승 마감", "국제유가 하락", "서울 아파트 전셋값"],
         )
 
-    def test_top_puts_newer_headlines_first(self):
+    def test_top_puts_newer_headlines_first_without_same_topic_repeats(self):
         market = {"items": [
             {"title": "뉴욕증시 오래된 소식", "source": "연합뉴스", "published_at": "2026-10-07T08:00:00+09:00"},
             {"title": "뉴욕증시 오늘 소식", "source": "연합뉴스", "published_at": "2026-10-09T05:00:00+09:00"},
@@ -86,8 +93,25 @@ class RealEstateHeadlineTests(unittest.TestCase):
         ]}
         self.assertEqual(
             [item["title"] for item in select_top_items([market], homes)],
-            ["뉴욕증시 오늘 소식", "서울 아파트 어제 소식", "뉴욕증시 오래된 소식"],
+            ["뉴욕증시 오늘 소식", "서울 아파트 어제 소식"],
         )
+
+    def test_top_rejects_housing_buy_signal(self):
+        homes = {"items": [
+            {"title": "서울 아파트 지금 매수 기회?", "source": "매일경제"},
+            {"title": "서울 아파트 실거래 동향", "source": "연합뉴스"},
+        ]}
+        self.assertEqual(
+            [item["title"] for item in select_top_items([], homes)],
+            ["서울 아파트 실거래 동향"],
+        )
+
+    def test_top_collapses_median_apartment_price_repeats(self):
+        homes = {"items": [
+            {"title": "서울 중간 가격대 아파트 10억 원", "source": "연합뉴스"},
+            {"title": "서울 아파트 중간가격 10억 원", "source": "한국일보"},
+        ]}
+        self.assertEqual(len(select_top_items([], homes)), 1)
 
 
 if __name__ == "__main__":

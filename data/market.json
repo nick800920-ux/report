@@ -1,63 +1,63 @@
 {
-  "checked_at": "2026-10-12T08:59:03+09:00",
+  "checked_at": "2026-10-13T06:03:48+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
     "kospi": {
       "name": "코스피",
-      "value": 6625.93,
+      "value": 6384.24,
       "unit": "지수",
-      "as_of": "2026-10-08T20:05:40+09:00",
+      "as_of": "2026-10-12T20:05:40+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11/",
       "day_change": {
-        "baseline": 6803.8999,
-        "baseline_date": "2026-10-07",
-        "amount": -177.9699,
-        "percent": -2.6157
+        "baseline": 6625.9302,
+        "baseline_date": "2026-10-08",
+        "amount": -241.6902,
+        "percent": -3.6476
       },
       "week_change": {
-        "baseline": 7003.7402,
-        "baseline_date": "2026-10-02",
-        "amount": -377.8102,
-        "percent": -5.3944
+        "baseline": 6625.9302,
+        "baseline_date": "2026-10-08",
+        "amount": -241.6902,
+        "percent": -3.6476
       }
     },
     "sp500": {
       "name": "S&P 500",
-      "value": 7811.54,
+      "value": 7807.24,
       "unit": "지수",
-      "as_of": "2026-10-10T06:29:56+09:00",
+      "as_of": "2026-10-13T05:35:01+09:00",
       "source_url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "day_change": {
-        "baseline": 7765.3599,
-        "baseline_date": "2026-10-08",
-        "amount": 46.1801,
-        "percent": 0.5947
+        "baseline": 7811.54,
+        "baseline_date": "2026-10-09",
+        "amount": -4.3,
+        "percent": -0.055
       },
       "week_change": {
-        "baseline": 7722.7202,
-        "baseline_date": "2026-10-02",
-        "amount": 88.8198,
-        "percent": 1.1501
+        "baseline": 7811.54,
+        "baseline_date": "2026-10-09",
+        "amount": -4.3,
+        "percent": -0.055
       }
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1341.09,
+      "value": 1334.07,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-12T08:59:03+09:00",
+      "as_of": "2026-10-13T06:03:39+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/",
       "day_change": {
         "baseline": 1342.99,
         "baseline_date": "2026-10-09",
-        "amount": -1.9,
-        "percent": -0.1415
+        "amount": -8.92,
+        "percent": -0.6642
       },
       "week_change": {
         "baseline": 1342.99,
         "baseline_date": "2026-10-09",
-        "amount": -1.9,
-        "percent": -0.1415
+        "amount": -8.92,
+        "percent": -0.6642
       }
     }
   },
