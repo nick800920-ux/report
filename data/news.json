@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-13T06:04:13+09:00",
+  "generated_at": "2026-10-13T07:22:27+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "중국 수학계 “AI 더 활용하자” 단체 출범…필즈상 수상자들과의 경고와 정반대",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WNkdycGlEdGF1NXF1OFMybXo4VHlaa3BnaFItelA1ckdjLW5OU2w2N3hZbTNkV3FQYWlydHF6b0Z6SkphbS1QUG82Qk5mV2V3d001RkRDX0d6d9IBX0FVX3lxTFA4LU84bHZPZ3NvVUJFc0tOVU9XZWpuYU5zcmt0cVV0Y3hMM3BQMU1VcUQtT2VhT0U3WG1ydDNLc1lkcU5TMmFJVmFTdXgwYWotcWZQSG1QdHItUUZBTU9R?oc=5",
+          "published_at": "2026-10-13T06:00:00+09:00"
+        },
         {
           "title": "챗GPT도 못 찾는 '내 기술 팔 곳', 사업화 특화 AI 아폴로가 찾는다 - 머니투데이",
           "source": "머니투데이",
@@ -18,10 +24,16 @@
           "published_at": "2026-10-13T03:52:00+09:00"
         },
         {
-          "title": "[사설] AI해킹, 보안·대응체계도 진화해야",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzaEtob25Zb0xmbFM4anRoZHVUUE90blhMVXktU3NXSTVuN2gxNE9wZUVLMW4ySXNJT0ZRc01kOXNMSDA3MkM4dXI4Yk5fUQ?oc=5",
-          "published_at": "2026-10-12T19:00:00+09:00"
+          "title": "메타, 오픈AI·앤스로픽에 도전장…최고 성능 AI ‘뮤즈 원더’ 공개",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xbWdBRHpod0hadU9DR2o1aWttTHhkM0FOcC1jZmN2V3JQc1M1Tk1EUmYxUmphR2ZOaXVER2lseG4zNkxFb21XYWtLUmJ0QQ?oc=5",
+          "published_at": "2026-10-13T03:17:53+09:00"
+        },
+        {
+          "title": "‘민·군 합동으로 AI 연구’…첫 ‘국방 AX 거점’ 판교에 첫 둥지",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPSGFaUW4zNWc0c1o1LXNlQzB4RWFDZndZaDNxazRtTXpGTTFVWnRsRV9fRzhXN2hRWHNoS1JpeTd3LUxPTEZkemlVNV9Ydmgtcy1GNGc0UnFuLW8?oc=5",
+          "published_at": "2026-10-12T18:18:00+09:00"
         },
         {
           "title": "美 ASI 파운드리, 韓 제조 현장에 글로벌 AI 기술 접목 추진 - 머니투데이",
@@ -30,28 +42,16 @@
           "published_at": "2026-10-12T16:25:07+09:00"
         },
         {
-          "title": "'민·군 합동으로 AI 연구'…첫 '국방 AX 거점' 판교에 개소",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96cUpzejNabFk4bWtpWXhfVEZjVmJhWTFqRDlvUDVISzUxcElUQXRSYnBOUndsQUpndGFWZ3pRMFB6cDhNazVhSUltekZ3VHdRU0NUYnBxemlTa2_SAWBBVV95cUxPc1FPRVpNQTRGU1kxUFZtMm9CWXR5RG52N3RTN0gwMFFKblhjeGlQMjM2OVZHaFN6bmM1eHFZQ25yVlljVWlkZnNhQS1hUnZpd1lVLU5XN19HU2VGSkZudWY?oc=5",
-          "published_at": "2026-10-12T15:51:09+09:00"
+          "title": "AWS, 로봇 개발 문턱 낮춘다…엔비디아와 '피지컬 AI 툴체인' 공개",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rZlhWRlNxRFRmZXN1OU83TnZieUpYbUVIN2xmRmFjU0xIb3VyWl9rWXF0QlM0bkVDLXJ1M09fN1M2YXNLbVRTY2lGNGNobHVqOENVZ2NR?oc=5",
+          "published_at": "2026-10-12T14:42:49+09:00"
         },
         {
-          "title": "로봇과 AI가 만나는 미래…코엑스서 '피지컬AI 테크위크'",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53NWR5STN4Q21Wdlc1LU1nYWZEeTZFUW9qZnFEeVZsZ0xZbTkzNnU4RTRtUHJseXRmbDVsekVQSUk5UHZwbmE0RXYtQzlRbE9KQmZGWFdkRm1IdTTSAWBBVV95cUxPQk1SbkxfRjZjSDBTcy1hYUlyXzlDNGtUSm5kNklBcm9pUE9HNks4ODcwOEVQRTNfaWdPSTlXRlpoM3BHalRLcllGQ0xMVnlQRmcwbG1mWGRONUJfcHJJQlY?oc=5",
-          "published_at": "2026-10-12T12:00:11+09:00"
-        },
-        {
-          "title": "AI반도체부터 휴머노이드까지…13~14일 '피지컬 AI 테크 위크' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZGQ5RWIyZG1yTmNzYXBReXdwUklJcVdMa1o0MVJBZ05FOV9Xb2Jidk0ySUM1ZE9ySEgwWWEtTkp3MEh3ZkctaHM1ZVhJVXV2U1Z6TUkxcjVycXhpWmpPZFZmaFhYYjjSAWxBVV95cUxPbDhxNnhaVko5a1pfaFNTYzlYaVFYMDlkR0NCclZKQm5yWDM5QzdSb0NjM19fdUtJU1ZjQjlJYWtfam5vX0RnZkxtQndCOFByZlcxUHJKdFNoNnVuYWk2emR4MHNCMjdVd3A0aFc?oc=5",
-          "published_at": "2026-10-12T12:00:00+09:00"
-        },
-        {
-          "title": "서초구, 17일 참여형 AI 축제 '서초 AI 페스타' 개최",
+          "title": "제3회 대한민국 인공지능 혁신대상 위원회 개최…“AI·피지컬 AI 로봇 혁신 퍼스트무버 발굴로 K-AI 미래 선도”",
           "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45SXRTemNnNjFQSVdxaU5pQU5pQ0NCMVNtbUV5V3pqS29EWE1UX1FWSi1HSDNkMTVQbEhOcWUxVUxCeHZCcjdRRkZYQXJidw?oc=5",
-          "published_at": "2026-10-12T10:07:19+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ibHloRjhoSFU1YlN4VjFPZ2FuZWdQOVd0eUt3ZkRxMGJOLWwxRU9BNGFWUTZueElOZnlmY1d0T19TN1hScktzeU40ZnZtUQ?oc=5",
+          "published_at": "2026-10-12T14:08:43+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -83,34 +83,34 @@
     "realestate_market": {
       "items": [
         {
-          "title": "“사두면 한 달에 1400만원씩 뛰네”…서울 중간가격 아파트 매매가 10.8억",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PeEFHMFBYXzA0czRoRDM3NzlSOGdDVnF2TmFPelk4V1BnUzNMRnBZYnloaU8xc3RNRzUyQ3VycVBwUmNOUklLU200OWNwSGU5M3Zldw?oc=5",
-          "published_at": "2026-10-12T10:49:59+09:00"
-        },
-        {
           "title": "5년 새 2배 뛴 서울 아파트 ‘계약 취소’…“가격 띄우기 교란위 조사해야”",
           "source": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BVHJ1LWtWc0s2UGd2dkkwZl9QcmJYcGttbnlCU2FyM3B2bGdwdDNaRVJsd0s1aF9vY29qa255SS1XU3N6VlUwanF0WTRqc3Y3NkpkZEFUMWdBYlhNOENKSlFYMWg4SUNs?oc=5",
           "published_at": "2026-10-12T19:27:00+09:00"
         },
         {
-          "title": "서울 아파트 착공 34% 늘었지만…수도권 전체는 1.6% 증가 그쳐",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcWN5UUJIZld1VkJ1SEpQN3ZYdlluRnlSMXdfNjlxX1plMDhNQzg0VWV6U0czQjlIMjJyakZOMnk1NVlNLWlKU0prNjgyVUdTeVZHSThXaDBhQXM?oc=5",
-          "published_at": "2026-10-12T05:20:00+09:00"
+          "title": "“사두면 한 달에 1400만원씩 뛰네”…서울 중간가격 아파트 매매가 10.8억",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PeEFHMFBYXzA0czRoRDM3NzlSOGdDVnF2TmFPelk4V1BnUzNMRnBZYnloaU8xc3RNRzUyQ3VycVBwUmNOUklLU200OWNwSGU5M3Zldw?oc=5",
+          "published_at": "2026-10-12T10:49:59+09:00"
         },
         {
-          "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전셋값 뛰었다",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwaF94VDlaR0Z1N015cXVGUnd1R3c3eDdIR0tsdkRFdFpLSTN1OWIwWmdGeDMzVFhMX1B5YUdrNGFQZDYxR2pjeURWWXFTWHhMekJ2UXk2a0ctRThycjl1dmF3eHJpQVhT?oc=5",
-          "published_at": "2026-10-12T09:40:00+09:00"
+          "title": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53V2ZFalpBWEtwd29DOHZCOE5OelJocElzNGwxMTRJNi1EZHl0UkdQajd3ZmRGQk1OZzVhbGxnemlTMV9BWjhKQzFZM25WeVVtU2NndlFOdEZjZw?oc=5",
+          "published_at": "2026-10-13T07:00:02+09:00"
         },
         {
           "title": "서울 중간 가격대 아파트도 10.8억…올해만 1억 넘게 올랐다",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qc3VyRjZXc041OEFYa18wVngxLUtjZlltSlo2R3YzZDRjbFFDd01jZkpDTFo1a0Ewc0JlU05rb1Z6TVlFOUk5dXFTdnFDVFVpTVVWUXVod0VieExi?oc=5",
           "published_at": "2026-10-12T15:08:00+09:00"
+        },
+        {
+          "title": "강남에 급매 쌓여도 서울은 상승세 … 아파트값 ‘평탄화’가 매수 기회?",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yb1pfRG9ILUtSMUFmRzJIUk0yRXNjU01qWGZuOWxsV0xJMUV6UFQzZGdwN2ZObDZxb3lzcDdiNldqUExXSWczeWpoYXNLc2xKTkhpS0dkR1M?oc=5",
+          "published_at": "2026-10-13T04:30:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -184,17 +184,24 @@
     "top": {
       "items": [
         {
-          "title": "[뉴욕증시]혼조 마감…반도체주 약세에 나스닥 하락",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05MHF1aTQ5UHZZSmV2YVd4S3M1NEc5Y19uMnJiZ0ZxcXFEY29uaThiTzR5NnMzNWhib3FjMEUtdHE3Zl82MlQ3XzRQZTZFMTF3cVg4alhyWG5XYU00Vk9hQg?oc=5",
-          "published_at": "2026-10-13T05:51:22+09:00",
+          "title": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53V2ZFalpBWEtwd29DOHZCOE5OelJocElzNGwxMTRJNi1EZHl0UkdQajd3ZmRGQk1OZzVhbGxnemlTMV9BWjhKQzFZM25WeVVtU2NndlFOdEZjZw?oc=5",
+          "published_at": "2026-10-13T07:00:02+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "후티는 사우디 공습, 이란은 유조선 공격…국제유가 3일째 상승",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aaFdJLUlmWXhLN2RnMTdRX0M1V2I5Y1lDUEhHUkZUOG9tQmI1VUhUcEZFZU0wUklOYUoydVo3MFlOWTZna0JvSjVDVkgycVFiVnQ1ckpn?oc=5",
+          "published_at": "2026-10-13T06:57:44+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "사우디 공항 피격·러시아 에너지시설 공격에 국제유가 2% 급등",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uOEYxWm5ZYi1LY2c2bzF5UGxIbzZiWDhBNkllTUNtSnFtMF8zd291M2xvWjNzbWlnY3E5bDV5bVFwdmV5czJLaEZyOUpiMW9CM3Q0a2tYbldWVzVxUVNkZUpkcU5xZnc?oc=5",
-          "published_at": "2026-10-13T05:07:47+09:00",
+          "title": "[글로벌증시] 뉴욕증시, 中창신메모리 신기술에 반도체주 ’뚝’",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNkRBc25fMHlQSGF2RlhySEpteGNlVzZBNm02cGExR000N0w1Qjh1REoxRzJpWjhIUWd3S1ZCT2pxWlhxSFZwanotVnZUeW5FUmNxVFBPcjBOOEFEVEVpUnhkR1BkSW8?oc=5",
+          "published_at": "2026-10-13T06:54:00+09:00",
           "category": "세계 경제"
         },
         {
@@ -216,13 +223,6 @@
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qc3VyRjZXc041OEFYa18wVngxLUtjZlltSlo2R3YzZDRjbFFDd01jZkpDTFo1a0Ewc0JlU05rb1Z6TVlFOUk5dXFTdnFDVFVpTVVWUXVod0VieExi?oc=5",
           "published_at": "2026-10-12T15:08:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전셋값 뛰었다",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwaF94VDlaR0Z1N015cXVGUnd1R3c3eDdIR0tsdkRFdFpLSTN1OWIwWmdGeDMzVFhMX1B5YUdrNGFQZDYxR2pjeURWWXFTWHhMekJ2UXk2a0ctRThycjl1dmF3eHJpQVhT?oc=5",
-          "published_at": "2026-10-12T09:40:00+09:00",
           "category": "부동산"
         }
       ],
