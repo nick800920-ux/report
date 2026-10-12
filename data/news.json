@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:03:42+09:00",
+  "generated_at": "2026-10-13T06:04:13+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -166,16 +166,16 @@
     "italy_travel": {
       "items": [
         {
-          "title": "[현장] 한국인 100만 명 찾은 이탈리아, 다음 목적지는 ‘소도시’…슬로 트래블 뜬다",
-          "source": "트래블바이크뉴스",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwYUhuaUxyS0RQUFlNSm9ucDNiaDBLQTg2U0RKY29qRkFCRS1ndTZiQmxYNENZTjhNZFhWLWR1aUVUcjJ5bVdJelNNOUR0V2pXczFyck52b0RFOUNhV2stQW5QRlJWRm0xendjNGVB?oc=5",
-          "published_at": "2026-09-28T21:36:22+09:00"
-        },
-        {
           "title": "[여행소식] 이탈리아 찾는 한국인 100만명 돌파…소도시·슬로 트래블 뜬다",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcm5qb3RLeTM2WWpZcnFQVlR6bUJzUUxkYkptTF9sdU1VRnNQUER5dmxfakJOOU9Zay1JRko2T3NCRm1TYktnUDN2NDFnQzAtaTNZLTluMXdKRHfSAWBBVV95cUxQX3haZF95RW9Yd0hvblFYcFFwaHRKUFV4clItWnNyQ2d5d0N6NlBWWFd1MVBRS3RRQzYtdFF1b1NvTzliM3hzbXpSNzljb2VlZTZGRzN2bm9JNGo1RzFrUmk?oc=5",
           "published_at": "2026-09-22T16:00:00+09:00"
+        },
+        {
+          "title": "[현장] 한국인 100만 명 찾은 이탈리아, 다음 목적지는 ‘소도시’…슬로 트래블 뜬다",
+          "source": "트래블바이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwYUhuaUxyS0RQUFlNSm9ucDNiaDBLQTg2U0RKY29qRkFCRS1ndTZiQmxYNENZTjhNZFhWLWR1aUVUcjJ5bVdJelNNOUR0V2pXczFyck52b0RFOUNhV2stQW5QRlJWRm0xendjNGVB?oc=5",
+          "published_at": "2026-09-28T21:36:22+09:00"
         }
       ],
       "window": "최근 30일",
