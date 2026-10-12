@@ -181,36 +181,6 @@
       "window": "최근 30일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84+%EC%97%AC%ED%96%89+OR+%EB%A1%9C%EB%A7%88+%EC%97%AC%ED%96%89+OR+%EB%B2%A0%EB%84%A4%EC%B9%98%EC%95%84+%EA%B4%80%EA%B4%91+OR+%ED%94%BC%EB%A0%8C%EC%B2%B4+%EB%B0%95%EB%AC%BC%EA%B4%80+OR+%EB%B0%80%EB%9D%BC%EB%85%B8+%EA%B4%80%EA%B4%91"
     },
-    "gyeongju_travel": {
-      "items": [
-        {
-          "title": "경주 신라문화제, 천년 전통에 힙합 열기 더했다",
-          "source": "경북일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KcHZlWEluTk9GVnRNOXo4aWRTLWJidkhWMEZJcGFGcFpUOVRkb3hHUFpZRnNZU3JXWXhWVVgwZW1NNWpGRWpDdEpVd2F5YlBLcXJ3OEVFeXQ1ajZGT0ZWeWx4TlB4UmtSU0JJQ18xYw?oc=5",
-          "published_at": "2026-10-12T17:15:02+09:00"
-        },
-        {
-          "title": "2026 경주 신라문화제 성료…“신라의 역사 문화와 현대적인 공연·체험 콘텐츠 접목”",
-          "source": "BBS불교방송",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHV1U4N0huMW5OS2VwUkhPajRONC1VS0FWNENPSUZCSG11UWZzMkVBb19TOGFZNzFValhVTzFmSGM1VGRNWk9Yc014YWdlQm50UDZTYVh0T1Y1MlJsV3V5OS14Z2xaYUdIcWNZ?oc=5",
-          "published_at": "2026-10-12T11:27:02+09:00"
-        },
-        {
-          "title": "신라문화제 53회 맞아 시민축제운영단 참여 경주 도심서 '성료'",
-          "source": "축제뉴스",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Qm1uZk9TY3o4eXFldFNHV0lZU0VFbEVZdWlvX2hRekM1SlBaQTdiTHlDMXd3S0ktQU9mZWh2TGE3dWVZcGxCT2tfM2kwLXUwbC1YdDdLdlhDX1pZVVc2Y1dIZm5WSXlHN3I1bw?oc=5",
-          "published_at": "2026-10-12T16:47:53+09:00"
-        },
-        {
-          "title": "경주 신라문화제 성황리 폐막…시민 321명 운영 참여",
-          "source": "서울일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96REd4WFk5eXBZT05NZHRDRGFwbWE0c0V5Q0x2LWFhYWliMElrY3lHV2dxVXBhR3hodFZkc200bmh4QnlUZng4OEM2LVJYellLUW9ScGctMDlEVzE3THVxcjdULU1raTVPZ2FYcNIBb0FVX3lxTE1Cb1V2Z3VLLVNIczBiWHh1WFFkRGdkZ2U0eFBIMktCanBMTWhhelk4Rjc3Q0RHSWdwN1B0aVhOZVNiaGYwZDNha1NzNjVkZy1hVW9oSWdCRml4bXQtVVg5c05tVmpiaC1EVmFVcElVVQ?oc=5",
-          "published_at": "2026-10-12T15:08:21+09:00"
-        }
-      ],
-      "window": "최근 14일",
-      "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EA%B2%BD%EC%A3%BC+%EC%8B%A0%EB%9D%BC%EB%AC%B8%ED%99%94%EC%A0%9C+OR+%EA%B2%BD%EC%A3%BC+%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0+OR+%EA%B2%BD%EC%A3%BC+%EB%B0%95%EB%AC%BC%EA%B4%80+OR+%EA%B2%BD%EC%A3%BC+%EC%97%AD%EC%82%AC%EC%B6%95%EC%A0%9C"
-    },
     "top": {
       "items": [
         {

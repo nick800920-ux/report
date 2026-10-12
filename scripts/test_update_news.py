@@ -2,18 +2,12 @@ import unittest
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from scripts.update_news import add_current_gyeongju_event, add_current_sds_event, add_recent_science_official, add_recent_sds_official, select_realestate_market_items, select_top_items, unique_headlines
+from scripts.update_news import FEEDS, add_current_sds_event, add_recent_science_official, add_recent_sds_official, select_realestate_market_items, select_top_items, unique_headlines
 
 
 class RealEstateHeadlineTests(unittest.TestCase):
-    def test_official_gyeongju_event_only_near_festival(self):
-        kst = ZoneInfo("Asia/Seoul")
-        for day, expected in [(6, 0), (7, 1), (11, 1), (12, 0)]:
-            section = {"items": [], "window": "최근 14일"}
-            add_current_gyeongju_event(section, datetime(2026, 10, day, 12, tzinfo=kst))
-            self.assertEqual(len(section["items"]), expected)
-            if expected:
-                self.assertEqual(section["items"][0]["source"], "경주시")
+    def test_gyeongju_travel_feed_is_excluded(self):
+        self.assertNotIn("gyeongju_travel", FEEDS)
 
     def test_official_sds_event_only_during_event_dates(self):
         kst = ZoneInfo("Asia/Seoul")
