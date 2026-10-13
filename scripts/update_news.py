@@ -99,20 +99,21 @@ def add_recent_sds_official(section: dict, now: datetime) -> None:
 
 def add_recent_science_official(section: dict, now: datetime) -> None:
     """Keep a verified, child-friendly science story above generic RSS results."""
-    published = datetime(2026, 10, 8, tzinfo=KST)
+    published = datetime(2026, 10, 13, tzinfo=KST)
     if not published <= now < published + timedelta(days=7):
         return
-    if any(item.get("source") == "NASA" for item in section["items"]):
+    url = "https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"
+    if any(item.get("url") == url for item in section["items"]):
         return
     had_items = bool(section["items"])
     section["items"].insert(0, {
-        "title": "NASA, 중력파 관측용 LISA 시험 망원경 개발 단계 발표",
+        "title": "NASA 화성 탐사 로버 퍼서비어런스, 다른 천체 주행거리 기록 경신",
         "source": "NASA",
-        "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+        "url": url,
         "published_at": published.isoformat(timespec="seconds"),
     })
     if not had_items:
-        section["window"] = "최근 공식 과학 기사 · 10월 8일"
+        section["window"] = "최근 공식 과학 기사 · 10월 12일(미국)"
 
 
 def add_current_sds_event(section: dict, now: datetime) -> None:
@@ -267,7 +268,7 @@ def build() -> dict:
             elif name == "it":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 tech_terms = ("AI", "인공지능", "클라우드", "반도체", "데이터센터", "보안")
-                result["items"] = unique_headlines([item for item in result["items"] if trusted(item) and any(term in item["title"] for term in tech_terms) and not item["title"].startswith("[포토]") and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + ("주가", "승자 될까", "트럼프"))], limit)
+                result["items"] = unique_headlines([item for item in result["items"] if trusted(item) and any(term in item["title"] for term in tech_terms) and not item["title"].startswith("[포토]") and not any(term in item["title"] for term in DOMESTIC_POLITICS_TERMS + ("조례 발의", "의원 발의", "정당", "주가", "승자 될까", "트럼프"))], limit)
             elif name == "italy_travel":
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
