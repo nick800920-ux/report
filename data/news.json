@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-10-14T06:02:28+09:00",
+  "generated_at": "2026-10-14T08:53:13+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "클레버러스, ‘비전 AI’로 돌봄 현장 이상행동 실시간 감지 [서울AI허브 2027]",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55WnEyQW9HcXJWMzBjLUtNaTltWHdKLW9RUU1nM21VU2hWVFVJdkhmaXlfbGdZVXpDcTduTTB1Z2NKd2ZES1IydXVtcHRFLTRoVzRLWXU2eG9yZVFWbXpfdDVaRFQta0hvWWNEc2duMlM?oc=5",
+          "published_at": "2026-10-14T08:00:00+09:00"
+        },
+        {
+          "title": "정부, 18개국 1.7만 명 ‘피부 데이터뱅크’ AI로 제공",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVGk3bmt3Umxlc2JSbEoyaXM3a3dqcHlER3ZkNGRhMDNSNE5mVndjWk1pc3dPMVd5VmRJUlVfR0FfbEhrRXZacFA4cmQ5NWZBaER1aGhqc1psZ2s?oc=5",
+          "published_at": "2026-10-14T07:40:00+09:00"
+        },
+        {
+          "title": "“AI 기술은 앞서가는데 데이터센터가 없다”…세레브라스 CEO의 경고",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtS082UGxFUW9fdlFzQlFSVTFYY2xBbmtUajR2ZFEtSW1FNWNyMURKR0JVMjdzSzNDakhSUmtXSGdzd0YxUzZEbldGWTZ6dw?oc=5",
+          "published_at": "2026-10-14T07:10:02+09:00"
+        },
+        {
+          "title": "LG전자·애플, AI홈 동맹…카메라·도어락 등 7종 선보인다",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HT1RteXNTRTZITWY0ZlI0ZHBoWWozMW4xUFRsYkRZNU0yMWh1T285X1lMTUtIMDdkTW1FT3F2S2VhNl92bFViMHFKMkljT0FKejlrYzJBVXZfQdIBX0FVX3lxTE9Ga21BT2NKRzItVE1kclF0clJfR2RhR1VOSnNTVXlJWVVIZXpXZzJ0SG83cW5NVXZhVmtPdWdZMkpVak12cEVONjhnVkZLbW10VnFBcWJCZXY0Z0xTSHk4?oc=5",
+          "published_at": "2026-10-14T07:01:00+09:00"
+        },
         {
           "title": "반도체·로봇 기술 AI로 통합…산업현장 적용 가속",
           "source": "연합뉴스TV",
@@ -18,34 +42,16 @@
           "published_at": "2026-10-13T20:09:37+09:00"
         },
         {
+          "title": "피크아웃 우려 피한 AI서버·광통신·보안주 뜬다",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WdXZFQjM2V3lseXJyUGRhb2FiRlBfeEpCV0JCTGpEZVc2MFlMRjJXOHFaX0lyRDZqclI3N0ozNEQyUnA0OHplMEJVRmI2cVh6bjdidnl0WUc3UQ?oc=5",
+          "published_at": "2026-10-13T18:00:11+09:00"
+        },
+        {
           "title": "펀진, 美 방산 전시회서 국방 AI 기술 공개…해외 공략 시동",
           "source": "지디넷코리아",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsaFNVRTduWExHVjlvS1I3YTBxZ21SSFdLa1ZNNE12WmlpdFc3bTMzY25LMUlNSTlQNWJhblBtWl93ODU0WWJDclU0NVFWbG5uRkJkRktR?oc=5",
           "published_at": "2026-10-13T17:54:34+09:00"
-        },
-        {
-          "title": "삼성·LG, 일상·산업 속 AI 기술 한눈에…’KES 2026’ 개최",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfbWtIOGxCdFNuNW9Eb1lhaG9uMVlRNmVxRHJSSE1zTUlwdFY1bV9ORmI2NFkxcVhFSWlRZGwwSm11RVNzZGJKYkRWNm5kTFVnMGJCY0J1MEtwcmhaekp6NUQ4eWZrdU0?oc=5",
-          "published_at": "2026-10-13T14:59:00+09:00"
-        },
-        {
-          "title": "정부, 내년 피지컬 AI 확 키운다…9천억→3조 1000억",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iSXFuckhOUk1ZM0d1UTRtS19rS0gwZllUZjRiek9oMmVHYXpORU5FZHhfaUZfS1Flb0s0bVdzaGtfcTM2REhoV1BwVFBaR3ZuYUpfZXpn?oc=5",
-          "published_at": "2026-10-13T14:10:42+09:00"
-        },
-        {
-          "title": "삼성전자·LG전자, 코엑스 한국전자전서 AI 기술 총망라",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weElvQlhTZmk5RllmNTdrdnB3Ukw5dWx2azZ2NUhyUWdQZFZ2X2hWOWc3UDNwOTdvM1NXMEFqRWp6LWxUbnR4X1RXaFZValluZmFSV3BRbXQ2TlRERnQwb0k1TXczQUJIZUdwMHpDek8?oc=5",
-          "published_at": "2026-10-13T10:01:27+09:00"
-        },
-        {
-          "title": "LG전자, KES 2026서 가정·산업 미래 AI 기술 선봬",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvanhzZm11TS1pcEpSUGI2MDFOTXZuanc5SzF5bDJraGQ3aGgwZHk4WmJaMy1SUjVFMFgwNkFJUEE4TDZWRGNScGdBeXVHR2hvRHdYNkV3?oc=5",
-          "published_at": "2026-10-13T09:51:05+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -71,7 +77,7 @@
     },
     "realestate_policy": {
       "items": [],
-      "window": "최근 36시간",
+      "window": "최근 72시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EB%B6%80%EB%8F%99%EC%82%B0+%EB%8C%80%EC%B6%9C+%EA%B7%9C%EC%A0%9C+OR+%EC%A3%BC%ED%83%9D+%EC%84%B8%EC%A0%9C+OR+%EC%9E%AC%EA%B1%B4%EC%B6%95+%EC%A0%95%EC%B1%85"
     },
     "realestate_market": {
@@ -83,16 +89,10 @@
           "published_at": "2026-10-13T13:22:10+09:00"
         },
         {
-          "title": "비(非)한강벨트 타고…10월 서울 분양전망 3달 만에 '맑음'",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rS3pUNUhPM0pYVUdseE5DNXF4bDRUQUhTREhTcU56WkRJMkFMVmwtZUtNS0J5RmVlRi1CTEFfaEJHYlhlckowRVhlOS1FUGRUc0JidEZuRVlCY0x2aklpSmcxWkhDUkRIVTNPZi13b0w?oc=5",
-          "published_at": "2026-10-13T11:00:21+09:00"
-        },
-        {
-          "title": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53V2ZFalpBWEtwd29DOHZCOE5OelJocElzNGwxMTRJNi1EZHl0UkdQajd3ZmRGQk1OZzVhbGxnemlTMV9BWjhKQzFZM25WeVVtU2NndlFOdEZjZw?oc=5",
-          "published_at": "2026-10-13T07:00:02+09:00"
+          "title": "8월 전국 부동산 거래 19개월 만에 최저…서울 아파트 한 달 새 40%↓",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9udWRpLUZDQTJDcGp4SHFYQTByZ1p1WURLOTVIb3U3VjhyaEhyYmQ5QlAtSEZGaERFSzhRaG5La0F5Rk9JU0l3S0Z0UkpWMjdIeHBmTWpqUURvajA?oc=5",
+          "published_at": "2026-10-13T09:56:11+09:00"
         },
         {
           "title": "8월 전국 부동산 매매액 23% '뚝'…서울 아파트 거래량 40% 급감",
@@ -101,10 +101,16 @@
           "published_at": "2026-10-13T15:46:00+09:00"
         },
         {
-          "title": "규제지역 넓힌 '10·15 대책' 1년... 서울 집값 10% 오르고 외곽 전세 매물은 반토막",
-          "source": "한국일보",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nVy1pQzFYMkJUMVZSQ01oMWJ2eUdWZnVidzMwQnVNeFVrVHNnaDdTdDhTZ1A5WDB0RTZuRjNiTUczTzBTd0xKUjRhM0diSUdWejBLUjE3V3ZuVGkwNFdUa3NGS3NSVmgyaWNpMTl30gFzQVVfeXFMTWNUTkdhWEdLc3BGek5lR2NhOVBpTy12b3V4dG8zUmhLcl9yTEZqUmhWam5teW9GZ1RIZ3BrYWRRUURlSmswLWtzTHlVd05DcV9HWVBwanZpY0xqLWtfVVVPejJDWFNCV0NWbFdxTWRUMHBQcw?oc=5",
-          "published_at": "2026-10-14T04:30:00+09:00"
+          "title": "서울 전셋값 올해 8% 상승…주거 대안 떠오른 ‘비규제 경기권’",
+          "source": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WMGFSdk91cXJzeGctbVg4ZjlfbmVwWWtrdlVCYnlFZEEyLXVVNmdnTkhNWlgxX1FPQmYyX01TN2dBc2JhWXp2U3BXTHVRVXV4cHRIaElpdGR5ZmRvV1B3SllrZFc?oc=5",
+          "published_at": "2026-10-13T10:29:51+09:00"
+        },
+        {
+          "title": "집값에 막힌 30대, 경매로 눈 돌렸다… 서울선 40·50대보다 많이 샀다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTF1ZDlIZGVaMjQ1MGJuRktXamVLQi1GbE1YSXFLczZYMWlpWnBtQXRMVXZ6cS1lMktPQmh3Zm5vTDhSal9YazYwd2FTUWs0cExHeFZFbV95R2ZtbUsza2E2OGQ5clJyT3BOdVdoOE5HdUlRMjQzdFYtWS1jb3BvQUlVT3lyNUpJUnRsT3VLWUZfbW4wSXR0SNIBrAFBVV95cUxOZFFlUkxTQ3B2dGdtc2M3Zm5zZWw4ekpWdk5zZDQwWm9NcGlLQlNiR2c3UFdhRHUtVGsxLTkzLVljb0pHaTlnWlAtdE9GdWNVcnN0OTdHNUN1XzluaVFlR0s0cmNRRUg4YzBReERUY2FmSXUzcWdZajU5NFdMQ2tTQ1BLX3pkdlphdnNiVUdCYjhxSDlGRFp0QVRmcmUwa29aZHZlM2lfdm5jOEN3?oc=5",
+          "published_at": "2026-10-14T06:00:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -166,24 +172,24 @@
     "top": {
       "items": [
         {
-          "title": "[뉴욕증시]반도체 약세에 하락 마감…윌리엄스 발언에 낙폭 축소",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUzNPM0ozOGU0ajBSd183OFdEU1BwX1Fzd1JFZUtJRkN3QWJGZUpEMVRaQmpwOXd2OTVuMFh2Rmk4Vlg2UlRpQnZMckxCR2ZYSzBKX3BXanBBTDlnUkJ4UA?oc=5",
-          "published_at": "2026-10-14T05:54:37+09:00",
+          "title": "뉴욕증시, 美은행 실적·반도체 약세에 하락",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRM2t4ZlBBZktBU3ZoYXZZS2U5V3VoWkwxU0tKWnBkUHdtWU9WQW51elFTTWlfTXR4MUJoRkE1Q3BFdzh3ZHpwUnM0S25ndTVkeVZ0M080ZnFYb1lDczFJV2x0QUZDV3Jia0JTVUpLM2FmVFEzd2huLXZB0gF6QVVfeXFMTmZPdVlWaGZDR3RqbmtTTVV5eW9fellydV85WEFSZmtBMTQzTHZhci1heDQ4U2N2aThNaEhYQXptNF8xRUZUMW1tY3Q3Vi1oNVptSG1CSExvVTYydmVKSXl2T3lpSGFoUjhleGJEZ28xMHZZNTVISklhRVE?oc=5",
+          "published_at": "2026-10-14T07:44:19+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "국제유가, 미러 경유 거래·중동 긴장 주시하며 혼조 마감",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VelZ1ck9PYVMyTGxSU2ctajlyVEJ5T2o3Y21wQ2F4VndCclR2TkVNM2EyY0JZZWtLOXFMby11d09BSjdHVDFsX0drekwwNndaNDVYY096RVk3MDDSAWBBVV95cUxPdTZnNThpMUxfN0RiR1ljSmRwQWR4UHQ4eEtjVi1vUy0wQ2F1WVhCVzYxbTB3LWhhcF80T0hGNDVwbVV2Q0JLLWpNWUxoSjlRX09QcWxZQVFqWXdmdnVfRzM?oc=5",
-          "published_at": "2026-10-14T05:41:20+09:00",
+          "title": "국제 유가 혼조 마감...미국·러시아 경유 거래·중동 주시",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80NmZzWlJDaUxTX2hWcFFhUTE3MDRZRzlfcGVlb0RETmJhZ0RxSlV3dWNLdmkyUTIxMndIZ1pTYl9XR2hOeFU0ckR3NGlGVHVPU0oxMlNEaV9ZSGhJdXc?oc=5",
+          "published_at": "2026-10-14T06:30:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "변창흠 “주택 착공 목표 직전 3년의 2~3배…달성할 특단 수단 안보여”",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wOUJ3Z0I3ZnJXY29nVVpyWVFrck4tSkVzRG9RMV8wYk1zdHBfdmRJcHVib2lXQmU0ZTdweHBQWWZIRjRuT1o5Uk1hTXptSmNfM21fc2wzdF9FX0I2QUFQV1BHdUEzZTFya2JqeHN1eWpqdw?oc=5",
-          "published_at": "2026-10-14T05:00:00+09:00",
+          "title": "집값에 막힌 30대, 경매로 눈 돌렸다… 서울선 40·50대보다 많이 샀다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTF1ZDlIZGVaMjQ1MGJuRktXamVLQi1GbE1YSXFLczZYMWlpWnBtQXRMVXZ6cS1lMktPQmh3Zm5vTDhSal9YazYwd2FTUWs0cExHeFZFbV95R2ZtbUsza2E2OGQ5clJyT3BOdVdoOE5HdUlRMjQzdFYtWS1jb3BvQUlVT3lyNUpJUnRsT3VLWUZfbW4wSXR0SNIBrAFBVV95cUxOZFFlUkxTQ3B2dGdtc2M3Zm5zZWw4ekpWdk5zZDQwWm9NcGlLQlNiR2c3UFdhRHUtVGsxLTkzLVljb0pHaTlnWlAtdE9GdWNVcnN0OTdHNUN1XzluaVFlR0s0cmNRRUg4YzBReERUY2FmSXUzcWdZajU5NFdMQ2tTQ1BLX3pkdlphdnNiVUdCYjhxSDlGRFp0QVRmcmUwa29aZHZlM2lfdm5jOEN3?oc=5",
+          "published_at": "2026-10-14T06:00:00+09:00",
           "category": "부동산"
         },
         {
