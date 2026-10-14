@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:01:58+09:00",
+  "generated_at": "2026-10-15T06:02:39+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -34,12 +34,6 @@
           "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QM1BITUR5RzRXSXBoSjdpOE5wTjY2Sk1teVFvR1VMUmJvdkVRZWpnVUY5X21POHlZNF9mVTJmWkJPdTdPTHY3bTVXY1F1QQ?oc=5",
           "published_at": "2026-10-14T13:32:08+09:00"
-        },
-        {
-          "title": "임원들 이용하는 회의실 TV에 왜 이런 게…범인은 오픈AI 엔지니어였다",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SaWJ3VnlMTDU1YTFYV2tJMDRTeDE3N2hYdHllaDI1QWN3Mk5wX0YtQVhmTnljS3dhQk9GZGhxUEYxZnFMbVFvaXlPNEYzX3pFbFE?oc=5",
-          "published_at": "2026-10-14T08:40:06+09:00"
         },
         {
           "title": "“AI 기술은 앞서가는데 데이터센터가 없다”…세레브라스 CEO의 경고",
@@ -89,16 +83,16 @@
           "published_at": "2026-10-15T02:28:52+09:00"
         },
         {
+          "title": "서울 아파트 토지거래허가 신청 5개월만에 반등…가격 1.43%↑",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LXFXcnhiOHR3MmhYZU96QVBoWUtXSjZKQ1M4eXZXWmNhYUxoQ3I1UUF1ZTFXdTZjazdYN3I4UnZtRUFxeEtpV1IydzRucWJlN2lOclNGUEpJazBvQkRGZg?oc=5",
+          "published_at": "2026-10-15T06:00:00+09:00"
+        },
+        {
           "title": "고작 12평이 21억…서울 초소형 아파트 고가 거래 급증",
           "source": "매일경제",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtdkVjNmxxbTZSVzBNbjJVdzM5b0EyZ0MyTFlKVEZkdDNBb0tVU3NUZXNkeE5sUk5vd2hNN2VVVTJiT0ZsZHFLNERUNkQ2ZTIta29BcQ?oc=5",
           "published_at": "2026-10-14T16:19:40+09:00"
-        },
-        {
-          "title": "\"규제해도 집값 상승 압력 여전\"…10·15 대책 규제 1년, 남은 변수는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RW5XanhrNGduRmE2SVI4T1h2Mks3WEN5dzJkSDhsdko3cEZoN1dwak8wd2syRE1WbUZ3dVBuOTBaTkxjMUFhZXZkdUcxT2FLVjFaVERwZ09EY29MdEFiclVPVi1WME5sVmfSAW9BVV95cUxOZURmU0pzSm9zS3VnekJadkt6aG5BN1Z2SGVmcUtmSllWbWhOZXhhX2UtTXRfVklyenE0SktMMzJaVjFEU0NKZkVvTEhTeVdKWGFnYkdXeEN5blRfdHlKWXZLeFRXLUY4T2R6Qi1oXzQ?oc=5",
-          "published_at": "2026-10-15T05:15:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -160,6 +154,13 @@
     "top": {
       "items": [
         {
+          "title": "서울 아파트 토지거래허가 신청 5개월만에 반등…가격 1.43%↑",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LXFXcnhiOHR3MmhYZU96QVBoWUtXSjZKQ1M4eXZXWmNhYUxoQ3I1UUF1ZTFXdTZjazdYN3I4UnZtRUFxeEtpV1IydzRucWJlN2lOclNGUEpJazBvQkRGZg?oc=5",
+          "published_at": "2026-10-15T06:00:00+09:00",
+          "category": "부동산"
+        },
+        {
           "title": "[금/유가] 중동 불안에 WTI 3주 최고·브렌트유 106달러 상회…물가 쇼크에 금 급락",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzVDI4UWNQSE8xQm9rZW9KMUViTHNWUXhYRjlqa0VfRmJ4S2V2NG56bzU1VXRwYzdNVW0yWmZabUxiRUNEWnpQYWVKNUxUd3lraWdybGo3d3k2OUYw?oc=5",
@@ -192,13 +193,6 @@
           "source": "서울신문",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNzVOU05nR3Q2YXFvWlRncGhlY3RBY2VqYWJORVFpN2wxR2JJUTFBZjdlZmVTUDBTWTJuYUJyTmctb1RPUW41dG54eTU2UTRFY1JJNFU1MXoyb2thRjFBMHg5aVBrS2hjcmJ2UmZiNVY4ZWI3Zzk2RQ?oc=5",
           "published_at": "2026-10-15T02:28:52+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "고작 12평이 21억…서울 초소형 아파트 고가 거래 급증",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtdkVjNmxxbTZSVzBNbjJVdzM5b0EyZ0MyTFlKVEZkdDNBb0tVU3NUZXNkeE5sUk5vd2hNN2VVVTJiT0ZsZHFLNERUNkQ2ZTIta29BcQ?oc=5",
-          "published_at": "2026-10-14T16:19:40+09:00",
           "category": "부동산"
         }
       ],
