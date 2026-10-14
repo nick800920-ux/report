@@ -44,7 +44,7 @@ DOMESTIC_POLITICS_TERMS = (
 )
 
 REALESTATE_MARKET_TERMS = ("서울", "경기", "수도권", "아파트", "오피스텔", "주택", "집값", "실거래", "전세", "월세")
-REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프")
+REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프", "재테크 서적", "투자 공부")
 TRUSTED_NEWS_SOURCES = {
     "연합뉴스", "연합뉴스tv", "연합인포맥스", "뉴스1", "newsis.com",
     "kbs 뉴스", "mbc 뉴스", "ytn", "한국경제", "매일경제", "서울경제",
@@ -86,7 +86,7 @@ def unique_headlines(items: list[dict], limit: int) -> list[dict]:
 def add_recent_sds_official(section: dict, now: datetime) -> None:
     """Keep the last verified company release visible briefly if RSS is empty."""
     published = datetime(2026, 9, 30, tzinfo=KST)
-    if section["items"] or not published <= now < published + timedelta(days=15):
+    if section["items"] or not published <= now < published + timedelta(days=30):
         return
     section["items"].append({
         "title": "삼성 6개사, 미국 AI 인프라 기업 헬릭스 투자 발표",
@@ -272,7 +272,7 @@ def build() -> dict:
             elif name == "italy_travel":
                 result = parse_feed(get_xml(feed_url(query)), now, 30, max_age_hours=720, fresh_hours=336)
                 travel_terms = ("여행", "관광", "기차", "철도", "박물관", "도시", "로마", "베네치아", "피렌체", "밀라노")
-                result["items"] = [item for item in result["items"] if "이탈리아" in item["title"] and any(term in item["title"] for term in travel_terms)][:limit]
+                result["items"] = [item for item in result["items"] if trusted(item) and "이탈리아" in item["title"] and any(term in item["title"] for term in travel_terms)][:limit]
             elif name == "sds":
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 sds_terms = ("삼성sds", "삼성에스디에스", "samsung sds")

@@ -25,7 +25,7 @@ class RealEstateHeadlineTests(unittest.TestCase):
         self.assertEqual(len(section["items"]), 1)
         self.assertEqual(section["items"][0]["source"], "Samsung SDS")
         section = {"items": [], "window": "최근 72시간"}
-        add_recent_sds_official(section, datetime(2026, 10, 16, tzinfo=kst))
+        add_recent_sds_official(section, datetime(2026, 10, 30, tzinfo=kst))
         self.assertEqual(section["items"], [])
 
     def test_duplicate_video_headlines_are_removed(self):
@@ -66,6 +66,7 @@ class RealEstateHeadlineTests(unittest.TestCase):
             {"title": "카지노 베팅 보너스 안내", "source": "연합뉴스"},
             {"title": "경기 오피스텔 월세 동향", "source": "KBS 뉴스"},
             {"title": "서울 카지노 슬롯머신", "source": "연합뉴스"},
+            {"title": "서울 아파트 투자 공부 재테크 서적 출간", "source": "연합뉴스"},
             {"title": "서울 아파트 광고", "source": "광고 사이트"},
         ]
         self.assertEqual(
