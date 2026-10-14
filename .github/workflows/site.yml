@@ -1,13 +1,14 @@
 name: Morning Brief
 
 on:
-  push:
-    branches: [main]
   schedule:
     # 06:00 KST briefing target; avoid the top-of-hour Actions queue.
     - cron: '45 5 * * *'
       timezone: Asia/Seoul
   workflow_dispatch:
+
+# Ordinary pushes already start the repository's branch-based Pages deployment.
+# Running this workflow on push as well creates competing Pages deployments.
 
 permissions:
   contents: write
