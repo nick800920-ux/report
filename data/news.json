@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-10-15T08:26:34+09:00",
+  "generated_at": "2026-10-16T06:00:57+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "[미국 특징주] 엔비디아 CEO \"위험한 AI 개발 땐 칩 공급 중단\"…AI 거품론 일축",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zeDRSbVVUYU5tNXpfYVh1aUZRMUJtbHMxal9xRlUwb091aFV3U1ZGcDVSQmpheFJHMl9WZk9YQktidXZvQ2Y2TE5DcmVKcDVKWmVwYXUwNGZFR3Vx?oc=5",
-          "published_at": "2026-10-15T08:11:00+09:00"
-        },
-        {
-          "title": "인텔리빅스, 범죄·재난 감지 AI 앞세워 코스닥 도전…국방 사업도 확대",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5RFRyVnFFb2FsMTFtQURPT3l4T2ZpVlo0eDlPNjZmRHY5d3ZteEpkNjJ4bWlIUGxMM01meklLZENRbl8tX0FDZG1LMW5wZ1ZINDFMLUl3?oc=5",
-          "published_at": "2026-10-15T07:52:57+09:00"
-        },
-        {
-          "title": "“AI가 암 고칠 테니 담배 피운다?”… 팔란티어 CTO 주장에 '술렁'",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9raG1ZcGREeGl0S1lrNDczUC1LMFVHRmVOQ1NmODdZTEJhSE5uejJMbE5ZYkpnQUpOTjdrRkRjakN2TV9hVUItYlBiZ204UQ?oc=5",
-          "published_at": "2026-10-15T06:00:00+09:00"
-        },
-        {
-          "title": "AI 비서가 쇼핑까지 해준다고? … ‘알잘딱깔센’ 뮤즈의 등장",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DLUlsdm91SFlORFFCZVZBUUhFVkRaSHlfSEppQWtESjJHbEJweC16dGF1STNrVXZWMkMtUlA3Zzl3Q2ZXOGxtU3F1VVYzbGI4WUE?oc=5",
-          "published_at": "2026-10-15T05:30:00+09:00"
-        },
-        {
-          "title": "전력부터 보안까지 AI 기반 기술 '집결' - 머니투데이",
+          "title": "美 FTC, '해킹 논란' 오픈AI·앤트로픽 자료 제출 요구…경영진 소환 예정 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43VlJVLW96ZUtrMnhuOXk5MmpqT0RBbnZSYUlSeXhxSzlqWGV1ODU5bXZjQTlzRDdKUmx6c25TcUczLTl1Q1dNU254aG5CNllSaDhPTW1FVk5BRnVZV3UxMVhKd2ppMm_SAWxBVV95cUxQVlV6Tmh6TlFHTFFMSnlnZWU3U2YxTlZjSTB3WkowSXNyaXhUSUlEQzdNVV9WSjhZZ0l0dDZaT0t0QjdOcnFubC1QS0h6aE9uT0ZmOFdvRlJ5SG5kU0JUemxhUEhHV1Y5VUV4Z2I?oc=5",
-          "published_at": "2026-10-15T03:56:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbDJMZjhROVczVUZDWHQtQmptMnI0WnFtVmZBM2VaanRGb0hub01EeW4xSnVaZ1ozMjRPZW1rNjQ3eWpYX3BWLTk1OFBSMGtKRUtoVnJxZG9MSUkxbHFRT0ZBZEhDWmd00gFuQVVfeXFMT3l2b3BUSVpDOGtTeTF3R29zdG1zV2ttZXJldmsxU2FFTkpWRVZUd1g2QmU3S2NXY0kwS3NMWlMzdVNfdUFrc1VSMUUzT1FWOUZYM29CTWFyaWhOM1Y2T2dTZzdYSi0xeW5jdWpXSVE?oc=5",
+          "published_at": "2026-10-15T21:40:07+09:00"
         },
         {
-          "title": "라온시큐어 AI 가드레일 '원쉴드', 인공지능 제품·서비스 확인서 획득",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYzMyWlBPNUpGUU5SRlFMLTE4c1Ztc3NVemcwR1l5WGtaWllwTzlrQUltOWQ4NElkM3dSOFlEb3FyT2lhZ3pFX25keGcya0NRNTE3YzJn?oc=5",
-          "published_at": "2026-10-14T17:42:07+09:00"
+          "title": "[딸깍! 누가 만들었나]“주름 펴고 살 5㎏ 뺐어요”···AI로 분신 만든 거장, 영화의 미래를 묻다",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WcEFzRUlHaWpKQ1ZTd0RjLWRPOVlhcmtMcnpPVVgyTml4MkZXU2JVSHlkVVpfLXphanVTVkhpSVNLajZvZmVxc3NicGFvVGZ4bmtOSEs5T09wd9IBX0FVX3lxTFB5TzFwSm1ER0ZCa3JiY1N2VnJhNGRRcTBFYnVqYkVRc0RoMS1EUkpGQnliVC1GZTROR1FBcXBicWw0TE5rX2xTSzFIdjk1cUJRdzJkVnRsaEk0TlkyUnI0?oc=5",
+          "published_at": "2026-10-15T19:48:00+09:00"
         },
         {
-          "title": "말로 하면 알아서 광액세스망 운용하는 AI 기술 나왔다",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDlJS0l5Z2hXLWRCT05NT2VuRkc3MmJXSWpBOGwwNVVPbnRWeVFLbEs4NDZrQUNTbmVKLUtEeXU4UFJSRnlTUEZtNjA3eUgtRS16clJiODVTUk5nNTU4SjJnSjVTcUxFT2ZaVXVBNkoxS2JiSTBzenoyczRTUmpYLQ?oc=5",
-          "published_at": "2026-10-14T16:42:55+09:00"
+          "title": "[AI픽] SKT, 운전자 없이 자동차 옮기는 AI 기술로 글로벌 수상",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LeUNBT2o4RXlyazBDczFkdjdQZXJ4V2x1ZlV2Y2VWc191MkJwWUVYcmY5YVpmZ285WlZDekp6aHVuc1NWeVpkNGtlQ2Y0TEdMVThqMF9sSFNnMm_SAWBBVV95cUxQd2JZX1p2ZXVCR1B6ZDdfRzBMWXE5eTNJZG5sQkJUajZUeDIzcVMtaXpfMTVoa0xFc2ZvYm1jcGNkWnpfWkRlMVVYODVwM2FmZjlMX043M1JEaXNOV2lFSXE?oc=5",
+          "published_at": "2026-10-15T16:30:28+09:00"
         },
         {
-          "title": "“AI 기술은 앞서가는데 데이터센터가 없다”…세레브라스 CEO의 경고",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtS082UGxFUW9fdlFzQlFSVTFYY2xBbmtUajR2ZFEtSW1FNWNyMURKR0JVMjdzSzNDakhSUmtXSGdzd0YxUzZEbldGWTZ6dw?oc=5",
-          "published_at": "2026-10-14T07:10:02+09:00"
+          "title": "‘문화기술 연합체’ 출범…최휘영 “문화가 AI기술 주도해야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZUhaX0loREltNE42WXN5SjdsNG0tSXA3azk3QW5FeE5iYlhKQl9PbEhTOFRLUTBNaUhCSHdiLVdBc211Ulp6N3FiU3A3MWJST0pvVkZib0QzRDg?oc=5",
+          "published_at": "2026-10-15T16:28:00+09:00"
+        },
+        {
+          "title": "'문화기술 얼라이언스' 출범…최휘영 장관 \"AI기술 정책 반영해 현장 문제 해결할 것\"",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0s5V1NUYzlTVjZyV0lEZ3Y4ZkctcUh2dHc0akFmdFdlSG1yWE0wU1E4cWxSZnUzTWZGejZRb21KQk1VUC03RElDS2UtWnpNVG1obFotLWVaSXA5?oc=5",
+          "published_at": "2026-10-15T16:04:00+09:00"
+        },
+        {
+          "title": "최휘영 \"문화가 AI 기술 주도해야…기업·창작자·연구자 협력\"",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZno4Mk5GbnhlLUVkUkV0bVZNZjdqOXJ6SUJUYzdISUtVZHI0Y3BQS1hvaEdFS0ZmRkVCNWFxRHJUbjM4SWZkVzBZM1pjY1lkSmY3QmVObjYtSXfSAWBBVV95cUxNWUtOVVVRQVZFOEllMTBLVEJWRVpJSGN6b1Y3aEN1cTJWTVU4SFJtRXlQRkRnbFlpak9oeGl6MlpPOGctOUdaQ3R1dDRFNnllQmZXVFhtd25pVGRkWWotcTg?oc=5",
+          "published_at": "2026-10-15T16:00:01+09:00"
+        },
+        {
+          "title": "[리더스포럼] AI와 1인 유니콘 시대 도래:솔로프러너 육성",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iTnVOV0lIdGNiM3lpMHpTNWJ1YWtzZ1FZbXNGT08zNzhDVkNPY2l4b1hXcHQ4ZTlSVEhLQ3Z0dmpiOGRjMW5KMkdjRVkxZw?oc=5",
+          "published_at": "2026-10-15T16:00:00+09:00"
+        },
+        {
+          "title": "오픈AI, 22일 서울서 개발자 행사 개최…AI 기술·활용 사례 공유",
+          "source": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FUXVpV3BINUF3TF9zd05oWlFfMHI2d3VfTFJZY2Qyb19Dc1NNamhJQ05MTkJrU19hS1JEVnFWUkJFUU9sRjVaQjlDYjVvMURMRjBNMVA5N2RuYnRXd1cwU20xbW0?oc=5",
+          "published_at": "2026-10-15T15:03:43+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -71,40 +71,40 @@
     },
     "realestate_policy": {
       "items": [],
-      "window": "최근 72시간",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EB%B6%80%EB%8F%99%EC%82%B0+%EB%8C%80%EC%B6%9C+%EA%B7%9C%EC%A0%9C+OR+%EC%A3%BC%ED%83%9D+%EC%84%B8%EC%A0%9C+OR+%EC%9E%AC%EA%B1%B4%EC%B6%95+%EC%A0%95%EC%B1%85"
     },
     "realestate_market": {
       "items": [
         {
-          "title": "지난달 서울 아파트 토허 신청 3천 6백여 건…소폭 반등",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51a2NHcDY2U1I1QkFFMlp3dHJGWE44bkVlRGhOWlVyb3dERjNKV0lOMmEtYXRFdE9XaWRGN0hza3o5VVptRkhiSmRYRHozX2J5TkRGRVFGQWpOaWM?oc=5",
-          "published_at": "2026-10-15T06:05:25+09:00"
-        },
-        {
-          "title": "서울 아파트 토지거래허가 신청 5개월만에 반등…가격 1.43%↑",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LXFXcnhiOHR3MmhYZU96QVBoWUtXSjZKQ1M4eXZXWmNhYUxoQ3I1UUF1ZTFXdTZjazdYN3I4UnZtRUFxeEtpV1IydzRucWJlN2lOclNGUEpJazBvQkRGZg?oc=5",
-          "published_at": "2026-10-15T06:00:00+09:00"
-        },
-        {
-          "title": "서울 초소형 아파트도 10억 훌쩍…고가 거래 1년 새 53% 급증",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBROTQ2LTFyZENlaW9XUGotYUN2akJ1MW1pX3dJbmtscFVZNjA4UGt1VklxcWFqS21OaFoxdUZfSmUxclEwUzVXWW5WQjBxdUd6QS1BdXRTendtOGc?oc=5",
-          "published_at": "2026-10-14T11:40:00+09:00"
+          "title": "10·15 대책 1년‥서울 아파트값은 88주 연속 상승",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSnRhZXhDSmpEdmpCRm55T3lLU3p2TERGWFNUdF9Md0dfQi1scUdFeGJDMk1leGQtM1N3dUVNb0gtRmVrWGhVOVk4bVp4ZlhlNFY0X0pnSzR4X1RoT0NQeUhqTGpoOEZLNFZfWEtxVTlWWWhGOG44bw?oc=5",
+          "published_at": "2026-10-15T21:52:40+09:00"
         },
         {
           "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tUHNoeXJTOG8wSUtJTDIyRk9qdmt6UWZDQ2VyTVFyVGdhWGdfbl84bGdmU3dkTldEZHFUS2g5dVBqdlAzT2JpZ3hsNEd5b0dWMEd6eVFoY2VoTWw3b1l3etIBYEFVX3lxTE0tUHNoeXJTOG8wSUtJTDIyRk9qdmt6UWZDQ2VyTVFyVGdhWGdfbl84bGdmU3dkTldEZHFUS2g5dVBqdlAzT2JpZ3hsNEd5b0dWMEd6eVFoY2VoTWw3b1l3eg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51eW10V0Y4Vm5OZUhRWkFnd0h0RWdkdEJaMEsyYUdPWnRfcWxudWNwOFVYdWJpT3RjaEtqbEJ0bTYtdmROSTFucVVfQjNadExhUGJGcXpDdmV4NkHSAWBBVV95cUxNLVBzaHlyUzhvMElLSUwyMkZPanZrelFmQ0Nlck1RclRnYVhnX25fOGxnZlN3ZE5XRGRxVEtoOXVQanZQM09iaWd4bDRHeW9HVjBHenlRaGNlaE1sN29Zd3o?oc=5",
           "published_at": "2026-10-15T06:00:08+09:00"
+        },
+        {
+          "title": "대출규제 1년…서울 아파트 거래 9억 이하 비중 ‘47%’",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rSHgtYVRCSFFKVTJPd0JCWHlsM2JwR0VybkQ3OF9xVGJKWWpDX0loU045UUJveVBBQkdVcTRQaHllbkkwNDA0Tnl5dV9rdVBORXfSAVNBVV95cUxPYW4zVld1MnRqWFRkQnh2aVhsNzk0V1JfSXlGY3lOR2pxRmphdTJDTVVycFc3aXQyTzR5ZWtnM0lOdjBXX0ZGU1ZTWkI4NXgtVEx5WQ?oc=5",
+          "published_at": "2026-10-15T18:03:06+09:00"
         },
         {
           "title": "서울 아파트 분양가 1년간 900만원 올라, ‘국평’ 청약 부담… 60㎡ 이하 80% 쏠렸다",
           "source": "서울신문",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNzVOU05nR3Q2YXFvWlRncGhlY3RBY2VqYWJORVFpN2wxR2JJUTFBZjdlZmVTUDBTWTJuYUJyTmctb1RPUW41dG54eTU2UTRFY1JJNFU1MXoyb2thRjFBMHg5aVBrS2hjcmJ2UmZiNVY4ZWI3Zzk2RQ?oc=5",
           "published_at": "2026-10-15T02:28:52+09:00"
+        },
+        {
+          "title": "토허제 확대 1년 서울 아파트값 10%↑...연장되나",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RVk9mNnpsOHh4eU5QNi1XZTktbXhPN0dvSVBJRVNRVVQ5b0JHSTBlYTJ5WFJNVXo4U2wwNG9zZHBfQU5QYXlZdk9ta2NvSWYwdXRkXzQ3d2dfX1ltY05ETlplMDMwa0JSajJxMUNGdw?oc=5",
+          "published_at": "2026-10-15T21:50:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -118,25 +118,19 @@
     "samsung_baseball": {
       "items": [
         {
-          "title": "곽빈·구자욱·김도영, 2026 프로야구 투타 타이틀 2관왕",
+          "title": "프로야구 삼성 구자욱, 재검진 결과 허벅지 호전…훈련 재개",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zYjQ5Y1plR3RKRGhaT2xLUmVZUm51UDl0OFFFRWNuckhDQnBJRUc3TnRmeXdudG5ULWNZN1RHS0ROeGVFLW9fOUJfblVWMFR1MzNMdTVxUE9ZbDFKUGQzatIBYEFVX3lxTE4zYjQ5Y1plR3RKRGhaT2xLUmVZUm51UDl0OFFFRWNuckhDQnBJRUc3TnRmeXdudG5ULWNZN1RHS0ROeGVFLW9fOUJfblVWMFR1MzNMdTVxUE9ZbDFKUGQzag?oc=5",
-          "published_at": "2026-10-12T22:31:13+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbWlVNDBRVWlNbzAybkN1c0QycEFyX2ZvYkFoaUNFSWRIeXRkYk9RNkZaaXI4RDFyeHlyQWFwcGtQU1lkZnd1Vk8tTmpaUzlEelRaWUFqTzNlX2fSAWBBVV95cUxNbzVYWVlZNTkycS1rQVhob3lRbUpfejF1Y2VhbktZZDZuSEtRX0FuYjdxOHIwbUE1LVl0ak1uTVpCeEt1aVdFRWxZR0dfQXVOVDJuS1VtMUN1Y2ZjZGNoVkQ?oc=5",
+          "published_at": "2026-10-15T11:24:44+09:00"
         },
         {
-          "title": "삼성 \"플레이오프 기대하세요\"",
+          "title": "'햄스트링 부상' 삼성 구자욱, 오늘부터 티배팅 시작…PS 복귀 기대",
           "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UQzFIODYtTlYwMHlDZlg0TkJ6OFFFSHc0Wmd0MzlZcWRKMmhpRTBsbzNLdjJLcGNMSGxJT2RzOXpOYkx3UTR5bkFMVQ?oc=5",
-          "published_at": "2026-10-12T22:15:45+09:00"
-        },
-        {
-          "title": "'9년 만에 최다승' 삼성의 이면…7년 만에 10승 투수 '미배출'",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mUkJGaGFfd09xZUdGVHA3NS1aVk1wREdjZjhESEVPMW1Ja3BWcW5icWRhd2FXdEllYnd1Z093NmVPNHRuZ2txdjFXcU55RFVSYVdIQ1hJTmtzVWvSAWBBVV95cUxNNllEODZZbW5MVDl4SUZ6VngyYUJucXNaX1NCV0hvUmJ2aG1fcjRoa093czNHdU5zVFB5YXhTc1NTMlBwbm96eVpWeTc5dmN5Ym9sMjJwdmprRFNjTU5fb0w?oc=5",
-          "published_at": "2026-10-12T13:48:46+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lT3luMkxUS3NRMG1ud2lveE9KTmd3d0diVGFyTmJydUd4b0pVWF80eEQ2dU1idTBLUURKWTFwUlNKZDhKREZVaEVxZkprX3pYMkhrUkh5MA?oc=5",
+          "published_at": "2026-10-15T11:18:01+09:00"
         }
       ],
-      "window": "최근 72시간",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EA%B2%B0%EA%B3%BC+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B5%AC%EB%8B%A8+%EC%86%8C%EC%8B%9D"
     },
     "science_tech": {
@@ -146,9 +140,15 @@
           "source": "NASA",
           "url": "https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/",
           "published_at": "2026-10-13T00:00:00+09:00"
+        },
+        {
+          "title": "팀네이버, 세계적 AI 학회 'EMNLP'서 논문 24편 채택…연구 경쟁력 입증",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDR3daN2hDbUZocGpMeE9JY1QtMFlQSE5fRVdiRXp2aU5CZ2JBeGNqblZ5bTRkWjJRWmZtVmFReFFPeW5mcWREb2NVTzVsYUUzMENnck1B?oc=5",
+          "published_at": "2026-10-15T14:33:00+09:00"
         }
       ],
-      "window": "최근 공식 과학 기사 · 10월 12일(미국)",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+%EC%97%B0%EA%B5%AC"
     },
     "italy_travel": {
@@ -166,45 +166,45 @@
     "top": {
       "items": [
         {
-          "title": "뉴욕증시, 물가 충격·반도체 약세에 하락…나스닥 1.9%↓",
+          "title": "뉴욕증시 3대 주가 지수, 국채금리 하락에 일제히 상승 마감",
           "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44LWZDaVRNNnZFUWFUNEFFSXA4Tm5MQ0YyYmtyOW9fQWU3S3ZuRGo1WXJ1VHh4S0pIc1psQU9vYzBWc1RLTHJLTVhPX19VaXhQR3AyaTZ2QVFJNzA?oc=5",
-          "published_at": "2026-10-15T07:46:00+09:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDBGbjlEQzNta2JtWXN0MkR2WXJOWnAzLWpTa0xSeDNGd1hXQzY3THh2Y0JheDVsck01UFpqeEk2bllWNGx0WktVNE95MURyUHhuNnZtV282bTQ?oc=5",
+          "published_at": "2026-10-16T05:42:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "국제유가 상승…IEA 공급난 경고에 사우디 아람코 시설 피격",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBQlRUcFhYN0JETjZ5V3FNZVFCWUgwTnVHWDNrVlFjWU9ITGRORjdhNU5sdVRweDdOb0lTbDdIWTM5ekZlVnA5eHFLT1ZsUlhMZ1VBMlRNNzdxcFBaRWh5UlRQQ3VYVXM?oc=5",
-          "published_at": "2026-10-15T06:16:52+09:00",
+          "title": "국제유가 혼조세 마감…WTI 6거래일째 상승·브렌트유는 약보합",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTVNJMmFsTHZ0TEh2UmJETjg5N0JLWUZPT1JVWnNzY3ZTNUY0NUFxc05vN2JTa2dMRzg1T0tLTUdYbjVfNV80X3lkY1RlaFdQRFA5VmM3UnhYdGM?oc=5",
+          "published_at": "2026-10-16T05:42:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "지난달 서울 아파트 토허 신청 3천 6백여 건…소폭 반등",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51a2NHcDY2U1I1QkFFMlp3dHJGWE44bkVlRGhOWlVyb3dERjNKV0lOMmEtYXRFdE9XaWRGN0hza3o5VVptRkhiSmRYRHozX2J5TkRGRVFGQWpOaWM?oc=5",
-          "published_at": "2026-10-15T06:05:25+09:00",
+          "title": "서울 아파트 ‘토허’ 신청 5개월만에 반등… 강남 3구·용산 주도",
+          "source": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTV0Ni12Y1lBV05uQ1dMcDdrZEZ0YmViU0l5MkRKMkFlWE5MVXRmT1dKM3V4NE16OHJjb0JzTTlLbmhQZWZ1ZU13WjJ0UmdCN1R0cVJJUWRCWkRhTUp0NnRWSW5xVlhiVHdUYzlQcEJCUkM2T0owS3RIbXc4OHQ1Vnl2NWRBb2hVTkNjQm82LWVjdDg?oc=5",
+          "published_at": "2026-10-16T04:22:53+09:00",
           "category": "부동산"
         },
         {
-          "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tUHNoeXJTOG8wSUtJTDIyRk9qdmt6UWZDQ2VyTVFyVGdhWGdfbl84bGdmU3dkTldEZHFUS2g5dVBqdlAzT2JpZ3hsNEd5b0dWMEd6eVFoY2VoTWw3b1l3etIBYEFVX3lxTE0tUHNoeXJTOG8wSUtJTDIyRk9qdmt6UWZDQ2VyTVFyVGdhWGdfbl84bGdmU3dkTldEZHFUS2g5dVBqdlAzT2JpZ3hsNEd5b0dWMEd6eVFoY2VoTWw3b1l3eg?oc=5",
-          "published_at": "2026-10-15T06:00:08+09:00",
+          "title": "10·15 대책 1년‥서울 아파트값은 88주 연속 상승",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSnRhZXhDSmpEdmpCRm55T3lLU3p2TERGWFNUdF9Md0dfQi1scUdFeGJDMk1leGQtM1N3dUVNb0gtRmVrWGhVOVk4bVp4ZlhlNFY0X0pnSzR4X1RoT0NQeUhqTGpoOEZLNFZfWEtxVTlWWWhGOG44bw?oc=5",
+          "published_at": "2026-10-15T21:52:40+09:00",
           "category": "부동산"
         },
         {
-          "title": "서울 아파트 토지거래허가 신청 5개월만에 반등…가격 1.43%↑",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LXFXcnhiOHR3MmhYZU96QVBoWUtXSjZKQ1M4eXZXWmNhYUxoQ3I1UUF1ZTFXdTZjazdYN3I4UnZtRUFxeEtpV1IydzRucWJlN2lOclNGUEpJazBvQkRGZg?oc=5",
-          "published_at": "2026-10-15T06:00:00+09:00",
+          "title": "토허제 확대 1년 서울 아파트값 10%↑...연장되나",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RVk9mNnpsOHh4eU5QNi1XZTktbXhPN0dvSVBJRVNRVVQ5b0JHSTBlYTJ5WFJNVXo4U2wwNG9zZHBfQU5QYXlZdk9ta2NvSWYwdXRkXzQ3d2dfX1ltY05ETlplMDMwa0JSajJxMUNGdw?oc=5",
+          "published_at": "2026-10-15T21:50:00+09:00",
           "category": "부동산"
         },
         {
-          "title": "서울 아파트 토허 신청 5개월 만에 반등…강남3구·용산 51.5% 급증",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Qm44ZzdOV1JfUVpmMy1mX3BrS0M4dnlKZ3ZwZE16Y0VKTXRiWkcxNXM3aElseGMwT1VybVkwX2I2SXhtV01COXZMcFJHMDVjLV85Nm1xWGVCQnc?oc=5",
-          "published_at": "2026-10-15T06:00:00+09:00",
+          "title": "서울 아파트값 오름폭 2주째 확대…경기 ‘반도체 벨트’도 강세",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wTnpmb0d6bnhGQnJQMGtVand0Q19fSjB2dHJSVGRJalFVLWtscVRrR19scjBxMjZlTWpGU3hyNXF1QW9oQVlKWmdudVNIV2hjSkI3NWVTVE90YVZ5Y1JCdlRzVkpYamxz?oc=5",
+          "published_at": "2026-10-15T19:33:00+09:00",
           "category": "부동산"
         }
       ],
