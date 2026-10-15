@@ -1,15 +1,27 @@
 {
-  "generated_at": "2026-10-16T06:00:57+09:00",
+  "generated_at": "2026-10-16T08:17:17+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "美 FTC, '해킹 논란' 오픈AI·앤트로픽 자료 제출 요구…경영진 소환 예정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbDJMZjhROVczVUZDWHQtQmptMnI0WnFtVmZBM2VaanRGb0hub01EeW4xSnVaZ1ozMjRPZW1rNjQ3eWpYX3BWLTk1OFBSMGtKRUtoVnJxZG9MSUkxbHFRT0ZBZEhDWmd00gFuQVVfeXFMT3l2b3BUSVpDOGtTeTF3R29zdG1zV2ttZXJldmsxU2FFTkpWRVZUd1g2QmU3S2NXY0kwS3NMWlMzdVNfdUFrc1VSMUUzT1FWOUZYM29CTWFyaWhOM1Y2T2dTZzdYSi0xeW5jdWpXSVE?oc=5",
-          "published_at": "2026-10-15T21:40:07+09:00"
+          "title": "문체부, 문화기술 얼라이언스 출범…'문화 주도형 AI' 추진",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LMlNST3Jhc1Vtc21xeUlrRzRPZjFtRWVLcEpZdDFXQ0FyZlUwblFLWWh0c2diMVpiMWNCVVdKcU95dEgtOTBEMDd1UEFzN25icTJ2TTM4eFZjWHcxVEtjZg?oc=5",
+          "published_at": "2026-10-16T07:28:24+09:00"
+        },
+        {
+          "title": "최휘영 “문화 현장이 AI 기술 주도해야…AI기업·창작자·학계 협력을”",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WZERRUVl3dVJuajVNUzdrWUY5Vjhjdm15ZElMWFVXUHdkQWY4UkhXREkwM1pRQTJEcUEtaWVVQjBVNUY5ZHU4eVhyUUk0bGFKa2fSAVNBVV95cUxOdzI1eThVbThYTFJYQy1MQjg5dWxxQmFhN3NXYU9oQmxMZ0w1MWVVc003Njc4WUhIdzFyZ0ZPMTFWWE5lYmFZSXZSbFJYbjF3Umh3cw?oc=5",
+          "published_at": "2026-10-16T06:02:00+09:00"
+        },
+        {
+          "title": "﻿그리는 AI, 연습하는 AI, 말하는 AI [정원훈의 AI 트렌드]",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRzY0N1dNZjlnTXprekpRMVdvZGtoSWdPUGxzdkgxc0hvQVN5VnoxV3FiYTdIQ1dlVDFpU1VVcHZuU2RCbjNBLTZiSDZNcXF3SktFakdGRjlZTFBJMy1kOFhtZjBkdmNCME1nM0RzS3XSAXRBVV95cUxNajFJbTd2MTlhYnZ2LWRhWGJXWEV5OU9kbDFBcTdOSi1udHcwdFgybkcyTEN5QS14NGRXUDN4RFpKMk45Y0Y2U3AwTUkzcHpuYzZncm5IMW44ekozTE5mdlllSVBEVnJTOHExSVNlWGppZ2FzVQ?oc=5",
+          "published_at": "2026-10-16T06:00:00+09:00"
         },
         {
           "title": "[딸깍! 누가 만들었나]“주름 펴고 살 5㎏ 뺐어요”···AI로 분신 만든 거장, 영화의 미래를 묻다",
@@ -30,12 +42,6 @@
           "published_at": "2026-10-15T16:28:00+09:00"
         },
         {
-          "title": "'문화기술 얼라이언스' 출범…최휘영 장관 \"AI기술 정책 반영해 현장 문제 해결할 것\"",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0s5V1NUYzlTVjZyV0lEZ3Y4ZkctcUh2dHc0akFmdFdlSG1yWE0wU1E4cWxSZnUzTWZGejZRb21KQk1VUC03RElDS2UtWnpNVG1obFotLWVaSXA5?oc=5",
-          "published_at": "2026-10-15T16:04:00+09:00"
-        },
-        {
           "title": "최휘영 \"문화가 AI 기술 주도해야…기업·창작자·연구자 협력\"",
           "source": "연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZno4Mk5GbnhlLUVkUkV0bVZNZjdqOXJ6SUJUYzdISUtVZHI0Y3BQS1hvaEdFS0ZmRkVCNWFxRHJUbjM4SWZkVzBZM1pjY1lkSmY3QmVObjYtSXfSAWBBVV95cUxNWUtOVVVRQVZFOEllMTBLVEJWRVpJSGN6b1Y3aEN1cTJWTVU4SFJtRXlQRkRnbFlpak9oeGl6MlpPOGctOUdaQ3R1dDRFNnllQmZXVFhtd25pVGRkWWotcTg?oc=5",
@@ -46,12 +52,6 @@
           "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iTnVOV0lIdGNiM3lpMHpTNWJ1YWtzZ1FZbXNGT08zNzhDVkNPY2l4b1hXcHQ4ZTlSVEhLQ3Z0dmpiOGRjMW5KMkdjRVkxZw?oc=5",
           "published_at": "2026-10-15T16:00:00+09:00"
-        },
-        {
-          "title": "오픈AI, 22일 서울서 개발자 행사 개최…AI 기술·활용 사례 공유",
-          "source": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FUXVpV3BINUF3TF9zd05oWlFfMHI2d3VfTFJZY2Qyb19Dc1NNamhJQ05MTkJrU19hS1JEVnFWUkJFUU9sRjVaQjlDYjVvMURMRjBNMVA5N2RuYnRXd1cwU20xbW0?oc=5",
-          "published_at": "2026-10-15T15:03:43+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -77,10 +77,10 @@
     "realestate_market": {
       "items": [
         {
-          "title": "10·15 대책 1년‥서울 아파트값은 88주 연속 상승",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSnRhZXhDSmpEdmpCRm55T3lLU3p2TERGWFNUdF9Md0dfQi1scUdFeGJDMk1leGQtM1N3dUVNb0gtRmVrWGhVOVk4bVp4ZlhlNFY0X0pnSzR4X1RoT0NQeUhqTGpoOEZLNFZfWEtxVTlWWWhGOG44bw?oc=5",
-          "published_at": "2026-10-15T21:52:40+09:00"
+          "title": "10·15 대책 이후 1년…서울 아파트값 11.7% 올라",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SmJBSWtWLXRzNHFEb3Fkd2NTLXJEOENqbG0xYTBGUmhmM0NvMmR3LTVTTW9Bbl9ORExhQzJXWW5HbUVGWTdqcG1XeTE2WldtcHVOdkZpbDVwUms?oc=5",
+          "published_at": "2026-10-15T16:13:00+09:00"
         },
         {
           "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
@@ -95,16 +95,16 @@
           "published_at": "2026-10-15T18:03:06+09:00"
         },
         {
-          "title": "서울 아파트 분양가 1년간 900만원 올라, ‘국평’ 청약 부담… 60㎡ 이하 80% 쏠렸다",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNzVOU05nR3Q2YXFvWlRncGhlY3RBY2VqYWJORVFpN2wxR2JJUTFBZjdlZmVTUDBTWTJuYUJyTmctb1RPUW41dG54eTU2UTRFY1JJNFU1MXoyb2thRjFBMHg5aVBrS2hjcmJ2UmZiNVY4ZWI3Zzk2RQ?oc=5",
-          "published_at": "2026-10-15T02:28:52+09:00"
-        },
-        {
           "title": "토허제 확대 1년 서울 아파트값 10%↑...연장되나",
           "source": "YTN",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RVk9mNnpsOHh4eU5QNi1XZTktbXhPN0dvSVBJRVNRVVQ5b0JHSTBlYTJ5WFJNVXo4U2wwNG9zZHBfQU5QYXlZdk9ta2NvSWYwdXRkXzQ3d2dfX1ltY05ETlplMDMwa0JSajJxMUNGdw?oc=5",
           "published_at": "2026-10-15T21:50:00+09:00"
+        },
+        {
+          "title": "서울 중간 가격대 첫 11억…고가 아파트 2년 8개월 만에 최대 낙폭",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tR3J2Z0xKdm5JakJyRHM2TlJ0d0xJWWNqeHhHYm81eVJVS2c0WEhuSTJmQnRiSllTYkszSEM1cGJuLXQzWTJwSVYzUXJXWVZtX0c3Y1Rnc0FjbWM?oc=5",
+          "published_at": "2026-10-16T05:05:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -142,6 +142,12 @@
           "published_at": "2026-10-13T00:00:00+09:00"
         },
         {
+          "title": "연구자 지식 말·글로 전달하면 AI 스스로 실험 계획 반영",
+          "source": "사이언스타임즈",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTC1wWG9XTWhzVHhqOElSLVVLekNxM3AtcnZZTFoyWHNWUUR6N29RQ1JrWUdQb1d6OUxrdTF1aE1TT0N2ZFpmcDZvWlBTWUloRHlLbUc2X3V4ZDloLTdUVXVwclFkb2djT2tfYlVNTWNfQlBvRk9obkFBcGtCNGFvNnRCWUhPdFhIMnBxRnR0cw?oc=5",
+          "published_at": "2026-10-16T07:07:53+09:00"
+        },
+        {
           "title": "팀네이버, 세계적 AI 학회 'EMNLP'서 논문 24편 채택…연구 경쟁력 입증",
           "source": "지디넷코리아",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDR3daN2hDbUZocGpMeE9JY1QtMFlQSE5fRVdiRXp2aU5CZ2JBeGNqblZ5bTRkWjJRWmZtVmFReFFPeW5mcWREb2NVTzVsYUUzMENnck1B?oc=5",
@@ -152,45 +158,31 @@
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+%EC%97%B0%EA%B5%AC"
     },
     "italy_travel": {
-      "items": [
-        {
-          "title": "[여행소식] 이탈리아 찾는 한국인 100만명 돌파…소도시·슬로 트래블 뜬다",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcm5qb3RLeTM2WWpZcnFQVlR6bUJzUUxkYkptTF9sdU1VRnNQUER5dmxfakJOOU9Zay1JRko2T3NCRm1TYktnUDN2NDFnQzAtaTNZLTluMXdKRHfSAWBBVV95cUxQX3haZF95RW9Yd0hvblFYcFFwaHRKUFV4clItWnNyQ2d5d0N6NlBWWFd1MVBRS3RRQzYtdFF1b1NvTzliM3hzbXpSNzljb2VlZTZGRzN2bm9JNGo1RzFrUmk?oc=5",
-          "published_at": "2026-09-22T16:00:00+09:00"
-        }
-      ],
-      "window": "최근 30일",
+      "items": [],
+      "window": "최근 14일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84+%EC%97%AC%ED%96%89+OR+%EB%A1%9C%EB%A7%88+%EC%97%AC%ED%96%89+OR+%EB%B2%A0%EB%84%A4%EC%B9%98%EC%95%84+%EA%B4%80%EA%B4%91+OR+%ED%94%BC%EB%A0%8C%EC%B2%B4+%EB%B0%95%EB%AC%BC%EA%B4%80+OR+%EB%B0%80%EB%9D%BC%EB%85%B8+%EA%B4%80%EA%B4%91"
     },
     "top": {
       "items": [
         {
-          "title": "뉴욕증시 3대 주가 지수, 국채금리 하락에 일제히 상승 마감",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4ZDBGbjlEQzNta2JtWXN0MkR2WXJOWnAzLWpTa0xSeDNGd1hXQzY3THh2Y0JheDVsck01UFpqeEk2bllWNGx0WktVNE95MURyUHhuNnZtV282bTQ?oc=5",
-          "published_at": "2026-10-16T05:42:00+09:00",
+          "title": "[3분증시] 뉴욕증시, 저가 매수세에 반등…3대 지수 상승",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKZW16bmwtU0NmSXJTZmpKZnBPOXZiS2FoM216d0l5d0RoRHJubzl6eXA5SFV1VmxJdUtYX2d6OVpkSVR1eVE5SlJmbGlRRnh2THlhLQ?oc=5",
+          "published_at": "2026-10-16T07:36:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "국제유가 혼조세 마감…WTI 6거래일째 상승·브렌트유는 약보합",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTVNJMmFsTHZ0TEh2UmJETjg5N0JLWUZPT1JVWnNzY3ZTNUY0NUFxc05vN2JTa2dMRzg1T0tLTUdYbjVfNV80X3lkY1RlaFdQRFA5VmM3UnhYdGM?oc=5",
-          "published_at": "2026-10-16T05:42:00+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "서울 아파트 ‘토허’ 신청 5개월만에 반등… 강남 3구·용산 주도",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTV0Ni12Y1lBV05uQ1dMcDdrZEZ0YmViU0l5MkRKMkFlWE5MVXRmT1dKM3V4NE16OHJjb0JzTTlLbmhQZWZ1ZU13WjJ0UmdCN1R0cVJJUWRCWkRhTUp0NnRWSW5xVlhiVHdUYzlQcEJCUkM2T0owS3RIbXc4OHQ1Vnl2NWRBb2hVTkNjQm82LWVjdDg?oc=5",
-          "published_at": "2026-10-16T04:22:53+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "10·15 대책 1년‥서울 아파트값은 88주 연속 상승",
+          "title": "국제유가 혼조‥WTI 6거래일째 상승·브렌트유는 약보합",
           "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSnRhZXhDSmpEdmpCRm55T3lLU3p2TERGWFNUdF9Md0dfQi1scUdFeGJDMk1leGQtM1N3dUVNb0gtRmVrWGhVOVk4bVp4ZlhlNFY0X0pnSzR4X1RoT0NQeUhqTGpoOEZLNFZfWEtxVTlWWWhGOG44bw?oc=5",
-          "published_at": "2026-10-15T21:52:40+09:00",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52eFVIWHNNQmQ1QjdJZ0EybkxqazNqalpBQ2NFNldkSy14cG1WZ0RQa3VUYi1OUzNidERDLUtJT2ZuM25lWWRIeEpmSHlRYk5QWGVQRzNPbFA2NHdHUjNKaGVtc2xtUHR2ekdTWG1Fd1hPWVVL0gF0QVVfeXFMTnZ4VUhYc01CZDVCN0lnQTJuTGprM2pqWkFDY0U2V2RLLXhwbVZnRFBrdVRiLU5TM2J0REMtS0lPZm4zbmVZZEh4SmZIeVFiTlBYZVBHM09sUDY0d0dSM0poZW1zbG1QdHZ6R1NYbUV3WE9ZVUs?oc=5",
+          "published_at": "2026-10-16T06:38:43+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "서울 중간 가격대 첫 11억…고가 아파트 2년 8개월 만에 최대 낙폭",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tR3J2Z0xKdm5JakJyRHM2TlJ0d0xJWWNqeHhHYm81eVJVS2c0WEhuSTJmQnRiSllTYkszSEM1cGJuLXQzWTJwSVYzUXJXWVZtX0c3Y1Rnc0FjbWM?oc=5",
+          "published_at": "2026-10-16T05:05:00+09:00",
           "category": "부동산"
         },
         {
@@ -198,6 +190,13 @@
           "source": "YTN",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RVk9mNnpsOHh4eU5QNi1XZTktbXhPN0dvSVBJRVNRVVQ5b0JHSTBlYTJ5WFJNVXo4U2wwNG9zZHBfQU5QYXlZdk9ta2NvSWYwdXRkXzQ3d2dfX1ltY05ETlplMDMwa0JSajJxMUNGdw?oc=5",
           "published_at": "2026-10-15T21:50:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "10·15 대책 1년‥서울 아파트값은 88주 연속 상승",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSnRhZXhDSmpEdmpCRm55T3lLU3p2TERGWFNUdF9Md0dfQi1scUdFeGJDMk1leGQtM1N3dUVNb0gtRmVrWGhVOVk4bVp4ZlhlNFY0X0pnSzR4X1RoT0NQeUhqTGpoOEZLNFZfWEtxVTlWWWhGOG44b9IBeEFVX3lxTE85MEQ5ZXJfdmwxM0g5eGNVYVdiQXBsMnlxTmkzd2RVYS1kbXBWRUU2VE9KdmdzSUJhcnVhcU1PcEdocnBvakYzekF5QVFjN1gxNFphN3dPMWhUclExbk1sb2JraVMwRW9FdUNodExjLW5iVGtWNmJsUg?oc=5",
+          "published_at": "2026-10-15T20:11:38+09:00",
           "category": "부동산"
         },
         {
