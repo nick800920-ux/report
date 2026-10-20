@@ -1,51 +1,27 @@
 {
-  "generated_at": "2026-10-20T08:55:47+09:00",
+  "generated_at": "2026-10-21T06:57:54+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "UNIST, 위성·AI 융합 식물 탄소흡수량 정밀추정 기술 개발",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RakNTZUEweFV5VFpnUnNyOVBrM05uY240VjJkamlLdDJEelV0TWhTd0M5emdrQTU2LXVQbERQZ3JsNGVxeG9FZkVDS3d4cWlNaDI1bTZOYVYyZTZMeEpIOQ?oc=5",
-          "published_at": "2026-10-20T08:29:49+09:00"
+          "title": "오픈AI, 제약 AI에이전트 기업 인수…신약개발 사업 가속",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85bEhHaVNHWHdnUzlvbkpCdldsVjJSMUt0VlRNeXRXUEVxeU5ZR2VOVnByeU5Jb2ZPdFdWSEFkeGtUMGVFUUtOTUhoN1VjbGZBb3FuYnQ1b284MFnSAWBBVV95cUxPRkFLTkhVU09ZQWZMTGp0UkVyQS1VaFppV3FLWWlsb1h4V1pRVXJWMGZRWEpTYVhTTkxEU3dsUWcxbU9ZSmlRakhpMkQ4R3lsOTg3MzJLNlFadWxSYm80Ujk?oc=5",
+          "published_at": "2026-10-21T05:28:28+09:00"
+        },
+        {
+          "title": "가온아이, 국방사업부 신설…“군 AI·클라우드 사업 본격화”",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xVnJ2OHF4NTQ0cXFPaDRnd083Y2pxUEFtcUQwdEM0NnhqMHRGZkhJQk9vb0NSdU9ZV2dxaFhCMVlaYlVCcDJHbUVOUGJmUQ?oc=5",
+          "published_at": "2026-10-20T14:59:51+09:00"
         },
         {
           "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\" [IT썰] - 머니투데이",
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNllOWC1VamFwenE2ZlNBNFp5bzMzdzFuRHNKRy1COXJvS3EyQjAzellJMVU2c2ZmODVCVmRtTXpvVXh6bFNkNm5Sd2ZycHJhNnJ0aElyeFZYX1BDLXF2c3V6RWlxZGfSAWxBVV95cUxQT2Z0b2h5Y2dibTlzRE84Q1htNlhObjV2UHEydll3WjZ4azZyYV84cUxndGM5V253aVZnMUdQbU5NaUpqQVRsYl9taFBXNGh6alJIcTRESGk2cGg0YVFMMTlCeXlRQkVKNURuQ2w?oc=5",
           "published_at": "2026-10-20T08:22:47+09:00"
-        },
-        {
-          "title": "빌려 쓰는 AI의 유통기한 [이승현의 AI 네이티브]",
-          "source": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ZFc3cTNFbEdnZzdqWDVBdzRONzczRUt4bnBVdDBCb1pwRnpaOUZiTUpiMXdjWlpUMU5VZWNFQnJ0Zi1KWFBBanVHUEV0XzV1SnhjczZHb3dzQkxfN0w5YjN2c1M5anpUeHp3a2RCaHrSAXRBVV95cUxQa3piLWxoTmVHTzdGTEJQb3hVOVk5MzNKNFJ1eDBrNjBKbHFva05lM0R0QWRGZkFGQi1sSlhXMmhhLURpeEJkbmpHSUl4dUowWDJoVUw3VDRLd1RkUm5NaHRFLVc1cnJtbnZFTk4wY3NUOTBFNA?oc=5",
-          "published_at": "2026-10-20T06:20:00+09:00"
-        },
-        {
-          "title": "[단독] 삼성전자, AI 토큰당 원가 낮추는 서버 기술 개발",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIaDRXX1BoVmtvbUVEQWJZZmMxUU8xVzFHbDJGSVo5RndWOEl4TnZGS1YycndLRFBRUnVvWmd0bmRlazdTSGVfMjRvRFZ4WDB5NHUxSzRpbVBUM0dy?oc=5",
-          "published_at": "2026-10-20T06:00:00+09:00"
-        },
-        {
-          "title": "\"국 끓는 소리만 들어도 언제 넘칠지 알아요\"...AI로 더 똑똑해진 가전 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydFlwTHpNV3NsTjRxT3VDeGpBSjFJaDhtMWstVWRCUExTRGE4dmtPRllEazNKVExHdFVjTGV6czBrbkxPbk1wZzRTNHQxaDM5WEtoT2RHNnppT1k5RVJWRlJ2RVRSZG8ybUHSAW9BVV95cUxQNkpkMjNMQmJWdENTd3FfQmM5LVRfX051S0lUYkNIZEpjN2x5Y3BNWUJkbEF6MXhRaUdLNmpsTkVNaHBSbndyaDY3ampWMUhzX01BSV9ISl94UjhzVVF4Y3JRRmRjcHhISm1TdXl6eUk?oc=5",
-          "published_at": "2026-10-20T06:00:00+09:00"
-        },
-        {
-          "title": "美중간선거 ‘AI 광고’ 봇물…1천800억원 투입해 네거티브전",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZVB0ekxMLTJvNHMtYTFYeklCRVhJQjZOMk1IeVU1eENDeUhoVGFTdjQyazBBbWJCeHh4b3NVSXo0cFYyU2VvNW5rbGppMlpzVS1UQmo3V1BzOW8?oc=5",
-          "published_at": "2026-10-20T05:53:00+09:00"
-        },
-        {
-          "title": "마음AI, 과기정통부 장관상 수상...피지컬 AI 기술 경쟁력 부각",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbUlieHFUbzFQRWkwMjhxZm1PdkxjQm5qc0FUeGRCdjEtdnpZYXB2UkVnYlZhQ21SX3BweFIwVGxlMWQ0cy15VlNCcXdKZFlzeGFYVnhn?oc=5",
-          "published_at": "2026-10-19T15:58:51+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -54,13 +30,13 @@
     "sds": {
       "items": [
         {
-          "title": "[미리보는 증시재료] 삼성물산·삼성SDS 실적…메타·IBM 등 AI 투자 지속성 확인 주목",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqZE5kLWNvNjdQQ1dHbVEwMGd3YkNnODktVFF4cmotaVhKekRQNTRzRVg2ZG0zM3RVbnlteDZySlFEWV9kdUhXRGJueFRmV01VSVhBM2hSOFRWelJQ?oc=5",
-          "published_at": "2026-10-19T06:00:00+09:00"
+          "title": "삼성 6개사, 미국 AI 인프라 기업 헬릭스 투자 발표",
+          "source": "Samsung SDS",
+          "url": "https://www.samsungsds.com/kr/news/sds20260930.html",
+          "published_at": "2026-09-30T00:00:00+09:00"
         }
       ],
-      "window": "최근 36시간",
+      "window": "최근 공식 발표 · 9월 30일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1SDS"
     },
     "realestate_policy": {
@@ -71,34 +47,34 @@
     "realestate_market": {
       "items": [
         {
-          "title": "\"3000만원 더 내고 좁은 집 간다니\"…서울 전세의 현실 [시장톡]",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqOTZoV1EyRTZ3TGhkN0lnOVZFMGluNnNlWDVBaEdFZl94ZDgtWUtOX3VOcDk4X3otVVpBeUhVa0lncExhN2lTcHVKRXB4YU1WSUVhelZxdjZ3dw?oc=5",
-          "published_at": "2026-10-19T13:30:03+09:00"
+          "title": "서울 빌라값, 아파트보다 더 오른 이유[박원갑의 집과 삶]",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOQ2xBX0VoaHp0X2Z0azJ1bFpDU3oyaGRoWUljcVA0MEpQY2l2S2Y2c0Q2SGZTTFNRM1g0LXBtV1JwdGxXMThoSndDV1I1U3dYYlVncmdheHlMeW5JdzVMQTBB?oc=5",
+          "published_at": "2026-10-21T06:30:00+09:00"
         },
         {
-          "title": "서울 전월세 매물 12.8% 줄었다… 보증금 3억 올린 갱신 계약도 - 조선비즈",
+          "title": "올해 서울 아파트 매매 5건 중 1건은 6억 미만…노원·도봉·구로 집중 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnVIMHpNaDFVa0VrVXFieXh4YUlVbENhQ0dvTElWWnF1U2NGOUZfZW1NRFVMbTdTcnhSbDl5Yk5YVzZvbGpnNFFWTXZCdjNFdU9iaDhDTGJaaDJsbGVqOHNiLTdpalJIc181b0YwQWtBUXM5NEgzcWZRdXRsTHFYbGZKMHo0Q2Y2Zkk5NGVJWXZpLVh3NE9IetIBrAFBVV95cUxQYzE2V3RLRVlMc1U3UXBXY2lFSkN2WEs1d19VekRvcFotYTk1b05kMUtlS2ZnRlBFYkRCd3lNYmJyc2ZYZ1Z3Q0hQekcxVURKMXRCUERIZURrYTFsT0RnM0NwNkxwMmxrempveU1ZVHRrdEZXMlViWjZqbDZ5TmJqME1OdnBSckhEcVRJUExkVW5CZGRhT3FUc28xdUZsUWlicjN3cHVXNi1XZXJl?oc=5",
-          "published_at": "2026-10-20T06:00:00+09:00"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVZyTFJOLVNBSXR6b1ZEX2FxcG5vYWlMY2pPLTlGd3pfd3h2Q2tlUU1GMzE4N0picXhRNm5QY0RqS2V5eFlKYVRYcTZZNG51R0RsODNWamRoR1JfU2NtemdzMU5mRVFMUTR3b3U1M3Z4cmZPX0FXYzBYLTBnY0xuOWZyQ0JzeGJUN0RSNGd1VXdTOUtiazNib9IBrAFBVV95cUxQUjhBaDNpeWZEd3NidkFJQkM2WnFsdFFiaHBnOFNuUkVKVTdRQk1zb0EteERaUUhfeFpPNENxMVdvTFlMY1VmU0dRRUM4dm5wQ3lrNUgtOTA4dTZ3azU5dGVqZ3h2YXdUeUpackZfTXdteWFtbEoyNk50emR3U0FhUFItempJLUdfRUk2c0FzRU9oaHhPZ01NNmhSa1MybVpSWTAwLTdmZ0pjdDFx?oc=5",
+          "published_at": "2026-10-20T16:32:00+09:00"
         },
         {
-          "title": "“2억짜리 제주 시골집 샀다가”… 서울 아파트 양도세 ‘3억’ 날벼락 [세테크]",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hM2oxSnBncFhYRllwd1RFSFhtRUZtbUd5eHZ5cUozZnN3Rml3Tlg3WXRJS2F0Wkp5OVlRNTlrZXJGWGkxUnl5czVnX2M0dzExYVhUNEJRRC1QRmpscEtqb2l4WTFUdElGNjZrLXJFbUozbjc4VUE?oc=5",
-          "published_at": "2026-10-19T14:35:07+09:00"
+          "title": "11월 아파트 입주 30% 감소…서울은 488가구뿐[코주부]",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWW9TVWpOUk5Hb0lSTnFDRXYtMnlwcFl5MjlHZ2txS05tRmNrVEx2R2NkaG9hUFAzZ1FJQ0YxMmtrZHpFQlpBelpiQVNVdmpzQWfSAVNBVV95cUxObThjVjlQUHpzVDBKREdmc1ozemxPVVBJenF6a1VoRTQ2WnhzclhXMlVja3VWaG5lQlVRZnNyOGNmaEpNVVNkN21jQjc5bTdZVEp1aw?oc=5",
+          "published_at": "2026-10-20T06:05:05+09:00"
         },
         {
-          "title": "“서울 아파트 공급 어디서부터 꼬였나”…서울 주택정책 20년 엇갈린 성적표",
+          "title": "“전세 사라지고 월세만 남는 시대 오나”…서울 아파트 월세 비중 50% 첫 돌파",
           "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5obEdnZFFTdnR0RFJOX1RtQ2pTUHRYb3hvY1laX0I0OGdhYTh6WG16LVNXT1pOczNzU1Z0aVVWczZJM3I4aTFWdk1RVDlYWUFRWGExWXBRY3Q?oc=5",
-          "published_at": "2026-10-19T16:34:51+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZWFSRlVGMDdMS3JnUHFjNVpvV3FpS1FLX0NFNW9EaVhpb0JFR0ZIYUNkMDhYTUtDQ2NoTHdCTnF4XzJnYW9GN19QY0FWWndJYktNTg?oc=5",
+          "published_at": "2026-10-20T09:42:20+09:00"
         },
         {
-          "title": "서울 아파트 전세 갱신계약 증가…‘파크로쉬 서울원’ 장기 임대 공급",
-          "source": "한국일보",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14NFpoZENYWXlBeDR2ZXp3S3FVWVBhd05INkxOTVljek9yaEk3WnFYUkJpNUxkY3hRRlVTZXh3aXVsMHlhZmlOMG9FY213dFdMTTh0X2sxX08wUkRoVTdwVmliLV96eFkwWWN2MU5B0gFzQVVfeXFMUDRZWVBVTzI0UnhOZWJYZGlBU2Y4S0dYTTV3WlBTbEFLakQyRkpCQjZDVG5CRVB5a1c5T25oZW9SQm84aWx3ejhPMzFWb3BnN3RjWG01WDI0ZWhHMkliaExYRnRZMko1WDdGcHFjeTltd0tLVQ?oc=5",
-          "published_at": "2026-10-19T09:00:00+09:00"
+          "title": "서울 아파트 월세 50% 첫 돌파…전세 급감 여파",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUMjhyT2w2eTFLNDNQQlYxb3lkS2V4MGdCbG5VQUg3ZmFfWTRBM2hialJMUkFlaEphdzdnRVptOUFoZGZJemh0dl9IZmZBOVRjNTYwTWJFbnpSRDFuaUVsWU1zdzdDN3M?oc=5",
+          "published_at": "2026-10-20T20:56:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -116,88 +92,70 @@
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dFFjR0NvaGJkZm1wSXo0U21veTFZU3FTSHFBUWFTSTFSYW9hdlVsbFU4T3dOYzYzak9JUThlUTBfbmtDOTdONTVUVWxDN015Y205cUdEX0JQSWxjUnBJOWZNbngyYkhIZjAwc2ZNb9IBb0FVX3lxTE95dFFjR0NvaGJkZm1wSXo0U21veTFZU3FTSHFBUWFTSTFSYW9hdlVsbFU4T3dOYzYzak9JUThlUTBfbmtDOTdONTVUVWxDN015Y205cUdEX0JQSWxjUnBJOWZNbngyYkhIZjAwc2ZNbw?oc=5",
           "published_at": "2026-10-20T06:55:00+09:00"
-        },
-        {
-          "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0MmFKQ3puVFhNSTR5YlB5UEFLWnBBZWJaRmI2WWtLbXBGSmdKM2ZQMjdXbkI5VkozMXFKRlZxZDdzUTVocEs0TU41dk45aUhaT08xSExKNVdTY1XSAWBBVV95cUxNeDRVNE9zaExsckRkdmZEYUUwX2ZRMUpIeEJ3LWpKYXcxc2Q2NlNGQ2ZOQjR6VlQ5SDQwVVBiMnF6aUFyYVZCR1hCcHpVcEhCWXV4UklCY1NwT3A0LS1teEM?oc=5",
-          "published_at": "2026-10-19T11:13:23+09:00"
-        },
-        {
-          "title": "'이 장면을 얼마나 기다렸나' 구자욱, 드디어 방망이 잡았다…삼성 팬들 설레게 한 반가운 스윙 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hbXVDUWVUdldqNFFvcHNSNEcxUDJwd0xyWTFvQXFGV05ndDZZTS1lSUxFTm9XU0xrX2xac1JJMVIzRXF4amRYbjBzaUp1SzVnSDBWUHlhLVlzWXNsOVFXZGlDSUdydG81c1FxZ1NTVdIBb0FVX3lxTE9hbXVDUWVUdldqNFFvcHNSNEcxUDJwd0xyWTFvQXFGV05ndDZZTS1lSUxFTm9XU0xrX2xac1JJMVIzRXF4amRYbjBzaUp1SzVnSDBWUHlhLVlzWXNsOVFXZGlDSUdydG81c1FxZ1NTVQ?oc=5",
-          "published_at": "2026-10-19T07:10:00+09:00"
         }
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EA%B2%B0%EA%B3%BC+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B5%AC%EB%8B%A8+%EC%86%8C%EC%8B%9D"
     },
     "science_tech": {
-      "items": [],
-      "window": "최근 36시간",
+      "items": [
+        {
+          "title": "NASA, 더 멀리 날 수 있는 화성 헬리콥터 날개 설계 시험",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+          "published_at": "2026-10-20T00:00:00+09:00"
+        }
+      ],
+      "window": "최근 공식 과학 기사 · 10월 20일(미국)",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+%EC%97%B0%EA%B5%AC"
     },
     "italy_travel": {
-      "items": [
-        {
-          "title": "홈앤쇼핑, 타히티·이탈리아 여행 주말 방송 진행",
-          "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBldDJfcXNtR3lPc0V6R01xeFZJREU0VTZlVWdtb1gtSE85Sm8xaGZOWUY4S3NjWE9vRUlWZWpJTk5FNURMa1E?oc=5",
-          "published_at": "2026-10-16T13:11:16+09:00"
-        },
-        {
-          "title": "“타히티 크루즈냐, 이탈리아 일주냐”…홈앤쇼핑 주말 여행상품 방송 ‘주목’",
-          "source": "헤럴드경제",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6YU00VExQdXl2RE9lalAzUzdoV19OZGRvSzBrUE1lRnk2LVJLblhQV25sU3BZamdFOGY3a0dNSmN3MUNpWnJmNDZFRmJOVk9LRWhCMG5B?oc=5",
-          "published_at": "2026-10-16T10:44:46+09:00"
-        }
-      ],
+      "items": [],
       "window": "최근 14일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84+%EC%97%AC%ED%96%89+OR+%EB%A1%9C%EB%A7%88+%EC%97%AC%ED%96%89+OR+%EB%B2%A0%EB%84%A4%EC%B9%98%EC%95%84+%EA%B4%80%EA%B4%91+OR+%ED%94%BC%EB%A0%8C%EC%B2%B4+%EB%B0%95%EB%AC%BC%EA%B4%80+OR+%EB%B0%80%EB%9D%BC%EB%85%B8+%EA%B4%80%EA%B4%91"
     },
     "top": {
       "items": [
         {
-          "title": "\"서울서 전세가 사라진다\"…아파트 계약 절반이 월세",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00REJTUGNpMS1SMF85ei03MWZESW5kOHRnallKVFJvNE43ZERnVWdNVllhcnlQWmJ4eVVJcGk1N1NHWFpIM3JWbzVieTBHenJtVUU3OG1HTkhVQQ?oc=5",
-          "published_at": "2026-10-20T08:47:50+09:00",
+          "title": "서울 빌라값, 아파트보다 더 오른 이유[박원갑의 집과 삶]",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOQ2xBX0VoaHp0X2Z0azJ1bFpDU3oyaGRoWUljcVA0MEpQY2l2S2Y2c0Q2SGZTTFNRM1g0LXBtV1JwdGxXMThoSndDV1I1U3dYYlVncmdheHlMeW5JdzVMQTBB?oc=5",
+          "published_at": "2026-10-21T06:30:00+09:00",
           "category": "부동산"
         },
         {
-          "title": "서울 아파트 월세 비중 50% 첫 돌파…'전세의 월세화' 가속",
-          "source": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wamNrNVJ5OHJUXzFKeTJJSVZ3bXpNQ05XOVZHaE1XNVdOdHMyYzZBYnBMVV92OWxwVlM5TVRKWFE3QkF1MlBCcTZib2lNclhQMTBkSXlJMWdWbnNEbWRYWHpndjE?oc=5",
-          "published_at": "2026-10-20T08:45:35+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "전세 실종에…1∼9월 서울 아파트 월세 비중 50% 첫 돌파",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3VG5adUJybXFIRjNZd0x5NlFQVG4weDBoLU95LVdqcVUtazNxcGJaVWdFLWdwV281cXFHN1FJeXllek5wOWJDdXFEZTQ2UGp1TzU2Z1dIbFNxU082bk11VTZLVVVzbkU?oc=5",
-          "published_at": "2026-10-20T08:44:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cGxGZ3pmbmpTVU4tdTZCSERSQUUxa19GYldjelJrYVM4YzlfLXFnSk1JU2NsX1Uxc1NnaUxKb2k2dS1yUTZXa2IyMjgwVlMtZGNlQTZyc0FZd0XSAWBBVV95cUxPTG9kNm5QMU1fV1kxQWRGSHVJTUY1VVk1Ny1Nc3RkOVFxZHFiUzhIOXZ4VGVJSXlkQUszSGJUV3VYMzNJT08zelpZRlluQzdpMWxXQnl5eVdsT2doaW1uR2o?oc=5",
-          "published_at": "2026-10-20T06:40:31+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "국제유가, 러시아 제재 완화·후티 반군 석유시설 공격에 혼조",
+          "title": "국제유가, 5개월 만에 최고치 찍고 하락‥美·이란 간 중재 기대",
           "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oVTlEMDBsOU15RUJ2YUp5RkxhY1lOVzhpa2o1cENWZG05Q1h1cXU4YktVaXV5eGJwdlNVLW1XMkN5elRsSGNxdG5rcHMyV0RMc05mXzR5SDlnWFNpOUw3amlYSHNYdWtLSXlldTNiMzdVUjFZ0gF0QVVfeXFMUHlOM09ndFRDaHdKVUhwLU1uT1pOeWZ2THdXblN0QjBnc2VfemZNYXc0dXFIRlU2NTRfYlhHdUhDNjBsMVhQR3dKcmIyT1FrWm5WbDAtM3l2M2s3S1h1UHJKUTRLOGlpQWF2ckh2RUpkN2lzMzg?oc=5",
-          "published_at": "2026-10-20T06:29:51+09:00",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6MDV1UGpLck5BaGlJS1E0aURTVFFRREJraG9CUUVfWTR6VjdZVGNoRVNtN2VNbEt4bzE5MUhJZXBCWXNUOU0zbVQzWFQzS0p1dTVjYnZSaXp6VWJSWk5KaUgyRzZOeEZLcVVhTFktcUNRWmla0gF0QVVfeXFMT2Y1N3lHc3lKNl9SdDdoX3U5X3ZCYnhJbFVFdnJ5SllhZHUtZ0VOdzJUNFRoOTkxWkNZOXoyY1FFeUljeTAwY084dGVVcGVMRnlheDViRTRSYmREMFRJUXN4eXRqZlM3alhBOGlDblZUcnJrNHI?oc=5",
+          "published_at": "2026-10-21T06:12:46+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "서울 전월세 매물 12.8% 줄었다… 보증금 3억 올린 갱신 계약도 - 조선비즈",
+          "title": "[뉴욕증시] 기술주가 불안하니 우량주로 간다…혼조 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWmhweEtFamZTcU5lM1p4elBsbzRTMFZkYmFGb1RaQklPNXppZjgwaGxnQjhzNnhMSlB0TFZlZ1YxVDNCRXZlMlpIRjJYS0JlcDNYQms0WTUzRk16cldGSFVDVkZ5dDd4V1dXMl80djU?oc=5",
+          "published_at": "2026-10-21T06:00:46+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "화곡동 5평 원룸 월세가 110만원… 서울 빌라 월세지수 역대 최고 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnVIMHpNaDFVa0VrVXFieXh4YUlVbENhQ0dvTElWWnF1U2NGOUZfZW1NRFVMbTdTcnhSbDl5Yk5YVzZvbGpnNFFWTXZCdjNFdU9iaDhDTGJaaDJsbGVqOHNiLTdpalJIc181b0YwQWtBUXM5NEgzcWZRdXRsTHFYbGZKMHo0Q2Y2Zkk5NGVJWXZpLVh3NE9IetIBrAFBVV95cUxQYzE2V3RLRVlMc1U3UXBXY2lFSkN2WEs1d19VekRvcFotYTk1b05kMUtlS2ZnRlBFYkRCd3lNYmJyc2ZYZ1Z3Q0hQekcxVURKMXRCUERIZURrYTFsT0RnM0NwNkxwMmxrempveU1ZVHRrdEZXMlViWjZqbDZ5TmJqME1OdnBSckhEcVRJUExkVW5CZGRhT3FUc28xdUZsUWlicjN3cHVXNi1XZXJl?oc=5",
-          "published_at": "2026-10-20T06:00:00+09:00",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGx5clVtWXNObjM0V0xSRXVKWUpIODB3bVJ2UjA0bUJfck5VRENXaFFEeUlneHRZdTVEdnNUXzItLUNnRHFNdjF0REg3bkpKc3ozekJ4TU82UEdxYUZDSWJVUVBRZE8wYjVDY2Fad1RXMmpWMDVKNmxPbGQzbVhKQkQ2c1dyczZ0NDVZdUZfQ1ZWcmpoYVczNdIBrAFBVV95cUxPejl1aE5iQzF2U0hqMjRVd0pJTDlXYzY0MjdjdndPSkFYTFluQzVFVThUSl9YdEx3RE1fOWY0Q3VtRTN4bHdHMEZGRTNFWnltR1M0NmJRc1FoUTlUNFkxMmJQaGR1Y01kcHNPMlE1bVpTZ1BaUHJBQ04xbDJRTF85WC01QWVMUnRBWWRuSDJYTFE0bFhsSEs3ZVQ4UTdvOFR5RmZWUWVnNW1rUF9H?oc=5",
+          "published_at": "2026-10-21T06:00:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "서울 아파트 월세 50% 첫 돌파…전세 급감 여파",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUMjhyT2w2eTFLNDNQQlYxb3lkS2V4MGdCbG5VQUg3ZmFfWTRBM2hialJMUkFlaEphdzdnRVptOUFoZGZJemh0dl9IZmZBOVRjNTYwTWJFbnpSRDFuaUVsWU1zdzdDN3M?oc=5",
+          "published_at": "2026-10-20T20:56:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "1∼9월 서울 아파트 월세 비중 절반 넘어…전세 거래 27.5% 급감",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ea3dMdFZTNl81UEtQODNBb2lHNm5Pemlnci1BXzdiMWFOZ3NNcXBiWWh2RldnbzVSZlF3bExBTTA2LUdPd2ZIZmJjRlB4N3VvUlByWUQtTkxwWnF4NW9zbzdmbEkzakRj?oc=5",
+          "published_at": "2026-10-20T19:43:00+09:00",
           "category": "부동산"
         }
       ],

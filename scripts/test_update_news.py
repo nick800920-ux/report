@@ -38,26 +38,26 @@ class RealEstateHeadlineTests(unittest.TestCase):
     def test_official_science_fallback_expires(self):
         kst = ZoneInfo("Asia/Seoul")
         section = {"items": [], "window": "최근 72시간"}
-        add_recent_science_official(section, datetime(2026, 10, 14, tzinfo=kst))
+        add_recent_science_official(section, datetime(2026, 10, 21, tzinfo=kst))
         self.assertEqual(section["items"][0]["source"], "NASA")
         section = {"items": [], "window": "최근 72시간"}
-        add_recent_science_official(section, datetime(2026, 10, 21, tzinfo=kst))
+        add_recent_science_official(section, datetime(2026, 10, 28, tzinfo=kst))
         self.assertEqual(section["items"], [])
 
     def test_official_science_story_leads_generic_results(self):
         kst = ZoneInfo("Asia/Seoul")
         section = {"items": [{"title": "일반 과학 기사", "source": "연합뉴스"}], "window": "최근 36시간"}
-        add_recent_science_official(section, datetime(2026, 10, 13, tzinfo=kst))
+        add_recent_science_official(section, datetime(2026, 10, 21, tzinfo=kst))
         self.assertEqual(section["items"][0]["source"], "NASA")
         self.assertEqual(section["window"], "최근 36시간")
 
     def test_new_science_story_replaces_old_one_and_expires(self):
         kst = ZoneInfo("Asia/Seoul")
         section = {"items": [{"title": "기존 NASA 기사", "source": "NASA"}], "window": "최근 36시간"}
-        add_recent_science_official(section, datetime(2026, 10, 14, tzinfo=kst))
-        self.assertIn("퍼서비어런스", section["items"][0]["title"])
-        section = {"items": [], "window": "최근 72시간"}
         add_recent_science_official(section, datetime(2026, 10, 21, tzinfo=kst))
+        self.assertIn("화성 헬리콥터", section["items"][0]["title"])
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_science_official(section, datetime(2026, 10, 28, tzinfo=kst))
         self.assertEqual(section["items"], [])
 
     def test_filters_irrelevant_or_spam_headlines(self):
