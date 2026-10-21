@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102b44">
+  <title>오늘의 오픽 | Morning Brief</title>
+  <style>
+    :root{--navy:#102b44;--teal:#087d79;--ink:#1c3548;--muted:#607889;--line:#dbe5e5;--paper:#f5f7f6}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.65}a{color:var(--teal)}button{font:inherit}.wrap{max-width:980px;margin:auto;padding:0 20px}.top{background:var(--navy);color:white}.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;min-height:58px}.top a{color:white;text-decoration:none;font-weight:800}.top span{color:#f2bb68}.hero{background:linear-gradient(130deg,#102b44,#176d72);color:white;padding:52px 0 48px}.eyebrow{color:#9fe1dc;font-size:12px;letter-spacing:.13em;font-weight:850}.hero h1{font-size:clamp(32px,6vw,52px);line-height:1.2;letter-spacing:-.05em;margin:12px 0}.hero p{max-width:720px;margin:0;color:#d3e7eb}.daybar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:24px 0}.daybar strong{font-size:16px;margin-right:auto}.daybar button{border:1px solid #cbdcda;border-radius:9px;background:white;padding:8px 12px;cursor:pointer;color:var(--ink)}.daybar button:hover{background:#e7f3f1}.grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px}.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:24px;margin-bottom:18px}.card h2{font-size:22px;line-height:1.35;margin:0 0 12px;letter-spacing:-.035em}.card h3{font-size:16px;margin:20px 0 8px}.card p{margin:0 0 12px}.intro{font-size:15px}.questions{padding-left:22px;margin:0}.questions li{padding:8px 0;font-weight:700}.answer{font-size:17px;line-height:1.85;border-left:4px solid var(--teal);padding:4px 0 4px 18px;margin:0}.vocab{list-style:none;padding:0;margin:0}.vocab li{border-bottom:1px solid var(--line);padding:9px 0}.vocab li:last-child{border:0}.vocab strong{display:block;color:var(--navy)}.links{list-style:none;padding:0;margin:0}.links li{padding:11px 0;border-bottom:1px solid var(--line)}.links li:last-child{border:0}.links a{font-weight:800;text-decoration:none}.links small{display:block;color:var(--muted);margin-top:3px}.note{font-size:12px;color:var(--muted)}.pill{display:inline-block;background:#e4f2ed;color:#086e68;font-size:11px;font-weight:850;border-radius:99px;padding:5px 10px;margin-bottom:12px}.footer{font-size:12px;color:var(--muted);padding:14px 0 32px}@media(max-width:720px){.grid{grid-template-columns:1fr}.hero{padding:38px 0}.card{padding:19px}.daybar strong{width:100%}}
+  </style>
+  <script defer src="opic.js"></script>
+</head>
+<body>
+  <div class="top"><div class="wrap"><a href="index.html">MORNING<span>.</span>BRIEF</a><a href="index.html">홈페이지로 ↗</a></div></div>
+  <header class="hero"><div class="wrap"><div class="eyebrow">DAILY SPEAKING PRACTICE</div><h1>오늘의 오픽</h1><p>매일 한 가지 주제로 질문을 읽고, 내 생각을 영어로 말해보세요. 예시 답변은 외우기보다 자신의 경험으로 바꿔 연습하면 좋습니다.</p></div></header>
+  <main class="wrap">
+    <div class="daybar"><strong id="opic-date">날짜 확인 중</strong><button id="opic-prev" type="button">← 이전 주제</button><button id="opic-today" type="button">오늘</button><button id="opic-next" type="button">다음 주제 →</button></div>
+    <section class="card"><span class="pill">오늘의 주제</span><h2 id="opic-title">불러오는 중…</h2><p class="intro" id="opic-intro"></p></section>
+    <div class="grid"><div>
+      <section class="card"><h2>오픽 질문 연습</h2><ol class="questions" id="opic-questions"></ol></section>
+      <section class="card"><h2>영어 답변 예시</h2><blockquote class="answer" id="opic-answer"></blockquote></section>
+    </div><div>
+      <section class="card"><h2>답변 아이디어</h2><p id="opic-idea"></p></section>
+      <section class="card"><h2>필요 어휘·표현</h2><ul class="vocab" id="opic-vocab"></ul></section>
+    </div></div>
+    <section class="card"><h2>관련 기사·자료 찾아보기</h2><ul class="links" id="opic-links"></ul><p class="note" id="opic-link-note"></p></section>
+    <p class="note">학습 주제는 7개를 날짜별로 순환합니다. 새 소식 자체를 자동 작성하는 방식은 아니며, 기사 내용과 발행일은 원문에서 확인하세요. 영어 답변은 연습용 예시입니다.</p>
+  </main>
+  <footer class="wrap footer">Morning Brief · OPIc speaking practice</footer>
+</body>
+</html>
