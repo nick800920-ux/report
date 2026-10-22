@@ -80,15 +80,84 @@
     }
   ];
 
+  const everydayTopics = [
+    {
+      title: "집에서 보내는 저녁",
+      intro: "집의 분위기와 평일 저녁에 하는 일을 편하게 묘사해 보세요.",
+      questions: ["What do you usually do at home after work?", "Describe your favorite place in your home.", "Tell me about a relaxing evening you had recently."],
+      idea: "퇴근 후 쉬는 장소를 먼저 소개하고, 최근 어느 날 무엇을 했는지와 왜 좋았는지를 덧붙입니다.",
+      answer: "After work, I usually have dinner with my family and relax in the living room. It is not a big room, but it feels warm and comfortable. Last Friday, we watched a baseball game together. We ordered some food and talked about the players. I was tired at first, but I felt much better by the end of the evening. That is why I like spending quiet time at home.",
+      vocab: [["relax in the living room", "거실에서 쉬다"], ["feel comfortable", "편안하게 느끼다"], ["at first", "처음에는"], ["by the end of the evening", "저녁이 끝날 무렵"]],
+      query: "family time at home evening relaxation"
+    },
+    {
+      title: "좋아하는 식당",
+      intro: "자주 가는 식당을 하나 떠올리고, 위치·음식·최근 방문 경험을 말해 보세요.",
+      questions: ["Describe a restaurant you often visit.", "What do you usually order there?", "Tell me about your most recent visit to that restaurant."],
+      idea: "식당의 위치와 분위기 → 즐겨 먹는 메뉴 → 최근 방문 때 있었던 일 → 그곳을 좋아하는 이유 순서로 답합니다.",
+      answer: "There is a small restaurant near my home that I often visit with my family. It serves simple Korean food, and the staff are always friendly. I usually order grilled fish because it tastes fresh and comes with several side dishes. Last weekend, we went there after a long walk. The restaurant was busy, so we waited for about fifteen minutes. The food was worth the wait, and we had a nice conversation over dinner. I like this place because it feels comfortable and the food is reliable.",
+      vocab: [["near my home", "집 근처에"], ["side dishes", "반찬"], ["worth the wait", "기다릴 만한 가치가 있는"], ["have a nice conversation", "즐겁게 대화하다"]],
+      query: "favorite local restaurant dining out family experience"
+    },
+    {
+      title: "주말에 하는 일",
+      intro: "평소 주말 루틴과 기억에 남는 지난 주말을 비교해 말해 보세요.",
+      questions: ["What do you usually do on weekends?", "How was last weekend different from a normal weekend?", "Do you prefer busy or relaxing weekends?"],
+      idea: "평소에는 쉬거나 가족과 시간을 보낸다고 설명하고, 지난 주말의 구체적인 경험을 한 가지 이야기합니다.",
+      answer: "On weekends, I usually sleep a little longer and spend time with my family. We often go to a nearby park or have lunch outside. Last weekend was different because it rained all day. Instead of going out, we cooked dinner together and played a board game. I enjoyed it more than I expected. I like relaxing weekends because they help me get ready for the next week.",
+      vocab: [["sleep a little longer", "조금 늦잠을 자다"], ["instead of", "~대신에"], ["more than I expected", "생각보다 더"], ["get ready for", "~을 준비하다"]],
+      query: "weekend family activities relaxation"
+    },
+    {
+      title: "기억에 남는 여행",
+      intro: "방문한 곳, 함께 간 사람, 예상 밖의 일과 느낀 점을 순서대로 말해 보세요.",
+      questions: ["Tell me about a trip you remember well.", "Who did you go with and what did you do?", "Did anything unexpected happen during the trip?"],
+      idea: "여행지와 동행을 짧게 소개하고, 가장 기억나는 순간 하나를 자세히 말한 뒤 느낌으로 마무리합니다.",
+      answer: "One trip I remember well was a family trip to the seaside. We went there by train and stayed for two nights. On the first day, it suddenly started to rain, so our plans changed. We found a small cafe with a view of the ocean and spent the afternoon there. At first, I was disappointed, but the quiet time with my family became my favorite memory. The trip reminded me that unexpected moments can be special.",
+      vocab: [["by train", "기차로"], ["all of a sudden", "갑자기"], ["be disappointed", "실망하다"], ["favorite memory", "가장 좋아하는 추억"]],
+      query: "memorable family travel unexpected experience"
+    },
+    {
+      title: "좋아하는 음악",
+      intro: "언제 어떤 음악을 듣는지, 최근 들은 노래와 그때의 기분을 연결해 보세요.",
+      questions: ["What kind of music do you enjoy?", "When do you usually listen to music?", "Tell me about a song that brings back a memory."],
+      idea: "음악 장르를 말하는 데 그치지 않고, 듣는 상황과 개인적인 기억을 한 가지 더합니다.",
+      answer: "I enjoy listening to soft pop music, especially when I am on my way home. It helps me slow down after a busy day. A few days ago, I heard a song that I used to listen to in college. It reminded me of my old friends and the time we spent together. I smiled without realizing it. That is what I like about music: a simple song can bring back a strong memory.",
+      vocab: [["on my way home", "집에 가는 길에"], ["slow down", "속도를 늦추고 쉬다"], ["remind me of", "~을 떠올리게 하다"], ["bring back a memory", "추억을 되살리다"]],
+      query: "music memory daily life listening"
+    },
+    {
+      title: "운동과 산책",
+      intro: "부담 없이 하는 운동 하나와 최근 실제로 해본 경험을 이야기해 보세요.",
+      questions: ["What do you do to stay active?", "Where do you usually go for a walk or exercise?", "Describe a recent time when you exercised."],
+      idea: "운동 장소·시간과 함께 시작하기 어려운 이유, 하고 나서의 기분을 넣으면 자연스럽습니다.",
+      answer: "I try to go for a walk a few times a week. There is a park near my home, so I can get there easily. Yesterday evening, I went there after dinner even though I felt tired. I walked for about thirty minutes and listened to a podcast. The fresh air helped me clear my mind. I do not do intense exercise, but regular walks make me feel healthier.",
+      vocab: [["stay active", "활동적으로 지내다"], ["even though", "비록 ~이지만"], ["clear my mind", "머리를 식히다"], ["a few times a week", "일주일에 몇 번"]],
+      query: "walking exercise daily routine wellbeing"
+    },
+    {
+      title: "동네와 자주 가는 장소",
+      intro: "사는 동네의 모습과 자주 가는 곳을 실제 방문 경험으로 설명해 보세요.",
+      questions: ["What is your neighborhood like?", "Where do you often go in your neighborhood?", "How has your neighborhood changed over time?"],
+      idea: "동네의 장점 한두 가지를 말하고, 자주 가는 공원·카페·도서관 중 한 곳의 경험을 덧붙입니다.",
+      answer: "My neighborhood is quiet, but there are many useful places nearby. I often visit a small park because it is close to my home. Last Sunday, I went there with my family and we spent an hour walking around. A new walking path was added recently, so it is easier to move around. I like living here because I can enjoy a calm place without going far from the city.",
+      vocab: [["nearby", "근처에"], ["walking path", "산책로"], ["move around", "돌아다니다"], ["without going far", "멀리 가지 않고"]],
+      query: "neighborhood park community daily life"
+    }
+  ];
+
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
   const datePart = name => Number(parts.find(part => part.type === name).value);
   const today = Math.round((Date.UTC(datePart("year"), datePart("month") - 1, datePart("day")) - Date.UTC(2026, 9, 22)) / 86400000);
   const indexForDay = day => ((day % topics.length) + topics.length) % topics.length;
   const dateForDay = day => new Intl.DateTimeFormat("ko-KR", {timeZone: "Asia/Seoul", year: "numeric", month: "long", day: "numeric", weekday: "long"}).format(new Date(Date.UTC(2026, 9, 22 + day, 12)));
   const topicForDay = day => topics[indexForDay(day)];
+  const everydayForDay = day => everydayTopics[((day % everydayTopics.length) + everydayTopics.length) % everydayTopics.length];
   const title = document.getElementById("opic-today-title");
   if (title) {
     title.textContent = topicForDay(today).title;
+    const lifeTitle = document.getElementById("opic-life-today-title");
+    if (lifeTitle) lifeTitle.textContent = everydayForDay(today).title;
     const date = document.getElementById("opic-today-date");
     if (date) date.textContent = dateForDay(today);
   }
@@ -115,31 +184,34 @@
     }
     list.append(li);
   };
-  function render() {
-    const topic = topicForDay(selectedDay);
-    setText("opic-date", dateForDay(selectedDay) + (selectedDay === today ? " · 오늘" : ""));
-    setText("opic-title", topic.title);
-    setText("opic-intro", topic.intro);
-    setText("opic-idea", topic.idea);
-    setText("opic-answer", topic.answer);
-    const questions = document.getElementById("opic-questions");
+  function renderTopic(prefix, topic) {
+    setText(prefix + "-title", topic.title);
+    setText(prefix + "-intro", topic.intro);
+    setText(prefix + "-idea", topic.idea);
+    setText(prefix + "-answer", topic.answer);
+    const questions = document.getElementById(prefix + "-questions");
     questions.replaceChildren();
     topic.questions.forEach(question => { const li = document.createElement("li"); li.textContent = question; questions.append(li); });
-    const vocab = document.getElementById("opic-vocab");
+    const vocab = document.getElementById(prefix + "-vocab");
     vocab.replaceChildren();
     topic.vocab.forEach(([word, meaning]) => addItem(vocab, word, meaning));
-    const links = document.getElementById("opic-links");
+    const links = document.getElementById(prefix + "-links");
     links.replaceChildren();
     if (topic.links) {
       topic.links.forEach(([label, url, note]) => addItem(links, label, note, url));
-      setText("opic-link-note", "직접 확인한 기사·분석 링크입니다. 유료 기사나 국가별 접속 제한이 있을 수 있습니다.");
+      setText(prefix + "-link-note", "직접 확인한 기사·분석 링크입니다. 유료 기사나 국가별 접속 제한이 있을 수 있습니다.");
     } else {
       const query = encodeURIComponent(topic.query);
       addItem(links, "Google News 관련 기사 검색", "최신 기사 목록에서 발행일 확인", "https://news.google.com/search?q=" + query + "&hl=en-US&gl=US&ceid=US:en");
       addItem(links, "Reuters 관련 기사 검색", "Google에서 Reuters 보도 찾기", "https://www.google.com/search?q=" + encodeURIComponent("site:reuters.com " + topic.query));
       addItem(links, "BBC 관련 기사 검색", "Google에서 BBC 보도 찾기", "https://www.google.com/search?q=" + encodeURIComponent("site:bbc.com/news " + topic.query));
-      setText("opic-link-note", "검색 링크는 기사 자체가 아닙니다. 검색 결과의 출처·발행일을 확인하세요.");
+      setText(prefix + "-link-note", "검색 링크는 기사 자체가 아닙니다. 검색 결과의 출처·발행일을 확인하세요.");
     }
+  }
+  function render() {
+    setText("opic-date", dateForDay(selectedDay) + (selectedDay === today ? " · 오늘" : ""));
+    renderTopic("opic", topicForDay(selectedDay));
+    renderTopic("opic-life", everydayForDay(selectedDay));
   }
   document.getElementById("opic-prev").addEventListener("click", () => { selectedDay--; render(); });
   document.getElementById("opic-next").addEventListener("click", () => { selectedDay++; render(); });
