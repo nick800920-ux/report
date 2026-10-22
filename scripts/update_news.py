@@ -116,6 +116,40 @@ def add_recent_science_official(section: dict, now: datetime) -> None:
         section["window"] = "최근 공식 과학 기사 · 10월 20일(미국)"
 
 
+def add_recent_baseball_official(section: dict, now: datetime) -> None:
+    """Keep the verified Samsung-KIA playoff schedule visible before game one."""
+    published = datetime(2026, 10, 20, tzinfo=KST)
+    if not published <= now < datetime(2026, 10, 25, tzinfo=KST):
+        return
+    url = "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12210"
+    if any(item.get("url") == url for item in section["items"]):
+        return
+    section["items"].insert(0, {
+        "title": "삼성-KIA 플레이오프 10월 25일 개막 · KBO 공식 예매 안내",
+        "source": "KBO",
+        "url": url,
+        "published_at": published.isoformat(timespec="seconds"),
+    })
+    if len(section["items"]) == 1:
+        section["window"] = "KBO 공식 플레이오프 안내 · 10월 20일"
+
+
+def dedupe_sds_topics(items: list[dict], limit: int) -> list[dict]:
+    """Keep one headline per heavily syndicated company deal."""
+    seen_topics = set()
+    result = []
+    for item in items:
+        topic = next((name for name in ("우정항공", "BNK금융") if name in item["title"]), None)
+        if topic and topic in seen_topics:
+            continue
+        if topic:
+            seen_topics.add(topic)
+        result.append(item)
+        if len(result) >= limit:
+            break
+    return result
+
+
 def add_current_sds_event(section: dict, now: datetime) -> None:
     """Show a verified official event only while it is taking place."""
     if not SDS_AI_FESTA_START <= now < SDS_AI_FESTA_END:
@@ -277,16 +311,7 @@ def build() -> dict:
                 result = parse_feed(get_xml(feed_url(query)), now, 30)
                 sds_terms = ("삼성sds", "삼성에스디에스", "samsung sds")
                 candidates = [item for item in result["items"] if trusted(item) and any(term in item["title"].casefold() for term in sds_terms)]
-                result["items"] = []
-                covered_acquisition = False
-                for item in candidates:
-                    if "우정항공" in item["title"]:
-                        if covered_acquisition:
-                            continue
-                        covered_acquisition = True
-                    result["items"].append(item)
-                    if len(result["items"]) >= limit:
-                        break
+                result["items"] = dedupe_sds_topics(candidates, limit)
             elif name == "realestate_policy":
                 result = parse_feed(get_xml(feed_url(query)), now, 25)
                 policy_terms = ("부동산", "주택", "아파트", "대출", "세제", "재건축", "청약", "공급", "임대", "보유세", "양도세", "LTV", "DSR")
@@ -316,6 +341,7 @@ def build() -> dict:
     add_current_sds_event(sections["sds"], now)
     add_recent_sds_official(sections["sds"], now)
     add_recent_science_official(sections["science_tech"], now)
+    add_recent_baseball_official(sections["samsung_baseball"], now)
     top_items = select_top_items([world_markets, world_macro], property_feed)
     sections["top"] = {
         "items": top_items,

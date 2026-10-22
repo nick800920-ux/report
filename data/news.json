@@ -1,57 +1,45 @@
 {
-  "generated_at": "2026-10-22T08:37:21+09:00",
+  "generated_at": "2026-10-23T06:01:32+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "파일러, 목소리 감정 읽는 AI 기술로 국제학회 논문 2편 채택",
-          "source": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wdXMyVTR3NHVWUkx1cUFCeGU4UHpKdEtMLWdVbU01QVNabmdmQkVQNFZ0M1ZQRTQtY1gtRmRJUG1vdFFFOXhNOG95emRlUk5fQ2fSAVNBVV95cUxNblVBTUxrRHVFSHpRcFB3cWlXWHBocXQ5ZUNIbFFiZ0hZN25sVEFEZDM5RDZEd21ZOWh1WUJUNGNWUHgtak9US0ZFUWRuTzhMTUdROA?oc=5",
-          "published_at": "2026-10-22T06:35:00+09:00"
+          "title": "’이름만 AI’ 광고 제한…판단 기준 마련",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tQ2FXa1Ruc2JyWlNsSTJGQWhXWmdGODh0R2Vmd0lOcDFwMTh0cVZFMmh6XzVKdzhWZDBaNnpPX0ZtdGNYYldHSnFmb29NdHJldkZrNVlVUFliWjhtTDRVc3VqUjVmYVk?oc=5",
+          "published_at": "2026-10-23T05:25:00+09:00"
         },
         {
-          "title": "[김길원의 헬스노트] 진단보조 AI가 틀렸는데도…의료진조차 오판 구별 어려워",
+          "title": "AI가 놓치는 사람의 맥락 [AI가 바꾸는 세상]",
+          "source": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JN0ZJX2tDQUEzbWdncUNPMFcyZ2tzdnRZWTlwZ2lOdEVpR0FEWGxQUzhuTWVPdUdMbWU0Wnktb1UxQ0lDbDQ5R1ZfN2VYUFpSVWlBamdMY2R1eWRkVy1kbmxIOERobGJCOE4zNlJB0gFzQVVfeXFMTmdfY3AzYzhsZ0FpZkswTzltU3M5NlhuVzVWaXhtSm9ib1Q1c2dmZWdZSlcxbXp6TFhvQzdFdEpNZFZsVldOS1VKazdkNDUzQl96akZKVS1DX0kxWjVLWUoycG5CaGFfdl9aNkNrUmZGOVVRTQ?oc=5",
+          "published_at": "2026-10-23T04:30:00+09:00"
+        },
+        {
+          "title": "오픈AI, 韓 개발자에 AI 기술·전략 공유…\"한국 AI 활용 뜨거워\"(종합)",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qWm95T2JBUkYwVVNMOTJCTjFXbzhpQTJWU2lhbUg0eTY0dVp3MXQ1WlNocEJPLVl5aDRWVkZqNnFoTDd4d1NYZkM4N2kwN3B0aXpQTlpIVFg3M1R4dF9uRTZSeUp2TTIt?oc=5",
+          "published_at": "2026-10-22T19:59:59+09:00"
+        },
+        {
+          "title": "한국 AI에이전트 ‘닷츠’ 이용 세계 3위…오픈AI, 구글 클라우드와 ‘맞손’",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2N1kzRDJjVkQyTmdFVVhncEo0VVhucUUyZ3Q4b2Vvall3cU0tRVk5YS1SeHJob25RN2FWVjRMVVRNdjlFQmttZmpfX2swWDFwQU8wUktyd2paZ9IBX0FVX3lxTE1EQWVEQzM2cDliT3g0YXFxRFpYdHVSOGtNaERiLU9nQlNSbDZIdkpRSzVkZUl1dHlnRElkcmM4WnBmZk9Pd3VRMzZXZTgzblM0UE5mVFpjS3lwTnZHU21R?oc=5",
+          "published_at": "2026-10-22T17:11:00+09:00"
+        },
+        {
+          "title": "AI 기술 안 썼는데 AI 제품?…'AI 워싱' 잡을 가이드라인 의견 청취",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQ045OUNqUm04ZmJYaVpQbWJLeW1zWjI0UU80LUNQUUlaNV9nckxVQS0xVmlEU1Q4dkJOTXRiQ3BBQTVvOFlJYks3VVpVb2VhRlJpWUhFejBlY1hFb2g1Xw?oc=5",
+          "published_at": "2026-10-22T10:26:02+09:00"
+        },
+        {
+          "title": "부산시상수도사업본부, 호찌민 수도공사와 AI 기술 교류 협력",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVlB4eUNkQmZIWF8yLTdobzktcHJSU2FTMkpQUllDTUtXWnBXN2VMc09FbTVFcTFLaGw5ODUyakU2bUFsWnRfZG9zSFlBVjlKZ3NuVVU4cFhRNFk?oc=5",
-          "published_at": "2026-10-22T06:13:00+09:00"
-        },
-        {
-          "title": "서울, 옵저버 선정 '세계 AI 도시' 종합 3위…AI 도입·활용 분야 1위",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MMkZuNHNnNWNOV25PQ0FrLVAzcC1GSjNCR2kwN0I1azg1SGpEMGtZZWpJZXNjTlExOVNTRkVIbVJoMlFtMF9qOXYtOXRyMFNway15amU0NWdnZUxU?oc=5",
-          "published_at": "2026-10-22T06:00:00+09:00"
-        },
-        {
-          "title": "마음AI, 일본 시장 공략...'재팬 IT 위크 가을 2026' 참가",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCNzFHS25HbW5kaWQ4ZklfdlVFcXhVTDRnX3VpUS1fWlVTUGZYdVd5UU55VHNVMUdiNGNJZF9Wb1NibVpSM2N6MTRBSFFyS3gzaDc1SFJR?oc=5",
-          "published_at": "2026-10-21T21:37:35+09:00"
-        },
-        {
-          "title": "네이버, 美 AI 비서·음악 생성에 베팅…'실행·창작' 기술 확보 나선다",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsdU1lYlBMcFdGVmtuN3FqRThkbk52N2U2LUdqaEx2OGJwNmZHYU5RMjVPVy0yVU5iRG1EbjlCVXRUbFFiV0xHMnZIUUp1QQ?oc=5",
-          "published_at": "2026-10-21T20:13:40+09:00"
-        },
-        {
-          "title": "“AI, 기술을 넘어 일상이 되다”…'FIX 2026' 21일 대구엑스코에서 개막",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tMjN5SHc2UmRpaWcyc2hxRl81aGg1UV9lQW5fcE5DWHJLaUVEUEcyclNpTkxHeTNmZWFPem85bU9va0Y5dzZtWFFIZHAyQQ?oc=5",
-          "published_at": "2026-10-21T16:13:06+09:00"
-        },
-        {
-          "title": "크래프톤, 독자 LLM 공개…게임 넘어 AI 기술 내재화 속도",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vYmRxU1lwVVlJaXRjbkpCOGZycWNUUEpPRWVUUUlxbnE5U2NHTmhMNXJpMFdTRV9TU1UxQ29QNnd5bWNyeE5FMVZQUXNtaXFvOHhRakxiMGxUUQ?oc=5",
-          "published_at": "2026-10-21T16:05:13+09:00"
-        },
-        {
-          "title": "'2026 산업AI EXPO' 개막…200여개 기업, 제조·로봇 AI 기술 선보여",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nYTRJZmtka1RaRjJiV3ZSaGdsZ2d1R1pQYzhPZkdkaDhYQzR3bkFIX2E5dS1ueGZfRDM4cmNkd1IzRDJaeTdOQTBTVC1CZw?oc=5",
-          "published_at": "2026-10-21T15:29:02+09:00"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15VzJDbzB2eS1ZWEhmWWdQU3FoMU16M1VuR25IRTQ2ZEJ5U2JJQWhOeG1hYmhqYjhQcGVYLVRGcGFRT0ZhaVhUTi1XaERCVkpSNm1pcjBxQnA3S2PSAWBBVV95cUxOLVJuV3BjYmQtR2pMNThKcVpDYW9Qbk1QdWpxaEVnTnBtMXpSMWM2Y0tZcWNxNHJJOTZLd3B3dE01TFF2Wlp6YXp2cHViS0FBZUVzdzE5RE41QWdiSUpnSmk?oc=5",
+          "published_at": "2026-10-22T08:28:51+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -60,16 +48,10 @@
     "sds": {
       "items": [
         {
-          "title": "AI는 똑똑해졌는데, 왜 우리 회사 일은 모를까? | 인사이트리포트 | 삼성SDS",
-          "source": "Samsung SDS",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzVXNDhIbUxZRlQ1dXlaRncyV2RoMFRLUGdEbjIxYklFNnJUZFJhbm9ycEF4dGRWS3diNUpPcGZLNnVQczR0N0dwbFU1S1oxbWRnYWJGSUtZbUs3YVNTWGtUWHVPUEl3alJRVDdlYndXVlZKd1FDdHRjVURReVZpR3BaWnZ5UQ?oc=5",
-          "published_at": "2026-10-21T15:52:16+09:00"
-        },
-        {
-          "title": "삼성SDS·네이버, 공무원 AI 플랫폼 경쟁 치열…공공 AX 주도권 누가 쥘까",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94a0dXY1hRUVBjVXN2clZzbVVHM3ZMblBVODVMVGhHUDhKX0N4WHRqYTdEcmJOWm45eG8tRExqV3hFOTJySVMzdTlrLUYyLU1OelJDUDZ3?oc=5",
-          "published_at": "2026-10-21T16:51:08+09:00"
+          "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56bndnOG5zckJQOXFtdXNZQXRNYnVMd25ZbnU1eHJ2Vy1QMzRtWTNGcWVKWnZSOFk3RGd3bVQxeGo1VGNJVF9DaEliRWl5aXJ1eURJa2phaFBTNFnSAWBBVV95cUxPT2p5NDIzYjYtMlRKSzdDZHZNN3RYR0xfRHNGOUl1ZHVONmlWb2ZSSzVmQjBpbk9GTGtMc3JDV3BGTTUtM2pRdVlJU204Ti1RcVo3b0JhcFdhYnJSMjExb1g?oc=5",
+          "published_at": "2026-10-22T17:45:07+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -83,34 +65,34 @@
     "realestate_market": {
       "items": [
         {
-          "title": "전세 실종에...서울아파트 월세 비중 첫 '과반'",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2dlprLVVYcWUyQ0RaeTNHY1FacUtqUG5NSTVmV3JrNFRncnZnbU1ZdjBORmpTZzhqMWVlaUhNdEdnXzFfakN0QXB1TzctWThGYTlEYzdKN3Z6UzctV00zemVNZjVtamR4YWp0Q0hXOA?oc=5",
-          "published_at": "2026-10-20T23:38:00+09:00"
+          "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQWwtNFlHbGR2R0dtQl9GQURWcGczNzBrdVJNcHFGakpSWnI1TDZ2alhlVW1udHlmbUdmeC1qZHQ4Y2FEV0xHSHhJX0dyZDM1NWdOZmY2RmxNNEp0aTBzNkoxZWlXTkFuREHSAW9BVV95cUxORTgwc3ZacmdTWFJIVE9teTU5dVhwUXZsWjhGZTVzUG5Ed0hXdGJZeUk1OTh2M0J4bDVKUDFEZzV4R3BKeVJwMTBRM2I0ZENDOEtkQlNyd3NQc0w1UHRMTFR4MlNHTUxvZEo1NDhrMlE?oc=5",
+          "published_at": "2026-10-23T04:30:00+09:00"
         },
         {
-          "title": "12평 아파트값 20억 코앞…작아도 서울에 돈 몰린다 [시장톡]",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xRVRRa0JoR1RwVVY1NHdXbWRIVlYtVDQ0YWRPU2NVamx4MnItZXJkeHF0MnRUVk1nbWdfTVFpY1B1Y0VkenI0d21LeERVT2I4dzBWNFBXQVIxQQ?oc=5",
-          "published_at": "2026-10-21T13:30:01+09:00"
+          "title": "너도나도 “평수 줄여 이사”…소형아파트 전세지수 역대 최고",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Kc3gwTGphY1g1bWVKYlF1by1kRHkyc1RzSVVocUdFblJ3ZVBXV0xrTGhTQW5pSy1UeVd5dENqMTVCY1ZUNWRTZ2pqeWVvUW50M1pDZGJlV0JCRjIyRzRGd1hLREZZdTMy?oc=5",
+          "published_at": "2026-10-21T23:13:00+09:00"
         },
         {
-          "title": "서울 아파트값 이러다 100주 연속 상승?...무엇이 공정한가 [몇층이세요]",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZaXE3aWNGSGRad0JnYmdVcV83T19Qek5TQnR3NzkzTHFqTzVHcU53ZGN5c05NbzFiVEZ3akJBVndhc2FMZGZoT0s1dWppY3NMY21qaGg1MkNlRVhSVHc?oc=5",
-          "published_at": "2026-10-21T16:17:00+09:00"
+          "title": "서울 아파트 재산세 첫 3조원 돌파…강남3구에 절반 몰렸다",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtN09Eb1RoMHNtTk53QXFRYUxpMkhaSlNKeDdkQzNFZFphajh5ZTREcUU0VDNCZXVXa0tvUGhQUXN0cUd6X1dmWk05RUhhV3cyOHQwb25EeHpjUkhh?oc=5",
+          "published_at": "2026-10-22T09:05:00+09:00"
         },
         {
-          "title": "서울 빌라값, 아파트보다 더 오른 이유[박원갑의 집과 삶]",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOQ2xBX0VoaHp0X2Z0azJ1bFpDU3oyaGRoWUljcVA0MEpQY2l2S2Y2c0Q2SGZTTFNRM1g0LXBtV1JwdGxXMThoSndDV1I1U3dYYlVncmdheHlMeW5JdzVMQTBB?oc=5",
-          "published_at": "2026-10-21T06:30:00+09:00"
+          "title": "서울 아파트값 상승폭 3주만 둔화…외곽도 축소",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hX2xJTkFEZXBBNFVyUmJlNXpldHp0LVBYNl9yM0JNbERPWjRDTVVKcDZJcHJJWWRuRlRvY3dkeVVRZkdza1pWLTRmZGdtTEtBd1h5dmpsOE5uTTBrUGFjZ29ydXhjSVE?oc=5",
+          "published_at": "2026-10-22T22:57:00+09:00"
         },
         {
-          "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 11월 이후 최고",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUnltNi0taC1vdDZPUGhmVzRjUFNiUW0yS3pXRVRoS2dmWnZXV2lKb1FXX1RncXI1STlRVWNQRUk4eHQ1aFc3dmV2Vi00ZWMtLVNzV0tjdmx5WXc?oc=5",
-          "published_at": "2026-10-22T06:00:00+09:00"
+          "title": "서울 아파트 매매 실거래가격 1년 새 15.5% 상승",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9raFUwclZIVm5RSURndExDZ3hFRHBtaTB0Y3dWb0h6d0IweGZKcmt5N2RhZzkwN3N2MG1LMnBtY3hkSHFCS3ZaeHNqMFp0eVZiT3BEUVczendIZlBfVmxYMdIBYEFVX3lxTE9raFUwclZIVm5RSURndExDZ3hFRHBtaTB0Y3dWb0h6d0IweGZKcmt5N2RhZzkwN3N2MG1LMnBtY3hkSHFCS3ZaeHNqMFp0eVZiT3BEUVczendIZlBfVmxYMQ?oc=5",
+          "published_at": "2026-10-22T14:30:01+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -124,13 +106,13 @@
     "samsung_baseball": {
       "items": [
         {
-          "title": "박진만 삼성 감독 \"김도영은 스타…우리는 대처할 능력 갖췄다\"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMHVHVlBKMUpCaWJqRUVOYWVmMzJSTDRmZjFfSlI3ZGwyWElJanBRdW1oSzNDVnpzd1pqSjJleFN6WnQ5OWczcTF0cEh2eG5LQTcxMTVsa3JTU2NCTHhWZNIBYEFVX3lxTE4tMHVHVlBKMUpCaWJqRUVOYWVmMzJSTDRmZjFfSlI3ZGwyWElJanBRdW1oSzNDVnpzd1pqSjJleFN6WnQ5OWczcTF0cEh2eG5LQTcxMTVsa3JTU2NCTHhWZA?oc=5",
-          "published_at": "2026-10-20T23:02:41+09:00"
+          "title": "삼성-KIA 플레이오프 10월 25일 개막 · KBO 공식 예매 안내",
+          "source": "KBO",
+          "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12210",
+          "published_at": "2026-10-20T00:00:00+09:00"
         }
       ],
-      "window": "최근 36시간",
+      "window": "KBO 공식 플레이오프 안내 · 10월 20일",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EA%B2%B0%EA%B3%BC+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B5%AC%EB%8B%A8+%EC%86%8C%EC%8B%9D"
     },
     "science_tech": {
@@ -153,45 +135,45 @@
     "top": {
       "items": [
         {
-          "title": "뉴욕증시, 스페이스X 실적에 기술주 강세…나스닥 1.1%↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVmxIVjd0bnJjM3oxNW9TVldSSVh6U0V3dFBNTGJ6dG9QdkNVdGdFUGdSVVhiWmxXSEFpbGg3bGdSQ2NiR2JmX3hqTkZwQUZTWFRna0hPaDhtVzQ?oc=5",
-          "published_at": "2026-10-22T07:18:00+09:00",
+          "title": "[뉴욕증시]AI 투자 우려에 나스닥 2.6% 급락",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQlBkVldaVHE3cFB6dElRUzIzQVVfNDFqNjBSTWZwdldIYVdsRjU2ZzNhbGxwV2ZSTk1nYnY1SDVpcXh4LUFOWnRYU2lGeXJCRlhZVlh5XzR5VWNUd19kaw?oc=5",
+          "published_at": "2026-10-23T05:54:55+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "'로또 청약'도 서울 안에서 온도차…경쟁률 최대 305배",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kMzl0cXh3cEhXbGJnbVZ4aUZqVTFEbjY0V2kyVG1mRkdPeGRjMVdaR1hSYnZWcFdFUEs4ZXZnSXdCNm1mUVFWdkozR3B6eFVfVGFrVVFuTHE5UnM?oc=5",
-          "published_at": "2026-10-22T06:05:00+09:00",
+          "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQWwtNFlHbGR2R0dtQl9GQURWcGczNzBrdVJNcHFGakpSWnI1TDZ2alhlVW1udHlmbUdmeC1qZHQ4Y2FEV0xHSHhJX0dyZDM1NWdOZmY2RmxNNEp0aTBzNkoxZWlXTkFuREHSAW9BVV95cUxORTgwc3ZacmdTWFJIVE9teTU5dVhwUXZsWjhGZTVzUG5Ed0hXdGJZeUk1OTh2M0J4bDVKUDFEZzV4R3BKeVJwMTBRM2I0ZENDOEtkQlNyd3NQc0w1UHRMTFR4MlNHTUxvZEo1NDhrMlE?oc=5",
+          "published_at": "2026-10-23T04:30:00+09:00",
           "category": "부동산"
         },
         {
-          "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 11월 이후 최고",
-          "source": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUnltNi0taC1vdDZPUGhmVzRjUFNiUW0yS3pXRVRoS2dmWnZXV2lKb1FXX1RncXI1STlRVWNQRUk4eHQ1aFc3dmV2Vi00ZWMtLVNzV0tjdmx5WXc?oc=5",
-          "published_at": "2026-10-22T06:00:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "국제유가, 중동 긴장·러우 협상 기대 속 혼조‥WTI 0.7%↓",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQUhCdDFQLU5hc0VTYjBpQlQwRU9WWUkwYTFOaUxVWGFHeEVtZFB1MlMyekVTYjI0bDlxSDVMN3VLOEVsR0ZWT0cwR25IWUVkcFJ1VFdLeHp2dWt1QUNxVDVUSnA2ejk5a2JHZW9CeFYteVRZ0gF0QVVfeXFMTnZybzFsUm9QdGRHUzRZOEtleWdEVlJpaFgzd2hDM1ZwSlVWQmRrRzBEZU42NjdnbDVyS2ZFNjlteHRPd08tTzJTeS1yWGJDemY0eU41YjlfQUt0YkViWGtjczBvdUdObHA1VmZ6SUs4VFZhelg?oc=5",
-          "published_at": "2026-10-22T05:40:53+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "서울 아파트값 이러다 100주 연속 상승?...무엇이 공정한가 [몇층이세요]",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZaXE3aWNGSGRad0JnYmdVcV83T19Qek5TQnR3NzkzTHFqTzVHcU53ZGN5c05NbzFiVEZ3akJBVndhc2FMZGZoT0s1dWppY3NMY21qaGg1MkNlRVhSVHc?oc=5",
-          "published_at": "2026-10-21T16:17:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "올해 서울 아파트 재산세 3조원 돌파",
+          "title": "국제유가, 후티의 사우디 공격에 급등…브렌트유 5개월만에 최고",
           "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wYzRLODcySF80dU9iUjdsZGlPbk5WeUt5VnA1V25TUWpBTEJzaFJiaGR6MEZORnQtRTlyd3otQ09PSUtTUC04QTBtVGxVN05DRFZXWmVLc2REMzhNQndsZdIBYEFVX3lxTE4wYzRLODcySF80dU9iUjdsZGlPbk5WeUt5VnA1V25TUWpBTEJzaFJiaGR6MEZORnQtRTlyd3otQ09PSUtTUC04QTBtVGxVN05DRFZXWmVLc2REMzhNQndsZQ?oc=5",
-          "published_at": "2026-10-21T14:27:03+09:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZWkFkSVFZQ0ltaFRtZVF0VGtwVHRJYzU3alRDNXJZZ1BIYXBVbUw4dXhFTk0zV0FXZlJiLVFZR2c3akpxbVgxWHYzWnNOaVNsQjBCVEdzZnI1NGvSAWBBVV95cUxQbEwzb3VIaUY5TmJpaGNpMUFCV2NVSnNCVmlpUllyYktnVVdLZktpOGstR2lvVHZ0d3p0X253dmNESE56ZUlCWUZTVEZPNFBaMFpyYW5vWGRaQjFmZHUxYW8?oc=5",
+          "published_at": "2026-10-23T04:29:09+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "서울 아파트값 상승폭 3주만 둔화…외곽도 축소",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hX2xJTkFEZXBBNFVyUmJlNXpldHp0LVBYNl9yM0JNbERPWjRDTVVKcDZJcHJJWWRuRlRvY3dkeVVRZkdza1pWLTRmZGdtTEtBd1h5dmpsOE5uTTBrUGFjZ29ydXhjSVE?oc=5",
+          "published_at": "2026-10-22T22:57:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "“오를 만큼 올랐나?” 서울 아파트 오름폭 줄었는데… 원룸 월세는 71만원",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FSUtwdS04NlhmUjdxZlVUWE96a3lEb0VhTzVDQldtcjhUQUpUc0NRbXU4cjVUSFVxLW96OXl0eTR1eWY2YkZqY2RzbnRmRl9xZWh6NVdvZHdwZ9IBX0FVX3lxTFAzQXFiamFzVl91ZTFVd2toR2pBNUR0Y1BuN2k1V2JXRE5CUlRvdnY3M28ybG9XY3NCMVk4SFBQQUYtM2VFTkY3OHNUTDRLMG80YzktLXFWOVZOV1pSZllV?oc=5",
+          "published_at": "2026-10-22T17:43:00+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "서울 아파트값 상승폭 3주만에 축소…경기 남부는 '키 맞추기' 확산[부동산AtoZ]",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yS3ZsOUFtWHlkeGhuOTB0bUJxeTIzSlNqMGpWWW9hQjNaTERVR3cwRFFTMldmM3Z4ZGZ1UUw0RnByY3NGazYzTHVrUTRmTFFQLW5ETXNGSmNoeENscHJJVA?oc=5",
+          "published_at": "2026-10-22T17:21:07+09:00",
           "category": "부동산"
         }
       ],

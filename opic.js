@@ -22,12 +22,16 @@
     },
     {
       title: "AI와 학교 교육",
-      intro: "AI 학습 도구가 숙제와 공부 방법을 바꾸고 있습니다. 편리함과 스스로 생각하는 힘을 함께 이야기해 보세요.",
-      questions: ["How can AI help students learn?", "Should students be allowed to use AI for homework?", "Describe a useful learning tool you have tried."],
-      idea: "AI는 어려운 개념을 쉽게 설명하고 연습 문제를 만들 수 있습니다. 하지만 답을 그대로 베끼면 스스로 생각할 기회를 잃습니다.",
-      answer: "I think AI can be a helpful learning partner. When I do not understand a topic, I can ask it for a simple explanation or more practice questions. However, I should not copy its answers. I need to check the information and explain it in my own words. In my opinion, schools should teach students how to use AI responsibly.",
-      vocab: [["learning partner", "학습 동반자"], ["in my own words", "내 말로"], ["check the information", "정보를 확인하다"], ["responsibly", "책임감 있게"]],
-      query: "AI education students homework learning"
+      intro: "OECD는 AI가 분명한 교육 목적 아래에서는 학습을 도울 수 있지만, 과제를 AI에 맡기는 것만으로는 배움이 늘지 않을 수 있다고 설명합니다. 편리함과 스스로 생각하는 힘을 함께 이야기해 보세요.",
+      questions: ["How can AI help students learn without doing all their work for them?", "Should students be allowed to use AI for homework?", "What should teachers do to help students check AI-generated answers?"],
+      idea: "AI로 어려운 개념을 다시 설명받거나 연습 문제를 만들어 볼 수 있습니다. 답을 그대로 제출하기보다 근거를 확인하고 자기 말로 설명해야 실력이 늘 수 있습니다.",
+      answer: "I think AI can be a useful study partner, but it should not do a student's work. For example, it can explain a difficult idea in simpler words and suggest practice questions. However, students still need to check whether the answer is correct. I would use AI to get feedback, then write my final answer in my own words. Teachers can also show students how to question AI-generated information. That way, AI supports learning instead of replacing it.",
+      vocab: [["study partner", "학습 도우미"], ["in my own words", "내 말로"], ["check the facts", "사실을 확인하다"], ["replace learning", "학습을 대신하다"]],
+      links: [
+        ["OECD: AI 활용·읽기 능력·학습에 관한 PISA 분석", "https://www.oecd.org/en/blogs/2026/09/pisa-findings-on-artificial-intelligence-use-reading-skills-and-learning.html", "OECD 설명 · 2026-09-08"],
+        ["OECD: Digital Education Outlook 2026", "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html", "교육 연구 보고서 · 2026"],
+        ["UNESCO: 교육·연구에서 생성형 AI 활용 지침", "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research", "UNESCO 지침 · 2023-09-07, 2026-01-16 갱신"]
+      ]
     },
     {
       title: "재택근무와 사무실 근무",

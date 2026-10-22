@@ -2,10 +2,25 @@ import unittest
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from scripts.update_news import FEEDS, add_current_sds_event, add_recent_science_official, add_recent_sds_official, select_realestate_market_items, select_top_items, unique_headlines
+from scripts.update_news import FEEDS, add_current_sds_event, add_recent_baseball_official, add_recent_science_official, add_recent_sds_official, dedupe_sds_topics, select_realestate_market_items, select_top_items, unique_headlines
 
 
 class RealEstateHeadlineTests(unittest.TestCase):
+    def test_playoff_link_only_before_game_one(self):
+        kst = ZoneInfo("Asia/Seoul")
+        section = {"items": [], "window": "최근 72시간"}
+        add_recent_baseball_official(section, datetime(2026, 10, 23, tzinfo=kst))
+        self.assertEqual(section["items"][0]["source"], "KBO")
+        add_recent_baseball_official(section, datetime(2026, 10, 23, tzinfo=kst))
+        self.assertEqual(len(section["items"]), 1)
+        later = {"items": [], "window": "최근 72시간"}
+        add_recent_baseball_official(later, datetime(2026, 10, 25, tzinfo=kst))
+        self.assertEqual(later["items"], [])
+
+    def test_sds_syndicated_deal_is_shown_once(self):
+        items = [{"title": "BNK금융, 삼성SDS 우선협상"}, {"title": "BNK금융 삼성SDS와 협상"}, {"title": "삼성SDS 신규 서비스"}]
+        self.assertEqual(len(dedupe_sds_topics(items, 8)), 2)
+
     def test_gyeongju_travel_feed_is_excluded(self):
         self.assertNotIn("gyeongju_travel", FEEDS)
 
