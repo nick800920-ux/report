@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:01:32+09:00",
+  "generated_at": "2026-10-23T08:36:09+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -22,18 +22,6 @@
           "source": "뉴스1",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qWm95T2JBUkYwVVNMOTJCTjFXbzhpQTJWU2lhbUg0eTY0dVp3MXQ1WlNocEJPLVl5aDRWVkZqNnFoTDd4d1NYZkM4N2kwN3B0aXpQTlpIVFg3M1R4dF9uRTZSeUp2TTIt?oc=5",
           "published_at": "2026-10-22T19:59:59+09:00"
-        },
-        {
-          "title": "한국 AI에이전트 ‘닷츠’ 이용 세계 3위…오픈AI, 구글 클라우드와 ‘맞손’",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2N1kzRDJjVkQyTmdFVVhncEo0VVhucUUyZ3Q4b2Vvall3cU0tRVk5YS1SeHJob25RN2FWVjRMVVRNdjlFQmttZmpfX2swWDFwQU8wUktyd2paZ9IBX0FVX3lxTE1EQWVEQzM2cDliT3g0YXFxRFpYdHVSOGtNaERiLU9nQlNSbDZIdkpRSzVkZUl1dHlnRElkcmM4WnBmZk9Pd3VRMzZXZTgzblM0UE5mVFpjS3lwTnZHU21R?oc=5",
-          "published_at": "2026-10-22T17:11:00+09:00"
-        },
-        {
-          "title": "AI 기술 안 썼는데 AI 제품?…'AI 워싱' 잡을 가이드라인 의견 청취",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQ045OUNqUm04ZmJYaVpQbWJLeW1zWjI0UU80LUNQUUlaNV9nckxVQS0xVmlEU1Q4dkJOTXRiQ3BBQTVvOFlJYks3VVpVb2VhRlJpWUhFejBlY1hFb2g1Xw?oc=5",
-          "published_at": "2026-10-22T10:26:02+09:00"
         },
         {
           "title": "부산시상수도사업본부, 호찌민 수도공사와 AI 기술 교류 협력",
@@ -65,16 +53,22 @@
     "realestate_market": {
       "items": [
         {
+          "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90UDViOFRFbEtjQUw1NGxFMU1feVRubWMxaWxVUkdXTXVYVExZanVLUWZDaGdWMkltX0RIT1htV05nVlRQM2hsU2twVUZJcnlrRktldThvcU9wQQ?oc=5",
+          "published_at": "2026-10-23T06:30:04+09:00"
+        },
+        {
+          "title": "AI가 추천한 '서울 실거주 가성비 아파트' 10선 [최원철의 미래집]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULWFvZTBTOXc5NlZEX0JReUsyYUJpS3VIbW9ESTRLSnJkbkVOV00tV19rUUtGQktmVG8xbGZYWE1EM0VPY0FoR2tCVkZrNDVUaGg0MnZsUE10dw?oc=5",
+          "published_at": "2026-10-23T06:30:09+09:00"
+        },
+        {
           "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQWwtNFlHbGR2R0dtQl9GQURWcGczNzBrdVJNcHFGakpSWnI1TDZ2alhlVW1udHlmbUdmeC1qZHQ4Y2FEV0xHSHhJX0dyZDM1NWdOZmY2RmxNNEp0aTBzNkoxZWlXTkFuREHSAW9BVV95cUxORTgwc3ZacmdTWFJIVE9teTU5dVhwUXZsWjhGZTVzUG5Ed0hXdGJZeUk1OTh2M0J4bDVKUDFEZzV4R3BKeVJwMTBRM2I0ZENDOEtkQlNyd3NQc0w1UHRMTFR4MlNHTUxvZEo1NDhrMlE?oc=5",
           "published_at": "2026-10-23T04:30:00+09:00"
-        },
-        {
-          "title": "너도나도 “평수 줄여 이사”…소형아파트 전세지수 역대 최고",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Kc3gwTGphY1g1bWVKYlF1by1kRHkyc1RzSVVocUdFblJ3ZVBXV0xrTGhTQW5pSy1UeVd5dENqMTVCY1ZUNWRTZ2pqeWVvUW50M1pDZGJlV0JCRjIyRzRGd1hLREZZdTMy?oc=5",
-          "published_at": "2026-10-21T23:13:00+09:00"
         },
         {
           "title": "서울 아파트 재산세 첫 3조원 돌파…강남3구에 절반 몰렸다",
@@ -87,12 +81,6 @@
           "source": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hX2xJTkFEZXBBNFVyUmJlNXpldHp0LVBYNl9yM0JNbERPWjRDTVVKcDZJcHJJWWRuRlRvY3dkeVVRZkdza1pWLTRmZGdtTEtBd1h5dmpsOE5uTTBrUGFjZ29ydXhjSVE?oc=5",
           "published_at": "2026-10-22T22:57:00+09:00"
-        },
-        {
-          "title": "서울 아파트 매매 실거래가격 1년 새 15.5% 상승",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9raFUwclZIVm5RSURndExDZ3hFRHBtaTB0Y3dWb0h6d0IweGZKcmt5N2RhZzkwN3N2MG1LMnBtY3hkSHFCS3ZaeHNqMFp0eVZiT3BEUVczendIZlBfVmxYMdIBYEFVX3lxTE9raFUwclZIVm5RSURndExDZ3hFRHBtaTB0Y3dWb0h6d0IweGZKcmt5N2RhZzkwN3N2MG1LMnBtY3hkSHFCS3ZaeHNqMFp0eVZiT3BEUVczendIZlBfVmxYMQ?oc=5",
-          "published_at": "2026-10-22T14:30:01+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -135,11 +123,32 @@
     "top": {
       "items": [
         {
-          "title": "[뉴욕증시]AI 투자 우려에 나스닥 2.6% 급락",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQlBkVldaVHE3cFB6dElRUzIzQVVfNDFqNjBSTWZwdldIYVdsRjU2ZzNhbGxwV2ZSTk1nYnY1SDVpcXh4LUFOWnRYU2lGeXJCRlhZVlh5XzR5VWNUd19kaw?oc=5",
-          "published_at": "2026-10-23T05:54:55+09:00",
+          "title": "[3분증시] 뉴욕증시, 메타 실적 여파에 기술주 급락",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YRHN2b2Qta3F4aE1hMVNqYzI4VFBGcFhoUUlJNS1pX1U4ZXhDc1p1dUxYb05XYUMzd1ZTV3lBSW9aS0ZHZ25VTVBJclZMMVJvbGdUeGFPZ2pvSnJ4aGQ2ZWpUNW5hNzQ?oc=5",
+          "published_at": "2026-10-23T07:43:00+09:00",
           "category": "세계 경제"
+        },
+        {
+          "title": "AI가 추천한 '서울 실거주 가성비 아파트' 10선 [최원철의 미래집]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULWFvZTBTOXc5NlZEX0JReUsyYUJpS3VIbW9ESTRLSnJkbkVOV00tV19rUUtGQktmVG8xbGZYWE1EM0VPY0FoR2tCVkZrNDVUaGg0MnZsUE10dw?oc=5",
+          "published_at": "2026-10-23T06:30:09+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90UDViOFRFbEtjQUw1NGxFMU1feVRubWMxaWxVUkdXTXVYVExZanVLUWZDaGdWMkltX0RIT1htV05nVlRQM2hsU2twVUZJcnlrRktldThvcU9wQQ?oc=5",
+          "published_at": "2026-10-23T06:30:04+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "서울 아파트 거래 상위 30곳에 강남 3구 ‘0’… 은평·도봉이 앞섰다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3VsakttaFRYbGFaeWE3cTRFNUZOaUlUUjExYzQ2aDRpbHoxYlZRLWJJRVZKMWNoR29fOEpPU0NNM1JQaVFBamtJbUItdk93MWV5bDdkQU91d2RmcE5UQ3g2LUVWazNpREwtVHRxUTN5dVhNSklOWmkxX1dLd2M3ZWRVcG9PZW9CWHZhZjFhcUdFSjhjYjR6UtIBrAFBVV95cUxPT210bV9ZRkVuNTNUZWV6b0F1MWE4bnJ1b2pUMmRhWjdfWE5jQUdGbWhEX2I1WUN6cDhmX0I3b2VxLWFYeVBEQ3o4M19tV2VFUFgzR1IxQmR1Z3BrSnFfbm9xaFlIQVpjXzNKMERLdUZtUWVvY19Ia1lfZ2JDT0NHNTY2ckxWcHhTeERjZlRqNEVNZjlxZEVPOXNaUS1hQWRYbjdkNHR5ZGhvMVUy?oc=5",
+          "published_at": "2026-10-23T06:00:00+09:00",
+          "category": "부동산"
         },
         {
           "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
@@ -154,27 +163,6 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZWkFkSVFZQ0ltaFRtZVF0VGtwVHRJYzU3alRDNXJZZ1BIYXBVbUw4dXhFTk0zV0FXZlJiLVFZR2c3akpxbVgxWHYzWnNOaVNsQjBCVEdzZnI1NGvSAWBBVV95cUxQbEwzb3VIaUY5TmJpaGNpMUFCV2NVSnNCVmlpUllyYktnVVdLZktpOGstR2lvVHZ0d3p0X253dmNESE56ZUlCWUZTVEZPNFBaMFpyYW5vWGRaQjFmZHUxYW8?oc=5",
           "published_at": "2026-10-23T04:29:09+09:00",
           "category": "세계 경제"
-        },
-        {
-          "title": "서울 아파트값 상승폭 3주만 둔화…외곽도 축소",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hX2xJTkFEZXBBNFVyUmJlNXpldHp0LVBYNl9yM0JNbERPWjRDTVVKcDZJcHJJWWRuRlRvY3dkeVVRZkdza1pWLTRmZGdtTEtBd1h5dmpsOE5uTTBrUGFjZ29ydXhjSVE?oc=5",
-          "published_at": "2026-10-22T22:57:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "“오를 만큼 올랐나?” 서울 아파트 오름폭 줄었는데… 원룸 월세는 71만원",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FSUtwdS04NlhmUjdxZlVUWE96a3lEb0VhTzVDQldtcjhUQUpUc0NRbXU4cjVUSFVxLW96OXl0eTR1eWY2YkZqY2RzbnRmRl9xZWh6NVdvZHdwZ9IBX0FVX3lxTFAzQXFiamFzVl91ZTFVd2toR2pBNUR0Y1BuN2k1V2JXRE5CUlRvdnY3M28ybG9XY3NCMVk4SFBQQUYtM2VFTkY3OHNUTDRLMG80YzktLXFWOVZOV1pSZllV?oc=5",
-          "published_at": "2026-10-22T17:43:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "서울 아파트값 상승폭 3주만에 축소…경기 남부는 '키 맞추기' 확산[부동산AtoZ]",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yS3ZsOUFtWHlkeGhuOTB0bUJxeTIzSlNqMGpWWW9hQjNaTERVR3cwRFFTMldmM3Z4ZGZ1UUw0RnByY3NGazYzTHVrUTRmTFFQLW5ETXNGSmNoeENscHJJVA?oc=5",
-          "published_at": "2026-10-22T17:21:07+09:00",
-          "category": "부동산"
         }
       ],
       "window": "최근 36시간",
