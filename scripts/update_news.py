@@ -173,6 +173,16 @@ def select_realestate_market_items(items: list[dict], limit: int) -> list[dict]:
     ][:limit]
 
 
+def select_presale_items(items: list[dict], limit: int) -> list[dict]:
+    """Avoid treating unverified listing aggregators as official presale notices."""
+    return [
+        item for item in items
+        if trusted(item)
+        and any(term in item["title"] for term in ("청약", "입주자모집공고"))
+        and not any(term in item["title"] for term in ("추천", "후보 정리", "예상 분양가"))
+    ][:limit]
+
+
 def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]:
     """Keep the headline deck focused, balanced and free of domestic politics."""
     seen = set()
@@ -320,6 +330,9 @@ def build() -> dict:
             elif name == "realestate_market":
                 result = parse_feed(get_xml(feed_url(query)), now, 25)
                 result["items"] = select_realestate_market_items(result["items"], limit)
+            elif name == "realestate_presale":
+                result = parse_feed(get_xml(feed_url(query)), now, 25)
+                result["items"] = select_presale_items(result["items"], limit)
             elif name == "samsung_baseball":
                 result = parse_feed(get_xml(feed_url(query)), now, 20)
                 result["items"] = unique_headlines([item for item in result["items"] if trusted(item, BASEBALL_SOURCES) and not item["title"].startswith("[사진]") and not any(term in item["title"] for term in ("하입프린세스", "샐캡"))], limit)

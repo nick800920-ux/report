@@ -34,13 +34,16 @@
       ]
     },
     {
-      title: "재택근무와 사무실 근무",
-      intro: "어디에서 일할 때 가장 집중이 잘 되는지, 협업과 출퇴근 시간을 어떻게 생각하는지 말해 보세요.",
-      questions: ["Do you prefer working from home or at an office?", "What are the benefits of remote work?", "How has technology changed the way people work?"],
-      idea: "재택근무는 출퇴근 시간을 줄이고 집중하기 좋지만, 얼굴을 맞대는 협업은 어려울 수 있습니다. 일의 성격에 맞춰 선택하는 방식이 좋습니다.",
-      answer: "I prefer a mix of working from home and going to the office. At home, I can save commuting time and focus on individual tasks. At the office, it is easier to discuss ideas with my coworkers. Online tools make remote work possible, but they cannot replace every face-to-face conversation. A flexible schedule would give me the best of both options.",
-      vocab: [["commuting time", "출퇴근 시간"], ["face-to-face", "대면의"], ["flexible schedule", "유연한 일정"], ["collaborate", "협업하다"]],
-      query: "remote work hybrid office productivity"
+      title: "도시의 건강과 기후 변화",
+      intro: "WHO 유럽지역은 10월 도시 대표들의 기후·건강 행동 약속을 발표했습니다. 공원, 걷기, 대중교통과 극한 날씨 대비를 일상과 연결해 말해 보세요.",
+      questions: ["How can cities make daily life healthier for residents?", "Why are parks and public transportation important?", "What should local governments do to prepare for extreme weather?"],
+      idea: "공원과 걷기 좋은 길은 주민의 건강에 도움을 줄 수 있습니다. 폭염이나 폭우에 대비하려면 그늘·쉼터·대중교통과 안내 체계도 필요합니다. 내가 사는 동네의 개선점을 하나 덧붙이면 자연스럽습니다.",
+      answer: "I think a healthy city should be easy to walk around. Parks give people a place to exercise and relax, while public transportation can make daily travel easier. Cities also need to prepare for extreme weather. For example, they can provide more shade and clear information during heat waves. In my neighborhood, I would like to see more trees near bus stops. Small changes like these can make everyday life safer and more comfortable.",
+      vocab: [["green spaces", "녹지 공간"], ["public transportation", "대중교통"], ["extreme weather", "극한 날씨"], ["prepare for", "~에 대비하다"]],
+      links: [
+        ["WHO: 유럽 도시 대표들의 기후·건강 행동 약속", "https://www.who.int/europe/news/item/07-10-2026-more-than-100-city-leaders-sign-cork-call-to-action-on-climate-and-health", "WHO 발표 · 2026-10-07"],
+        ["WHO: 폭염과 건강 설명 자료", "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health", "WHO 자료 · 2026-07-31"]
+      ]
     },
     {
       title: "대중교통과 친환경 이동",
@@ -100,13 +103,16 @@
       query: "favorite local restaurant dining out family experience"
     },
     {
-      title: "주말에 하는 일",
-      intro: "평소 주말 루틴과 기억에 남는 지난 주말을 비교해 말해 보세요.",
-      questions: ["What do you usually do on weekends?", "How was last weekend different from a normal weekend?", "Do you prefer busy or relaxing weekends?"],
-      idea: "평소에는 쉬거나 가족과 시간을 보낸다고 설명하고, 지난 주말의 구체적인 경험을 한 가지 이야기합니다.",
-      answer: "On weekends, I usually sleep a little longer and spend time with my family. We often go to a nearby park or have lunch outside. Last weekend was different because it rained all day. Instead of going out, we cooked dinner together and played a board game. I enjoyed it more than I expected. I like relaxing weekends because they help me get ready for the next week.",
-      vocab: [["sleep a little longer", "조금 늦잠을 자다"], ["instead of", "~대신에"], ["more than I expected", "생각보다 더"], ["get ready for", "~을 준비하다"]],
-      query: "weekend family activities relaxation"
+      title: "주말 장보기",
+      intro: "마트에 가는 시간, 자주 사는 물건과 최근 장보기에서 있었던 작은 일을 말해 보세요.",
+      questions: ["Where do you usually buy groceries?", "What do you usually put on your shopping list?", "Tell me about a recent grocery shopping experience."],
+      idea: "평소 장보는 장소와 목록을 먼저 소개합니다. 최근 장보면서 물건을 잊거나 줄이 길었던 경험을 한 가지 말하고, 어떻게 해결했는지와 느낌으로 마무리하세요.",
+      answer: "I usually buy groceries at a supermarket near my home on weekends. Before I go, I make a short shopping list with fruit, milk, and food for dinner. Last Saturday, I went there with my family, but I forgot to write down eggs. We noticed it when we were about to pay, so I went back to get them. It was a small mistake, and we laughed about it on the way home. I like shopping together because we can choose what to cook for the week.",
+      vocab: [["buy groceries", "장을 보다"], ["shopping list", "장보기 목록"], ["about to pay", "계산하려던 참에"], ["on the way home", "집에 오는 길에"]],
+      links: [
+        ["NHS: 식품 표시 읽기와 장보기 팁", "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/", "영어 읽기 자료 · NHS"],
+        ["ACTFL: OPIc 공식 안내", "https://www.actfl.org/uploads/files/general/OPIc_Familiarization_Guide.pdf", "말하기 시험 안내 · ACTFL"]
+      ]
     },
     {
       title: "기억에 남는 여행",

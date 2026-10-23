@@ -2,7 +2,7 @@ import unittest
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from scripts.update_news import FEEDS, add_current_sds_event, add_recent_baseball_official, add_recent_science_official, add_recent_sds_official, dedupe_sds_topics, select_realestate_market_items, select_top_items, unique_headlines
+from scripts.update_news import FEEDS, add_current_sds_event, add_recent_baseball_official, add_recent_science_official, add_recent_sds_official, dedupe_sds_topics, select_presale_items, select_realestate_market_items, select_top_items, unique_headlines
 
 
 class RealEstateHeadlineTests(unittest.TestCase):
@@ -23,6 +23,14 @@ class RealEstateHeadlineTests(unittest.TestCase):
 
     def test_gyeongju_travel_feed_is_excluded(self):
         self.assertNotIn("gyeongju_travel", FEEDS)
+
+    def test_presale_requires_trusted_source_and_real_notice(self):
+        rows = [
+            {"title": "경기 아파트 청약 일정", "source": "민심뉴스"},
+            {"title": "서울 아파트 청약 추천 후보 정리", "source": "연합뉴스"},
+            {"title": "서울 아파트 입주자모집공고 발표", "source": "연합뉴스"},
+        ]
+        self.assertEqual([x["title"] for x in select_presale_items(rows, 5)], ["서울 아파트 입주자모집공고 발표"])
 
     def test_official_sds_event_only_during_event_dates(self):
         kst = ZoneInfo("Asia/Seoul")
