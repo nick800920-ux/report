@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-24T06:01:57+09:00",
+  "generated_at": "2026-10-24T08:29:37+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
+        {
+          "title": "운전자 없이 땅 파고 위험 감지… AI 입은 굴착기의 진화 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2FYOHhLSk5ham9HSEZUMmhzWW5YRXRmOTA5RXFjc3I1TDROaEFycWZlY2x3aFBWdExTTVpSRDI5Ynoxc3d1cWRtOExRLVo1U0ZMRnFLdW5laWRuamtPTGRFQTJxdEpNMzdaT08xWDU4bVd3bnVjS0Y5QWUta3UzcnlVMW3SAZgBQVVfeXFMT2VRR0xscU5BQmJOZk9QVndpb1dkaTRqVEZseUU4d2ZGQ1Nyc09MSk9WbTVMVG11X25JRkVEN2l2bzNBZ2Q2UUhQanIwY3FId3ZPUmI4YzNIaEZIQy1QSGY2ODNBQ2M2bW9FeGU5QUtJLXFDZ25mTDdfYzNUUTBVdXlHeUVqcG9lRzJEQmdpb3pIVUJzTGVzNDY?oc=5",
+          "published_at": "2026-10-24T06:11:15+09:00"
+        },
         {
           "title": "대전교육청, 디지털·AI 기술 학교 진로교육 연계 모색",
           "source": "뉴스핌",
@@ -42,16 +48,10 @@
           "published_at": "2026-10-23T13:55:46+09:00"
         },
         {
-          "title": "넥스비아, 방글라데시 테크노그램과 기업용 AI 기술협력 MOU 체결",
-          "source": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKOWhhNk4tdEFoNEN5dV85cWsxczJXNEs1N05Kd0JmOEhNeEVDNVIwOUhYd1pJT29DRDY3ZW1QS1dBYUlKaFo4cURtTDJrWjVWLXoyc09KbUdad1dYRm5BalB6V2RUUVlBSlRzR25CeDZRNUh30gF0QVVfeXFMUEo5aGE2Ti10QWg0Q3l1XzlxazFzMlc0SzU3Tkp3QmY4SE14RUM1UjA5SFh3WklPb0NENjdlbVBLV0FhSUpoWjhxRG1MMmtaNVYtejJzT0ptR1p3V1hGbkFqUHpXZFRRWUFKVHNHbkJ4NlE1SHc?oc=5",
-          "published_at": "2026-10-23T13:53:38+09:00"
-        },
-        {
-          "title": "AWS 손잡은 업스테이지 \"한국서 쌓은 AI 경쟁력, 글로벌 시장으로\"",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yLVNDV3QzZ2tQZklJTUtLeHBNU25fa2hIMVlLTkQxaG1oUUJQR2s1dHEyYVFmN3o3aDJmeENFWXVQbzJtLVdMQ0wzMDVncGE5a1U2clNn?oc=5",
-          "published_at": "2026-10-23T13:42:10+09:00"
+          "title": "[게시판] LH, 직원 주도 AI 혁신조직 'AI 프론티어' 출범",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiWUpyZDNKQlZ3VmdHN2tBUEQ5YU1XR0xhMmEyc0Y4N0xlaUV6VTBLZnItWVVBTVdybnpfUmxzU3FEX3pxVHR6T0xXYXFWN3hJR0tPUnd3OW5lNkHSAWBBVV95cUxQWkR1aUl1TFRsQlBEX3JyNGk0N1JKTGFZd1g1VVF3aktoS01XYTU1VURySC1CWEpUX2pqN3lfOXg5YXl3S1VuOFlkSEZ0N0VUWG9Kbi0tOGJEYV9QMnBaVDI?oc=5",
+          "published_at": "2026-10-23T09:22:04+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -89,6 +89,12 @@
     "realestate_market": {
       "items": [
         {
+          "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90UDViOFRFbEtjQUw1NGxFMU1feVRubWMxaWxVUkdXTXVYVExZanVLUWZDaGdWMkltX0RIT1htV05nVlRQM2hsU2twVUZJcnlrRktldThvcU9wQQ?oc=5",
+          "published_at": "2026-10-23T06:30:04+09:00"
+        },
+        {
           "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQWwtNFlHbGR2R0dtQl9GQURWcGczNzBrdVJNcHFGakpSWnI1TDZ2alhlVW1udHlmbUdmeC1qZHQ4Y2FEV0xHSHhJX0dyZDM1NWdOZmY2RmxNNEp0aTBzNkoxZWlXTkFuREHSAW9BVV95cUxORTgwc3ZacmdTWFJIVE9teTU5dVhwUXZsWjhGZTVzUG5Ed0hXdGJZeUk1OTh2M0J4bDVKUDFEZzV4R3BKeVJwMTBRM2I0ZENDOEtkQlNyd3NQc0w1UHRMTFR4MlNHTUxvZEo1NDhrMlE?oc=5",
@@ -101,29 +107,30 @@
           "published_at": "2026-10-22T22:57:00+09:00"
         },
         {
-          "title": "[뉴스in뉴스] “안정화 흐름” “2028년 공급 정상화” 서울 아파트값 향방은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YY191N2NnbWpvSDVBYVNUVmkwT2tYRW54dFp3UnhsMEg2djRITU5YclJDa0UwZ09RVVh5VjhyanBwclQyeXBnNE5LcGFWa1FIYW5tVWN6TGY2emRGOFV6aGJ4U0x0Zw?oc=5",
-          "published_at": "2026-10-23T12:39:00+09:00"
-        },
-        {
           "title": "수도권 아파트 경매 낙찰률 연중 최저…서울 소형 단지엔 '입찰 열기'",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DYmVTNkxOb2VlbUpBRmhKY3oyd083Mk5oeU1ka3l5SUtoZnd5dWtKVGZyRkFwbTl5Q3FUQlFvQWx2cThpMDRMZkhNblB2cmJuU2RIQVJDTWVvNjQx?oc=5",
           "published_at": "2026-10-23T16:55:00+09:00"
         },
         {
-          "title": "\"서울, 정비사업으로 2∼3년 내 약 5만 가구 이주·멸실\"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pRVhTR1E4QkktdzVvNFkzdEUwaktQX2k3U09XQzlRUmhmSUpZUXJNMHRWbUo4QWtyZHo4MmNmWnFMLXRQU0RTTzQ1UFVZNXZJZjFtUXdldnZJNFHSAWBBVV95cUxNQWN2Uy1JN3ZpNzREMW9GeFhCWkZaVS14ZXM5NDlCbzl5SW9wMUlfWXBuNTBOXzROb3l5TnRwbUVsN0g2M0dRNm5kNjVBTVQ2UmJsZTdMUUN0LU13QXI2WWQ?oc=5",
-          "published_at": "2026-10-23T17:41:37+09:00"
+          "title": "[뉴스in뉴스] “안정화 흐름” “2028년 공급 정상화” 서울 아파트값 향방은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YY191N2NnbWpvSDVBYVNUVmkwT2tYRW54dFp3UnhsMEg2djRITU5YclJDa0UwZ09RVVh5VjhyanBwclQyeXBnNE5LcGFWa1FIYW5tVWN6TGY2emRGOFV6aGJ4U0x0Zw?oc=5",
+          "published_at": "2026-10-23T12:39:00+09:00"
         }
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EC%95%84%ED%8C%8C%ED%8A%B8"
     },
     "realestate_presale": {
-      "items": [],
+      "items": [
+        {
+          "title": "‘GTX 운정중앙역 시티프라디움’ 입주자모집공고, 11월 2일 특별공급 시작으로 청약 돌입 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXVoSzRwMUh0UldMUTRIaWNsR29qZExRazAwbEhuRU52Wlh2MlZlVmlTZGRqV3hqSkF3VDRiRkNfVkVWMmJFemp0ODU4V3IxMWI2X1Z1RVREQVNKR3lTSzQ1SThkMTVYS0taRmRac3B4V3prQ29kTE1hNHJwYWpMMjZ3QXlNaEIzNlBWd9IBoAFBVV95cUxPMkpfMEhlNThSSjdITy1ndkJOUDdKdUY2LW1lRlhIREwxSFNvTjJ5bXhuVnlXaEtWUkIyc2NXRDZ2eXRqZDBHVnJlbW1iRjNFSGM5Z190ZUNWclUtSHVnaDVtbUpSbDM3bm9QUi04YVJJYjY1RjdnM0tqQlNhVkY3STNEQ0FHT1cwU2ZyTnJRMUNrc1dhVlZsUEVTN1JvcmFR?oc=5",
+          "published_at": "2026-10-23T10:23:00+09:00"
+        }
+      ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%B2%AD%EC%95%BD+%EC%9E%85%EC%A3%BC%EC%9E%90%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0"
     },
@@ -165,10 +172,10 @@
     "top": {
       "items": [
         {
-          "title": "뉴욕증시, 중동 긴장 고조·유가 급등에 약세…다우존스 1.23% 하락",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yME9BMzk0US1BbDF0Ukt4SlVaaXJQbHFxNF9mSWxxUUZwa2NFYnZ3SWo2SHF6enBqTmFyMzZWNFVvcnRBSjVrc1ZENHVPSkkxS0xNZjZYM2RISFk?oc=5",
-          "published_at": "2026-10-24T05:34:00+09:00",
+          "title": "중동 긴장 고조에 뉴욕증시 약세…다우 1%대↓",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMjRYWjd0Uk56aUtxbHZuVHRnUWozYmRXNG1hWG5WOFFwSkdmMXhneG9BTEdHRlVzSGhTZ2FkcXI5WVIyc1RqMTJwbUZFN2NrNlh1OEozSVNYbE9lYkoxbE1lN0NyVlU?oc=5",
+          "published_at": "2026-10-24T07:23:00+09:00",
           "category": "세계 경제"
         },
         {
@@ -193,18 +200,18 @@
           "category": "부동산"
         },
         {
-          "title": "국제유가 5개월만 최고치…브렌트유 110달러선 돌파",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BSkxNQU42OVgyb0hhRmxMZm0xQXFNZlZidjYzcDFWMFJZalFHUzlmV3J1T2I0T2NYRGdTQTg4RnotSDdITW5kNTJ2RGhMSzdlOFpaeVd0SmVFVEJRSVV5Sw?oc=5",
-          "published_at": "2026-10-23T10:38:23+09:00",
-          "category": "세계 경제"
-        },
-        {
           "title": "서울 아파트 3분의 2가 월세…월평균 서초 479만원·강북 218만원",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KSGI0eXZJYXNyME5nb3JtSHZrTDhoYzVQblRVbVJFWlpWZVk5aWREbGRzaWVHVjZmX0g0WXJ2bW5EQkpkSU5oQWZNeHVuWElBczVnZE1Yb1ZzUGl0?oc=5",
           "published_at": "2026-10-23T10:05:00+09:00",
           "category": "부동산"
+        },
+        {
+          "title": "트럼프 \"이란이 유가 조작\"‥국제유가 5월 이후 최고",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTcnhvRmxIR1hwcDk1R21kMWsxOE4xWmFOWjlSUms0OVZUaE85QlRvM2hPOU45VEhSRFQzYzZxTWdBSTg1a3gwdmJGTlo2VURzV2sxVVF0cVpVLWZfX2xCNnZSd0dwQTl4T1Y2RmtGLW0zemVocmdWWXJ30gF6QVVfeXFMTWRzdlA5dWtOWl96bkpDbER4Z1VNQXhNUXZudGZ6OElVVUFwd1phTFZaZ1p1TlpJS3dtdFJMTk1FVGhaWnZEc1pZY3N5SllwSmU0T0R2YU5STmJFMno1ZUFOT1dOVmNqXzA5WHJYaGxSb2h5N0ZPUV9OMkE?oc=5",
+          "published_at": "2026-10-23T06:08:34+09:00",
+          "category": "세계 경제"
         }
       ],
       "window": "최근 36시간",
