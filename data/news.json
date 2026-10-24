@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-25T06:01:38+09:00",
+  "generated_at": "2026-10-25T07:43:53+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
+          "title": "\"AI 투자 거품 붕괴 경고…글로벌 경제 충격, 한국도 예외 아냐\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51MlAzaWFYNDNITGhZS1Z4d0tvRElDaWRhUXJoZ3dfaWJxdGRfYWp3V3BhQ2lwWVFIbEFtS3lybDZOR3FoSjlNWDVLUlB2Qk42bjdsQm5DYXRYb3ZTSWJ5VW9uZjE2cWZm0gFuQVVfeXFMTVVNN01NOWpvMlRreWNBbjVoczV2MktPQ1BPbXhzUXhIc0l5OFVJR2xHbFZoZldYdnFYOERaSThwV0F5LWhnOV9kcU9wbzZ6U1JkdHpZR2EyRV85Z0JaV0hIckZ4Vzh1VnNiYjVmcWc?oc=5",
+          "published_at": "2026-10-25T06:00:00+09:00"
+        },
+        {
+          "title": "AI가 생산성 높여도 금리는 오른다?…중앙은행이 주목한 '금리의 역설' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xb2prRHZmSFhVLVdZYXlmLTJ0Z2t6aUxESjhISVhQTUZEalRJZi1SVVJqd1lWN1A1SlNYMktXYXY3dHQ4bEh0c0dXcmNob0pENWhRSXZEV2k1TXBreUtmYTlneHJBMHBMRzFB0gFwQVVfeXFMUDR0UmxkY1BfODdad3pVWjNHX3RBa1NUR3FPRU5SNzV2MTlUcjNaVUNhN1k1WEZoREhHT2dKTUR6QV9fMEJZYkxaTjYxR3V6US1RRTlWald0ZS1yOW0tSmxkRmtWMDFQcDJZYVlXRHozTw?oc=5",
+          "published_at": "2026-10-25T06:00:00+09:00"
+        },
+        {
           "title": "SW 코드 검증 'AI 감리팀'·전고체 전지용 '맞춤 양극재' 기술 주목 - 머니투데이",
           "source": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vTmhRNHBBN19UMWkwMHdTQk42TnY2UmxoVlI2VnRKLUgzTlBhcEtDT25jVEdUMUlyZnNBdGlOZ2JUMWx1Wk8zdjVwR3FuaUhDZFFMNk1lcDBoalplTG51Nnk2WWtGNEZ0N3diREZ0TWFYSTk4TjFF0gF8QVVfeXFMT3FxU0hGbGV4NVI2NTJESF9Bb2tIUDNQM2tzbkFsVzk5UFBfT0ZCbGdwQk1jRGRGT1RBNmdVc2s2ektwM3NsbVV5d29MTHBfaEI4cHZjNnc0bnRSelJiSFNEMERncDM4dFNjT2hVWXJmajFlTEhxMFJMUElEWQ?oc=5",
           "published_at": "2026-10-25T05:00:00+09:00"
-        },
-        {
-          "title": "IAEA \"2060년 원자력발전 수요 3배로 급증…AI 확산 영향 \"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZcG8yZzF4VUtDUXlkcjA0OHJUZTNaNHg5UjZzOGYyLThQVEQ0ektYNG9rODBYLXlpaC1lZ3JqSFJSTjlFU2RSSGJtZUFBQXNFUi1xWXowZnJTWW_SAWBBVV95cUxNM3RESHdxOFpQTHB4N1I0ZFg0cWxnUkt2TDQzcE1pTlFQanJhWWRtNjQ5ejZ3Tk5hdG52R3RERXdTT1V1VlgzdGo4LW9qTkhITk1aRl9nYklkRnI2dmRwRWw?oc=5",
-          "published_at": "2026-10-24T10:04:37+09:00"
-        },
-        {
-          "title": "대전교육청, 디지털·AI 기술 학교 진로교육 연계 모색",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sRWZ0RkNtWHJKVVBUZzAwc25xYkNFR0pBS21qb3JpYmdkYlh5OW5pYWhTcWhHU2g1bHZfcWkxVldCMkVnMmxYYXhNdXhRTmJ6NWtiTTlpaTBjdEZE?oc=5",
-          "published_at": "2026-10-23T18:24:00+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -30,13 +30,25 @@
     "sds": {
       "items": [
         {
+          "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56bndnOG5zckJQOXFtdXNZQXRNYnVMd25ZbnU1eHJ2Vy1QMzRtWTNGcWVKWnZSOFk3RGd3bVQxeGo1VGNJVF9DaEliRWl5aXJ1eURJa2phaFBTNFnSAWBBVV95cUxPT2p5NDIzYjYtMlRKSzdDZHZNN3RYR0xfRHNGOUl1ZHVONmlWb2ZSSzVmQjBpbk9GTGtMc3JDV3BGTTUtM2pRdVlJU204Ti1RcVo3b0JhcFdhYnJSMjExb1g?oc=5",
+          "published_at": "2026-10-22T17:45:07+09:00"
+        },
+        {
+          "title": "GPU 직접 안사도 된다…삼성SDS, '다차원 AI 풀스택' 전략 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51blRlUXBNTUdmMUQwRG1CczBtYkVRSkRhcG1kX2dsczNFV290eW1sM3ZzeW9iaVlJOWw4WWpMY1ZGLS1fRjdTUExvN3RKbk85bU5BYU9uTTBHVlJVZGdYcFRnNDh2TTA4RHdOWDluczgyczJf0gF6QVVfeXFMTU9zSlpOM3Ewa3BDQ3BiQTRKcEwxSnpVd1NsNHd3ellFeU5oMFBYaUVRempqMXFtMHpqblVCZ3JJcHJRWUtOeURRQjFqMkduNHhUMW5OTDJTNVpLejRYWExjZ3U0Q1liZmtVakxla29MY2U1ekNRRjhCVUE?oc=5",
+          "published_at": "2026-10-23T10:40:00+09:00"
+        },
+        {
           "title": "“개별 은행 넘어 금융그룹까지”…삼성SDS, 금융권 AI 공략 가속",
           "source": "서울경제TV",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UT0g0bGxEbm5EeW96cWRTSVhXa3Vwa3k5VVhxWHB3bzBDWkp3dHlvNWsyaUd6VWJYUmFaWWw5WXM2eEI4Vk11TXJndThMa1pNQlZLWHVrLWpZdjEzNXFFZVZLem4?oc=5",
           "published_at": "2026-10-23T18:36:59+09:00"
         }
       ],
-      "window": "최근 36시간",
+      "window": "최근 72시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1SDS"
     },
     "realestate_policy": {
@@ -105,25 +117,18 @@
     "top": {
       "items": [
         {
-          "title": "중동 확전 우려에 유가↑·뉴욕 증시↓...우리 경제는?",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdDB2TjRURHpEVUtSdDU2Z2VXNnNVbWRJWl94eGhFaW1mWEYwenk3dWFyLUpWdEd6Z3F3aDRHT3BrbnozQzFRLVFrVkxSM2NnenVZV3pPcHJtNERGV0E?oc=5",
-          "published_at": "2026-10-24T18:40:00+09:00",
+          "title": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maHlzMkdxNTM2NkduMGtfX2JnUElsOVRjbDZEODlORk9QdGxxd3dkc2UteF9qWjVpeXVvMFhHd1RNems0czZldC1JOWk0N0FyMHhzZ3JsQXlrTjZOZXZ5MzFZLW13U0VTZFMwSTF0ZW8?oc=5",
+          "published_at": "2026-10-25T07:00:10+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "트럼프 \"이란에 다시 '장대한 분노' 작전\"...국제유가 급등",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNWxpZy1MSjZxRmV0OTFPM1ljMERlV1Y1QkZKSVRxYjdKU3RuZkRoUXo0a3lwSERJZDh1X0ZzWFR4RWVlWlMwYXFJZEd6RVNvaVlJdGtOU2tfY0ZxVHc?oc=5",
-          "published_at": "2026-10-24T18:28:00+09:00",
-          "category": "세계 경제"
-        },
-        {
-          "title": "압구정동 신현대12차 92억원·반포동 아크로리버파크 62억 8천만원… 서울 아파트 고가 거래 [MAI부동산]",
+          "title": "유가는 치솟는데 … 내 원유선물 ETN, 뭐가 문제죠?",
           "source": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRHJPWWJNdU5wekRzVkRSWHNreXM2ZWJIS3RqaW9WZ3dtOUJ5cF9zZW1FR0dvVXltWEFTWXJwWFdfSko5dGN2SHFySHd4bXlDR0h0X3BaTjQ?oc=5",
-          "published_at": "2026-10-24T13:13:18+09:00",
-          "category": "부동산"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kY1BpOGt0WldXaW8wM3FKbUFnY1pSVlZ0aTBsdjhWWWstYnZhaEZrVVF2cUpNMFFDSFNlaTFtX1RNV3lYUjM1aDV6QzdkcFFxQWNpeA?oc=5",
+          "published_at": "2026-10-25T05:00:00+09:00",
+          "category": "세계 경제"
         },
         {
           "title": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\"",
