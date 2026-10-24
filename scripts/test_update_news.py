@@ -90,6 +90,7 @@ class RealEstateHeadlineTests(unittest.TestCase):
             {"title": "경기 오피스텔 월세 동향", "source": "KBS 뉴스"},
             {"title": "서울 카지노 슬롯머신", "source": "연합뉴스"},
             {"title": "서울 아파트 투자 공부 재테크 서적 출간", "source": "연합뉴스"},
+            {"title": "서울 아파트 쥐 민원 증가", "source": "연합뉴스"},
             {"title": "서울 아파트 광고", "source": "광고 사이트"},
         ]
         self.assertEqual(

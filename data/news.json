@@ -1,57 +1,27 @@
 {
-  "generated_at": "2026-10-24T08:29:37+09:00",
+  "generated_at": "2026-10-25T06:01:38+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
     "it": {
       "items": [
         {
-          "title": "운전자 없이 땅 파고 위험 감지… AI 입은 굴착기의 진화 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2FYOHhLSk5ham9HSEZUMmhzWW5YRXRmOTA5RXFjc3I1TDROaEFycWZlY2x3aFBWdExTTVpSRDI5Ynoxc3d1cWRtOExRLVo1U0ZMRnFLdW5laWRuamtPTGRFQTJxdEpNMzdaT08xWDU4bVd3bnVjS0Y5QWUta3UzcnlVMW3SAZgBQVVfeXFMT2VRR0xscU5BQmJOZk9QVndpb1dkaTRqVEZseUU4d2ZGQ1Nyc09MSk9WbTVMVG11X25JRkVEN2l2bzNBZ2Q2UUhQanIwY3FId3ZPUmI4YzNIaEZIQy1QSGY2ODNBQ2M2bW9FeGU5QUtJLXFDZ25mTDdfYzNUUTBVdXlHeUVqcG9lRzJEQmdpb3pIVUJzTGVzNDY?oc=5",
-          "published_at": "2026-10-24T06:11:15+09:00"
+          "title": "SW 코드 검증 'AI 감리팀'·전고체 전지용 '맞춤 양극재' 기술 주목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vTmhRNHBBN19UMWkwMHdTQk42TnY2UmxoVlI2VnRKLUgzTlBhcEtDT25jVEdUMUlyZnNBdGlOZ2JUMWx1Wk8zdjVwR3FuaUhDZFFMNk1lcDBoalplTG51Nnk2WWtGNEZ0N3diREZ0TWFYSTk4TjFF0gF8QVVfeXFMT3FxU0hGbGV4NVI2NTJESF9Bb2tIUDNQM2tzbkFsVzk5UFBfT0ZCbGdwQk1jRGRGT1RBNmdVc2s2ektwM3NsbVV5d29MTHBfaEI4cHZjNnc0bnRSelJiSFNEMERncDM4dFNjT2hVWXJmajFlTEhxMFJMUElEWQ?oc=5",
+          "published_at": "2026-10-25T05:00:00+09:00"
+        },
+        {
+          "title": "IAEA \"2060년 원자력발전 수요 3배로 급증…AI 확산 영향 \"",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZcG8yZzF4VUtDUXlkcjA0OHJUZTNaNHg5UjZzOGYyLThQVEQ0ektYNG9rODBYLXlpaC1lZ3JqSFJSTjlFU2RSSGJtZUFBQXNFUi1xWXowZnJTWW_SAWBBVV95cUxNM3RESHdxOFpQTHB4N1I0ZFg0cWxnUkt2TDQzcE1pTlFQanJhWWRtNjQ5ejZ3Tk5hdG52R3RERXdTT1V1VlgzdGo4LW9qTkhITk1aRl9nYklkRnI2dmRwRWw?oc=5",
+          "published_at": "2026-10-24T10:04:37+09:00"
         },
         {
           "title": "대전교육청, 디지털·AI 기술 학교 진로교육 연계 모색",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sRWZ0RkNtWHJKVVBUZzAwc25xYkNFR0pBS21qb3JpYmdkYlh5OW5pYWhTcWhHU2g1bHZfcWkxVldCMkVnMmxYYXhNdXhRTmJ6NWtiTTlpaTBjdEZE?oc=5",
           "published_at": "2026-10-23T18:24:00+09:00"
-        },
-        {
-          "title": "전기안전공사, AI 활용해 전력망 확충 부담 줄일 기술 개발 나서",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwcjFDRG02TFpuaS1XaVllSXFVMkpkNHVnMTdDRUhpQjBtYWhhcU83OVBHbzhZeFdFclBkR1l0blhlbGFpNzYtV25aeXdLbUFKZkxibEZ3?oc=5",
-          "published_at": "2026-10-23T16:07:45+09:00"
-        },
-        {
-          "title": "AI가 바꾸는 일과 부의 미래…에이전트 시대 열린다",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55M3lJX1JtOVZyVnoyX3BpSEVhMC1yWUcxcWVyY0ItWFlOUlFhLW12MEN3LVhRNVlOOVlIVXJDVGFJaVF1RERqUzFLdEtWdV9ZNTRRaVNn?oc=5",
-          "published_at": "2026-10-23T14:51:00+09:00"
-        },
-        {
-          "title": "“AI 성능보다 업무 성과”…기업 도입 확산 관건은 ‘신뢰’",
-          "source": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qckFjdDl2VE8tbDNMU1MyRHBuRWRpRXd6bThldF9PbUkxV3ZndUxpQlNySTNhdnBnOFJjLUdYYmRoU0RWWGRIT1VnczdLRF9FOXfSAVNBVV95cUxOaFlKUE90Z012NnhTZDBHazk0NE9ZNDh6bUxsUGZ2UnlLeDItdTJjMU8tSEthdmJhM2pRcFJXMzVGTlVBbHl0TjhpNllCZmNrclFBTQ?oc=5",
-          "published_at": "2026-10-23T14:18:20+09:00"
-        },
-        {
-          "title": "빅웨이브로보틱스, 피지컬 AI 기술 포럼 개최…'하이퍼 파운드리' 시연 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcEZtandILWItMzI3NVhfbGdwclJ6eWlxRHdQZFp2QTZTX0FwU2RaTjVKUU5Lb3pDZzVFVFl2RmZ6aURxVFBjOXp3SXNaU2h2NXhqNklOTkdNU0Y4NFlpZy1ydlZPN1otdEHSAW9BVV95cUxQd2tvV0pDbUhTclYzejBibmpmbDNQam50WTIwVTRPdndlazNZT1cwQUZnQ0NJRWwzVW5mOG9MN0pTcHBjSS1TNWk4ZHNQeUF3Q0ZkcXNPNFVaaTJfSk5xVVZuM0RKS1pvdHBsOEZtazQ?oc=5",
-          "published_at": "2026-10-23T14:00:00+09:00"
-        },
-        {
-          "title": "NDS·MTEG, 세계병원대회서 의료 데이터 관리·수술 AI 기술 소개",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWtvTkltNmVPMXotRkpBYTNLN0FKLVZHX0ZtUTR5QlJCMzRtckVWalhnS2V5ZTZDaWNrVWlqd1MyT0lZeTR2b0V4VEVIdw?oc=5",
-          "published_at": "2026-10-23T13:55:46+09:00"
-        },
-        {
-          "title": "[게시판] LH, 직원 주도 AI 혁신조직 'AI 프론티어' 출범",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiWUpyZDNKQlZ3VmdHN2tBUEQ5YU1XR0xhMmEyc0Y4N0xlaUV6VTBLZnItWVVBTVdybnpfUmxzU3FEX3pxVHR6T0xXYXFWN3hJR0tPUnd3OW5lNkHSAWBBVV95cUxQWkR1aUl1TFRsQlBEX3JyNGk0N1JKTGFZd1g1VVF3aktoS01XYTU1VURySC1CWEpUX2pqN3lfOXg5YXl3S1VuOFlkSEZ0N0VUWG9Kbi0tOGJEYV9QMnBaVDI?oc=5",
-          "published_at": "2026-10-23T09:22:04+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -60,22 +30,10 @@
     "sds": {
       "items": [
         {
-          "title": "GPU 직접 안사도 된다…삼성SDS, '다차원 AI 풀스택' 전략 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ydnl3Q1ozM2gwdlhTdnZJbEQxRFBTd2ZGWHU3bW01TW1nY2JCdTU2ellFcThEVmVqMkIzT1k3bHByYXZFaU4xMThqeVlRS2cyUG1kZk93YU0xOFdXU0F5YmUyQ3dVYjjSAWxBVV95cUxPVVdoZVJWTjkzWUpSeURPMWh3MVA5b0UxcFZ3SzVvdmplM3lCd2ZnNXZzMXRIdUU2bC02ZGlrODk3UDJKOTIwMnQzUG50RnNVZW10dG9tVjF0QUkzOGQ0UEFBTXE2MVF1Y1lTdXY?oc=5",
-          "published_at": "2026-10-23T10:40:00+09:00"
-        },
-        {
           "title": "“개별 은행 넘어 금융그룹까지”…삼성SDS, 금융권 AI 공략 가속",
           "source": "서울경제TV",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UT0g0bGxEbm5EeW96cWRTSVhXa3Vwa3k5VVhxWHB3bzBDWkp3dHlvNWsyaUd6VWJYUmFaWWw5WXM2eEI4Vk11TXJndThMa1pNQlZLWHVrLWpZdjEzNXFFZVZLem4?oc=5",
           "published_at": "2026-10-23T18:36:59+09:00"
-        },
-        {
-          "title": "BNK금융, 생성형 AI 플랫폼 구축…삼성SDS 우선협상대상자 선정",
-          "source": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5VmJ6d0d1SGY3bWtWeHgwekNWUmxVRnhYcDZ1R29QQVNGRXF4bHZialFBU3h2MzUwM1AxSGxxU2xXQlEwQUM0dEw0dGNfN0JOakdiZTJ3bmY4UXh4a2s5M2RYQTY?oc=5",
-          "published_at": "2026-10-23T08:52:03+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -89,61 +47,42 @@
     "realestate_market": {
       "items": [
         {
-          "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90UDViOFRFbEtjQUw1NGxFMU1feVRubWMxaWxVUkdXTXVYVExZanVLUWZDaGdWMkltX0RIT1htV05nVlRQM2hsU2twVUZJcnlrRktldThvcU9wQQ?oc=5",
-          "published_at": "2026-10-23T06:30:04+09:00"
+          "title": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\"",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acUFROVlMMU9iUFFvTVNkYml4Y0FrSTBXZXVPU1RTNEQtM1VkYkRud3FzS09CRUhKNmJ1bm9SLTQyakxhYmVGNWVIc0d6X3U4ejhvZDhqTlMyeHoxWm9yN2JMTWg3RUdTRFcxN2JUTmo?oc=5",
+          "published_at": "2026-10-24T09:37:22+09:00"
         },
         {
-          "title": "서울 전셋값 고점 눈앞…22개 구, 2년 새 10% 넘게 뛰었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQWwtNFlHbGR2R0dtQl9GQURWcGczNzBrdVJNcHFGakpSWnI1TDZ2alhlVW1udHlmbUdmeC1qZHQ4Y2FEV0xHSHhJX0dyZDM1NWdOZmY2RmxNNEp0aTBzNkoxZWlXTkFuREHSAW9BVV95cUxORTgwc3ZacmdTWFJIVE9teTU5dVhwUXZsWjhGZTVzUG5Ed0hXdGJZeUk1OTh2M0J4bDVKUDFEZzV4R3BKeVJwMTBRM2I0ZENDOEtkQlNyd3NQc0w1UHRMTFR4MlNHTUxvZEo1NDhrMlE?oc=5",
-          "published_at": "2026-10-23T04:30:00+09:00"
-        },
-        {
-          "title": "서울 아파트값 상승폭 3주만 둔화…외곽도 축소",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hX2xJTkFEZXBBNFVyUmJlNXpldHp0LVBYNl9yM0JNbERPWjRDTVVKcDZJcHJJWWRuRlRvY3dkeVVRZkdza1pWLTRmZGdtTEtBd1h5dmpsOE5uTTBrUGFjZ29ydXhjSVE?oc=5",
-          "published_at": "2026-10-22T22:57:00+09:00"
-        },
-        {
-          "title": "수도권 아파트 경매 낙찰률 연중 최저…서울 소형 단지엔 '입찰 열기'",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DYmVTNkxOb2VlbUpBRmhKY3oyd083Mk5oeU1ka3l5SUtoZnd5dWtKVGZyRkFwbTl5Q3FUQlFvQWx2cThpMDRMZkhNblB2cmJuU2RIQVJDTWVvNjQx?oc=5",
-          "published_at": "2026-10-23T16:55:00+09:00"
-        },
-        {
-          "title": "[뉴스in뉴스] “안정화 흐름” “2028년 공급 정상화” 서울 아파트값 향방은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YY191N2NnbWpvSDVBYVNUVmkwT2tYRW54dFp3UnhsMEg2djRITU5YclJDa0UwZ09RVVh5VjhyanBwclQyeXBnNE5LcGFWa1FIYW5tVWN6TGY2emRGOFV6aGJ4U0x0Zw?oc=5",
-          "published_at": "2026-10-23T12:39:00+09:00"
+          "title": "압구정동 신현대12차 92억원·반포동 아크로리버파크 62억 8천만원… 서울 아파트 고가 거래 [MAI부동산]",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRHJPWWJNdU5wekRzVkRSWHNreXM2ZWJIS3RqaW9WZ3dtOUJ5cF9zZW1FR0dvVXltWEFTWXJwWFdfSko5dGN2SHFySHd4bXlDR0h0X3BaTjQ?oc=5",
+          "published_at": "2026-10-24T13:13:18+09:00"
         }
       ],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EC%95%84%ED%8C%8C%ED%8A%B8"
     },
     "realestate_presale": {
-      "items": [
-        {
-          "title": "‘GTX 운정중앙역 시티프라디움’ 입주자모집공고, 11월 2일 특별공급 시작으로 청약 돌입 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXVoSzRwMUh0UldMUTRIaWNsR29qZExRazAwbEhuRU52Wlh2MlZlVmlTZGRqV3hqSkF3VDRiRkNfVkVWMmJFemp0ODU4V3IxMWI2X1Z1RVREQVNKR3lTSzQ1SThkMTVYS0taRmRac3B4V3prQ29kTE1hNHJwYWpMMjZ3QXlNaEIzNlBWd9IBoAFBVV95cUxPMkpfMEhlNThSSjdITy1ndkJOUDdKdUY2LW1lRlhIREwxSFNvTjJ5bXhuVnlXaEtWUkIyc2NXRDZ2eXRqZDBHVnJlbW1iRjNFSGM5Z190ZUNWclUtSHVnaDVtbUpSbDM3bm9QUi04YVJJYjY1RjdnM0tqQlNhVkY3STNEQ0FHT1cwU2ZyTnJRMUNrc1dhVlZsUEVTN1JvcmFR?oc=5",
-          "published_at": "2026-10-23T10:23:00+09:00"
-        }
-      ],
+      "items": [],
       "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%84%9C%EC%9A%B8+%EA%B2%BD%EA%B8%B0+%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%B2%AD%EC%95%BD+%EC%9E%85%EC%A3%BC%EC%9E%90%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0"
     },
     "samsung_baseball": {
       "items": [
         {
-          "title": "삼성-KIA 플레이오프 10월 25일 개막 · KBO 공식 예매 안내",
-          "source": "KBO",
-          "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12210",
-          "published_at": "2026-10-20T00:00:00+09:00"
+          "title": "[오피셜] 삼성 청천벽력! 마무리 김재윤, 사실상 PO 출장 불가 \"우측 전거근 부상→2주 휴식 필요\" 초대형 악재 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbUVxRUhfY19TLVZPOXdSZXlpWlEtVUE3SmFtZ0tmS2tNbE93eEFLSVZtclBRSGlhRzNOVGMwWXdHeHNORUZZdVlOMG0xek1jakRtT0VnczR1MUdPZ3RTZlpaeGhUT3JOTGREck1SUdIBb0FVX3lxTE1XbUVxRUhfY19TLVZPOXdSZXlpWlEtVUE3SmFtZ0tmS2tNbE93eEFLSVZtclBRSGlhRzNOVGMwWXdHeHNORUZZdVlOMG0xek1jakRtT0VnczR1MUdPZ3RTZlpaeGhUT3JOTGREck1SUQ?oc=5",
+          "published_at": "2026-10-24T14:06:29+09:00"
+        },
+        {
+          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmMV9uM0hfSFdSWld3V1FyTHNJM3FBWVU5WE92d1dqRnFfVzJ2YlBVZERWU2VvYkFRV1Y4ZDExRTFTcFAxci1YUGY4MlZUMmhWTVp6NEs5ZWF1MWNhSnZHQtIBYEFVX3lxTFBmMV9uM0hfSFdSWld3V1FyTHNJM3FBWVU5WE92d1dqRnFfVzJ2YlBVZERWU2VvYkFRV1Y4ZDExRTFTcFAxci1YUGY4MlZUMmhWTVp6NEs5ZWF1MWNhSnZHQg?oc=5",
+          "published_at": "2026-10-24T09:17:47+09:00"
         }
       ],
-      "window": "KBO 공식 플레이오프 안내 · 10월 20일",
+      "window": "최근 36시간",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EA%B2%B0%EA%B3%BC+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B2%BD%EA%B8%B0+%EC%9D%BC%EC%A0%95+OR+%EC%82%BC%EC%84%B1+%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%A6%88+%EA%B5%AC%EB%8B%A8+%EC%86%8C%EC%8B%9D"
     },
     "science_tech": {
@@ -153,15 +92,9 @@
           "source": "NASA",
           "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
           "published_at": "2026-10-20T00:00:00+09:00"
-        },
-        {
-          "title": "[AI는 지금] 오픈AI 떠난 인재, 새 회사서 AI로 신약 실험 혁신…美 제약사 '中 의존' 낮춘다",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcjFNdm5lMW9nbGQ0V18yVjdxb2t5MDN4MWdaV29YQVlRRDd4cHdra2NEazktbHp0VEVPNlprYVY1N0pqSVZOY1RXbDFyTGo1VG9KeEF3?oc=5",
-          "published_at": "2026-10-23T10:38:53+09:00"
         }
       ],
-      "window": "최근 36시간",
+      "window": "최근 공식 과학 기사 · 10월 20일(미국)",
       "feed_url": "https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR%3Ako&q=AI+%EC%97%B0%EA%B5%AC"
     },
     "italy_travel": {
@@ -172,46 +105,32 @@
     "top": {
       "items": [
         {
-          "title": "중동 긴장 고조에 뉴욕증시 약세…다우 1%대↓",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMjRYWjd0Uk56aUtxbHZuVHRnUWozYmRXNG1hWG5WOFFwSkdmMXhneG9BTEdHRlVzSGhTZ2FkcXI5WVIyc1RqMTJwbUZFN2NrNlh1OEozSVNYbE9lYkoxbE1lN0NyVlU?oc=5",
-          "published_at": "2026-10-24T07:23:00+09:00",
+          "title": "중동 확전 우려에 유가↑·뉴욕 증시↓...우리 경제는?",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdDB2TjRURHpEVUtSdDU2Z2VXNnNVbWRJWl94eGhFaW1mWEYwenk3dWFyLUpWdEd6Z3F3aDRHT3BrbnozQzFRLVFrVkxSM2NnenVZV3pPcHJtNERGV0E?oc=5",
+          "published_at": "2026-10-24T18:40:00+09:00",
           "category": "세계 경제"
         },
         {
-          "title": "\"서울, 정비사업으로 2∼3년 내 약 5만 가구 이주·멸실\"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pRVhTR1E4QkktdzVvNFkzdEUwaktQX2k3U09XQzlRUmhmSUpZUXJNMHRWbUo4QWtyZHo4MmNmWnFMLXRQU0RTTzQ1UFVZNXZJZjFtUXdldnZJNFHSAWBBVV95cUxNQWN2Uy1JN3ZpNzREMW9GeFhCWkZaVS14ZXM5NDlCbzl5SW9wMUlfWXBuNTBOXzROb3l5TnRwbUVsN0g2M0dRNm5kNjVBTVQ2UmJsZTdMUUN0LU13QXI2WWQ?oc=5",
-          "published_at": "2026-10-23T17:41:37+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "수도권 아파트 경매 낙찰률 연중 최저…서울 소형 단지엔 '입찰 열기'",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DYmVTNkxOb2VlbUpBRmhKY3oyd083Mk5oeU1ka3l5SUtoZnd5dWtKVGZyRkFwbTl5Q3FUQlFvQWx2cThpMDRMZkhNblB2cmJuU2RIQVJDTWVvNjQx?oc=5",
-          "published_at": "2026-10-23T16:55:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "[뉴스in뉴스] “안정화 흐름” “2028년 공급 정상화” 서울 아파트값 향방은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YY191N2NnbWpvSDVBYVNUVmkwT2tYRW54dFp3UnhsMEg2djRITU5YclJDa0UwZ09RVVh5VjhyanBwclQyeXBnNE5LcGFWa1FIYW5tVWN6TGY2emRGOFV6aGJ4U0x0Zw?oc=5",
-          "published_at": "2026-10-23T12:39:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "서울 아파트 3분의 2가 월세…월평균 서초 479만원·강북 218만원",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KSGI0eXZJYXNyME5nb3JtSHZrTDhoYzVQblRVbVJFWlpWZVk5aWREbGRzaWVHVjZmX0g0WXJ2bW5EQkpkSU5oQWZNeHVuWElBczVnZE1Yb1ZzUGl0?oc=5",
-          "published_at": "2026-10-23T10:05:00+09:00",
-          "category": "부동산"
-        },
-        {
-          "title": "트럼프 \"이란이 유가 조작\"‥국제유가 5월 이후 최고",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTcnhvRmxIR1hwcDk1R21kMWsxOE4xWmFOWjlSUms0OVZUaE85QlRvM2hPOU45VEhSRFQzYzZxTWdBSTg1a3gwdmJGTlo2VURzV2sxVVF0cVpVLWZfX2xCNnZSd0dwQTl4T1Y2RmtGLW0zemVocmdWWXJ30gF6QVVfeXFMTWRzdlA5dWtOWl96bkpDbER4Z1VNQXhNUXZudGZ6OElVVUFwd1phTFZaZ1p1TlpJS3dtdFJMTk1FVGhaWnZEc1pZY3N5SllwSmU0T0R2YU5STmJFMno1ZUFOT1dOVmNqXzA5WHJYaGxSb2h5N0ZPUV9OMkE?oc=5",
-          "published_at": "2026-10-23T06:08:34+09:00",
+          "title": "트럼프 \"이란에 다시 '장대한 분노' 작전\"...국제유가 급등",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNWxpZy1MSjZxRmV0OTFPM1ljMERlV1Y1QkZKSVRxYjdKU3RuZkRoUXo0a3lwSERJZDh1X0ZzWFR4RWVlWlMwYXFJZEd6RVNvaVlJdGtOU2tfY0ZxVHc?oc=5",
+          "published_at": "2026-10-24T18:28:00+09:00",
           "category": "세계 경제"
+        },
+        {
+          "title": "압구정동 신현대12차 92억원·반포동 아크로리버파크 62억 8천만원… 서울 아파트 고가 거래 [MAI부동산]",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRHJPWWJNdU5wekRzVkRSWHNreXM2ZWJIS3RqaW9WZ3dtOUJ5cF9zZW1FR0dvVXltWEFTWXJwWFdfSko5dGN2SHFySHd4bXlDR0h0X3BaTjQ?oc=5",
+          "published_at": "2026-10-24T13:13:18+09:00",
+          "category": "부동산"
+        },
+        {
+          "title": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\"",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acUFROVlMMU9iUFFvTVNkYml4Y0FrSTBXZXVPU1RTNEQtM1VkYkRud3FzS09CRUhKNmJ1bm9SLTQyakxhYmVGNWVIc0d6X3U4ejhvZDhqTlMyeHoxWm9yN2JMTWg3RUdTRFcxN2JUTmo?oc=5",
+          "published_at": "2026-10-24T09:37:22+09:00",
+          "category": "부동산"
         }
       ],
       "window": "최근 36시간",

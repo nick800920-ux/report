@@ -46,13 +46,17 @@
       ]
     },
     {
-      title: "대중교통과 친환경 이동",
-      intro: "버스·지하철·자전거·자동차 중 어떤 교통수단을 자주 쓰는지 경험을 곁들여 말해 보세요.",
-      questions: ["How do you usually travel around your city?", "What are the advantages of public transportation?", "How can cities reduce traffic and air pollution?"],
-      idea: "대중교통은 교통 체증과 오염을 줄일 수 있지만, 환승이나 혼잡이 불편할 수 있습니다. 운행 간격과 접근성을 개선하는 것이 중요합니다.",
-      answer: "I usually take the subway because it is reliable and I do not have to worry about parking. Public transportation can reduce traffic and air pollution when many people use it. Still, crowded trains can be uncomfortable during rush hour. I think cities should provide more frequent service and make stations easier to reach.",
-      vocab: [["rush hour", "출퇴근 혼잡 시간"], ["reliable", "믿을 만한"], ["air pollution", "대기오염"], ["frequent service", "잦은 운행"]],
-      query: "public transportation traffic air pollution city"
+      title: "해상 운송비와 생활물가",
+      intro: "IEA는 10월 21일 원유 운송비 상승이 소비자가 부담하는 연료비에도 영향을 줄 수 있다고 분석했습니다. 물건이 멀리서 오는 비용과 일상 가격을 연결해 말해 보세요.",
+      questions: ["Why do shipping costs affect the prices we pay?", "How do higher fuel prices affect your daily life?", "What can people and businesses do when transport costs rise?"],
+      idea: "배나 트럭으로 물건을 옮기는 비용이 오르면 기업의 비용도 늘어 가격에 일부 반영될 수 있습니다. 단정적으로 모든 물건의 가격이 오른다고 말하기보다, 생활 속에서 느끼는 교통비·장보기 부담과 가능한 대응을 예로 드세요.",
+      answer: "Many products travel a long way before they reach our stores. If shipping and fuel costs rise, businesses may have to pay more to move them. Some of that cost can reach consumers. I notice changes most when I buy groceries or fill up my car. I cannot control global shipping costs, but I can compare prices and plan my shopping more carefully. I also think companies should explain major price changes clearly.",
+      vocab: [["shipping costs", "운송비"], ["reach consumers", "소비자에게 전가되다"], ["compare prices", "가격을 비교하다"], ["fill up my car", "차에 기름을 넣다"]],
+      links: [
+        ["IEA: 운송비 상승이 유가·소비자에게 미치는 영향", "https://www.iea.org/commentaries/the-soaring-cost-of-shipping-is-lifting-the-price-of-oil-for-consumers", "IEA 분석 · 2026-10-21"],
+        ["OECD: 해상 운송비와 수입·소비자물가", "https://www.oecd.org/en/publications/the-impact-of-container-shipping-costs-on-import-and-consumer-prices_957f0c0c-en.html", "OECD 연구 · 2025-08-05"],
+        ["IMF: 공급망 지연과 소비자물가", "https://www.imf.org/en/publications/wp/issues/2026/02/13/from-ports-to-prices-the-inflationary-effects-of-global-supply-chain-disruptions-573975", "IMF 연구 · 2026-02-13"]
+      ]
     },
     {
       title: "플라스틱 쓰레기 줄이기",
@@ -115,13 +119,16 @@
       ]
     },
     {
-      title: "기억에 남는 여행",
-      intro: "방문한 곳, 함께 간 사람, 예상 밖의 일과 느낀 점을 순서대로 말해 보세요.",
-      questions: ["Tell me about a trip you remember well.", "Who did you go with and what did you do?", "Did anything unexpected happen during the trip?"],
-      idea: "여행지와 동행을 짧게 소개하고, 가장 기억나는 순간 하나를 자세히 말한 뒤 느낌으로 마무리합니다.",
-      answer: "One trip I remember well was a family trip to the seaside. We went there by train and stayed for two nights. On the first day, it suddenly started to rain, so our plans changed. We found a small cafe with a view of the ocean and spent the afternoon there. At first, I was disappointed, but the quiet time with my family became my favorite memory. The trip reminded me that unexpected moments can be special.",
-      vocab: [["by train", "기차로"], ["all of a sudden", "갑자기"], ["be disappointed", "실망하다"], ["favorite memory", "가장 좋아하는 추억"]],
-      query: "memorable family travel unexpected experience"
+      title: "가족과 공원에 간 날",
+      intro: "주말에 공원에 간 평범한 경험을 장소·활동·작은 사건·느낌 순서로 말해 보세요.",
+      questions: ["Describe a park you often visit with your family.", "What do you usually do there?", "Tell me about a recent visit to that park."],
+      idea: "공원이 집에서 얼마나 가까운지 소개합니다. 산책하거나 아이와 놀았던 최근 하루를 이야기하고, 그 시간이 왜 좋았는지 한 문장으로 마무리하세요.",
+      answer: "There is a small park about ten minutes from my home. I often go there with my family on weekends. We usually walk along the path and sit on a bench for a while. Last Sunday, we brought a ball and played together. It was a little windy, so the ball rolled away once, and we all ran after it. We laughed a lot. I like this park because we can enjoy time together without making a big plan.",
+      vocab: [["ten minutes from my home", "집에서 10분 거리"], ["walk along the path", "길을 따라 걷다"], ["roll away", "굴러가 버리다"], ["without making a big plan", "큰 계획 없이"]],
+      links: [
+        ["NHS: 걷기를 생활에 더하는 방법", "https://www.nhs.uk/live-well/exercise/walking-for-health/", "쉬운 영어 읽기 자료 · NHS"],
+        ["ACTFL: OPIc 시험 형식과 평가 안내", "https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic", "공식 시험 안내 · ACTFL"]
+      ]
     },
     {
       title: "좋아하는 음악",

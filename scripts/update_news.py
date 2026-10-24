@@ -44,7 +44,7 @@ DOMESTIC_POLITICS_TERMS = (
 )
 
 REALESTATE_MARKET_TERMS = ("서울", "경기", "수도권", "아파트", "오피스텔", "주택", "집값", "실거래", "전세", "월세")
-REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프", "재테크 서적", "투자 공부")
+REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프", "재테크 서적", "투자 공부", "쥐 민원")
 TRUSTED_NEWS_SOURCES = {
     "연합뉴스", "연합뉴스tv", "연합인포맥스", "뉴스1", "newsis.com",
     "kbs 뉴스", "mbc 뉴스", "ytn", "한국경제", "매일경제", "서울경제",
