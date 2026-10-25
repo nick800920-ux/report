@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:01:42+09:00",
+  "generated_at": "2026-10-26T07:48:11+09:00",
   "timezone": "Asia/Seoul",
   "method": "Google News RSS 세계 경제·부동산 헤드라인 수집; 국내 정치 키워드 제외; 순서는 피드 제공 순서이며 독자적 중요도 평가가 아님",
   "sections": {
@@ -36,12 +36,6 @@
           "published_at": "2026-10-25T11:39:00+09:00"
         },
         {
-          "title": "영화 '터미네이터'가 현실로?…쿼리파이 \"AI의 습격, 기술로 대비\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1idEhIZmxFMFdRZVp0ek5BaGxGUUNZUFRmQWd0RXI0R1YtOFNGQzhKTWhaS09wblR2YWdIX2NnQ1F2eGRPY0kyaURVcENxdjVQRTltMmRUNElNYzI5cHpUelF6NDNLUEhv0gFuQVVfeXFMTmI0WmE2UldMeHB3eWhJSDh2VzZPOUhVTkVvUEJkajB6TTY3dnR1bmJUR2s3YnpoNDJ6YWNoQ2VrS0pFY1FIa1pLdnJ0dzJ4NUJPU0hCb0FSN0FwTWJhc3ZjQl91WkZiQUN0U19ienc?oc=5",
-          "published_at": "2026-10-25T09:40:01+09:00"
-        },
-        {
           "title": "오라클 AI 월드 2026, 25일 개막…AI 사업 성과 입증 나선다",
           "source": "지디넷코리아",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WG54ck9hUTBzV05Nd1ZWbjkzdkJzUDA3ZG94Tm5ocXdKSlUyREE4Z1Y1QXVQbzVTRndaRDR6OWdRTzNxZENTYnBJT3ZaM0wySTA4UERn?oc=5",
@@ -71,16 +65,16 @@
     "realestate_market": {
       "items": [
         {
+          "title": "서울 아파트 경매 낙찰률 21% 그쳤는데…낙찰가율은 10주 만에 최고[코주부]",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRY1hUV25NZlRULXhYZzdJbG56QWlfM3VPZnJoRkNSX1hIQmtJdmdheWhibWtCdlJSbjRhOXZud0xNV2E4a3dKQWtNemJvaEQ3eXfSAVNBVV95cUxPaUF6V1pXVW1WdXNWTlcyMmdXNVFJbHJraThmNWVndWxZT1VYeTdlVk56WllkZ2lYVHFlWmFKVS1mdW9xQmN1WlFtck12VWJCT0VRbw?oc=5",
+          "published_at": "2026-10-26T06:40:00+09:00"
+        },
+        {
           "title": "KB부동산, 10월 서울 아파트값 전월比 0.61% 올라… 상승폭 올해 최저 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXBTOXAtSTM3UEdXelJXZE52ZGJNMl90TE1HenZ3QkNGblNjRlJ6aEs3R2lUdXNEN3VoQjRIak40V2lMVDA0WnRKUGUzYkJrU2x2MVk2NkN4MWJ4bjJnS3dvNVFDXzRQQVVadTVvVTlpbTU0MEJyeVNSREFaazZ2RzFUMl94dk5QaEhGenkzNGdJUEd5MU9kR9IBrAFBVV95cUxQcWRlcFpTQmtxUEl6c2E1eFVjbXNDWTRTQkhfQ3BRNk41ZENfdVk1UjVWX2pHcW5FZjJUQVJGS2tibGd6WXdQaklHMFBhOUdObUMxQy1nNGxNeE1obUdSeUVGbHRjNWx5QVpBM1AyaDg3bGZVOFFQQWVQZEdiWEJha1VQZ1FxTGJUNDFmVjB0cWRGNFpFY1kweTZISVowVmlRbXZWREV2cFNybklX?oc=5",
           "published_at": "2026-10-25T13:34:00+09:00"
-        },
-        {
-          "title": "KB \"10월 서울 아파트값 0.61% 올라…상승률 연내 최저\"",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZcldDNHFDUXpSNnRXSGpidGNUMVY0bURFaUh2cm5sYUk3VnB2Ym1jNHBvZlVBTmdFYWxJMWlXaThuUi1COEQyTlR5cGo2TXFCUC1QMXN5YjNPZE1sOFFNNNIBYEFVX3lxTFBZcldDNHFDUXpSNnRXSGpidGNUMVY0bURFaUh2cm5sYUk3VnB2Ym1jNHBvZlVBTmdFYWxJMWlXaThuUi1COEQyTlR5cGo2TXFCUC1QMXN5YjNPZE1sOFFNNA?oc=5",
-          "published_at": "2026-10-25T13:16:02+09:00"
         },
         {
           "title": "서울 아파트값 0.61% 상승…올해 최저 상승률 기록",
@@ -95,10 +89,10 @@
           "published_at": "2026-10-25T12:01:09+09:00"
         },
         {
-          "title": "서울 ‘국민평형’ 아파트까지… 이젠 월세로 산다",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05TXl0cXRjSUFZYUE1Y01vZXFmVzZ6SlZ3bjZzZGYySERqSkU3Zmt0Y3B6MnBDOUVoTG5qUHdiU3VldDE0elNqQ19FVks4Rl9rRWpFcl9iYk5JLXlZTElCU254Q2hFUldSWE1pQnhza29xa0xKUE9ybA?oc=5",
-          "published_at": "2026-10-26T00:04:11+09:00"
+          "title": "KB \"10월 서울 아파트값 0.61% 상승‥오름폭 연중 최저\"",
+          "source": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0T0FyY25VcThIN0NsXzUxeVMydWpIdW9rcFRqVEFNWVN1NmJpemtRR1lEX2JRbUpXN3ZiTDZEdUI4OXl0T1Q5ZVBtX0I0d3p1UFRHd1ZfWmpNVTJaWGFEcW5NdWVGTW5IUXF6OWpQOEFadXR60gF0QVVfeXFMT1RoZW41dVFJLVVvZlVlUU44c0c4UzNRejlYWjNoNWtIanZUa0R3VVdSRWdCZWdHSFljbnpHTVV6d2lOdnp5SWY3ejl4VGlodjIzSFo0b2podHgtcDkycHh3RFgyMDExSDlWdkVwRDR0QlRWczA?oc=5",
+          "published_at": "2026-10-25T15:03:58+09:00"
         }
       ],
       "window": "최근 36시간",
@@ -171,10 +165,17 @@
     "top": {
       "items": [
         {
-          "title": "서울 ‘국민평형’ 아파트까지… 이젠 월세로 산다",
-          "source": "서울신문",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05TXl0cXRjSUFZYUE1Y01vZXFmVzZ6SlZ3bjZzZGYySERqSkU3Zmt0Y3B6MnBDOUVoTG5qUHdiU3VldDE0elNqQ19FVks4Rl9rRWpFcl9iYk5JLXlZTElCU254Q2hFUldSWE1pQnhza29xa0xKUE9ybA?oc=5",
-          "published_at": "2026-10-26T00:04:11+09:00",
+          "title": "국제유가 117달러 돌파…에너지값 급등에 연말 물가 '빨간불'",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRXJmbks4eFJxRllRUEd4a01WcDczcEZDS2piTFFmMTJ3Sy12NVpmR1ZzMlNjSVU5TlVxamdJenpvaVVEY3dMZnM0dkIyTVN0cHMxYkdxeVIyQQ?oc=5",
+          "published_at": "2026-10-26T06:45:56+09:00",
+          "category": "세계 경제"
+        },
+        {
+          "title": "서울 아파트 경매 낙찰률 21% 그쳤는데…낙찰가율은 10주 만에 최고[코주부]",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRY1hUV25NZlRULXhYZzdJbG56QWlfM3VPZnJoRkNSX1hIQmtJdmdheWhibWtCdlJSbjRhOXZud0xNV2E4a3dKQWtNemJvaEQ3eXfSAVNBVV95cUxPaUF6V1pXVW1WdXNWTlcyMmdXNVFJbHJraThmNWVndWxZT1VYeTdlVk56WllkZ2lYVHFlWmFKVS1mdW9xQmN1WlFtck12VWJCT0VRbw?oc=5",
+          "published_at": "2026-10-26T06:40:00+09:00",
           "category": "부동산"
         },
         {
@@ -183,13 +184,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xNk54ZUJpRkF5TVdRakpLUkI5bnU2OWZSNkxxWDdtUjdfZFIwZ3gtaDhwTVNQTWVsY0RLaHROdlVfWWZoU0VEQ3A4ZU1oSXZEWGdPU05RM1RZMlVWd2VFNHdOQk8?oc=5",
           "published_at": "2026-10-25T18:16:53+09:00",
           "category": "부동산"
-        },
-        {
-          "title": "이란전쟁 1년 더?…치솟은 국제유가, 6개월만의 최고치 '117달러' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14UU1XalVOVlR1ZGJoMDNwU3dNM1NvSE5VNS1YNFBEV3lxZjdIQXlOczFYR25lQXlxMHlENEJqdm9kblYyZl8yS0oyU2UwNnd0aDJFSDhGZ3gtNzVnN2FUdkF5N1RDalY10gFuQVVfeXFMUGMyWllZa0JCRC01VS01WGw4V3gzZFpITU1LeHd6X0pwREdPSldhQlVTR2dZQUhVRUZYSGtrakUxZVZ6bVFXQVN5cE5jUGZwcjR4Q1RneU5QTzBieG5reEZHWWdMc2otVFYtdmE4RUE?oc=5",
-          "published_at": "2026-10-25T15:10:05+09:00",
-          "category": "세계 경제"
         },
         {
           "title": "서울 아파트 ’전세→월세’ 중형평형서도 껑충",
