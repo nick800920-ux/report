@@ -59,13 +59,17 @@
       ]
     },
     {
-      title: "플라스틱 쓰레기 줄이기",
-      intro: "일회용품을 줄이는 작은 습관과 기업·정부의 역할을 이야기해 보세요.",
-      questions: ["What do you do to reduce plastic waste?", "Should stores charge for disposable bags?", "Why is recycling sometimes difficult?"],
-      idea: "텀블러와 장바구니를 쓰는 개인의 실천이 도움이 됩니다. 동시에 재사용하기 쉬운 포장과 명확한 분리배출 안내도 필요합니다.",
-      answer: "I try to carry a reusable bottle and a shopping bag. These habits do not solve the whole problem, but they help me use fewer disposable products. Recycling can be confusing because the rules are different for each material. Companies should design simpler packaging, and local governments should give clear instructions.",
-      vocab: [["reusable bottle", "다회용 물병"], ["disposable products", "일회용품"], ["packaging", "포장재"], ["sort waste", "쓰레기를 분리하다"]],
-      query: "plastic waste reusable packaging recycling"
+      title: "AI 시대에 필요한 직장 기술",
+      intro: "AI가 일부 업무를 빠르게 처리하면서 직장에서 필요한 기술도 달라지고 있습니다. AI가 모든 일자리를 곧바로 없앤다고 단정하기보다, 어떤 업무와 역량이 바뀌는지 이야기해 보세요.",
+      questions: ["How is AI changing the way people work?", "What skills will workers need in the age of AI?", "Should companies help employees learn to use AI tools?"],
+      idea: "AI는 반복 업무를 줄일 수 있지만, 결과를 확인하고 사람들과 협업하는 능력은 여전히 중요합니다. 회사가 직원에게 도구 사용과 정보 검증을 배울 기회를 제공해야 합니다.",
+      answer: "AI is changing many tasks at work. It can summarize documents and help people finish routine work faster. However, I do not think we should trust every answer it gives. Workers still need to check facts, solve problems, and communicate with others. Companies should offer practical training so employees can use AI with confidence. In my view, the most important skill is learning how to work with new tools while keeping human judgment.",
+      vocab: [["routine work", "반복적인 업무"], ["check facts", "사실을 확인하다"], ["practical training", "실무 교육"], ["human judgment", "사람의 판단"]],
+      links: [
+        ["ILO: 생성형 AI가 일자리·생산성·업무 방식에 미치는 영향", "https://www.ilo.org/publications/impact-genai-jobs-productivity-and-work-organization-review-empirical", "ILO 연구 요약 · 2026-06-01"],
+        ["ILO: AI 시대에 달라지는 직장 기술", "https://www.ilo.org/publications/changing-landscape-skills-age-ai", "ILO 보고서 · 2026-08-13"],
+        ["OECD: 국가별 직업 기술 부족 지도", "https://www.oecd.org/en/publications/mapping-skill-shortages-in-oecd-countries_735f9485-en.html", "OECD 보고서 · 2026-10-14"]
+      ]
     },
     {
       title: "개인정보와 온라인 생활",
@@ -131,13 +135,13 @@
       ]
     },
     {
-      title: "좋아하는 음악",
-      intro: "언제 어떤 음악을 듣는지, 최근 들은 노래와 그때의 기분을 연결해 보세요.",
-      questions: ["What kind of music do you enjoy?", "When do you usually listen to music?", "Tell me about a song that brings back a memory."],
-      idea: "음악 장르를 말하는 데 그치지 않고, 듣는 상황과 개인적인 기억을 한 가지 더합니다.",
-      answer: "I enjoy listening to soft pop music, especially when I am on my way home. It helps me slow down after a busy day. A few days ago, I heard a song that I used to listen to in college. It reminded me of my old friends and the time we spent together. I smiled without realizing it. That is what I like about music: a simple song can bring back a strong memory.",
-      vocab: [["on my way home", "집에 가는 길에"], ["slow down", "속도를 늦추고 쉬다"], ["remind me of", "~을 떠올리게 하다"], ["bring back a memory", "추억을 되살리다"]],
-      query: "music memory daily life listening"
+      title: "영화관에 간 날",
+      intro: "영화를 보러 간 장소와 함께한 사람, 기억에 남는 장면과 기분을 쉬운 말로 이야기해 보세요.",
+      questions: ["Do you enjoy watching movies at a theater?", "Tell me about the last time you went to a movie theater.", "What made that movie experience memorable?"],
+      idea: "영화관 분위기를 한두 문장으로 묘사한 뒤, 최근 방문에서 있었던 작은 일과 느낀 점을 말합니다. 영화 줄거리 전체를 설명할 필요는 없습니다.",
+      answer: "I like going to the movie theater because the big screen makes the movie more exciting. Last Saturday, I went with a friend to see a comedy. We arrived early, bought popcorn, and found our seats. The theater was quite crowded, but we had a good view. One funny scene made everyone laugh, and I felt relaxed after a busy week. I still watch movies at home, but going to the theater feels like a special outing.",
+      vocab: [["big screen", "큰 화면"], ["arrive early", "일찍 도착하다"], ["have a good view", "잘 보이는 자리에 앉다"], ["special outing", "특별한 외출"]],
+      query: "movie theater experience cinema family leisure"
     },
     {
       title: "운동과 산책",

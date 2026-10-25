@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T07:43:59+09:00",
+  "checked_at": "2026-10-26T06:01:29+09:00",
   "timezone": "Asia/Seoul",
   "source": "Yahoo Finance delayed chart quotes",
   "quotes": {
@@ -43,21 +43,21 @@
     },
     "usdkrw": {
       "name": "달러/원",
-      "value": 1325.4,
+      "value": 1323.61,
       "unit": "원 / 1 USD",
-      "as_of": "2026-10-24T12:30:32+09:00",
+      "as_of": "2026-10-26T06:00:15+09:00",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX/",
       "day_change": {
         "baseline": 1325.99,
         "baseline_date": "2026-10-23",
-        "amount": -0.59,
-        "percent": -0.0445
+        "amount": -2.38,
+        "percent": -0.1795
       },
       "week_change": {
         "baseline": 1340.95,
         "baseline_date": "2026-10-16",
-        "amount": -15.55,
-        "percent": -1.1596
+        "amount": -17.34,
+        "percent": -1.2931
       }
     }
   },

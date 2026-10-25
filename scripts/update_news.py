@@ -44,7 +44,7 @@ DOMESTIC_POLITICS_TERMS = (
 )
 
 REALESTATE_MARKET_TERMS = ("서울", "경기", "수도권", "아파트", "오피스텔", "주택", "집값", "실거래", "전세", "월세")
-REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프", "재테크 서적", "투자 공부", "쥐 민원")
+REALESTATE_SPAM_TERMS = ("카지노", "도박", "베팅", "슬롯머신", "토토", "트럼프", "재테크 서적", "투자 공부", "쥐 민원", "정전", "화재", "사고")
 TRUSTED_NEWS_SOURCES = {
     "연합뉴스", "연합뉴스tv", "연합인포맥스", "뉴스1", "newsis.com",
     "kbs 뉴스", "mbc 뉴스", "ytn", "한국경제", "매일경제", "서울경제",
@@ -54,7 +54,7 @@ TRUSTED_NEWS_SOURCES = {
     "samsung sds", "대한민국 정책브리핑", "국토교통부", "금융위원회",
 }
 WORLD_MARKET_TERMS = ("뉴욕증시", "뉴욕 증시", "미국 증시", "국제유가", "국제 유가", "원유", "연준", "미국 국채", "g7", "wti")
-WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권")
+WORLD_ADVICE_TERMS = ("사도 될까", "투자 전략", "추천 종목", "수익률 석권", "원유선물 ETN")
 PROPERTY_ADVICE_TERMS = ("매수 기회", "사도 될까", "추천 매물")
 OFFICIAL_POLICY_SOURCES = {"국토교통부", "금융위원회", "대한민국 정책브리핑", "서울특별시"}
 SCIENCE_SOURCES = TRUSTED_NEWS_SOURCES | {"nasa", "kaist", "사이언스타임즈", "과학동아"}
@@ -220,6 +220,8 @@ def select_top_items(world_feeds: list[dict], property_feed: dict) -> list[dict]
                     topic = "apartment-cancellations"
                 elif "중간가격" in title or "중간 가격대" in title:
                     topic = "apartment-median-price"
+                elif category == "부동산" and ("0.61%" in title or ("KB" in title and "아파트값" in title)):
+                    topic = "kb-october-apartment-prices"
                 if topic and topic in seen_topics:
                     continue
                 seen.add(key)

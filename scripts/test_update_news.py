@@ -86,6 +86,7 @@ class RealEstateHeadlineTests(unittest.TestCase):
     def test_filters_irrelevant_or_spam_headlines(self):
         items = [
             {"title": "서울 아파트 실거래가 변동", "source": "연합뉴스"},
+            {"title": "서울 아파트 정전으로 주민 불편", "source": "연합뉴스"},
             {"title": "카지노 베팅 보너스 안내", "source": "연합뉴스"},
             {"title": "경기 오피스텔 월세 동향", "source": "KBS 뉴스"},
             {"title": "서울 카지노 슬롯머신", "source": "연합뉴스"},
@@ -138,6 +139,13 @@ class RealEstateHeadlineTests(unittest.TestCase):
         homes = {"items": [
             {"title": "서울 중간 가격대 아파트 10억 원", "source": "연합뉴스"},
             {"title": "서울 아파트 중간가격 10억 원", "source": "한국일보"},
+        ]}
+        self.assertEqual(len(select_top_items([], homes)), 1)
+
+    def test_top_collapses_same_kb_apartment_price_release(self):
+        homes = {"items": [
+            {"title": "서울 아파트값 0.61% 상승…연중 최저", "source": "연합뉴스"},
+            {"title": "KB 10월 서울 아파트값 상승률 연내 최저", "source": "한국경제"},
         ]}
         self.assertEqual(len(select_top_items([], homes)), 1)
 
