@@ -72,13 +72,18 @@
       ]
     },
     {
-      title: "개인정보와 온라인 생활",
-      intro: "편리한 앱을 이용하면서 개인정보를 지키는 방법을 말해 보세요.",
-      questions: ["How do you protect your personal information online?", "Are you worried about sharing data with apps?", "What should companies do to keep user data safe?"],
-      idea: "강한 비밀번호와 이중 인증을 쓰고, 앱 권한을 점검합니다. 기업은 수집 범위를 줄이고 유출 시 빠르게 알려야 합니다.",
-      answer: "I use different passwords for important accounts and turn on two-factor authentication. Before installing an app, I check what information it asks for. I like convenient services, but I do not want to share more data than necessary. Companies should explain their privacy rules clearly and protect user information carefully.",
-      vocab: [["personal information", "개인정보"], ["two-factor authentication", "이중 인증"], ["app permissions", "앱 접근 권한"], ["data breach", "정보 유출"]],
-      query: "online privacy apps personal data cybersecurity"
+      title: "어린이를 위한 AI 대화 친구와 안전 규칙",
+      intro: "어린이가 AI 챗봇과 친구처럼 대화하는 일이 늘면서, 도움이 되는 점과 안전을 위한 규칙을 어떻게 균형 있게 마련할지가 논의되고 있습니다. 뉴욕주는 미성년자와 대화하는 AI 동반자 기능에 관한 법을 통과시켰고, 2027년 1월 시행 예정입니다.",
+      questions: ["What are some benefits of AI chatbots for children?", "What risks should parents think about?", "Should there be clear rules for AI chatbots that talk to children?"],
+      idea: "AI 챗봇은 질문에 답하거나 공부를 도울 수 있지만, 아이가 실제 사람과의 대화를 줄이거나 잘못된 조언을 믿을 위험도 있습니다. 부모와 개발자, 정부가 연령에 맞는 보호 규칙을 마련하고 아이가 도움이 필요할 때 믿을 만한 어른에게 말하도록 해야 합니다.",
+      answer: "AI chatbots can be useful for children. They can answer simple questions and help with homework. However, children may believe everything a chatbot says, even when it is wrong. They may also spend too much time talking to it instead of talking to people around them. I think parents should know how their children use these tools. Companies should make clear safety rules and protect children. AI can be helpful, but it should not replace real-life relationships or trusted adults.",
+      vocab: [["AI companion", "AI 대화 친구·동반자"], ["safety rules", "안전 규칙"], ["real-life relationships", "실제 사람과의 관계"], ["trusted adult", "믿을 만한 어른"]],
+      links: [
+        ["AP: 뉴욕주, 어린이와 대화하는 AI 챗봇 안전 규칙 제정", "https://apnews.com/article/03a4e090a7df1532838a5cb6f93a23ba", "AP 보도 · 2026-10-28"],
+        ["뉴욕주 상원: 미성년자 AI 동반자 챗봇 안전 법안", "https://www.nysenate.gov/legislation/bills/2025/S9051", "법안·주지사 서명 상태 · 2026-10-30 확인"],
+        ["Nature Human Behaviour: AI 동반자와 심리적 안녕에 관한 연구", "https://www.nature.com/articles/s41562-026-02516-2", "학술 연구 · 2026-08-04"],
+        ["Brookings: AI 동반자 챗봇의 공중보건 관점", "https://www.brookings.edu/articles/from-bans-to-recalls-a-public-health-framework-for-ai-companion-bots/", "정책 분석 · 2026-05-22"]
+      ]
     },
     {
       title: "건강한 생활 습관",
@@ -144,13 +149,13 @@
       query: "movie theater experience cinema family leisure"
     },
     {
-      title: "운동과 산책",
-      intro: "부담 없이 하는 운동 하나와 최근 실제로 해본 경험을 이야기해 보세요.",
-      questions: ["What do you do to stay active?", "Where do you usually go for a walk or exercise?", "Describe a recent time when you exercised."],
-      idea: "운동 장소·시간과 함께 시작하기 어려운 이유, 하고 나서의 기분을 넣으면 자연스럽습니다.",
-      answer: "I try to go for a walk a few times a week. There is a park near my home, so I can get there easily. Yesterday evening, I went there after dinner even though I felt tired. I walked for about thirty minutes and listened to a podcast. The fresh air helped me clear my mind. I do not do intense exercise, but regular walks make me feel healthier.",
-      vocab: [["stay active", "활동적으로 지내다"], ["even though", "비록 ~이지만"], ["clear my mind", "머리를 식히다"], ["a few times a week", "일주일에 몇 번"]],
-      query: "walking exercise daily routine wellbeing"
+      title: "아침에 하는 일과 준비",
+      intro: "평소 아침에 하는 일을 순서대로 소개하고, 최근 달라진 점이나 기억에 남는 아침을 한 가지 덧붙여 보세요.",
+      questions: ["What do you usually do in the morning?", "What is the busiest part of your morning?", "Tell me about a morning when something unexpected happened."],
+      idea: "일어나는 시간과 준비 순서를 말하고, 아침에 있었던 작은 사건과 그때의 기분으로 마무리하면 편하게 답할 수 있습니다.",
+      answer: "On weekdays, I usually get up around seven. First, I wash up and get dressed. Then I have a quick breakfast and check the weather before leaving home. A few days ago, I could not find my keys, so I had to look around the living room. They were in my jacket pocket. I felt relieved and left on time. My mornings are usually simple, and having a small routine helps me feel ready for the day.",
+      vocab: [["get up", "일어나다"], ["get dressed", "옷을 입다"], ["look around", "주위를 둘러보다·찾아보다"], ["feel ready for the day", "하루를 시작할 준비가 되다"]],
+      query: "morning routine daily habits breakfast"
     },
     {
       title: "동네와 자주 가는 장소",
