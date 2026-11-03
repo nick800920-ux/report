@@ -86,13 +86,17 @@
       ]
     },
     {
-      title: "건강한 생활 습관",
-      intro: "운동·수면·식사 중 하나를 골라 실제 생활에서 지키는 방법을 말해 보세요.",
-      questions: ["What do you do to stay healthy?", "Why do many people find it hard to exercise regularly?", "Describe a healthy habit you want to build."],
-      idea: "무리한 목표보다 걷기와 일정한 수면처럼 지속할 수 있는 습관이 중요합니다. 바쁜 날에도 작은 실천을 이어가는 방법을 제시하세요.",
-      answer: "I try to take a short walk every day and get enough sleep. It can be difficult to exercise regularly when work gets busy. So I set a small goal that I can actually follow. For example, I can walk for twenty minutes after dinner. I think a simple habit is more useful than an ambitious plan I cannot keep.",
-      vocab: [["stay healthy", "건강을 유지하다"], ["regularly", "규칙적으로"], ["set a small goal", "작은 목표를 세우다"], ["keep a habit", "습관을 유지하다"]],
-      query: "healthy habits walking sleep exercise research"
+      title: "도시의 기후 대응과 건강",
+      intro: "WHO의 COP31 브리핑은 기후변화가 건강에 이미 영향을 주고 있으며, 보건 체계의 회복력과 지역의 대비가 중요하다고 설명합니다. 도시가 그늘·녹지·걷기 좋은 길과 폭염 안내를 통해 주민 건강을 지키는 방법을 생각해 보세요.",
+      questions: ["How can cities protect people's health during hot weather?", "Why are parks and public transportation important in a healthy city?", "What should local governments do to prepare for extreme weather?"],
+      idea: "폭염과 이상기후가 건강에 미칠 수 있다는 점을 짧게 소개하고, 그늘과 녹지, 안전한 보행로, 알기 쉬운 경보 같은 실천을 예로 듭니다. 도시별 상황은 다르므로 한 가지 해결책이 모든 곳에 맞는다고 단정하지 않습니다.",
+      answer: "Climate change can affect people's health, especially during very hot weather. I think cities should make it easier for people to stay safe. They can plant more trees, provide shaded places to rest, and share clear warnings before a heat wave. Good public transportation is also helpful because people may not need to walk long distances in the heat. In my neighborhood, I would like to see more shade near bus stops. Small local changes can make daily life safer and more comfortable.",
+      vocab: [["heat wave", "폭염"], ["shaded places", "그늘진 장소"], ["share clear warnings", "명확한 경보를 알리다"], ["stay safe", "안전을 지키다"]],
+      links: [
+        ["WHO: COP31 기후·건강 브리핑", "https://www.who.int/publications/m/item/who-at-cop31--climate-and-health-briefing-and-key-messages", "WHO 브리핑 · 2026-11-03"],
+        ["WHO: 도시의 기후·건강 행동 약속", "https://www.who.int/europe/news/item/07-10-2026-more-than-100-city-leaders-sign-cork-call-to-action-on-climate-and-health", "WHO 뉴스 · 2026-10-07"],
+        ["WHO: 2026 Lancet Countdown 기후·건강 보고서 요약", "https://www.who.int/malaysia/news/detail-global/28-10-2026-climate-change-is-a-growing-health-emergency--lancet-countdown-warns", "WHO 보고서 소개 · 2026-10-28"]
+      ]
     }
   ];
 
@@ -158,13 +162,16 @@
       query: "morning routine daily habits breakfast"
     },
     {
-      title: "동네와 자주 가는 장소",
-      intro: "사는 동네의 모습과 자주 가는 곳을 실제 방문 경험으로 설명해 보세요.",
-      questions: ["What is your neighborhood like?", "Where do you often go in your neighborhood?", "How has your neighborhood changed over time?"],
-      idea: "동네의 장점 한두 가지를 말하고, 자주 가는 공원·카페·도서관 중 한 곳의 경험을 덧붙입니다.",
-      answer: "My neighborhood is quiet, but there are many useful places nearby. I often visit a small park because it is close to my home. Last Sunday, I went there with my family and we spent an hour walking around. A new walking path was added recently, so it is easier to move around. I like living here because I can enjoy a calm place without going far from the city.",
-      vocab: [["nearby", "근처에"], ["walking path", "산책로"], ["move around", "돌아다니다"], ["without going far", "멀리 가지 않고"]],
-      query: "neighborhood park community daily life"
+      title: "가족과 공원에 간 날",
+      intro: "자주 가는 공원의 모습과 가족과 함께한 평범한 하루를 떠올려 보세요. 실제 경험에 맞게 사람·활동·작은 사건을 바꿔 말하면 자연스럽습니다.",
+      questions: ["Describe a park you often visit with your family.", "What do you usually do there?", "Tell me about a recent visit to that park."],
+      idea: "공원이 집에서 얼마나 가까운지와 분위기를 소개한 뒤, 가족과 산책하거나 쉬었던 실제 경험 한 가지, 그때의 기분을 덧붙입니다.",
+      answer: "There is a small park near my home, and I sometimes go there with my family on weekends. We usually walk along the path and sit on a bench for a while. Last Sunday, we took a short walk and talked about our week. The weather was nice, so we stayed longer than we planned. I felt relaxed after spending time outside with my family. I like this park because it is simple, peaceful, and close to home.",
+      vocab: [["near my home", "집 근처에"], ["walk along the path", "길을 따라 걷다"], ["stay longer than planned", "예정보다 오래 머물다"], ["feel relaxed", "편안한 기분이 들다"]],
+      links: [
+        ["NHS: 건강을 위한 걷기", "https://www.nhs.uk/live-well/exercise/walking-for-health/", "걷기와 일상 활동에 관한 영어 읽을거리"],
+        ["ACTFL: OPIc 시험 안내", "https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic", "시험 형식·평가 안내"]
+      ]
     }
   ];
 
