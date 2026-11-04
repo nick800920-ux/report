@@ -3,21 +3,20 @@
 
   const topics = [
     {
-      title: "AI 데이터센터와 전력 문제",
-      intro: "AI 데이터센터가 늘면서 전력·물 사용과 지역사회 부담을 어떻게 나눌지가 쟁점입니다. 미국의 자체 전력·지역사회 혜택 논의는 확정된 보편적 법률이 아니라 최근 발표와 제안으로 구분해 보세요.",
+      title: "기후 적응 재원과 지역사회 보호",
+      intro: "UNEP의 2026년 적응 격차 보고서는 기후 위험에 대비하는 데 필요한 재원과 실제 지원 사이의 큰 차이를 다룹니다. 폭염·홍수 같은 위험에 대비하는 일이 왜 중요하고, 정부와 국제사회가 어떻게 취약한 지역사회를 도울 수 있을지 말해 보세요.",
       questions: [
-        "What are the benefits and problems of building AI data centers?",
-        "Should tech companies pay for the electricity and water their data centers use?",
-        "How do you think AI will change our daily lives?"
+        "Why should communities prepare for climate-related risks?",
+        "Who should help pay for climate adaptation projects?",
+        "What can local governments do to protect people from extreme weather?"
       ],
-      idea: "AI는 의료·교육·업무를 편리하게 만들 수 있지만, 데이터센터가 전력과 물을 많이 쓰면 지역사회에 부담이 됩니다. 기업과 정부가 효율적인 사용과 비용 분담을 함께 고민해야 합니다.",
-      answer: "Artificial intelligence is becoming part of our daily lives. It can help people work faster and solve difficult problems. However, AI data centers need a lot of electricity and water. This can put pressure on local communities and the power grid. I think technology companies should use energy more efficiently and help pay for the resources they consume. Governments should also make clear rules. AI can benefit society, but its growth should be sustainable.",
-      vocab: [["put pressure on", "~에 부담을 주다"], ["power grid", "전력망"], ["use energy efficiently", "에너지를 효율적으로 사용하다"], ["sustainable", "지속 가능한"]],
+      idea: "폭염이나 홍수 같은 위험은 사람들의 생활과 안전에 영향을 줄 수 있습니다. 지역 정부는 경보와 대피 계획을 마련하고, 국제사회와 정부는 재난에 더 취약한 지역이 필요한 대비 시설을 갖추도록 도울 수 있습니다. 모든 곳에 똑같은 해결책을 적용하기보다 지역 상황을 고려해야 한다고 말해 보세요.",
+      answer: "Communities need to prepare for climate-related risks, such as heat waves and floods. These events can affect people's health, homes, and daily routines. Local governments can share clear warnings and make emergency plans. I also think national governments and international organizations should help communities that do not have enough resources. For example, they can support safer buildings and better drainage systems. The needs are different in each place, so plans should fit the local community. Preparing early can help people stay safer.",
+      vocab: [["climate-related risks", "기후 관련 위험"], ["share clear warnings", "명확한 경보를 알리다"], ["emergency plan", "비상 계획"], ["fit the local community", "지역사회에 맞다"]],
       links: [
-        ["로이터: 데이터센터와 지역사회 배당 논의", "https://uk.marketscreener.com/news/trump-says-companies-should-pay-dividend-to-communities-to-make-data-centers-popular-ce785cd8de8af622", "로이터 기사 재게재 · 2026-10-21"],
-        ["Axios: AI 경쟁과 전력 공급 병목", "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck", "전력망·인프라 분석 · 2026-10-20"],
-        ["Brookings: AI 데이터센터와 물 사용", "https://www.brookings.edu/articles/ai-data-centers-and-water/", "연구소 분석 · 2025-11"],
-        ["로이터: 한국 AI 반도체 단지의 전력·물 과제", "https://wifc.com/2026/07/20/analysis-power-water-needs-test-south-koreas-push-to-build-ai-chip-hub-beyond-seoul/", "로이터 기사 재게재 · 2026-07-21"]
+        ["UNEP: 기후 적응 재원이 필요한 수준에 크게 못 미친다는 분석", "https://www.unep.org/en/news-and-stories/press-release/world-heads-overshoot-15degc-adaptation-too-slow", "UNEP 발표 · 2026-11-04"],
+        ["UNEP: Adaptation Gap Report 2026 — Ready? Not", "https://www.unep.org/en/publications/report/adaptation-gap-report-2026", "보고서 원문 · 2026-11-04"],
+        ["WHO: 기후변화와 건강 대응 우선순위 (COP31 브리핑)", "https://www.who.int/publications/m/item/who-at-cop31--climate-and-health-briefing-and-key-messages", "WHO 브리핑 · 2026-11-03"]
       ]
     },
     {
