@@ -20,16 +20,16 @@
       ]
     },
     {
-      title: "AI와 학교 교육",
-      intro: "OECD는 AI가 분명한 교육 목적 아래에서는 학습을 도울 수 있지만, 과제를 AI에 맡기는 것만으로는 배움이 늘지 않을 수 있다고 설명합니다. 편리함과 스스로 생각하는 힘을 함께 이야기해 보세요.",
-      questions: ["How can AI help students learn without doing all their work for them?", "Should students be allowed to use AI for homework?", "What should teachers do to help students check AI-generated answers?"],
-      idea: "AI로 어려운 개념을 다시 설명받거나 연습 문제를 만들어 볼 수 있습니다. 답을 그대로 제출하기보다 근거를 확인하고 자기 말로 설명해야 실력이 늘 수 있습니다.",
-      answer: "I think AI can be a useful study partner, but it should not do a student's work. For example, it can explain a difficult idea in simpler words and suggest practice questions. However, students still need to check whether the answer is correct. I would use AI to get feedback, then write my final answer in my own words. Teachers can also show students how to question AI-generated information. That way, AI supports learning instead of replacing it.",
-      vocab: [["study partner", "학습 도우미"], ["in my own words", "내 말로"], ["check the facts", "사실을 확인하다"], ["replace learning", "학습을 대신하다"]],
+      title: "모두를 위한 안전하고 부담 가능한 주거",
+      intro: "UN-Habitat의 2026 세계도시보고서는 주거비 부담, 안전한 집의 부족, 기후 위험을 서로 연결된 도시 과제로 다룹니다. 집은 잠자는 곳뿐 아니라 일자리·학교·대중교통과 가까운 생활 기반이기도 합니다. 도시가 기존 주민을 보호하면서 주거 환경을 개선하는 방법을 이야기해 보세요.",
+      questions: ["Why is affordable housing important for a community?", "What makes a home and its neighborhood a good place to live?", "How can cities improve neighborhoods without pushing out local residents?"],
+      idea: "집은 안전하게 쉴 공간이고 직장·학교·교통과 연결되어야 합니다. 지방정부는 임대주택과 기반시설을 늘리고, 동네를 개선할 때 기존 주민의 의견을 듣고 이주 부담을 줄일 수 있다고 말해 보세요. 나에게 중요한 조건 한 가지를 덧붙이면 답변이 자연스럽습니다.",
+      answer: "I think everyone needs a safe and affordable place to live. A good home is not just a building; it should also be close to schools, jobs, and public transportation. When a neighborhood needs improvement, cities should listen to the people who already live there. They can add useful services and improve streets while keeping housing affordable. I would like to live in a quiet area with a small park nearby. In my opinion, a good neighborhood helps people feel safe and connected.",
+      vocab: [["affordable housing", "부담 가능한 주거"], ["public transportation", "대중교통"], ["improve a neighborhood", "동네 환경을 개선하다"], ["feel connected", "유대감을 느끼다"]],
       links: [
-        ["OECD: AI 활용·읽기 능력·학습에 관한 PISA 분석", "https://www.oecd.org/en/blogs/2026/09/pisa-findings-on-artificial-intelligence-use-reading-skills-and-learning.html", "OECD 설명 · 2026-09-08"],
-        ["OECD: Digital Education Outlook 2026", "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html", "교육 연구 보고서 · 2026"],
-        ["UNESCO: 교육·연구에서 생성형 AI 활용 지침", "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research", "UNESCO 지침 · 2023-09-07, 2026-01-16 갱신"]
+        ["UN-Habitat: World Cities Day 2026 주거와 도시 재생", "https://unhabitat.org/news/02-nov-2026/world-cities-day-2026-highlights-people-centred-approaches-to-urban-regeneration", "UN-Habitat 발표 · 2026-11-02"],
+        ["UN-Habitat: World Cities Report 2026 — The Global Housing Crisis", "https://unhabitat.org/sites/default/files/2026/05/wcr_2026.pdf", "보고서 원문 · 2026-05-19 발표"],
+        ["UN-Habitat: World Habitat Day 2026, Adequate Housing for All", "https://unhabitat.org/news/05-oct-2026/world-habitat-day-2026-marked-with-call-for-adequate-housing-for-all", "UN-Habitat 발표 · 2026-10-05"]
       ]
     },
     {
@@ -111,12 +111,15 @@
     },
     {
       title: "좋아하는 식당",
-      intro: "자주 가는 식당을 하나 떠올리고, 위치·음식·최근 방문 경험을 말해 보세요.",
-      questions: ["Describe a restaurant you often visit.", "What do you usually order there?", "Tell me about your most recent visit to that restaurant."],
-      idea: "식당의 위치와 분위기 → 즐겨 먹는 메뉴 → 최근 방문 때 있었던 일 → 그곳을 좋아하는 이유 순서로 답합니다.",
-      answer: "There is a small restaurant near my home that I often visit with my family. It serves simple Korean food, and the staff are always friendly. I usually order grilled fish because it tastes fresh and comes with several side dishes. Last weekend, we went there after a long walk. The restaurant was busy, so we waited for about fifteen minutes. The food was worth the wait, and we had a nice conversation over dinner. I like this place because it feels comfortable and the food is reliable.",
-      vocab: [["near my home", "집 근처에"], ["side dishes", "반찬"], ["worth the wait", "기다릴 만한 가치가 있는"], ["have a nice conversation", "즐겁게 대화하다"]],
-      query: "favorite local restaurant dining out family experience"
+      intro: "자주 가는 식당을 떠올리고 위치와 분위기, 즐겨 먹는 메뉴, 최근 방문에서 있었던 작은 일을 순서대로 말해 보세요. 특별한 사건보다 익숙한 경험을 또렷하게 설명하는 연습입니다.",
+      questions: ["Describe a restaurant you like to visit.", "What do you usually order there, and why?", "Tell me about a recent time you ate there."],
+      idea: "식당이 어디에 있고 어떤 분위기인지 말한 뒤, 늘 고르는 메뉴와 최근 방문 한 가지를 소개합니다. 기다렸던 일이나 가족과 나눈 대화처럼 쉬운 세부사항과 기분으로 마무리하세요.",
+      answer: "I often go to a small Korean restaurant near my home with my family. It is casual and usually quite busy in the evening. I normally order grilled fish with rice and side dishes because it is simple and tasty. Last weekend, we went there after a walk. We had to wait for a table, so we talked about our day. The food came warm, and everyone enjoyed the meal. I like this restaurant because it feels comfortable and I know what to expect.",
+      vocab: [["casual", "편안하고 격식 없는"], ["side dishes", "반찬"], ["wait for a table", "자리가 나기를 기다리다"], ["know what to expect", "무엇을 기대할지 알다"]],
+      links: [
+        ["CUH NHS: Eating out and takeaways", "https://www.cuh.nhs.uk/patient-information/eating-out-takeaways-and-alcohol/", "식당·포장 음식 관련 영어 읽을거리 · Cambridge University Hospitals NHS"],
+        ["ACTFL: OPIc 공식 시험 안내", "https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic", "말하기 시험 형식·평가 안내"]
+      ]
     },
     {
       title: "주말 장보기",
