@@ -33,15 +33,16 @@
       ]
     },
     {
-      title: "도시의 건강과 기후 변화",
-      intro: "WHO 유럽지역은 10월 도시 대표들의 기후·건강 행동 약속을 발표했습니다. 공원, 걷기, 대중교통과 극한 날씨 대비를 일상과 연결해 말해 보세요.",
-      questions: ["How can cities make daily life healthier for residents?", "Why are parks and public transportation important?", "What should local governments do to prepare for extreme weather?"],
-      idea: "공원과 걷기 좋은 길은 주민의 건강에 도움을 줄 수 있습니다. 폭염이나 폭우에 대비하려면 그늘·쉼터·대중교통과 안내 체계도 필요합니다. 내가 사는 동네의 개선점을 하나 덧붙이면 자연스럽습니다.",
-      answer: "I think a healthy city should be easy to walk around. Parks give people a place to exercise and relax, while public transportation can make daily travel easier. Cities also need to prepare for extreme weather. For example, they can provide more shade and clear information during heat waves. In my neighborhood, I would like to see more trees near bus stops. Small changes like these can make everyday life safer and more comfortable.",
-      vocab: [["green spaces", "녹지 공간"], ["public transportation", "대중교통"], ["extreme weather", "극한 날씨"], ["prepare for", "~에 대비하다"]],
+      title: "디지털·경제 변화 속 사회적 포용",
+      intro: "UN의 2026 세계사회보고서는 기술·경제 변화의 혜택에서 일자리, 교육, 인터넷 접근 등으로 소외되는 사람이 없도록 하는 사회적 포용을 다룹니다. 변화의 기회를 더 많은 사람이 누리려면 무엇이 필요한지 이야기해 보세요.",
+      questions: ["Why is it important to include everyone in social and technological change?", "How can people gain the skills they need for new jobs?", "What can governments do to make digital services accessible to more people?"],
+      idea: "새 기술과 산업 변화는 기회를 만들지만, 교육이나 인터넷을 이용하기 어려운 사람은 뒤처질 수 있습니다. 평생학습, 직업 훈련, 부담 가능한 인터넷과 기본 서비스를 예로 들고, 변화의 혜택을 넓게 나누는 것이 중요하다고 말해 보세요.",
+      answer: "Technology is changing the way people work and learn. These changes can create new opportunities, but not everyone has the same access to education or the internet. I think governments and companies should offer affordable digital services and practical job training. Schools and community centers can also help people learn new skills. For example, a short computer class may help someone feel more confident at work. In my opinion, progress is better when more people can take part in it.",
+      vocab: [["social inclusion", "사회적 포용"], ["access to education", "교육 접근성"], ["job training", "직업 훈련"], ["take part in", "~에 참여하다"]],
       links: [
-        ["WHO: 유럽 도시 대표들의 기후·건강 행동 약속", "https://www.who.int/europe/news/item/07-10-2026-more-than-100-city-leaders-sign-cork-call-to-action-on-climate-and-health", "WHO 발표 · 2026-10-07"],
-        ["WHO: 폭염과 건강 설명 자료", "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health", "WHO 자료 · 2026-07-31"]
+        ["UN DESA: 세계사회보고서 2026 — 사회적 포용의 새로운 경제학", "https://desapublications.un.org/publications/world-social-report-2026-new-economics-social-inclusion-making-transformations-work", "보고서 원문 · 2026년 10월 발행"],
+        ["UN: 사회적 포용이 변화를 모두에게 작동하게 하는 방법", "https://www.un.org/en/desa/a-new-economics-of-social-inclusion-transformations-that-work-for-all", "UN DESA 설명 · 2026-11-02"],
+        ["UN: 배제의 비용 증가를 경고한 세계사회보고서 발표", "https://www.un.org/ht/node/249090", "UN 보도자료 · 2026-10-15"]
       ]
     },
     {
@@ -122,15 +123,15 @@
       ]
     },
     {
-      title: "주말 장보기",
-      intro: "마트에 가는 시간, 자주 사는 물건과 최근 장보기에서 있었던 작은 일을 말해 보세요.",
-      questions: ["Where do you usually buy groceries?", "What do you usually put on your shopping list?", "Tell me about a recent grocery shopping experience."],
-      idea: "평소 장보는 장소와 목록을 먼저 소개합니다. 최근 장보면서 물건을 잊거나 줄이 길었던 경험을 한 가지 말하고, 어떻게 해결했는지와 느낌으로 마무리하세요.",
-      answer: "I usually buy groceries at a supermarket near my home on weekends. Before I go, I make a short shopping list with fruit, milk, and food for dinner. Last Saturday, I went there with my family, but I forgot to write down eggs. We noticed it when we were about to pay, so I went back to get them. It was a small mistake, and we laughed about it on the way home. I like shopping together because we can choose what to cook for the week.",
-      vocab: [["buy groceries", "장을 보다"], ["shopping list", "장보기 목록"], ["about to pay", "계산하려던 참에"], ["on the way home", "집에 오는 길에"]],
+      title: "동네 카페에서 쉬기",
+      intro: "집이나 직장 근처에서 가 본 카페를 떠올리고, 분위기와 자주 고르는 음료, 최근 방문 때의 기분을 쉬운 문장으로 말해 보세요.",
+      questions: ["Describe a café you like to visit.", "What do you usually order there?", "Tell me about a recent visit to a café."],
+      idea: "카페의 위치와 조용하거나 활기찬 분위기를 묘사하고, 자주 마시는 음료와 함께 간 사람을 말합니다. 최근 방문에서 나눈 대화나 잠깐 쉬었던 경험과 기분을 덧붙이면 됩니다.",
+      answer: "There is a small café near my home that I like. It is quiet in the afternoon, and the staff are friendly. I usually order an iced Americano, but sometimes I get a piece of cake too. Last Sunday, I went there with a family member after lunch. We talked about our week and stayed for about an hour. I felt relaxed when we left. I like this café because it is an easy place to take a short break.",
+      vocab: [["near my home", "집 근처에"], ["order a drink", "음료를 주문하다"], ["take a short break", "잠깐 쉬다"], ["feel relaxed", "편안한 기분이 들다"]],
       links: [
-        ["NHS: 식품 표시 읽기와 장보기 팁", "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/", "영어 읽기 자료 · NHS"],
-        ["ACTFL: OPIc 공식 안내", "https://www.actfl.org/uploads/files/general/OPIc_Familiarization_Guide.pdf", "말하기 시험 안내 · ACTFL"]
+        ["British Council LearnEnglish: 카페에서 주문하기", "https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe", "카페 주문 표현·쉬운 영어 연습"],
+        ["British Council LearnEnglish: 친구에게 보내는 문자", "https://learnenglish.britishcouncil.org/free-resources/reading/a1/text-messages-friend", "카페에서 친구를 만나는 일상 대화 읽기"]
       ]
     },
     {
