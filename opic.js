@@ -178,13 +178,33 @@
     }
   ];
 
+  // Daily brief: replace only these two compact entries on the morning run.
+  const daily = {
+    current: {
+      title: "COP31과 기후 대응",
+      intro: "AP는 COP31을 앞두고 기후 약속의 실행, 화석연료 전환, 취약국 지원이 주요 과제라고 전했습니다.",
+      questions: ["What should countries focus on at COP31?"],
+      idea: "나라들이 기후 약속을 실제 행동으로 옮겨야 한다고 말해 보세요.",
+      answer: "Countries should turn climate promises into real action. They can use more clean energy and help communities prepare for extreme weather. I think working together is important.",
+      vocab: [["turn promises into action", "약속을 행동으로 옮기다"], ["clean energy", "청정에너지"], ["work together", "함께 협력하다"]],
+      links: [["Leaders meet for climate talks after year of disasters, energy shocks", "https://apnews.com/article/cop31-turkey-climate-change-fossil-fuels-6ce625b0e3d4ed0ab093df4e5f9c86ad", "AP · 2026-11-06"]]
+    },
+    life: {
+      title: "집에서 커피 마시기",
+      intro: "집에서 커피를 마시는 평범한 습관을 짧게 말해 보세요.",
+      questions: ["How do you usually enjoy coffee at home?"],
+      idea: "언제 마시는지, 어떤 커피를 좋아하는지, 그때 기분을 말합니다.",
+      answer: "I usually drink coffee at home in the morning. I make a simple cup and enjoy it at the kitchen table. It helps me feel ready for the day.",
+      vocab: [["in the morning", "아침에"], ["make a cup of coffee", "커피 한 잔을 만들다"], ["feel ready for the day", "하루를 시작할 준비가 되다"]]
+    }
+  };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
   const datePart = name => Number(parts.find(part => part.type === name).value);
   const today = Math.round((Date.UTC(datePart("year"), datePart("month") - 1, datePart("day")) - Date.UTC(2026, 9, 22)) / 86400000);
   const indexForDay = day => ((day % topics.length) + topics.length) % topics.length;
   const dateForDay = day => new Intl.DateTimeFormat("ko-KR", {timeZone: "Asia/Seoul", year: "numeric", month: "long", day: "numeric", weekday: "long"}).format(new Date(Date.UTC(2026, 9, 22 + day, 12)));
-  const topicForDay = day => topics[indexForDay(day)];
-  const everydayForDay = day => everydayTopics[((day % everydayTopics.length) + everydayTopics.length) % everydayTopics.length];
+  const topicForDay = day => daily.current;
+  const everydayForDay = day => daily.life;
   const title = document.getElementById("opic-today-title");
   if (title) {
     title.textContent = topicForDay(today).title;
@@ -192,6 +212,17 @@
     if (lifeTitle) lifeTitle.textContent = everydayForDay(today).title;
     const date = document.getElementById("opic-today-date");
     if (date) date.textContent = dateForDay(today);
+  }
+  const homeSummary = document.querySelector("#opic .panel p:last-of-type");
+  if (homeSummary) homeSummary.textContent = "주제마다 질문 1개 · 짧은 영어 답변 · 핵심 표현 2~3개를 연습합니다. 시사 주제에만 원문 기사 링크가 있습니다.";
+
+  const stockCallout = document.querySelector("#ideas .callout");
+  if (stockCallout && !document.getElementById("daily-stock-outlook")) {
+    const box = document.createElement("div");
+    box.id = "daily-stock-outlook";
+    box.className = "callout";
+    box.innerHTML = '<strong>주식 전망 기사 · 2026년 11월</strong><p><b>국내 · “8 Money Doctors’ Stock Market Outlook for November” · 매일경제 · 2026-11-03</b><br>기사 사실: 전문가 6명의 11월 KOSPI 예상 범위 평균은 5,350~6,500. 전망: 변동성은 남지만 불확실성 완화 시 반등 가능성을 제시. <a href="https://www.mk.co.kr/en/stock/12195336" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026년 11월</b><br>기사 사실: 글로벌 주식 견해를 중립으로 낮춤. 전망: 성장·기업이익은 지지 요인이나 긴축 유동성·지정학 위험이 상쇄한다고 평가. <a href="https://am.pictet.com/sg/en/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망은 기사에 실린 견해이며 사실과 다를 수 있습니다. 매매 추천이 아닙니다.</small>';
+    stockCallout.before(box);
   }
 
   if (!document.getElementById("opic-questions")) return;
@@ -223,15 +254,17 @@
     setText(prefix + "-answer", topic.answer);
     const questions = document.getElementById(prefix + "-questions");
     questions.replaceChildren();
-    topic.questions.forEach(question => { const li = document.createElement("li"); li.textContent = question; questions.append(li); });
+    topic.questions.slice(0, 1).forEach(question => { const li = document.createElement("li"); li.textContent = question; questions.append(li); });
     const vocab = document.getElementById(prefix + "-vocab");
     vocab.replaceChildren();
-    topic.vocab.forEach(([word, meaning]) => addItem(vocab, word, meaning));
+    topic.vocab.slice(0, 3).forEach(([word, meaning]) => addItem(vocab, word, meaning));
     const links = document.getElementById(prefix + "-links");
     links.replaceChildren();
-    if (topic.links) {
+    if (prefix === "opic-life") {
+      setText(prefix + "-link-note", "");
+    } else if (topic.links) {
       topic.links.forEach(([label, url, note]) => addItem(links, label, note, url));
-      setText(prefix + "-link-note", "직접 확인한 기사·분석 링크입니다. 유료 기사나 국가별 접속 제한이 있을 수 있습니다.");
+      setText(prefix + "-link-note", "원문 기사 링크 · 발행일 확인");
     } else {
       const query = encodeURIComponent(topic.query);
       addItem(links, "Google News 관련 기사 검색", "최신 기사 목록에서 발행일 확인", "https://news.google.com/search?q=" + query + "&hl=en-US&gl=US&ceid=US:en");
@@ -245,8 +278,5 @@
     renderTopic("opic", topicForDay(selectedDay));
     renderTopic("opic-life", everydayForDay(selectedDay));
   }
-  document.getElementById("opic-prev").addEventListener("click", () => { selectedDay--; render(); });
-  document.getElementById("opic-next").addEventListener("click", () => { selectedDay++; render(); });
-  document.getElementById("opic-today").addEventListener("click", () => { selectedDay = today; render(); });
   render();
 })();
