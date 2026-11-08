@@ -279,4 +279,30 @@
     renderTopic("opic-life", everydayForDay(selectedDay));
   }
   render();
+
+  // Browse the saved daily topic pairs by date (newest to oldest).
+  const archiveDays = Array.from(document.querySelectorAll("#opic-archive-list .archive-day"));
+  if (archiveDays.length) {
+    let archiveIndex = 0;
+    const showArchiveDay = index => {
+      archiveIndex = Math.max(0, Math.min(index, archiveDays.length - 1));
+      const selected = archiveDays[archiveIndex];
+      setText("archive-selected-date", selected.dataset.date);
+      setText("archive-current-topic", selected.dataset.topic);
+      setText("archive-life-topic", selected.dataset.life);
+      archiveDays.forEach((button, i) => {
+        button.setAttribute("aria-pressed", i === archiveIndex ? "true" : "false");
+      });
+      const older = document.getElementById("archive-prev");
+      const newer = document.getElementById("archive-next");
+      if (older) older.disabled = archiveIndex >= archiveDays.length - 1;
+      if (newer) newer.disabled = archiveIndex === 0;
+    };
+    archiveDays.forEach((button, index) => button.addEventListener("click", () => showArchiveDay(index)));
+    const older = document.getElementById("archive-prev");
+    const newer = document.getElementById("archive-next");
+    if (older) older.addEventListener("click", () => showArchiveDay(archiveIndex + 1));
+    if (newer) newer.addEventListener("click", () => showArchiveDay(archiveIndex - 1));
+    showArchiveDay(0);
+  }
 })();
