@@ -203,8 +203,18 @@
   const today = Math.round((Date.UTC(datePart("year"), datePart("month") - 1, datePart("day")) - Date.UTC(2026, 9, 22)) / 86400000);
   const indexForDay = day => ((day % topics.length) + topics.length) % topics.length;
   const dateForDay = day => new Intl.DateTimeFormat("ko-KR", {timeZone: "Asia/Seoul", year: "numeric", month: "long", day: "numeric", weekday: "long"}).format(new Date(Date.UTC(2026, 9, 22 + day, 12)));
-  const topicForDay = day => daily.current;
-  const everydayForDay = day => daily.life;
+  const dateKeyForDay = day => new Date(Date.UTC(2026, 9, 22 + day, 12)).toISOString().slice(0, 10);
+  // Full topic pairs, keyed by the date they were shown.
+  const dailyHistory = {
+    "2026-11-03": {current: topics[5], life: everydayTopics[5]},
+    "2026-11-04": {current: topics[6], life: everydayTopics[6]},
+    "2026-11-05": {current: topics[0], life: everydayTopics[0]},
+    "2026-11-06": {current: topics[1], life: everydayTopics[1]},
+    "2026-11-07": {current: topics[2], life: everydayTopics[2]},
+    "2026-11-08": {current: daily.current, life: daily.life}
+  };
+  const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
+  const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
   const title = document.getElementById("opic-today-title");
   if (title) {
     title.textContent = topicForDay(today).title;
@@ -277,32 +287,17 @@
     setText("opic-date", dateForDay(selectedDay) + (selectedDay === today ? " · 오늘" : ""));
     renderTopic("opic", topicForDay(selectedDay));
     renderTopic("opic-life", everydayForDay(selectedDay));
+    const earliestSavedDay = Math.round((Date.UTC(2026, 10, 3) - Date.UTC(2026, 9, 22)) / 86400000);
+    const prev = document.getElementById("opic-prev");
+    const next = document.getElementById("opic-next");
+    if (prev) prev.disabled = selectedDay <= earliestSavedDay;
+    if (next) next.disabled = selectedDay >= today;
   }
   render();
-
-  // Browse the saved daily topic pairs by date (newest to oldest).
-  const archiveDays = Array.from(document.querySelectorAll("#opic-archive-list .archive-day"));
-  if (archiveDays.length) {
-    let archiveIndex = 0;
-    const showArchiveDay = index => {
-      archiveIndex = Math.max(0, Math.min(index, archiveDays.length - 1));
-      const selected = archiveDays[archiveIndex];
-      setText("archive-selected-date", selected.dataset.date);
-      setText("archive-current-topic", selected.dataset.topic);
-      setText("archive-life-topic", selected.dataset.life);
-      archiveDays.forEach((button, i) => {
-        button.setAttribute("aria-pressed", i === archiveIndex ? "true" : "false");
-      });
-      const older = document.getElementById("archive-prev");
-      const newer = document.getElementById("archive-next");
-      if (older) older.disabled = archiveIndex >= archiveDays.length - 1;
-      if (newer) newer.disabled = archiveIndex === 0;
-    };
-    archiveDays.forEach((button, index) => button.addEventListener("click", () => showArchiveDay(index)));
-    const older = document.getElementById("archive-prev");
-    const newer = document.getElementById("archive-next");
-    if (older) older.addEventListener("click", () => showArchiveDay(archiveIndex + 1));
-    if (newer) newer.addEventListener("click", () => showArchiveDay(archiveIndex - 1));
-    showArchiveDay(0);
-  }
+  const prevButton = document.getElementById("opic-prev");
+  const todayButton = document.getElementById("opic-today");
+  const nextButton = document.getElementById("opic-next");
+  if (prevButton) prevButton.addEventListener("click", () => { selectedDay -= 1; render(); });
+  if (todayButton) todayButton.addEventListener("click", () => { selectedDay = today; render(); });
+  if (nextButton) nextButton.addEventListener("click", () => { if (selectedDay < today) selectedDay += 1; render(); });
 })();
