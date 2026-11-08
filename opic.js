@@ -181,21 +181,21 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "COP31과 기후 대응",
-      intro: "AP는 COP31을 앞두고 기후 약속의 실행, 화석연료 전환, 취약국 지원이 주요 과제라고 전했습니다.",
-      questions: ["What should countries focus on at COP31?"],
-      idea: "나라들이 기후 약속을 실제 행동으로 옮겨야 한다고 말해 보세요.",
-      answer: "Countries should turn climate promises into real action. They can use more clean energy and help communities prepare for extreme weather. I think working together is important.",
-      vocab: [["turn promises into action", "약속을 행동으로 옮기다"], ["clean energy", "청정에너지"], ["work together", "함께 협력하다"]],
-      links: [["Leaders meet for climate talks after year of disasters, energy shocks", "https://apnews.com/article/cop31-turkey-climate-change-fossil-fuels-6ce625b0e3d4ed0ab093df4e5f9c86ad", "AP · 2026-11-06"]]
+      title: "AI 안전을 평가하는 독립 기관",
+      intro: "AP는 미국의 AI 안전 평가 조직이 백악관에 보고하게 될 가능성과 독립성 우려를 보도했습니다. AI를 평가할 때 전문성과 독립성을 어떻게 지킬지 생각해 보세요.",
+      questions: ["Why should AI safety reviewers work independently?"],
+      idea: "새 기술을 평가하는 사람은 장점과 위험을 솔직히 살펴야 한다고 말하고, 독립적인 검토가 신뢰를 높이는 이유를 덧붙이세요.",
+      answer: "AI can be useful, but it may also create new risks. I think independent experts should check how these systems work. They should be able to share problems honestly, even when the results are uncomfortable. Clear rules can help protect the public. At the same time, reviewers should explain their findings in simple language. This can help people make informed decisions about AI.",
+      vocab: [["independent experts", "독립적인 전문가들"], ["share problems honestly", "문제를 솔직히 알리다"], ["informed decisions", "정보에 근거한 결정"]],
+      links: [["Staff at the US center for AI safety are reporting to the White House", "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13", "AP · 2026-11-08"]]
     },
     life: {
-      title: "집에서 커피 마시기",
-      intro: "집에서 커피를 마시는 평범한 습관을 짧게 말해 보세요.",
-      questions: ["How do you usually enjoy coffee at home?"],
-      idea: "언제 마시는지, 어떤 커피를 좋아하는지, 그때 기분을 말합니다.",
-      answer: "I usually drink coffee at home in the morning. I make a simple cup and enjoy it at the kitchen table. It helps me feel ready for the day.",
-      vocab: [["in the morning", "아침에"], ["make a cup of coffee", "커피 한 잔을 만들다"], ["feel ready for the day", "하루를 시작할 준비가 되다"]]
+      title: "퇴근 후 동네 산책",
+      intro: "퇴근 후 가까운 곳을 걷는 평범한 일상을 말해 보세요.",
+      questions: ["What do you usually see on a walk near your home?"],
+      idea: "언제 누구와 걷는지, 산책 중 본 것과 기분을 차례로 말합니다.",
+      answer: "I sometimes take a short walk near my home after work. I usually walk with my wife around the neighborhood. We see small shops and people walking their dogs. The fresh air helps me relax after a busy day. We do not walk for a long time, but it is a nice way to spend time together.",
+      vocab: [["take a short walk", "짧게 산책하다"], ["around the neighborhood", "동네 주변을"], ["fresh air", "신선한 공기"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -211,7 +211,26 @@
     "2026-11-05": {current: topics[0], life: everydayTopics[0]},
     "2026-11-06": {current: topics[1], life: everydayTopics[1]},
     "2026-11-07": {current: topics[2], life: everydayTopics[2]},
-    "2026-11-08": {current: daily.current, life: daily.life}
+    "2026-11-08": {
+      current: {
+        title: "COP31과 기후 대응",
+        intro: "AP는 COP31을 앞두고 기후 약속의 실행, 화석연료 전환, 취약국 지원이 주요 과제라고 전했습니다.",
+        questions: ["What should countries focus on at COP31?"],
+        idea: "나라들이 기후 약속을 실제 행동으로 옮겨야 한다고 말해 보세요.",
+        answer: "Countries should turn climate promises into real action. They can use more clean energy and help communities prepare for extreme weather. I think working together is important.",
+        vocab: [["turn promises into action", "약속을 행동으로 옮기다"], ["clean energy", "청정에너지"], ["work together", "함께 협력하다"]],
+        links: [["Leaders meet for climate talks after year of disasters, energy shocks", "https://apnews.com/article/cop31-turkey-climate-change-fossil-fuels-6ce625b0e3d4ed0ab093df4e5f9c86ad", "AP · 2026-11-06"]]
+      },
+      life: {
+        title: "집에서 커피 마시기",
+        intro: "집에서 커피를 마시는 평범한 습관을 짧게 말해 보세요.",
+        questions: ["How do you usually enjoy coffee at home?"],
+        idea: "언제 마시는지, 어떤 커피를 좋아하는지, 그때 기분을 말합니다.",
+        answer: "I usually drink coffee at home in the morning. I make a simple cup and enjoy it at the kitchen table. It helps me feel ready for the day.",
+        vocab: [["in the morning", "아침에"], ["make a cup of coffee", "커피 한 잔을 만들다"], ["feel ready for the day", "하루를 시작할 준비가 되다"]]
+      }
+    },
+    "2026-11-09": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -231,7 +250,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망 기사 · 2026년 11월</strong><p><b>국내 · “8 Money Doctors’ Stock Market Outlook for November” · 매일경제 · 2026-11-03</b><br>기사 사실: 전문가 6명의 11월 KOSPI 예상 범위 평균은 5,350~6,500. 전망: 변동성은 남지만 불확실성 완화 시 반등 가능성을 제시. <a href="https://www.mk.co.kr/en/stock/12195336" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026년 11월</b><br>기사 사실: 글로벌 주식 견해를 중립으로 낮춤. 전망: 성장·기업이익은 지지 요인이나 긴축 유동성·지정학 위험이 상쇄한다고 평가. <a href="https://am.pictet.com/sg/en/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망은 기사에 실린 견해이며 사실과 다를 수 있습니다. 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “8 Money Doctors’ Stock Market Outlook for November” · 매일경제 · 2026-11-03</b><br>11월 코스피 전망 범위 평균 5,350~6,500(기사 사실); 변동성 이후 불확실성 완화 시 반등 가능성을 제시(전망). <a href="https://www.mk.co.kr/en/stock/12195336" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026-11</b><br>주식 비중을 중립으로 낮춤(기사 사실); 성장·이익과 긴축 유동성·지정학 위험이 맞서는 가운데 방어적 구성을 전망(전망). <a href="https://am.pictet.com/us/en/institutions/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망은 출처의 견해이며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
