@@ -181,13 +181,12 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "AI 개발 속도와 독립 평가",
-      intro: "AP는 독립 연구단체가 Anthropic의 AI 개발 속도를 분석했다고 보도했습니다. 빠른 개발과 안전 점검을 어떻게 함께 할지 생각해 보세요.",
-      questions: ["Why is independent research important for AI safety?"],
-      idea: "독립 연구자가 회사 밖에서 AI를 살펴보면 놓친 위험을 찾는 데 도움이 된다고 말해 보세요.",
-      answer: "AI is developing very quickly. Independent researchers can help us understand its benefits and risks. They can ask questions that a company may not think of. I believe companies should share clear information with outside experts. At the same time, researchers should explain their findings in a fair way. This can help the public make better decisions about new technology.",
-      vocab: [["develop quickly", "빠르게 발전하다"], ["outside experts", "외부 전문가"], ["make better decisions", "더 나은 결정을 하다"]],
-      links: [["Independent group examines Anthropic's AI development", "https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23", "AP · 2026-11-05"]]
+      title: "여행 중 계획이 바뀐 경험",
+      intro: "오픽 AL에서 자주 연습하는 과거 경험 말하기 주제입니다. 예상치 못한 문제와 대처 방법, 그때의 감정을 구체적으로 이어 말해 보세요.",
+      questions: ["Tell me about a trip when something did not go as planned. What happened, how did you handle it, and how did you feel afterward?"],
+      idea: "여행 장소와 원래 계획을 먼저 설명하고, 일정이 틀어진 원인과 직접 취한 조치, 결과와 배운 점까지 시간 순서로 말합니다.",
+      answer: "I'd like to talk about a family trip we took a while ago. We planned to visit a famous attraction in the morning, but heavy rain started on our way there. At first, we were disappointed because we had already bought tickets. I checked the weather and found a nearby indoor museum, so we changed our plan and spent a few hours there instead. By the time the rain stopped, we were already enjoying ourselves. Looking back, the change made the day more memorable, and I learned that it helps to have a flexible backup plan.",
+      vocab: [["not go as planned", "계획대로 되지 않다"], ["change our plan", "계획을 바꾸다"], ["a backup plan", "대안·예비 계획"]]
     },
     life: {
       title: "주말 아침의 여유",
