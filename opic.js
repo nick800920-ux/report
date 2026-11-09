@@ -181,21 +181,21 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "AI 안전을 평가하는 독립 기관",
-      intro: "AP는 미국의 AI 안전 평가 조직이 백악관에 보고하게 될 가능성과 독립성 우려를 보도했습니다. AI를 평가할 때 전문성과 독립성을 어떻게 지킬지 생각해 보세요.",
-      questions: ["Why should AI safety reviewers work independently?"],
-      idea: "새 기술을 평가하는 사람은 장점과 위험을 솔직히 살펴야 한다고 말하고, 독립적인 검토가 신뢰를 높이는 이유를 덧붙이세요.",
-      answer: "AI can be useful, but it may also create new risks. I think independent experts should check how these systems work. They should be able to share problems honestly, even when the results are uncomfortable. Clear rules can help protect the public. At the same time, reviewers should explain their findings in simple language. This can help people make informed decisions about AI.",
-      vocab: [["independent experts", "독립적인 전문가들"], ["share problems honestly", "문제를 솔직히 알리다"], ["informed decisions", "정보에 근거한 결정"]],
-      links: [["Staff at the US center for AI safety are reporting to the White House", "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13", "AP · 2026-11-08"]]
+      title: "AI 개발 속도와 독립 평가",
+      intro: "AP는 독립 연구단체가 Anthropic의 AI 개발 속도를 분석했다고 보도했습니다. 빠른 개발과 안전 점검을 어떻게 함께 할지 생각해 보세요.",
+      questions: ["Why is independent research important for AI safety?"],
+      idea: "독립 연구자가 회사 밖에서 AI를 살펴보면 놓친 위험을 찾는 데 도움이 된다고 말해 보세요.",
+      answer: "AI is developing very quickly. Independent researchers can help us understand its benefits and risks. They can ask questions that a company may not think of. I believe companies should share clear information with outside experts. At the same time, researchers should explain their findings in a fair way. This can help the public make better decisions about new technology.",
+      vocab: [["develop quickly", "빠르게 발전하다"], ["outside experts", "외부 전문가"], ["make better decisions", "더 나은 결정을 하다"]],
+      links: [["Independent group examines Anthropic's AI development", "https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23", "AP · 2026-11-05"]]
     },
     life: {
-      title: "퇴근 후 동네 산책",
-      intro: "퇴근 후 가까운 곳을 걷는 평범한 일상을 말해 보세요.",
-      questions: ["What do you usually see on a walk near your home?"],
-      idea: "언제 누구와 걷는지, 산책 중 본 것과 기분을 차례로 말합니다.",
-      answer: "I sometimes take a short walk near my home after work. I usually walk with my wife around the neighborhood. We see small shops and people walking their dogs. The fresh air helps me relax after a busy day. We do not walk for a long time, but it is a nice way to spend time together.",
-      vocab: [["take a short walk", "짧게 산책하다"], ["around the neighborhood", "동네 주변을"], ["fresh air", "신선한 공기"]]
+      title: "주말 아침의 여유",
+      intro: "주말 아침에 평소 어떻게 시간을 보내는지 간단히 말해 보세요.",
+      questions: ["What do you usually do on a weekend morning?"],
+      idea: "일어나는 시간, 아침에 하는 일, 주말 아침을 좋아하는 이유를 말합니다.",
+      answer: "On weekend mornings, I usually get up a little later than on weekdays. I make coffee and have a simple breakfast at home. Sometimes I read the news or talk with my family. I like these quiet mornings because I can relax and start the day slowly.",
+      vocab: [["get up a little later", "조금 늦게 일어나다"], ["a simple breakfast", "간단한 아침 식사"], ["start the day slowly", "하루를 여유롭게 시작하다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -230,7 +230,26 @@
         vocab: [["in the morning", "아침에"], ["make a cup of coffee", "커피 한 잔을 만들다"], ["feel ready for the day", "하루를 시작할 준비가 되다"]]
       }
     },
-    "2026-11-09": {current: daily.current, life: daily.life}
+    "2026-11-09": {
+      current: {
+        title: "AI 안전을 평가하는 독립 기관",
+        intro: "AP는 미국의 AI 안전 평가 조직이 백악관에 보고하게 될 가능성과 독립성 우려를 보도했습니다. AI를 평가할 때 전문성과 독립성을 어떻게 지킬지 생각해 보세요.",
+        questions: ["Why should AI safety reviewers work independently?"],
+        idea: "새 기술을 평가하는 사람은 장점과 위험을 솔직히 살펴야 한다고 말하고, 독립적인 검토가 신뢰를 높이는 이유를 덧붙이세요.",
+        answer: "AI can be useful, but it may also create new risks. I think independent experts should check how these systems work. They should be able to share problems honestly, even when the results are uncomfortable. Clear rules can help protect the public. At the same time, reviewers should explain their findings in simple language. This can help people make informed decisions about AI.",
+        vocab: [["independent experts", "독립적인 전문가들"], ["share problems honestly", "문제를 솔직히 알리다"], ["informed decisions", "정보에 근거한 결정"]],
+        links: [["Staff at the US center for AI safety are reporting to the White House", "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13", "AP · 2026-11-08"]]
+      },
+      life: {
+        title: "퇴근 후 동네 산책",
+        intro: "퇴근 후 가까운 곳을 걷는 평범한 일상을 말해 보세요.",
+        questions: ["What do you usually see on a walk near your home?"],
+        idea: "언제 누구와 걷는지, 산책 중 본 것과 기분을 차례로 말합니다.",
+        answer: "I sometimes take a short walk near my home after work. I usually walk with my wife around the neighborhood. We see small shops and people walking their dogs. The fresh air helps me relax after a busy day. We do not walk for a long time, but it is a nice way to spend time together.",
+        vocab: [["take a short walk", "짧게 산책하다"], ["around the neighborhood", "동네 주변을"], ["fresh air", "신선한 공기"]]
+      }
+    },
+    "2026-11-10": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -250,7 +269,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “8 Money Doctors’ Stock Market Outlook for November” · 매일경제 · 2026-11-03</b><br>11월 코스피 전망 범위 평균 5,350~6,500(기사 사실); 변동성 이후 불확실성 완화 시 반등 가능성을 제시(전망). <a href="https://www.mk.co.kr/en/stock/12195336" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026-11</b><br>주식 비중을 중립으로 낮춤(기사 사실); 성장·이익과 긴축 유동성·지정학 위험이 맞서는 가운데 방어적 구성을 전망(전망). <a href="https://am.pictet.com/us/en/institutions/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망은 출처의 견해이며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Kospi may fall to 4,500, analysts warn” · Herald Business · 2026-11-09</b><br>전망: AI 우려와 외국인 매도에 단기 변동성이 크며, 5,000선 부근 등락 및 추가 하락 위험이 거론됨. <a href="https://mbiz.heraldcorp.com/article/10930671" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026-11</b><br>전망: 주식은 중립 의견; 성장·이익의 지지와 높은 밸류에이션·채권 대비 매력 저하가 함께 작용. <a href="https://am.pictet.com/uk/en/institutions/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>각 문장은 출처의 전망이며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
