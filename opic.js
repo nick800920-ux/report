@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "여행 중 계획이 바뀐 경험",
-      intro: "오픽 AL에서 자주 연습하는 과거 경험 말하기 주제입니다. 예상치 못한 문제와 대처 방법, 그때의 감정을 구체적으로 이어 말해 보세요.",
-      questions: ["Tell me about a trip when something did not go as planned. What happened, how did you handle it, and how did you feel afterward?"],
-      idea: "여행 장소와 원래 계획을 먼저 설명하고, 일정이 틀어진 원인과 직접 취한 조치, 결과와 배운 점까지 시간 순서로 말합니다.",
-      answer: "I'd like to talk about a family trip we took a while ago. We planned to visit a famous attraction in the morning, but heavy rain started on our way there. At first, we were disappointed because we had already bought tickets. I checked the weather and found a nearby indoor museum, so we changed our plan and spent a few hours there instead. By the time the rain stopped, we were already enjoying ourselves. Looking back, the change made the day more memorable, and I learned that it helps to have a flexible backup plan.",
-      vocab: [["not go as planned", "계획대로 되지 않다"], ["change our plan", "계획을 바꾸다"], ["a backup plan", "대안·예비 계획"]]
+      title: "식당 예약 문제 해결 역할극",
+      intro: "식당에 도착했는데 예약이 확인되지 않는 상황을 정중하게 해결하는 연습입니다. 상황 설명과 대안 요청을 자연스럽게 이어 보세요.",
+      questions: ["You arrive at a restaurant, but the staff cannot find your reservation. Explain the problem and ask them to help you find a solution."],
+      idea: "예약한 시간과 이름을 차분히 말하고, 확인을 부탁한 뒤 대기나 다른 자리 같은 현실적인 대안을 요청합니다. 해결된 결과와 안도한 기분으로 마무리하세요.",
+      answer: "Hi, I have a reservation for two at seven under the name Choi, but I don't see it on your list. Could you check once more, please? I booked it online yesterday, and I can show you the confirmation email. I was a little worried because my family is waiting outside. If the table isn't ready, we don't mind waiting for a few minutes. Could you let us know how long it might take? The staff checked again and found my booking under a different spelling. We were seated shortly afterward, and I felt relieved. It taught me to save my confirmation and arrive a little early.",
+      vocab: [["under the name", "~라는 이름으로"], ["show up on the list", "명단에 나타나다"], ["find a solution", "해결책을 찾다"]]
     },
     life: {
-      title: "주말 아침의 여유",
-      intro: "주말 아침에 평소 어떻게 시간을 보내는지 간단히 말해 보세요.",
-      questions: ["What do you usually do on a weekend morning?"],
-      idea: "일어나는 시간, 아침에 하는 일, 주말 아침을 좋아하는 이유를 말합니다.",
-      answer: "On weekend mornings, I usually get up a little later than on weekdays. I make coffee and have a simple breakfast at home. Sometimes I read the news or talk with my family. I like these quiet mornings because I can relax and start the day slowly.",
-      vocab: [["get up a little later", "조금 늦게 일어나다"], ["a simple breakfast", "간단한 아침 식사"], ["start the day slowly", "하루를 여유롭게 시작하다"]]
+      title: "출근 전 아침 일상",
+      intro: "출근하는 날 아침에 하는 일을 쉬운 순서로 짧게 설명해 보세요.",
+      questions: ["What do you usually do before you leave for work in the morning?"],
+      idea: "일어나서 준비하는 순서와 아침에 꼭 하는 일을 말하고, 그 습관이 왜 도움이 되는지 덧붙입니다.",
+      answer: "On workdays, I usually get up around seven. I wash up, get dressed, and have a quick breakfast. Before I leave, I check the weather and make sure I have my keys. My routine is simple, but it helps me feel ready for work. I try to leave home on time so I don't have to rush.",
+      vocab: [["get dressed", "옷을 입다"], ["make sure", "확인하다"], ["have to rush", "서둘러야 하다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -248,7 +248,25 @@
         vocab: [["take a short walk", "짧게 산책하다"], ["around the neighborhood", "동네 주변을"], ["fresh air", "신선한 공기"]]
       }
     },
-    "2026-11-10": {current: daily.current, life: daily.life}
+    "2026-11-10": {
+      current: {
+        title: "여행 중 계획이 바뀐 경험",
+        intro: "오픽 AL에서 자주 연습하는 과거 경험 말하기 주제입니다. 예상치 못한 문제와 대처 방법, 그때의 감정을 구체적으로 이어 말해 보세요.",
+        questions: ["Tell me about a trip when something did not go as planned. What happened, how did you handle it, and how did you feel afterward?"],
+        idea: "여행 장소와 원래 계획을 먼저 설명하고, 일정이 틀어진 원인과 직접 취한 조치, 결과와 배운 점까지 시간 순서로 말합니다.",
+        answer: "I'd like to talk about a family trip we took a while ago. We planned to visit a famous attraction in the morning, but heavy rain started on our way there. At first, we were disappointed because we had already bought tickets. I checked the weather and found a nearby indoor museum, so we changed our plan and spent a few hours there instead. By the time the rain stopped, we were already enjoying ourselves. Looking back, the change made the day more memorable, and I learned that it helps to have a flexible backup plan.",
+        vocab: [["not go as planned", "계획대로 되지 않다"], ["change our plan", "계획을 바꾸다"], ["a backup plan", "대안·예비 계획"]]
+      },
+      life: {
+        title: "주말 아침의 여유",
+        intro: "주말 아침에 평소 어떻게 시간을 보내는지 간단히 말해 보세요.",
+        questions: ["What do you usually do on a weekend morning?"],
+        idea: "일어나는 시간, 아침에 하는 일, 주말 아침을 좋아하는 이유를 말합니다.",
+        answer: "On weekend mornings, I usually get up a little later than on weekdays. I make coffee and have a simple breakfast at home. Sometimes I read the news or talk with my family. I like these quiet mornings because I can relax and start the day slowly.",
+        vocab: [["get up a little later", "조금 늦게 일어나다"], ["a simple breakfast", "간단한 아침 식사"], ["start the day slowly", "하루를 여유롭게 시작하다"]]
+      }
+    },
+    "2026-11-11": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -268,7 +286,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Kospi may fall to 4,500, analysts warn” · Herald Business · 2026-11-09</b><br>전망: AI 우려와 외국인 매도에 단기 변동성이 크며, 5,000선 부근 등락 및 추가 하락 위험이 거론됨. <a href="https://mbiz.heraldcorp.com/article/10930671" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “November Barometer of financial markets outlook” · Pictet Asset Management · 2026-11</b><br>전망: 주식은 중립 의견; 성장·이익의 지지와 높은 밸류에이션·채권 대비 매력 저하가 함께 작용. <a href="https://am.pictet.com/uk/en/institutions/investment-views/multi-asset/2026/november-barometer-of-financial-markets-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>각 문장은 출처의 전망이며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “SK증권, 코스피 작은 촉매제에 전방위 회복 가능성” · 연합뉴스 · 2026-11-09</b><br>전망: 낙폭·외국인 수급 등 지표가 과도한 위축을 보인 만큼 작은 호재가 생기면 반등할 수 있다는 분석이나, 단기 변동성은 주의가 필요함. <a href="https://www.yna.co.kr/view/AKR20261109020900008?input=1215m" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Increasing signs of a bottom” · Standard Chartered · 2026-11-06</b><br>전망: 변동성 속 저점 신호와 견조한 이익 성장이 긍정적이지만, 정치·AI 투자 불확실성으로 주식 수익률은 완만하고 등락이 클 수 있다는 견해. <a href="https://www.sc.bank.in/market-outlook/weekly-market-view-6-11-2026/" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>각 문장은 출처의 전망이며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
@@ -312,12 +330,14 @@
     } else if (topic.links) {
       topic.links.forEach(([label, url, note]) => addItem(links, label, note, url));
       setText(prefix + "-link-note", "원문 기사 링크 · 발행일 확인");
-    } else {
+    } else if (topic.query) {
       const query = encodeURIComponent(topic.query);
       addItem(links, "Google News 관련 기사 검색", "최신 기사 목록에서 발행일 확인", "https://news.google.com/search?q=" + query + "&hl=en-US&gl=US&ceid=US:en");
       addItem(links, "Reuters 관련 기사 검색", "Google에서 Reuters 보도 찾기", "https://www.google.com/search?q=" + encodeURIComponent("site:reuters.com " + topic.query));
       addItem(links, "BBC 관련 기사 검색", "Google에서 BBC 보도 찾기", "https://www.google.com/search?q=" + encodeURIComponent("site:bbc.com/news " + topic.query));
       setText(prefix + "-link-note", "검색 링크는 기사 자체가 아닙니다. 검색 결과의 출처·발행일을 확인하세요.");
+    } else {
+      setText(prefix + "-link-note", "");
     }
   }
   function render() {
