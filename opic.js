@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "식당 예약 문제 해결 역할극",
-      intro: "식당에 도착했는데 예약이 확인되지 않는 상황을 정중하게 해결하는 연습입니다. 상황 설명과 대안 요청을 자연스럽게 이어 보세요.",
-      questions: ["You arrive at a restaurant, but the staff cannot find your reservation. Explain the problem and ask them to help you find a solution."],
-      idea: "예약한 시간과 이름을 차분히 말하고, 확인을 부탁한 뒤 대기나 다른 자리 같은 현실적인 대안을 요청합니다. 해결된 결과와 안도한 기분으로 마무리하세요.",
-      answer: "Hi, I have a reservation for two at seven under the name Choi, but I don't see it on your list. Could you check once more, please? I booked it online yesterday, and I can show you the confirmation email. I was a little worried because my family is waiting outside. If the table isn't ready, we don't mind waiting for a few minutes. Could you let us know how long it might take? The staff checked again and found my booking under a different spelling. We were seated shortly afterward, and I felt relieved. It taught me to save my confirmation and arrive a little early.",
-      vocab: [["under the name", "~라는 이름으로"], ["show up on the list", "명단에 나타나다"], ["find a solution", "해결책을 찾다"]]
+      title: "불량 상품 교환 요청 역할극",
+      intro: "새로 산 이어폰에서 소리가 한쪽만 나는 문제를 매장에 설명하고 교환을 요청하는 상황입니다. 실제 OPIc 연습용 역할극이며 특정 실제 출제문제는 아닙니다.",
+      questions: ["You bought a pair of headphones, but only one side works. Call the store, explain what happened, and ask how you can exchange them."],
+      idea: "구매 시점과 발견한 문제를 설명하고, 매장에서 시험해 본 조치와 직원에게 요청한 내용을 말하세요. 교환 여부와 당시 감정, 다음에 영수증과 포장을 보관하겠다는 점으로 마무리합니다.",
+      answer: "I bought a pair of wireless headphones at a store near my office last Friday. I was excited to use them on my commute, but the next morning I noticed that only the left side had sound. I charged them fully and checked the settings, but the problem did not go away. I called the store and explained when I bought them. The employee asked me to bring the receipt and the original box, so I stopped by after work. They tested the headphones and exchanged them for a new pair. I felt relieved because I needed them for my daily commute. I learned to keep the receipt until I know a new product works properly.",
+      vocab: [["only one side works", "한쪽만 작동하다"], ["the problem did not go away", "문제가 사라지지 않았다"], ["exchange it for a new pair", "새 제품으로 교환하다"]]
     },
     life: {
-      title: "출근 전 아침 일상",
-      intro: "출근하는 날 아침에 하는 일을 쉬운 순서로 짧게 설명해 보세요.",
-      questions: ["What do you usually do before you leave for work in the morning?"],
-      idea: "일어나서 준비하는 순서와 아침에 꼭 하는 일을 말하고, 그 습관이 왜 도움이 되는지 덧붙입니다.",
-      answer: "On workdays, I usually get up around seven. I wash up, get dressed, and have a quick breakfast. Before I leave, I check the weather and make sure I have my keys. My routine is simple, but it helps me feel ready for work. I try to leave home on time so I don't have to rush.",
-      vocab: [["get dressed", "옷을 입다"], ["make sure", "확인하다"], ["have to rush", "서둘러야 하다"]]
+      title: "평소 장보기 습관",
+      intro: "평소 어디서 장을 보고 어떤 물건을 사는지 쉬운 문장으로 말해 보세요.",
+      questions: ["Where do you usually go grocery shopping, and what do you normally buy?"],
+      idea: "주로 가는 가게와 자주 사는 물건 두세 가지, 장을 보는 시간을 간단히 소개하고 그곳을 편하게 느끼는 이유를 덧붙입니다.",
+      answer: "I usually go grocery shopping at a supermarket near my home. I buy fruit, vegetables, milk, and a few things for dinner. I often go on the weekend with my wife, so we can choose what we need together. The store is easy to get to, and it has a good selection. I try to make a short shopping list before I go. That helps me save time and avoid buying too many things.",
+      vocab: [["go grocery shopping", "장을 보러 가다"], ["a good selection", "다양한 선택지"], ["make a shopping list", "장보기 목록을 만들다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -266,7 +266,25 @@
         vocab: [["get up a little later", "조금 늦게 일어나다"], ["a simple breakfast", "간단한 아침 식사"], ["start the day slowly", "하루를 여유롭게 시작하다"]]
       }
     },
-    "2026-11-11": {current: daily.current, life: daily.life}
+    "2026-11-11": {
+      current: {
+        title: "식당 예약 문제 해결 역할극",
+        intro: "식당에 도착했는데 예약이 확인되지 않는 상황을 정중하게 해결하는 연습입니다. 상황 설명과 대안 요청을 자연스럽게 이어 보세요.",
+        questions: ["You arrive at a restaurant, but the staff cannot find your reservation. Explain the problem and ask them to help you find a solution."],
+        idea: "예약한 시간과 이름을 차분히 말하고, 확인을 부탁한 뒤 대기나 다른 자리 같은 현실적인 대안을 요청합니다. 해결된 결과와 안도한 기분으로 마무리하세요.",
+        answer: "Hi, I have a reservation for two at seven under the name Choi, but I don't see it on your list. Could you check once more, please? I booked it online yesterday, and I can show you the confirmation email. I was a little worried because my family is waiting outside. If the table isn't ready, we don't mind waiting for a few minutes. Could you let us know how long it might take? The staff checked again and found my booking under a different spelling. We were seated shortly afterward, and I felt relieved. It taught me to save my confirmation and arrive a little early.",
+        vocab: [["under the name", "~라는 이름으로"], ["show up on the list", "명단에 나타나다"], ["find a solution", "해결책을 찾다"]]
+      },
+      life: {
+        title: "출근 전 아침 일상",
+        intro: "출근하는 날 아침에 하는 일을 쉬운 순서로 짧게 설명해 보세요.",
+        questions: ["What do you usually do before you leave for work in the morning?"],
+        idea: "일어나서 준비하는 순서와 아침에 꼭 하는 일을 말하고, 그 습관이 왜 도움이 되는지 덧붙입니다.",
+        answer: "On workdays, I usually get up around seven. I wash up, get dressed, and have a quick breakfast. Before I leave, I check the weather and make sure I have my keys. My routine is simple, but it helps me feel ready for work. I try to leave home on time so I don't have to rush.",
+        vocab: [["get dressed", "옷을 입다"], ["make sure", "확인하다"], ["have to rush", "서둘러야 하다"]]
+      }
+    },
+    "2026-11-12": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -286,7 +304,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “SK증권, 코스피 작은 촉매제에 전방위 회복 가능성” · 연합뉴스 · 2026-11-09</b><br>전망: 낙폭·외국인 수급 등 지표가 과도한 위축을 보인 만큼 작은 호재가 생기면 반등할 수 있다는 분석이나, 단기 변동성은 주의가 필요함. <a href="https://www.yna.co.kr/view/AKR20261109020900008?input=1215m" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Increasing signs of a bottom” · Standard Chartered · 2026-11-06</b><br>전망: 변동성 속 저점 신호와 견조한 이익 성장이 긍정적이지만, 정치·AI 투자 불확실성으로 주식 수익률은 완만하고 등락이 클 수 있다는 견해. <a href="https://www.sc.bank.in/market-outlook/weekly-market-view-6-11-2026/" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>각 문장은 출처의 전망이며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Fed rate hike fears mount as KOSPI battles to hold 5,200” · 머니투데이 · 2026-11-11</b><br>전망: 미국 금리·수익률과 대중 수출통제 우려가 부담이지만, CPI 충격이 제한적이어서 장중 하방은 비교적 견조할 수 있다는 증권사 분석. <a href="https://www.mt.co.kr/index.php/en/stock/2026/11/11/2026111108554749491" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “The Post-Election Opportunities in AI Stocks” · Morgan Stanley · 2026-11-11</b><br>전망: AI 관련 매도는 과도했다는 평가로 투자 사이클은 유지될 수 있지만, 정책·데이터센터 지연과 변동성 위험이 남아 있다는 견해. <a href="https://www.morganstanley.com/insights/articles/investing-in-ai-after-2026-midterms-selloff" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
