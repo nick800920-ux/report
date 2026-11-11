@@ -184,9 +184,9 @@
       title: "불량 상품 교환 요청 역할극",
       intro: "새로 산 이어폰에서 소리가 한쪽만 나는 문제를 매장에 설명하고 교환을 요청하는 상황입니다. 실제 OPIc 연습용 역할극이며 특정 실제 출제문제는 아닙니다.",
       questions: ["You bought a pair of headphones, but only one side works. Call the store, explain what happened, and ask how you can exchange them."],
-      idea: "구매 시점과 발견한 문제를 설명하고, 매장에서 시험해 본 조치와 직원에게 요청한 내용을 말하세요. 교환 여부와 당시 감정, 다음에 영수증과 포장을 보관하겠다는 점으로 마무리합니다.",
-      answer: "I bought a pair of wireless headphones at a store near my office last Friday. I was excited to use them on my commute, but the next morning I noticed that only the left side had sound. I charged them fully and checked the settings, but the problem did not go away. I called the store and explained when I bought them. The employee asked me to bring the receipt and the original box, so I stopped by after work. They tested the headphones and exchanged them for a new pair. I felt relieved because I needed them for my daily commute. I learned to keep the receipt until I know a new product works properly.",
-      vocab: [["only one side works", "한쪽만 작동하다"], ["the problem did not go away", "문제가 사라지지 않았다"], ["exchange it for a new pair", "새 제품으로 교환하다"]]
+      idea: "이번 문항은 과거 경험 회상이 아니라 매장에 직접 전화하는 역할극입니다. 인사 → 전화한 이유 → 문제 설명 → 교환 가능 여부와 준비물 질문 → 감사 인사 순으로 실제 통화처럼 답하세요.",
+      answer: "Hello, I'm calling about a pair of wireless headphones I bought at your store last Friday. I noticed that only the left side works, even after I charged them and checked the settings. Could I exchange them for a new pair? I still have the receipt and the original box. Is there anything else I need to bring, and would it be okay if I came by after work today? Great, I'll bring everything with me. Thank you for your help. I look forward to getting this sorted out.",
+      vocab: [["I'm calling about…", "~에 관해 전화드렸어요"], ["Could I exchange them?", "교환할 수 있을까요?"], ["get this sorted out", "이 일을 해결하다"]]
     },
     life: {
       title: "평소 장보기 습관",
@@ -272,8 +272,8 @@
         intro: "식당에 도착했는데 예약이 확인되지 않는 상황을 정중하게 해결하는 연습입니다. 상황 설명과 대안 요청을 자연스럽게 이어 보세요.",
         questions: ["You arrive at a restaurant, but the staff cannot find your reservation. Explain the problem and ask them to help you find a solution."],
         idea: "예약한 시간과 이름을 차분히 말하고, 확인을 부탁한 뒤 대기나 다른 자리 같은 현실적인 대안을 요청합니다. 해결된 결과와 안도한 기분으로 마무리하세요.",
-        answer: "Hi, I have a reservation for two at seven under the name Choi, but I don't see it on your list. Could you check once more, please? I booked it online yesterday, and I can show you the confirmation email. I was a little worried because my family is waiting outside. If the table isn't ready, we don't mind waiting for a few minutes. Could you let us know how long it might take? The staff checked again and found my booking under a different spelling. We were seated shortly afterward, and I felt relieved. It taught me to save my confirmation and arrive a little early.",
-        vocab: [["under the name", "~라는 이름으로"], ["show up on the list", "명단에 나타나다"], ["find a solution", "해결책을 찾다"]]
+        answer: "Hi, I have a reservation for two at seven under the name Choi, but I don't see it on your list. Could you check once more, please? I booked it online yesterday, and I can show you the confirmation email. My family is waiting outside, but we don't mind waiting for a few minutes if the table isn't ready. Could you let us know how long it might take? Oh, you found it under a different spelling? That's great. Thank you for checking. We'll wait here until our table is ready.",
+        vocab: [["under the name", "~라는 이름으로"], ["confirmation email", "예약 확인 이메일"], ["Could you check once more?", "한 번 더 확인해 주시겠어요?"]]
       },
       life: {
         title: "출근 전 아침 일상",
