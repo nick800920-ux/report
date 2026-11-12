@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "불량 상품 교환 요청 역할극",
-      intro: "새로 산 이어폰에서 소리가 한쪽만 나는 문제를 매장에 설명하고 교환을 요청하는 상황입니다. 실제 OPIc 연습용 역할극이며 특정 실제 출제문제는 아닙니다.",
-      questions: ["You bought a pair of headphones, but only one side works. Call the store, explain what happened, and ask how you can exchange them."],
-      idea: "이번 문항은 과거 경험 회상이 아니라 매장에 직접 전화하는 역할극입니다. 인사 → 전화한 이유 → 문제 설명 → 교환 가능 여부와 준비물 질문 → 감사 인사 순으로 실제 통화처럼 답하세요.",
-      answer: "Hello, I'm calling about a pair of wireless headphones I bought at your store last Friday. I noticed that only the left side works, even after I charged them and checked the settings. Could I exchange them for a new pair? I still have the receipt and the original box. Is there anything else I need to bring, and would it be okay if I came by after work today? Great, I'll bring everything with me. Thank you for your help. I look forward to getting this sorted out.",
-      vocab: [["I'm calling about…", "~에 관해 전화드렸어요"], ["Could I exchange them?", "교환할 수 있을까요?"], ["get this sorted out", "이 일을 해결하다"]]
+      title: "온라인 쇼핑과 매장 쇼핑 비교",
+      intro: "온라인과 오프라인에서 물건을 살 때의 차이를 실제 경험과 함께 비교해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+      questions: ["Compare shopping online with shopping at a store. Which do you prefer, and why?"],
+      idea: "편리함, 직접 확인할 수 있는 점, 배송 대기 같은 기준을 비교하고 어떤 상황에서 어느 방식을 고르는지 구체적인 예를 덧붙입니다.",
+      answer: "I shop both online and at physical stores, but I use them for different things. Online shopping is convenient because I can compare prices at home and order something anytime. However, delivery can take a few days, and the item may look different in person. At a store, I can check the size and quality right away, but it takes time to travel there. For example, I usually buy household supplies online, while I prefer trying on clothes at a store. Overall, I choose the option that saves me time without sacrificing quality.",
+      vocab: [["compare prices", "가격을 비교하다"], ["in person", "직접·실물로"], ["without sacrificing quality", "품질을 희생하지 않고"]]
     },
     life: {
-      title: "평소 장보기 습관",
-      intro: "평소 어디서 장을 보고 어떤 물건을 사는지 쉬운 문장으로 말해 보세요.",
-      questions: ["Where do you usually go grocery shopping, and what do you normally buy?"],
-      idea: "주로 가는 가게와 자주 사는 물건 두세 가지, 장을 보는 시간을 간단히 소개하고 그곳을 편하게 느끼는 이유를 덧붙입니다.",
-      answer: "I usually go grocery shopping at a supermarket near my home. I buy fruit, vegetables, milk, and a few things for dinner. I often go on the weekend with my wife, so we can choose what we need together. The store is easy to get to, and it has a good selection. I try to make a short shopping list before I go. That helps me save time and avoid buying too many things.",
-      vocab: [["go grocery shopping", "장을 보러 가다"], ["a good selection", "다양한 선택지"], ["make a shopping list", "장보기 목록을 만들다"]]
+      title: "평소 점심 식사",
+      intro: "보통 점심을 어디서 누구와 먹는지 쉬운 문장으로 말해 보세요.",
+      questions: ["Where do you usually have lunch, and what do you like to eat?"],
+      idea: "점심을 먹는 장소와 자주 먹는 음식, 점심시간에 하는 일을 간단히 설명합니다.",
+      answer: "On workdays, I usually have lunch near my office. I often eat with my coworkers at a small restaurant. We choose simple meals like soup, rice, or noodles. After lunch, I sometimes take a short walk before going back to work. It is a nice break in the middle of the day, and I enjoy talking with my coworkers.",
+      vocab: [["on workdays", "평일에는"], ["a short walk", "짧은 산책"], ["in the middle of the day", "하루 중간에"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -284,7 +284,25 @@
         vocab: [["get dressed", "옷을 입다"], ["make sure", "확인하다"], ["have to rush", "서둘러야 하다"]]
       }
     },
-    "2026-11-12": {current: daily.current, life: daily.life}
+    "2026-11-12": {
+      current: {
+        title: "불량 상품 교환 요청 역할극",
+        intro: "새로 산 이어폰에서 소리가 한쪽만 나는 문제를 매장에 설명하고 교환을 요청하는 상황입니다. 실제 OPIc 연습용 역할극이며 특정 실제 출제문제는 아닙니다.",
+        questions: ["You bought a pair of headphones, but only one side works. Call the store, explain what happened, and ask how you can exchange them."],
+        idea: "이번 문항은 과거 경험 회상이 아니라 매장에 직접 전화하는 역할극입니다. 인사 → 전화한 이유 → 문제 설명 → 교환 가능 여부와 준비물 질문 → 감사 인사 순으로 실제 통화처럼 답하세요.",
+        answer: "Hello, I'm calling about a pair of wireless headphones I bought at your store last Friday. I noticed that only the left side works, even after I charged them and checked the settings. Could I exchange them for a new pair? I still have the receipt and the original box. Is there anything else I need to bring, and would it be okay if I came by after work today? Great, I'll bring everything with me. Thank you for your help. I look forward to getting this sorted out.",
+        vocab: [["I'm calling about…", "~에 관해 전화드렸어요"], ["Could I exchange them?", "교환할 수 있을까요?"], ["get this sorted out", "이 일을 해결하다"]]
+      },
+      life: {
+        title: "평소 장보기 습관",
+        intro: "평소 어디서 장을 보고 어떤 물건을 사는지 쉬운 문장으로 말해 보세요.",
+        questions: ["Where do you usually go grocery shopping, and what do you normally buy?"],
+        idea: "주로 가는 가게와 자주 사는 물건 두세 가지, 장을 보는 시간을 간단히 소개하고 그곳을 편하게 느끼는 이유를 덧붙입니다.",
+        answer: "I usually go grocery shopping at a supermarket near my home. I buy fruit, vegetables, milk, and a few things for dinner. I often go on the weekend with my wife, so we can choose what we need together. The store is easy to get to, and it has a good selection. I try to make a short shopping list before I go. That helps me save time and avoid buying too many things.",
+        vocab: [["go grocery shopping", "장을 보러 가다"], ["a good selection", "다양한 선택지"], ["make a shopping list", "장보기 목록을 만들다"]]
+      }
+    },
+    "2026-11-13": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -304,7 +322,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Fed rate hike fears mount as KOSPI battles to hold 5,200” · 머니투데이 · 2026-11-11</b><br>전망: 미국 금리·수익률과 대중 수출통제 우려가 부담이지만, CPI 충격이 제한적이어서 장중 하방은 비교적 견조할 수 있다는 증권사 분석. <a href="https://www.mt.co.kr/index.php/en/stock/2026/11/11/2026111108554749491" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “The Post-Election Opportunities in AI Stocks” · Morgan Stanley · 2026-11-11</b><br>전망: AI 관련 매도는 과도했다는 평가로 투자 사이클은 유지될 수 있지만, 정책·데이터센터 지연과 변동성 위험이 남아 있다는 견해. <a href="https://www.morganstanley.com/insights/articles/investing-in-ai-after-2026-midterms-selloff" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KOSPI outlook rises as gains concentrate in semiconductors and surprises fade” · 조선비즈 · 2026-11-12</b><br>전망: 이익 전망 상향은 반도체에 집중되고 다른 업종은 약해, 지수 상승의 폭과 실적 지속성을 살펴야 한다는 키움증권 분석. <a href="https://biz.chosun.com/en/en-finance/2026/11/12/IYN72HWVW5ARNLDEIOV7VNUYLU/?outputType=amp" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “US stock market rotation broadens beyond AI after Democratic sweep” · Robeco · 2026-11-11</b><br>전망: 기업 실적이 주가를 뒷받침하고 AI 밖으로 순환매가 넓어질 수 있지만, 5%를 웃도는 미 국채 금리와 변동성은 위험 요인이라는 견해. <a href="https://www.robeco.com/en-sg/insights/2026/11/us-stock-market-rotation-broadens-beyond-ai-after-democratic-sweep" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사의 사실과 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
