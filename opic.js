@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "온라인 쇼핑과 매장 쇼핑 비교",
-      intro: "온라인과 오프라인에서 물건을 살 때의 차이를 실제 경험과 함께 비교해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
-      questions: ["Compare shopping online with shopping at a store. Which do you prefer, and why?"],
-      idea: "편리함, 직접 확인할 수 있는 점, 배송 대기 같은 기준을 비교하고 어떤 상황에서 어느 방식을 고르는지 구체적인 예를 덧붙입니다.",
-      answer: "I shop both online and at physical stores, but I use them for different things. Online shopping is convenient because I can compare prices at home and order something anytime. However, delivery can take a few days, and the item may look different in person. At a store, I can check the size and quality right away, but it takes time to travel there. For example, I usually buy household supplies online, while I prefer trying on clothes at a store. Overall, I choose the option that saves me time without sacrificing quality.",
-      vocab: [["compare prices", "가격을 비교하다"], ["in person", "직접·실물로"], ["without sacrificing quality", "품질을 희생하지 않고"]]
+      title: "동네 공원에서 보내는 시간",
+      intro: "집 근처 공원의 모습과 그곳에서 즐기는 활동을 구체적으로 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+      questions: ["Describe a park in your neighborhood. What does it look like, and what do you usually do there?"],
+      idea: "공원의 위치와 눈에 띄는 시설을 먼저 소개한 뒤, 누구와 언제 방문하는지와 그곳에서 하는 일을 예로 듭니다. 공원이 일상에 주는 느낌으로 마무리하세요.",
+      answer: "There is a small park about ten minutes from my home. It has a walking path, a playground, and several benches under tall trees. I usually go there in the evening when the weather is nice. Sometimes I walk around the path with my wife, and other times I just sit on a bench and watch people pass by. The park is not very large, but it feels peaceful because it is surrounded by trees. I like having a green place nearby where I can take a short break from my busy routine.",
+      vocab: [["walking path", "산책로"], ["surrounded by trees", "나무로 둘러싸인"], ["take a short break", "잠깐 쉬다"]]
     },
     life: {
-      title: "평소 점심 식사",
-      intro: "보통 점심을 어디서 누구와 먹는지 쉬운 문장으로 말해 보세요.",
-      questions: ["Where do you usually have lunch, and what do you like to eat?"],
-      idea: "점심을 먹는 장소와 자주 먹는 음식, 점심시간에 하는 일을 간단히 설명합니다.",
-      answer: "On workdays, I usually have lunch near my office. I often eat with my coworkers at a small restaurant. We choose simple meals like soup, rice, or noodles. After lunch, I sometimes take a short walk before going back to work. It is a nice break in the middle of the day, and I enjoy talking with my coworkers.",
-      vocab: [["on workdays", "평일에는"], ["a short walk", "짧은 산책"], ["in the middle of the day", "하루 중간에"]]
+      title: "주말에 하는 집안일",
+      intro: "주말에 보통 어떤 집안일을 하는지 쉬운 순서로 이야기해 보세요.",
+      questions: ["What household chores do you usually do on the weekend?"],
+      idea: "주로 하는 일 두세 가지와 함께하는 사람, 집안일을 끝낸 뒤의 기분을 간단히 덧붙입니다.",
+      answer: "On the weekend, I usually help with a few chores at home. I tidy up the living room and take out the recycling. My wife and I sometimes clean the kitchen together after breakfast. We do not spend the whole day doing chores, but it feels nice when the house is neat. Afterward, I can relax and enjoy the rest of the day with my family.",
+      vocab: [["tidy up", "정리하다"], ["take out the recycling", "재활용품을 내놓다"], ["the house is neat", "집이 깔끔하다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -302,7 +302,25 @@
         vocab: [["go grocery shopping", "장을 보러 가다"], ["a good selection", "다양한 선택지"], ["make a shopping list", "장보기 목록을 만들다"]]
       }
     },
-    "2026-11-13": {current: daily.current, life: daily.life}
+    "2026-11-13": {
+      current: {
+        title: "온라인 쇼핑과 매장 쇼핑 비교",
+        intro: "온라인과 오프라인에서 물건을 살 때의 차이를 실제 경험과 함께 비교해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+        questions: ["Compare shopping online with shopping at a store. Which do you prefer, and why?"],
+        idea: "편리함, 직접 확인할 수 있는 점, 배송 대기 같은 기준을 비교하고 어떤 상황에서 어느 방식을 고르는지 구체적인 예를 덧붙입니다.",
+        answer: "I shop both online and at physical stores, but I use them for different things. Online shopping is convenient because I can compare prices at home and order something anytime. However, delivery can take a few days, and the item may look different in person. At a store, I can check the size and quality right away, but it takes time to travel there. For example, I usually buy household supplies online, while I prefer trying on clothes at a store. Overall, I choose the option that saves me time without sacrificing quality.",
+        vocab: [["compare prices", "가격을 비교하다"], ["in person", "직접·실물로"], ["without sacrificing quality", "품질을 희생하지 않고"]]
+      },
+      life: {
+        title: "평소 점심 식사",
+        intro: "보통 점심을 어디서 누구와 먹는지 쉬운 문장으로 말해 보세요.",
+        questions: ["Where do you usually have lunch, and what do you like to eat?"],
+        idea: "점심을 먹는 장소와 자주 먹는 음식, 점심시간에 하는 일을 간단히 설명합니다.",
+        answer: "On workdays, I usually have lunch near my office. I often eat with my coworkers at a small restaurant. We choose simple meals like soup, rice, or noodles. After lunch, I sometimes take a short walk before going back to work. It is a nice break in the middle of the day, and I enjoy talking with my coworkers.",
+        vocab: [["on workdays", "평일에는"], ["a short walk", "짧은 산책"], ["in the middle of the day", "하루 중간에"]]
+      }
+    },
+    "2026-11-14": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -322,7 +340,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KOSPI outlook rises as gains concentrate in semiconductors and surprises fade” · 조선비즈 · 2026-11-12</b><br>전망: 이익 전망 상향은 반도체에 집중되고 다른 업종은 약해, 지수 상승의 폭과 실적 지속성을 살펴야 한다는 키움증권 분석. <a href="https://biz.chosun.com/en/en-finance/2026/11/12/IYN72HWVW5ARNLDEIOV7VNUYLU/?outputType=amp" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “US stock market rotation broadens beyond AI after Democratic sweep” · Robeco · 2026-11-11</b><br>전망: 기업 실적이 주가를 뒷받침하고 AI 밖으로 순환매가 넓어질 수 있지만, 5%를 웃도는 미 국채 금리와 변동성은 위험 요인이라는 견해. <a href="https://www.robeco.com/en-sg/insights/2026/11/us-stock-market-rotation-broadens-beyond-ai-after-democratic-sweep" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사의 사실과 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Fed rate hike fears mount as KOSPI battles to hold 5,200” · 머니투데이 · 2026-11-11</b><br>전망: 키움증권은 미 금리·대중국 수출통제 우려로 전일 급등분 일부 반납 가능성을 봤지만, CPI 충격이 제한적이어서 장중 하방은 버틸 수 있다고 분석. <a href="https://www.mt.co.kr/en/stock/2026/11/11/2026111108554749491" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks sway as Wall Street heads for a winning week after several turbulent days” · AP · 2026-11-13</b><br>전망: 주간 상승 흐름에도 AI 대형주 집중, 물가와 금리 인상 우려가 남아 변동성이 이어질 수 있다는 보도. <a href="https://apnews.com/article/stocks-markets-ai-us-oil-f8edd0eeb1494d4d2584715686c5e619" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사의 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
