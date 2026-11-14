@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "동네 공원에서 보내는 시간",
-      intro: "집 근처 공원의 모습과 그곳에서 즐기는 활동을 구체적으로 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
-      questions: ["Describe a park in your neighborhood. What does it look like, and what do you usually do there?"],
-      idea: "공원의 위치와 눈에 띄는 시설을 먼저 소개한 뒤, 누구와 언제 방문하는지와 그곳에서 하는 일을 예로 듭니다. 공원이 일상에 주는 느낌으로 마무리하세요.",
-      answer: "There is a small park about ten minutes from my home. It has a walking path, a playground, and several benches under tall trees. I usually go there in the evening when the weather is nice. Sometimes I walk around the path with my wife, and other times I just sit on a bench and watch people pass by. The park is not very large, but it feels peaceful because it is surrounded by trees. I like having a green place nearby where I can take a short break from my busy routine.",
-      vocab: [["walking path", "산책로"], ["surrounded by trees", "나무로 둘러싸인"], ["take a short break", "잠깐 쉬다"]]
+      title: "평소 운동 습관",
+      intro: "운동을 언제, 어디서, 얼마나 자주 하는지 구체적인 일상 예와 함께 말해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+      questions: ["What kind of exercise do you usually do, and how do you fit it into your week?"],
+      idea: "주로 하는 운동과 시간대를 말하고, 바쁜 주에도 이어 가는 방법이나 운동 후 달라지는 기분을 덧붙입니다.",
+      answer: "I try to stay active even when I have a busy week. I usually take a brisk walk near my home after dinner, about three times a week. It takes around thirty minutes, so it is easy to fit into my schedule. If the weather is bad, I do some simple stretching at home instead. I do not follow a strict workout plan, but being consistent helps me feel less stressed and sleep better. For me, choosing an activity that is easy to repeat is the key to making exercise part of my routine.",
+      vocab: [["stay active", "활동적으로 지내다"], ["fit into my schedule", "일정에 맞추다"], ["be consistent", "꾸준히 하다"]]
     },
     life: {
-      title: "주말에 하는 집안일",
-      intro: "주말에 보통 어떤 집안일을 하는지 쉬운 순서로 이야기해 보세요.",
-      questions: ["What household chores do you usually do on the weekend?"],
-      idea: "주로 하는 일 두세 가지와 함께하는 사람, 집안일을 끝낸 뒤의 기분을 간단히 덧붙입니다.",
-      answer: "On the weekend, I usually help with a few chores at home. I tidy up the living room and take out the recycling. My wife and I sometimes clean the kitchen together after breakfast. We do not spend the whole day doing chores, but it feels nice when the house is neat. Afterward, I can relax and enjoy the rest of the day with my family.",
-      vocab: [["tidy up", "정리하다"], ["take out the recycling", "재활용품을 내놓다"], ["the house is neat", "집이 깔끔하다"]]
+      title: "잠들기 전의 저녁 습관",
+      intro: "잠자리에 들기 전에 보통 하는 일을 쉬운 문장으로 말해 보세요.",
+      questions: ["What do you usually do before you go to bed?"],
+      idea: "잠들기 전 하는 일 두세 가지와 그 습관이 편안한 잠에 어떻게 도움이 되는지 말합니다.",
+      answer: "Before I go to bed, I usually take a shower and get ready for the next day. I put my phone away and read for a few minutes. This simple routine helps me relax after a busy day. I try to go to bed at about the same time every night.",
+      vocab: [["get ready for the next day", "다음 날을 준비하다"], ["put my phone away", "휴대전화를 치우다"], ["relax after a busy day", "바쁜 하루 뒤에 쉬다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -320,7 +320,25 @@
         vocab: [["on workdays", "평일에는"], ["a short walk", "짧은 산책"], ["in the middle of the day", "하루 중간에"]]
       }
     },
-    "2026-11-14": {current: daily.current, life: daily.life}
+    "2026-11-14": {
+      current: {
+        title: "동네 공원에서 보내는 시간",
+        intro: "집 근처 공원의 모습과 그곳에서 즐기는 활동을 구체적으로 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+        questions: ["Describe a park in your neighborhood. What does it look like, and what do you usually do there?"],
+        idea: "공원의 위치와 눈에 띄는 시설을 먼저 소개한 뒤, 누구와 언제 방문하는지와 그곳에서 하는 일을 예로 듭니다. 공원이 일상에 주는 느낌으로 마무리하세요.",
+        answer: "There is a small park about ten minutes from my home. It has a walking path, a playground, and several benches under tall trees. I usually go there in the evening when the weather is nice. Sometimes I walk around the path with my wife, and other times I just sit on a bench and watch people pass by. The park is not very large, but it feels peaceful because it is surrounded by trees. I like having a green place nearby where I can take a short break from my busy routine.",
+        vocab: [["walking path", "산책로"], ["surrounded by trees", "나무로 둘러싸인"], ["take a short break", "잠깐 쉬다"]]
+      },
+      life: {
+        title: "주말에 하는 집안일",
+        intro: "주말에 보통 어떤 집안일을 하는지 쉬운 순서로 이야기해 보세요.",
+        questions: ["What household chores do you usually do on the weekend?"],
+        idea: "주로 하는 일 두세 가지와 함께하는 사람, 집안일을 끝낸 뒤의 기분을 간단히 덧붙입니다.",
+        answer: "On the weekend, I usually help with a few chores at home. I tidy up the living room and take out the recycling. My wife and I sometimes clean the kitchen together after breakfast. We do not spend the whole day doing chores, but it feels nice when the house is neat. Afterward, I can relax and enjoy the rest of the day with my family.",
+        vocab: [["tidy up", "정리하다"], ["take out the recycling", "재활용품을 내놓다"], ["the house is neat", "집이 깔끔하다"]]
+      }
+    },
+    "2026-11-15": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -340,7 +358,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Fed rate hike fears mount as KOSPI battles to hold 5,200” · 머니투데이 · 2026-11-11</b><br>전망: 키움증권은 미 금리·대중국 수출통제 우려로 전일 급등분 일부 반납 가능성을 봤지만, CPI 충격이 제한적이어서 장중 하방은 버틸 수 있다고 분석. <a href="https://www.mt.co.kr/en/stock/2026/11/11/2026111108554749491" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks sway as Wall Street heads for a winning week after several turbulent days” · AP · 2026-11-13</b><br>전망: 주간 상승 흐름에도 AI 대형주 집중, 물가와 금리 인상 우려가 남아 변동성이 이어질 수 있다는 보도. <a href="https://apnews.com/article/stocks-markets-ai-us-oil-f8edd0eeb1494d4d2584715686c5e619" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사의 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KOSPI outlook rises as gains concentrate in semiconductors and surprises fade” · 조선비즈 · 2026-11-12</b><br>전망: 보도된 실적 전망 상향이 반도체에 쏠리고 다른 업종은 약해, 지수 상승의 폭과 이익 개선 지속 여부를 살펴볼 필요가 있다는 분석. <a href="https://biz.chosun.com/en/en-finance/2026/11/12/IYN72HWVW5ARNLDEIOV7VNUYLU/?outputType=amp" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Friday 11/13/2026” · AP · 2026-11-14</b><br>전망: 사실은 금요일 하락에도 주간 기준 10월 초 이후 첫 상승 주간을 기록했다는 것. 이를 바탕으로 단기 방향성은 불확실하고 변동성이 이어질 수 있다고 볼 수 있음. <a href="https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
