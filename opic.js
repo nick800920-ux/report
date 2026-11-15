@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "평소 운동 습관",
-      intro: "운동을 언제, 어디서, 얼마나 자주 하는지 구체적인 일상 예와 함께 말해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
-      questions: ["What kind of exercise do you usually do, and how do you fit it into your week?"],
-      idea: "주로 하는 운동과 시간대를 말하고, 바쁜 주에도 이어 가는 방법이나 운동 후 달라지는 기분을 덧붙입니다.",
-      answer: "I try to stay active even when I have a busy week. I usually take a brisk walk near my home after dinner, about three times a week. It takes around thirty minutes, so it is easy to fit into my schedule. If the weather is bad, I do some simple stretching at home instead. I do not follow a strict workout plan, but being consistent helps me feel less stressed and sleep better. For me, choosing an activity that is easy to repeat is the key to making exercise part of my routine.",
-      vocab: [["stay active", "활동적으로 지내다"], ["fit into my schedule", "일정에 맞추다"], ["be consistent", "꾸준히 하다"]]
+      title: "식당에서 기억에 남는 식사 경험",
+      intro: "식당에서 먹었던 기억에 남는 한 끼를 구체적으로 떠올려 보세요. 실제 출제문제가 아닌 AL 연습 예시입니다.",
+      questions: ["Tell me about a memorable meal you had at a restaurant. Where were you, who was with you, and what made the meal special?"],
+      idea: "언제 누구와 어느 식당에 갔는지 소개한 뒤, 주문한 음식이나 예상 밖의 작은 일, 함께한 사람들의 반응을 시간 순서로 말하고 왜 기억에 남는지 마무리합니다.",
+      answer: "One memorable meal I had was at a small seafood restaurant near the coast. I went there with my family during a weekend trip. The place was simple, but we could see the harbor from our table. We ordered grilled fish and a few local side dishes, and everything tasted very fresh. While we were eating, the owner recommended a dish we had never tried before. We decided to share it, and it turned out to be our favorite part of the meal. We talked and laughed for a long time, so dinner felt less like just eating and more like spending quality time together. I still remember that restaurant because the food, the view, and the company all came together perfectly.",
+      vocab: [["near the coast", "해안 근처에"], ["recommend a dish", "음식을 추천하다"], ["quality time", "뜻깊은 시간"]]
     },
     life: {
-      title: "잠들기 전의 저녁 습관",
-      intro: "잠자리에 들기 전에 보통 하는 일을 쉬운 문장으로 말해 보세요.",
-      questions: ["What do you usually do before you go to bed?"],
-      idea: "잠들기 전 하는 일 두세 가지와 그 습관이 편안한 잠에 어떻게 도움이 되는지 말합니다.",
-      answer: "Before I go to bed, I usually take a shower and get ready for the next day. I put my phone away and read for a few minutes. This simple routine helps me relax after a busy day. I try to go to bed at about the same time every night.",
-      vocab: [["get ready for the next day", "다음 날을 준비하다"], ["put my phone away", "휴대전화를 치우다"], ["relax after a busy day", "바쁜 하루 뒤에 쉬다"]]
+      title: "아침에 마시는 음료",
+      intro: "아침에 자주 마시는 음료와 그때 하는 일을 쉬운 영어로 설명해 보세요.",
+      questions: ["What do you usually drink in the morning?"],
+      idea: "무엇을 언제 마시는지, 직접 준비하는지, 그 음료가 아침에 어떤 기분을 주는지 짧게 말합니다.",
+      answer: "I usually drink a cup of coffee in the morning. I make it at home before I get ready for work. I like having a few quiet minutes at the kitchen table. It helps me wake up and start my day in a good mood.",
+      vocab: [["a cup of coffee", "커피 한 잔"], ["get ready for work", "출근 준비를 하다"], ["wake up", "잠을 깨다"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -338,7 +338,25 @@
         vocab: [["tidy up", "정리하다"], ["take out the recycling", "재활용품을 내놓다"], ["the house is neat", "집이 깔끔하다"]]
       }
     },
-    "2026-11-15": {current: daily.current, life: daily.life}
+    "2026-11-15": {
+      current: {
+        title: "평소 운동 습관",
+        intro: "운동을 언제, 어디서, 얼마나 자주 하는지 구체적인 일상 예와 함께 말해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+        questions: ["What kind of exercise do you usually do, and how do you fit it into your week?"],
+        idea: "주로 하는 운동과 시간대를 말하고, 바쁜 주에도 이어 가는 방법이나 운동 후 달라지는 기분을 덧붙입니다.",
+        answer: "I try to stay active even when I have a busy week. I usually take a brisk walk near my home after dinner, about three times a week. It takes around thirty minutes, so it is easy to fit into my schedule. If the weather is bad, I do some simple stretching at home instead. I do not follow a strict workout plan, but being consistent helps me feel less stressed and sleep better. For me, choosing an activity that is easy to repeat is the key to making exercise part of my routine.",
+        vocab: [["stay active", "활동적으로 지내다"], ["fit into my schedule", "일정에 맞추다"], ["be consistent", "꾸준히 하다"]]
+      },
+      life: {
+        title: "잠들기 전의 저녁 습관",
+        intro: "잠자리에 들기 전에 보통 하는 일을 쉬운 문장으로 말해 보세요.",
+        questions: ["What do you usually do before you go to bed?"],
+        idea: "잠들기 전 하는 일 두세 가지와 그 습관이 편안한 잠에 어떻게 도움이 되는지 말합니다.",
+        answer: "Before I go to bed, I usually take a shower and get ready for the next day. I put my phone away and read for a few minutes. This simple routine helps me relax after a busy day. I try to go to bed at about the same time every night.",
+        vocab: [["get ready for the next day", "다음 날을 준비하다"], ["put my phone away", "휴대전화를 치우다"], ["relax after a busy day", "바쁜 하루 뒤에 쉬다"]]
+      }
+    },
+    "2026-11-16": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -358,7 +376,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KOSPI outlook rises as gains concentrate in semiconductors and surprises fade” · 조선비즈 · 2026-11-12</b><br>전망: 보도된 실적 전망 상향이 반도체에 쏠리고 다른 업종은 약해, 지수 상승의 폭과 이익 개선 지속 여부를 살펴볼 필요가 있다는 분석. <a href="https://biz.chosun.com/en/en-finance/2026/11/12/IYN72HWVW5ARNLDEIOV7VNUYLU/?outputType=amp" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Friday 11/13/2026” · AP · 2026-11-14</b><br>전망: 사실은 금요일 하락에도 주간 기준 10월 초 이후 첫 상승 주간을 기록했다는 것. 이를 바탕으로 단기 방향성은 불확실하고 변동성이 이어질 수 있다고 볼 수 있음. <a href="https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “코스피 저평가지만 모멘텀이 없다…암울한 전망 나왔다” · 뉴시스 · 2026-11-15</b><br>사실: BNK투자증권은 미국 금리 부담, 실적 하향 우려, 수급 약화를 지적했습니다. 전망: 당분간 뚜렷한 상승 동력이 부족해 제한적 박스권 흐름이 이어질 수 있다는 분석입니다. <a href="https://m.newsis.com/view/NISX20261115_0003868412" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks fall but Wall Street notches a winning week after several turbulent days” · AP · 2026-11-14</b><br>사실: S&amp;P 500은 금요일 0.4% 하락했지만 주간으로 2.5% 상승했고, AI 대형주의 변동이 시장을 흔들었습니다. 전망: 좁은 대형 기술주 주도와 AI 투자 수익성 논란이 이어져 변동성이 커질 수 있습니다. <a href="https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
