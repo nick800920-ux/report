@@ -404,7 +404,7 @@
     if (date) date.textContent = dateForDay(today);
   }
   const homeSummary = document.querySelector("#opic .panel p:last-of-type");
-  if (homeSummary) homeSummary.textContent = "AL은 OPIc 질문·답변, IH는 쉬운 8~10줄 일상 영어 대화와 핵심 표현을 연습합니다. 기사 링크는 AL 주제에만 있습니다.";
+  if (homeSummary) homeSummary.textContent = "AL은 OPIc 질문·답변, 쉬운 회화는 8~10줄 일상 영어 대화와 핵심 표현을 연습합니다. 기사 링크는 AL 주제에만 있습니다.";
 
   const stockCallout = document.querySelector("#ideas .callout");
   if (stockCallout && !document.getElementById("daily-stock-outlook")) {
