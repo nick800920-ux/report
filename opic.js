@@ -181,20 +181,20 @@
   // Daily brief: replace only these two compact entries on the morning run.
   const daily = {
     current: {
-      title: "식당에서 기억에 남는 식사 경험",
-      intro: "식당에서 먹었던 기억에 남는 한 끼를 구체적으로 떠올려 보세요. 실제 출제문제가 아닌 AL 연습 예시입니다.",
-      questions: ["Tell me about a memorable meal you had at a restaurant. Where were you, who was with you, and what made the meal special?"],
-      idea: "언제 누구와 어느 식당에 갔는지 소개한 뒤, 주문한 음식이나 예상 밖의 작은 일, 함께한 사람들의 반응을 시간 순서로 말하고 왜 기억에 남는지 마무리합니다.",
-      answer: "One memorable meal I had was at a small seafood restaurant near the coast. I went there with my family during a weekend trip. The place was simple, but we could see the harbor from our table. We ordered grilled fish and a few local side dishes, and everything tasted very fresh. While we were eating, the owner recommended a dish we had never tried before. We decided to share it, and it turned out to be our favorite part of the meal. We talked and laughed for a long time, so dinner felt less like just eating and more like spending quality time together. I still remember that restaurant because the food, the view, and the company all came together perfectly.",
-      vocab: [["near the coast", "해안 근처에"], ["recommend a dish", "음식을 추천하다"], ["quality time", "뜻깊은 시간"]]
+      title: "가족 행사에서 기억에 남는 순간",
+      intro: "가족 행사에서 기억에 남는 순간을 장소·사람·작은 사건과 함께 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+      questions: ["Describe a family event you remember well. What happened, and why was it special to you?"],
+      idea: "행사와 모인 사람들을 소개하고, 기억에 남는 작은 장면과 그때의 기분을 구체적으로 말한 뒤 지금도 소중하게 느끼는 이유로 마무리합니다.",
+      answer: "One family event I remember well was my parents' anniversary dinner. We booked a quiet restaurant and invited a few close relatives. At first, everyone was busy catching up, but then my sister showed an old family photo on her phone. We started sharing stories about the people in the picture, and even my parents laughed at some of the old memories. The dinner was simple, but the warm conversation made it feel special. I enjoyed seeing everyone relax and spend time together. I still remember that evening because it reminded me how much I value our family traditions.",
+      vocab: [["catch up", "그동안의 소식을 나누다"], ["share stories", "이야기를 나누다"], ["family traditions", "가족 전통"]]
     },
     life: {
-      title: "아침에 마시는 음료",
-      intro: "아침에 자주 마시는 음료와 그때 하는 일을 쉬운 영어로 설명해 보세요.",
-      questions: ["What do you usually drink in the morning?"],
-      idea: "무엇을 언제 마시는지, 직접 준비하는지, 그 음료가 아침에 어떤 기분을 주는지 짧게 말합니다.",
-      answer: "I usually drink a cup of coffee in the morning. I make it at home before I get ready for work. I like having a few quiet minutes at the kitchen table. It helps me wake up and start my day in a good mood.",
-      vocab: [["a cup of coffee", "커피 한 잔"], ["get ready for work", "출근 준비를 하다"], ["wake up", "잠을 깨다"]]
+      title: "여행지 식당에서 음식 주문하기",
+      intro: "식당에서 메뉴를 고르고 추천 메뉴를 물어보는 쉬운 여행 회화입니다.",
+      questions: ["You are at a local restaurant while traveling. Ask what the server recommends and order a meal and a drink."],
+      idea: "직원에게 인기 메뉴를 묻고, 원하는 음식과 음료를 차례로 주문한 뒤 감사 인사를 합니다.",
+      answer: "Customer: Hi. What do you recommend?\nServer: Our chicken sandwich is very popular.\nCustomer: That sounds good. I'll have one, please. Could I also get a glass of water?\nServer: Of course. Anything else?\nCustomer: No, that's all. Thank you.",
+      vocab: [["What do you recommend?", "무엇을 추천하시나요?"], ["I'll have …, please.", "…로 주세요."], ["That's all.", "이상입니다."]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -356,7 +356,42 @@
         vocab: [["get ready for the next day", "다음 날을 준비하다"], ["put my phone away", "휴대전화를 치우다"], ["relax after a busy day", "바쁜 하루 뒤에 쉬다"]]
       }
     },
-    "2026-11-16": {current: daily.current, life: daily.life}
+    "2026-11-16": {
+      current: {
+        title: "식당에서 기억에 남는 식사 경험",
+        intro: "식당에서 먹었던 기억에 남는 한 끼를 구체적으로 떠올려 보세요. 실제 출제문제가 아닌 AL 연습 예시입니다.",
+        questions: ["Tell me about a memorable meal you had at a restaurant. Where were you, who was with you, and what made the meal special?"],
+        idea: "언제 누구와 어느 식당에 갔는지 소개한 뒤, 주문한 음식이나 예상 밖의 작은 일, 함께한 사람들의 반응을 시간 순서로 말하고 왜 기억에 남는지 마무리합니다.",
+        answer: "One memorable meal I had was at a small seafood restaurant near the coast. I went there with my family during a weekend trip. The place was simple, but we could see the harbor from our table. We ordered grilled fish and a few local side dishes, and everything tasted very fresh. While we were eating, the owner recommended a dish we had never tried before. We decided to share it, and it turned out to be our favorite part of the meal. We talked and laughed for a long time, so dinner felt less like just eating and more like spending quality time together. I still remember that restaurant because the food, the view, and the company all came together perfectly.",
+        vocab: [["near the coast", "해안 근처에"], ["recommend a dish", "음식을 추천하다"], ["quality time", "뜻깊은 시간"]]
+      },
+      life: {
+        title: "아침에 마시는 음료",
+        intro: "아침에 자주 마시는 음료와 그때 하는 일을 쉬운 영어로 설명해 보세요.",
+        questions: ["What do you usually drink in the morning?"],
+        idea: "무엇을 언제 마시는지, 직접 준비하는지, 그 음료가 아침에 어떤 기분을 주는지 짧게 말합니다.",
+        answer: "I usually drink a cup of coffee in the morning. I make it at home before I get ready for work. I like having a few quiet minutes at the kitchen table. It helps me wake up and start my day in a good mood.",
+        vocab: [["a cup of coffee", "커피 한 잔"], ["get ready for work", "출근 준비를 하다"], ["wake up", "잠을 깨다"]]
+      }
+    },
+    "2026-11-17": {
+      current: {
+        title: "가족 행사에서 기억에 남는 순간",
+        intro: "가족 행사에서 기억에 남는 순간을 장소·사람·작은 사건과 함께 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
+        questions: ["Describe a family event you remember well. What happened, and why was it special to you?"],
+        idea: "행사와 모인 사람들을 소개하고, 기억에 남는 작은 장면과 그때의 기분을 구체적으로 말한 뒤 지금도 소중하게 느끼는 이유로 마무리합니다.",
+        answer: "One family event I remember well was my parents' anniversary dinner. We booked a quiet restaurant and invited a few close relatives. At first, everyone was busy catching up, but then my sister showed an old family photo on her phone. We started sharing stories about the people in the picture, and even my parents laughed at some of the old memories. The dinner was simple, but the warm conversation made it feel special. I enjoyed seeing everyone relax and spend time together. I still remember that evening because it reminded me how much I value our family traditions.",
+        vocab: [["catch up", "그동안의 소식을 나누다"], ["share stories", "이야기를 나누다"], ["family traditions", "가족 전통"]]
+      },
+      life: {
+        title: "여행지 식당에서 음식 주문하기",
+        intro: "식당에서 메뉴를 고르고 추천 메뉴를 물어보는 쉬운 여행 회화입니다.",
+        questions: ["You are at a local restaurant while traveling. Ask what the server recommends and order a meal and a drink."],
+        idea: "직원에게 인기 메뉴를 묻고, 원하는 음식과 음료를 차례로 주문한 뒤 감사 인사를 합니다.",
+        answer: "Customer: Hi. What do you recommend?\nServer: Our chicken sandwich is very popular.\nCustomer: That sounds good. I'll have one, please. Could I also get a glass of water?\nServer: Of course. Anything else?\nCustomer: No, that's all. Thank you.",
+        vocab: [["What do you recommend?", "무엇을 추천하시나요?"], ["I'll have …, please.", "…로 주세요."], ["That's all.", "이상입니다."]]
+      }
+    }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -376,7 +411,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “코스피 저평가지만 모멘텀이 없다…암울한 전망 나왔다” · 뉴시스 · 2026-11-15</b><br>사실: BNK투자증권은 미국 금리 부담, 실적 하향 우려, 수급 약화를 지적했습니다. 전망: 당분간 뚜렷한 상승 동력이 부족해 제한적 박스권 흐름이 이어질 수 있다는 분석입니다. <a href="https://m.newsis.com/view/NISX20261115_0003868412" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks fall but Wall Street notches a winning week after several turbulent days” · AP · 2026-11-14</b><br>사실: S&amp;P 500은 금요일 0.4% 하락했지만 주간으로 2.5% 상승했고, AI 대형주의 변동이 시장을 흔들었습니다. 전망: 좁은 대형 기술주 주도와 AI 투자 수익성 논란이 이어져 변동성이 커질 수 있습니다. <a href="https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “한국투자증권 코스피 8300 전망, 개인 매물이 남긴 변수” · 서울경제 AI Lens · 2026-11-16</b><br>사실: 한국투자증권은 2027년 코스피 목표치로 8300을 제시했습니다. 전망: 금리 인하와 AI 투자 흐름이 뒷받침되면 2026년 4분기 저점 후 지수가 점진적으로 오를 수 있다는 분석이며, 유동성 부족과 개인 매물은 위험 요인입니다. <a href="https://ailens.sedaily.ai/markets/2026/11/16/2026-11-16-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-%EC%BD%94%EC%8A%A4%ED%94%BC-8300-%EC%A0%84%EB%A7%9D-%EA%B0%9C%EC%9D%B8-%EB%A7%A4%EB%AC%BC%EC%9D%B4-%EB%82%A8%EA%B8%B4-%EB%B3%80%EC%88%98" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “More drops for Nvidia and other AI stocks drag the US market lower” · AP · 2026-11-16</b><br>사실: 엔비디아 등 AI 관련주의 하락으로 이날 S&amp;P 500은 2%, 나스닥은 2.2% 내렸습니다. 전망: 엔비디아 실적 발표 전후 AI 주식 변동성이 이어질 수 있다는 관측입니다. <a href="https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
