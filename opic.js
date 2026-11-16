@@ -189,12 +189,12 @@
       vocab: [["catch up", "그동안의 소식을 나누다"], ["share stories", "이야기를 나누다"], ["family traditions", "가족 전통"]]
     },
     life: {
-      title: "여행지 식당에서 음식 주문하기",
-      intro: "식당에서 메뉴를 고르고 추천 메뉴를 물어보는 쉬운 여행 회화입니다.",
-      questions: ["You are at a local restaurant while traveling. Ask what the server recommends and order a meal and a drink."],
-      idea: "직원에게 인기 메뉴를 묻고, 원하는 음식과 음료를 차례로 주문한 뒤 감사 인사를 합니다.",
-      answer: "Customer: Hi. What do you recommend?\nServer: Our chicken sandwich is very popular.\nCustomer: That sounds good. I'll have one, please. Could I also get a glass of water?\nServer: Of course. Anything else?\nCustomer: No, that's all. Thank you.",
-      vocab: [["What do you recommend?", "무엇을 추천하시나요?"], ["I'll have …, please.", "…로 주세요."], ["That's all.", "이상입니다."]]
+      title: "동료와 주말 계획 이야기하기",
+      intro: "친구나 동료와 주말 계획을 묻고 답하는 쉬운 일상 영어 회화입니다.",
+      questions: ["You meet a coworker on Monday. Ask about their weekend and talk about your plans for the coming weekend."],
+      idea: "주말에 한 일과 기분을 간단히 말하고, 상대에게 질문한 뒤 다음 주말 계획을 주고받습니다.",
+      answer: "A: Hi, how was your weekend?\nB: It was nice. I stayed home and watched a movie.\nA: That sounds relaxing. What movie did you watch?\nB: I watched a comedy with my family. We all enjoyed it.\nA: What are you doing this weekend?\nB: I’m going to visit a new café near my home.\nA: That sounds fun. Do you go there often?\nB: No, it will be my first time. I heard the coffee is good.\nA: I hope you have a great time.\nB: Thanks! How about you?",
+      vocab: [["How was your weekend?", "주말 어땠어요?"], ["That sounds relaxing.", "편안했겠네요."], ["How about you?", "당신은요?"]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -384,12 +384,12 @@
         vocab: [["catch up", "그동안의 소식을 나누다"], ["share stories", "이야기를 나누다"], ["family traditions", "가족 전통"]]
       },
       life: {
-        title: "여행지 식당에서 음식 주문하기",
-        intro: "식당에서 메뉴를 고르고 추천 메뉴를 물어보는 쉬운 여행 회화입니다.",
-        questions: ["You are at a local restaurant while traveling. Ask what the server recommends and order a meal and a drink."],
-        idea: "직원에게 인기 메뉴를 묻고, 원하는 음식과 음료를 차례로 주문한 뒤 감사 인사를 합니다.",
-        answer: "Customer: Hi. What do you recommend?\nServer: Our chicken sandwich is very popular.\nCustomer: That sounds good. I'll have one, please. Could I also get a glass of water?\nServer: Of course. Anything else?\nCustomer: No, that's all. Thank you.",
-        vocab: [["What do you recommend?", "무엇을 추천하시나요?"], ["I'll have …, please.", "…로 주세요."], ["That's all.", "이상입니다."]]
+        title: "동료와 주말 계획 이야기하기",
+        intro: "친구나 동료와 주말 계획을 묻고 답하는 쉬운 일상 영어 회화입니다.",
+        questions: ["You meet a coworker on Monday. Ask about their weekend and talk about your plans for the coming weekend."],
+        idea: "주말에 한 일과 기분을 간단히 말하고, 상대에게 질문한 뒤 다음 주말 계획을 주고받습니다.",
+        answer: "A: Hi, how was your weekend?\nB: It was nice. I stayed home and watched a movie.\nA: That sounds relaxing. What movie did you watch?\nB: I watched a comedy with my family. We all enjoyed it.\nA: What are you doing this weekend?\nB: I’m going to visit a new café near my home.\nA: That sounds fun. Do you go there often?\nB: No, it will be my first time. I heard the coffee is good.\nA: I hope you have a great time.\nB: Thanks! How about you?",
+        vocab: [["How was your weekend?", "주말 어땠어요?"], ["That sounds relaxing.", "편안했겠네요."], ["How about you?", "당신은요?"]]
       }
     }
   };
@@ -404,7 +404,7 @@
     if (date) date.textContent = dateForDay(today);
   }
   const homeSummary = document.querySelector("#opic .panel p:last-of-type");
-  if (homeSummary) homeSummary.textContent = "주제마다 질문 1개 · 짧은 영어 답변 · 핵심 표현 2~3개를 연습합니다. 시사 주제에만 원문 기사 링크가 있습니다.";
+  if (homeSummary) homeSummary.textContent = "AL은 OPIc 질문·답변, IH는 쉬운 8~10줄 일상 영어 대화와 핵심 표현을 연습합니다. 기사 링크는 AL 주제에만 있습니다.";
 
   const stockCallout = document.querySelector("#ideas .callout");
   if (stockCallout && !document.getElementById("daily-stock-outlook")) {
