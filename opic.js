@@ -391,6 +391,24 @@
         answer: "A: Hi, how was your weekend?\nB: It was nice. I stayed home and watched a movie.\nA: That sounds relaxing. What movie did you watch?\nB: I watched a comedy with my family. We all enjoyed it.\nA: What are you doing this weekend?\nB: I’m going to visit a new café near my home.\nA: That sounds fun. Do you go there often?\nB: No, it will be my first time. I heard the coffee is good.\nA: I hope you have a great time.\nB: Thanks! How about you?",
         vocab: [["How was your weekend?", "주말 어땠어요?"], ["That sounds relaxing.", "편안했겠네요."], ["How about you?", "당신은요?"]]
       }
+    },
+    "2026-11-18": {
+      current: {
+        title: "평소 출퇴근 교통수단과 이동 습관",
+        intro: "평소 출퇴근할 때 이용하는 교통수단과 이동 과정을 구체적으로 묘사해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["How do you usually commute to work? Describe your route and what you like or dislike about it."],
+        idea: "주로 이용하는 교통수단과 이동 시간, 환승이나 길에서 하는 일을 소개하고 편리한 점과 불편한 점을 비교해 마무리합니다.",
+        answer: "I usually commute to work by subway because it is more predictable than driving during rush hour. I walk to the station near my home and take one train to the area around my office. The whole trip takes about forty minutes. I often listen to music or check my schedule while I ride. The subway can get crowded, especially on rainy days, but I do not have to worry about traffic or finding a parking space. Overall, it is a convenient way to get to work, and I can use the travel time to prepare for my day.",
+        vocab: [["commute to work", "출퇴근하다"], ["during rush hour", "출퇴근 혼잡 시간에"], ["a convenient way to", "~하기 편리한 방법"]]
+      },
+      life: {
+        title: "약국에서 감기약 문의하기",
+        intro: "몸이 좋지 않아 약국에서 증상을 설명하고 알맞은 약을 묻는 쉬운 생활 영어 대화입니다.",
+        questions: ["You have a sore throat and a cough. Ask a pharmacist for help and check how to take the medicine."],
+        idea: "약사에게 증상을 말하고 약 복용법과 주의사항을 간단히 확인합니다.",
+        answer: "A: Hello. How can I help you?\nB: I have a sore throat and a cough.\nA: Do you have a fever?\nB: No, I don't think so.\nA: This medicine may help with your symptoms.\nB: How often should I take it?\nA: Take one tablet after a meal, three times a day.\nB: Should I avoid anything while taking it?\nA: It may make you sleepy, so don't drive after taking it.\nB: Okay. Thank you for explaining that.",
+        vocab: [["a sore throat", "목이 아픔"], ["after a meal", "식사 후에"], ["make you sleepy", "졸리게 하다"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -411,7 +429,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “한국투자증권 코스피 8300 전망, 개인 매물이 남긴 변수” · 서울경제 AI Lens · 2026-11-16</b><br>사실: 한국투자증권은 2027년 코스피 목표치로 8300을 제시했습니다. 전망: 금리 인하와 AI 투자 흐름이 뒷받침되면 2026년 4분기 저점 후 지수가 점진적으로 오를 수 있다는 분석이며, 유동성 부족과 개인 매물은 위험 요인입니다. <a href="https://ailens.sedaily.ai/markets/2026/11/16/2026-11-16-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-%EC%BD%94%EC%8A%A4%ED%94%BC-8300-%EC%A0%84%EB%A7%9D-%EA%B0%9C%EC%9D%B8-%EB%A7%A4%EB%AC%BC%EC%9D%B4-%EB%82%A8%EA%B8%B4-%EB%B3%80%EC%88%98" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “More drops for Nvidia and other AI stocks drag the US market lower” · AP · 2026-11-16</b><br>사실: 엔비디아 등 AI 관련주의 하락으로 이날 S&amp;P 500은 2%, 나스닥은 2.2% 내렸습니다. 전망: 엔비디아 실적 발표 전후 AI 주식 변동성이 이어질 수 있다는 관측입니다. <a href="https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 해석한 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KB증권 주간 동향 및 전망” · KB증권 · 2026-11-13</b><br>사실: 보고서는 11월 18일 엔비디아 실적과 19~20일 엔트로픽 상장 등 주요 일정을 제시했습니다. 전망(분석): 물가·금리 부담과 외국인 수급 불확실성이 겹쳐 관련 결과에 따라 국내 증시 변동성이 커질 수 있습니다. <a href="https://rdata.kbsec.com/pdf_data/20261113165600877K.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Monday 11/16/2026” · AP · 2026-11-16</b><br>사실: 엔비디아 주도로 기술주가 약세를 보이며 S&amp;P 500은 1.9%, 나스닥은 2.5% 하락했습니다. 전망(해석): AI 성장주 실적과 경영 불확실성이 가라앉기 전까지 단기 변동성이 이어질 가능성에 유의할 필요가 있습니다. <a href="https://apnews.com/article/wall-street-stocks-dow-nasdaq-2e6a9c41b6336e9240c1b01585d20cd4" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>확인된 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
