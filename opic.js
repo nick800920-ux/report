@@ -409,6 +409,24 @@
         answer: "A: Hello. How can I help you?\nB: I have a sore throat and a cough.\nA: Do you have a fever?\nB: No, I don't think so.\nA: This medicine may help with your symptoms.\nB: How often should I take it?\nA: Take one tablet after a meal, three times a day.\nB: Should I avoid anything while taking it?\nA: It may make you sleepy, so don't drive after taking it.\nB: Okay. Thank you for explaining that.",
         vocab: [["a sore throat", "목이 아픔"], ["after a meal", "식사 후에"], ["make you sleepy", "졸리게 하다"]]
       }
+    },
+    "2026-11-19": {
+      current: {
+        title: "비 오는 날 계획이 바뀐 경험",
+        intro: "비나 날씨 때문에 계획이 바뀌었던 과거 경험을 시간 순서대로 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a time when bad weather changed your plans. What had you planned to do, and what did you do instead?"],
+        idea: "원래 계획과 날씨 변화를 설명하고, 대신 선택한 활동과 당시 기분을 말한 뒤 그 경험에서 좋았던 점이나 배운 점으로 끝맺습니다.",
+        answer: "Last fall, I planned to visit a park with my family, but it started raining heavily that morning. We checked the weather and decided not to drive far. Instead, we went to a nearby movie theater and watched a comedy. After the movie, we had lunch at a small restaurant in the same building. At first, I felt a little disappointed because I had wanted to walk outside. However, the movie was fun, and we had a relaxed afternoon together. Since then, I try to keep a simple indoor plan in mind when the weather is uncertain.",
+        vocab: [["change my plans", "계획을 바꾸다"], ["feel disappointed", "실망하다"], ["keep ... in mind", "...을 염두에 두다"]]
+      },
+      life: {
+        title: "동료에게 점심 메뉴 제안하기",
+        intro: "직장에서 동료와 점심 메뉴를 편하게 의논하는 쉬운 영어 대화입니다.",
+        questions: ["Talk with a coworker about where to have lunch and agree on a place."],
+        idea: "서로 원하는 음식을 묻고, 가까운 식당을 제안한 뒤 함께 가기로 정합니다.",
+        answer: "A: Are you ready for lunch?\nB: Almost. What would you like to eat?\nA: How about noodles today?\nB: That sounds good. Do you know a place nearby?\nA: There is a small noodle shop across the street.\nB: Is it usually busy?\nA: Not too busy around this time.\nB: Great. Let's go there together.\nA: Sure. I'll get my coat.\nB: I'll meet you by the elevator.",
+        vocab: [["What would you like?", "무엇을 드시고 싶어요?"], ["across the street", "길 건너편에"], ["Let's go there together.", "같이 거기 가요."]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -429,7 +447,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “KB증권 주간 동향 및 전망” · KB증권 · 2026-11-13</b><br>사실: 보고서는 11월 18일 엔비디아 실적과 19~20일 엔트로픽 상장 등 주요 일정을 제시했습니다. 전망(분석): 물가·금리 부담과 외국인 수급 불확실성이 겹쳐 관련 결과에 따라 국내 증시 변동성이 커질 수 있습니다. <a href="https://rdata.kbsec.com/pdf_data/20261113165600877K.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Monday 11/16/2026” · AP · 2026-11-16</b><br>사실: 엔비디아 주도로 기술주가 약세를 보이며 S&amp;P 500은 1.9%, 나스닥은 2.5% 하락했습니다. 전망(해석): AI 성장주 실적과 경영 불확실성이 가라앉기 전까지 단기 변동성이 이어질 가능성에 유의할 필요가 있습니다. <a href="https://apnews.com/article/wall-street-stocks-dow-nasdaq-2e6a9c41b6336e9240c1b01585d20cd4" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>확인된 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “국내 마감시황” · 삼성증권 · 2026-11-18</b><br>사실: 코스피는 5,067.44로 1.99% 반등했고, 기관 순매수와 엔비디아 호실적이 긍정 요인이었습니다. 전망(해석): AI 수요 기대가 반도체 심리에 도움을 줄 수 있지만 외국인 매도와 AI 투자 불확실성으로 등락이 이어질 수 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026111816124993K_02_03.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Wall Street zigzags as Nvidia and other AI stocks keep swinging” · AP · 2026-11-18</b><br>사실: 엔비디아 실적·매출 전망은 기대를 웃돌았지만 주가 상승분을 반납했고, S&amp;P 500은 장중 등락했습니다. 전망(해석): 실적 호조만으로 AI주 불확실성이 해소되지 않아 단기 변동성이 지속될 수 있습니다. <a href="https://apnews.com/article/dad5715bc91b4aba23a567a40e22b1fc" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>확인된 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
