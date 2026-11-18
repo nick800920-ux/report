@@ -415,9 +415,9 @@
         title: "비 오는 날 계획이 바뀐 경험",
         intro: "비나 날씨 때문에 계획이 바뀌었던 과거 경험을 시간 순서대로 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
         questions: ["Tell me about a time when bad weather changed your plans. What had you planned to do, and what did you do instead?"],
-        idea: "원래 계획과 날씨 변화를 설명하고, 대신 선택한 활동과 당시 기분을 말한 뒤 그 경험에서 좋았던 점이나 배운 점으로 끝맺습니다.",
-        answer: "Last fall, I planned to visit a park with my family, but it started raining heavily that morning. We checked the weather and decided not to drive far. Instead, we went to a nearby movie theater and watched a comedy. After the movie, we had lunch at a small restaurant in the same building. At first, I felt a little disappointed because I had wanted to walk outside. However, the movie was fun, and we had a relaxed afternoon together. Since then, I try to keep a simple indoor plan in mind when the weather is uncertain.",
-        vocab: [["change my plans", "계획을 바꾸다"], ["feel disappointed", "실망하다"], ["keep ... in mind", "...을 염두에 두다"]]
+        idea: "원래 계획과 갑작스러운 폭우, 계획이 바뀔 때의 실망감, 오래된 공장을 개조한 베이커리 카페의 분위기를 순서대로 묘사합니다. 가족과 보낸 구체적인 순간을 더하고, 처음 예상과 달리 더 좋은 추억이 된 점으로 마무리합니다.",
+        answer: "Well, I remember one particular weekend when the weather completely ruined our original plans. I had planned to go hiking with my family at a nearby mountain, and we were really looking forward to spending some quality time outdoors. However, when we woke up that morning, it was pouring rain. At first, I was a little disappointed because we had been looking forward to the trip, but I didn't want to let the bad weather ruin our weekend. So, we looked for an alternative and ended up visiting a huge bakery café nearby. It used to be an old factory, but it had been beautifully renovated into a modern and stylish café. The high ceilings and spacious interior were so impressive that it felt more like an art gallery than an ordinary café. The food and drinks were a little pricey, but everything was delicious. Most importantly, I enjoyed spending time with my children, chatting, eating good food, and taking pictures together. Looking back, it turned out even better than I expected. We couldn't go hiking, but we ended up making another wonderful family memory. I guess unexpected changes can sometimes lead to the best experiences!",
+        vocab: [["We were really looking forward to it.", "정말 기대하고 있었어요."], ["It was pouring rain.", "비가 억수같이 내렸어요."], ["I was a little disappointed.", "조금 실망했어요."], ["I didn't want to let it ruin our weekend.", "그것 때문에 주말을 망치고 싶지 않았어요."], ["We ended up visiting a café.", "결국 카페에 가게 됐어요."], ["What made the place so special was…", "그곳이 특별했던 이유는…"], ["It turned out better than I expected.", "예상보다 더 좋았어요."]]
       },
       life: {
         title: "동료에게 점심 메뉴 제안하기",
@@ -483,7 +483,7 @@
     topic.questions.slice(0, 1).forEach(question => { const li = document.createElement("li"); li.textContent = question; questions.append(li); });
     const vocab = document.getElementById(prefix + "-vocab");
     vocab.replaceChildren();
-    topic.vocab.slice(0, 3).forEach(([word, meaning]) => addItem(vocab, word, meaning));
+    topic.vocab.slice(0, prefix === "opic" ? 7 : 3).forEach(([word, meaning]) => addItem(vocab, word, meaning));
     const links = document.getElementById(prefix + "-links");
     links.replaceChildren();
     if (prefix === "opic-life") {
