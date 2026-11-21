@@ -185,16 +185,16 @@
       intro: "가족 행사에서 기억에 남는 순간을 장소·사람·작은 사건과 함께 묘사해 보세요. 특정 실제 출제문제가 아닌 AL 연습 예시입니다.",
       questions: ["Describe a family event you remember well. What happened, and why was it special to you?"],
       idea: "행사와 모인 사람들을 소개하고, 기억에 남는 작은 장면과 그때의 기분을 구체적으로 말한 뒤 지금도 소중하게 느끼는 이유로 마무리합니다.",
-      answer: "One family event I remember well was my parents' anniversary dinner. We booked a quiet restaurant and invited a few close relatives. At first, everyone was busy catching up, but then my sister showed an old family photo on her phone. We started sharing stories about the people in the picture, and even my parents laughed at some of the old memories. The dinner was simple, but the warm conversation made it feel special. I enjoyed seeing everyone relax and spend time together. I still remember that evening because it reminded me how much I value our family traditions.",
-      vocab: [["catch up", "그동안의 소식을 나누다"], ["share stories", "이야기를 나누다"], ["family traditions", "가족 전통"]]
+      answer: "One family event I still remember clearly was my parents' anniversary dinner a few years ago. We had booked a small private room at a restaurant near our home, and I had promised to bring an old photo album. I thought the evening would be a simple meal, but I had not expected everyone to get so emotional. While we were waiting for the food, my sister opened the album and found a picture of my parents when they were young. The room was softly lit, and the sound of people chatting outside made our little space feel warm and private. My father started telling us how they had first met, and my mother kept correcting the details with a smile. I was a little embarrassed when they showed a childhood picture of me, but soon we were all laughing. Then the restaurant surprised us with a small cake because my sister had mentioned the anniversary when she made the reservation. We had not planned anything fancy, yet that unexpected gesture made the night feel special. Looking back, I learned that meaningful family moments do not need elaborate plans; paying attention to one another is what makes them memorable.",
+      vocab: [["a private room", "별실·개인 공간"], ["while we were waiting", "우리가 기다리는 동안"], ["correct the details", "세부 내용을 바로잡다"], ["an unexpected gesture", "뜻밖의 배려"], ["elaborate plans", "정교하고 거창한 계획"]]
     },
     life: {
-      title: "동료와 주말 계획 이야기하기",
-      intro: "친구나 동료와 주말 계획을 묻고 답하는 쉬운 일상 영어 회화입니다.",
-      questions: ["You meet a coworker on Monday. Ask about their weekend and talk about your plans for the coming weekend."],
-      idea: "주말에 한 일과 기분을 간단히 말하고, 상대에게 질문한 뒤 다음 주말 계획을 주고받습니다.",
-      answer: "A: Hi, how was your weekend?\nB: It was nice. I stayed home and watched a movie.\nA: That sounds relaxing. What movie did you watch?\nB: I watched a comedy with my family. We all enjoyed it.\nA: What are you doing this weekend?\nB: I’m going to visit a new café near my home.\nA: That sounds fun. Do you go there often?\nB: No, it will be my first time. I heard the coffee is good.\nA: I hope you have a great time.\nB: Thanks! How about you?",
-      vocab: [["How was your weekend?", "주말 어땠어요?"], ["That sounds relaxing.", "편안했겠네요."], ["How about you?", "당신은요?"]]
+      title: "빨래방에서 세탁기 사용하기",
+      intro: "동네 빨래방에서 세탁기 사용법과 세제 위치를 묻는 쉬운 생활 영어 대화입니다.",
+      questions: ["You are at a laundromat for the first time. Ask someone how to use a washing machine and where to find detergent."],
+      idea: "처음 왔다고 말하고 세탁기 작동법과 세제를 찾는 곳을 차례로 물어봅니다.",
+      answer: "A: Excuse me, could you help me for a moment?\nB: Sure. What do you need?\nA: It's my first time here. How do I use this washing machine?\nB: Put your clothes in, choose a cycle, and pay at the kiosk.\nA: Thanks. Where can I get detergent?\nB: There's a vending machine next to the dryers.\nA: Great. Do I need to bring my own bag?\nB: No, you can fold your clothes on that table.\nA: Perfect. I appreciate your help.\nB: No problem. Let me know if you have any trouble.",
+      vocab: [["It's my first time here.", "제가 여기 처음 왔어요."], ["choose a cycle", "세탁 코스를 선택하다"], ["I appreciate your help.", "도와주셔서 고마워요."]]
     }
   };
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(new Date());
@@ -445,7 +445,8 @@
         answer: "A: Hi! What can I get for you?\nB: Could I have a medium iced latte, please?\nA: Sure. Is that for here or to go?\nB: To go, please.\nA: Would you like regular or oat milk?\nB: Oat milk, please.\nA: No problem. Anything else?\nB: Could you make it less sweet?\nA: Of course. Your total is five dollars.\nB: Here you go. Thanks!",
         vocab: [["Could I have ...?", "~을 주시겠어요?"], ["to go", "포장으로"], ["less sweet", "덜 달게"]]
       }
-    }
+    },
+    "2026-11-22": {current: daily.current, life: daily.life}
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -465,7 +466,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “국내 마감시황” · 삼성증권 · 2026-11-19</b><br>사실: 코스피는 5,137.89로 1.39% 상승했지만 외국인은 유가증권시장에서 약 4,036억 원 순매도했습니다. 한한령 완화 기대에 중국 소비 관련주가 강세였습니다. 전망(해석): 관련 업종의 기대가 이어질 수 있으나 외국인 매도와 업종별 차별화가 변동성을 키울 수 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026111916460203K_02_02.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “US stocks tumble 2% toward their longest losing streak since 2024 despite Anthropic’s strong IPO” · AP · 2026-11-19</b><br>사실: AP 보도 당시 S&amp;P 500은 1.8% 하락 중이었고, AI 관련 종목의 급격한 등락이 이어졌습니다. 전망(해석): AI 성장 기대와 높은 투자·밸류에이션 우려가 맞서면서 단기 변동성이 이어질 가능성이 있습니다. <a href="https://apnews.com/article/stocks-markets-ai-us-anthropic-206c84045137824feabe052a29ff6140" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>확인된 사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “반도체 충격에 4900선 무너진 코스피…다음주 美 물가·한은 금통위 변동성 주의보” · 이투데이 · 2026-11-21</b><br>사실: 11월 20일 코스피는 5.21% 급락해 4,900선을 밑돌았고 매도 사이드카가 발동됐습니다. 전망(기사 인용 분석): 다음 주 미국 물가 지표와 한국은행 금통위, 외국인 수급이 변동성을 키울 수 있지만 반도체 기업 이익 전망 상향은 지지 요인으로 제시됐습니다. <a href="https://m.etoday.co.kr/news/view/2651071?trc=m_view_journalist_news" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate” · Goldman Sachs Research · 2026-11-20</b><br>사실: 골드만삭스는 11월 17일 기준 S&amp;P 500이 2027년 말까지 배당 포함 총수익률 18%를 기록할 것으로 전망했습니다. 전망(기관 분석): 이익 증가로 상승세가 이어질 수 있으나 성장 둔화로 수익률은 완만해질 것으로 예상했습니다. <a href="https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
