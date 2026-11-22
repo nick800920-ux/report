@@ -446,7 +446,25 @@
         vocab: [["Could I have ...?", "~을 주시겠어요?"], ["to go", "포장으로"], ["less sweet", "덜 달게"]]
       }
     },
-    "2026-11-22": {current: daily.current, life: daily.life}
+    "2026-11-22": {current: daily.current, life: daily.life},
+    "2026-11-23": {
+      current: {
+        title: "교통 문제로 약속에 늦을 뻔한 경험",
+        intro: "이동 중 교통 문제가 생겨 약속 계획을 바꿨던 경험을 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a time when a transportation problem disrupted your plans. What had you planned, how did you react, and what happened in the end?"],
+        idea: "약속의 배경과 이동 계획을 말하고, 예상 밖 교통 문제와 감정, 현장에서 취한 행동을 구체적으로 묘사하세요. 결과와 다음에 배운 점으로 자연스럽게 마무리합니다.",
+        answer: "A few months ago, I was supposed to meet an old friend for dinner downtown. We had chosen a small restaurant near the station, and I had even checked the route before leaving home. I was riding the bus when traffic suddenly came to a standstill. Cars barely moved, and the red brake lights stretched down the wet street. At first, I felt anxious because our reservation was in less than twenty minutes. I texted my friend, explained what was happening, and checked the map on my phone. It turned out that a minor accident had blocked the main road. Rather than wait, I got off at the next stop and walked to a subway station. While I was hurrying down the stairs, I could hear the train doors beeping, but I still made it just in time. My friend had already told the restaurant we might be late, so they held our table. We arrived a little breathless and laughed about the unexpected detour over dinner. Looking back, I was glad I had stayed calm and kept my friend informed. I learned to leave a little extra time and to consider another route before a busy evening out.",
+        vocab: [["come to a standstill", "완전히 멈추다"], ["stretch down the street", "길을 따라 길게 이어지다"], ["get off at the next stop", "다음 정류장에서 내리다"], ["unexpected detour", "예상치 못한 우회"], ["stay calm", "침착함을 유지하다"]]
+      },
+      life: {
+        title: "동료에게 회의 시간 바꾸기 요청하기",
+        intro: "급한 일이 생겨 동료에게 회의 시간을 바꿀 수 있는지 정중히 묻는 상황입니다.",
+        questions: ["Ask a coworker to move a meeting and agree on another time."],
+        idea: "일정 변경 이유를 짧게 말하고 가능한 시간을 제안한 뒤 상대의 선택을 확인합니다.",
+        answer: "A: Hi, do you have a minute?\nB: Sure. What's up?\nA: Could we move our meeting to this afternoon?\nB: I have a call at two. Would three work?\nA: Three is perfect for me.\nB: Great. I'll update the calendar invite.\nA: Thanks. Something urgent came up this morning.\nB: No problem. I hope everything is okay.\nA: It is, thanks for understanding.\nB: See you at three, then!",
+        vocab: [["Could we move ...?", "~을 옮길 수 있을까요?"], ["Would three work?", "3시는 괜찮으세요?"], ["Thanks for understanding.", "이해해 줘서 고마워요."]]
+      }
+    }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
   const everydayForDay = day => dailyHistory[dateKeyForDay(day)]?.life || daily.life;
@@ -466,7 +484,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “반도체 충격에 4900선 무너진 코스피…다음주 美 물가·한은 금통위 변동성 주의보” · 이투데이 · 2026-11-21</b><br>사실: 11월 20일 코스피는 5.21% 급락해 4,900선을 밑돌았고 매도 사이드카가 발동됐습니다. 전망(기사 인용 분석): 다음 주 미국 물가 지표와 한국은행 금통위, 외국인 수급이 변동성을 키울 수 있지만 반도체 기업 이익 전망 상향은 지지 요인으로 제시됐습니다. <a href="https://m.etoday.co.kr/news/view/2651071?trc=m_view_journalist_news" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate” · Goldman Sachs Research · 2026-11-20</b><br>사실: 골드만삭스는 11월 17일 기준 S&amp;P 500이 2027년 말까지 배당 포함 총수익률 18%를 기록할 것으로 전망했습니다. 전망(기관 분석): 이익 증가로 상승세가 이어질 수 있으나 성장 둔화로 수익률은 완만해질 것으로 예상했습니다. <a href="https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “It’s Fallen as Far as It Can ... Even a Slowdown in Foreign Investors’ Net Selling Can Lift Stocks” · 파이낸셜뉴스 · 2026-11-22</b><br>사실: 코스피는 11월 16~20일 주간 4.54% 하락했고 20일 4,869.96으로 마감했습니다. 전망(증권사 분석): 외국인 매도세가 둔화하고 미국 금리·AI 투자 우려가 완화되면 반등 여지가 있지만, 이번 주 변동성은 이어질 수 있다고 봤습니다. <a href="https://en.fnnews.com/news/202611201450160217" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks Drop, Volatility Spikes on AI Concerns” · Charles Schwab · 2026-11-20</b><br>사실: AI 관련 매도와 위험회피 심리로 미국 주요 주가지수가 큰 폭으로 하락했습니다. 전망(필자 분석): 과매도 신호를 근거로 단기 기술적 반등 가능성을 높게 봤지만, 추가 강제 매도와 하락 모멘텀은 위험 요인으로 들었습니다. <a href="https://www.schwab.com/learn/story/weekly-traders-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관·필자의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
