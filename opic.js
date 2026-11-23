@@ -464,6 +464,24 @@
         answer: "A: Hi, do you have a minute?\nB: Sure. What's up?\nA: Could we move our meeting to this afternoon?\nB: I have a call at two. Would three work?\nA: Three is perfect for me.\nB: Great. I'll update the calendar invite.\nA: Thanks. Something urgent came up this morning.\nB: No problem. I hope everything is okay.\nA: It is, thanks for understanding.\nB: See you at three, then!",
         vocab: [["Could we move ...?", "~을 옮길 수 있을까요?"], ["Would three work?", "3시는 괜찮으세요?"], ["Thanks for understanding.", "이해해 줘서 고마워요."]]
       }
+    },
+    "2026-11-24": {
+      current: {
+        title: "영화관에서 계획이 바뀐 기억에 남는 경험",
+        intro: "영화를 보러 갔다가 예상 밖의 일로 계획을 바꾼 경험을 구체적인 장면과 함께 이야기해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a memorable time you went to a movie theater. What had you planned, what unexpected thing happened, and how did the experience turn out?"],
+        idea: "누구와 어떤 영화를 보려 했는지 배경을 설명하고, 갑작스러운 문제와 감정·대응을 말합니다. 영화관의 소리와 모습, 예상 밖의 결과와 배운 점까지 자연스럽게 이어 보세요.",
+        answer: "Last winter, I had planned to see a popular movie with my younger son at a theater near our home. We had bought the tickets online, and I had promised him we would get popcorn before the show. When we arrived, though, the lobby was packed, and the ticket machine had stopped working. I was worried we might miss the opening, while my son looked disappointed and kept checking the time. I asked an employee for help, and she scanned the confirmation on my phone. As we hurried upstairs, the smell of buttery popcorn followed us, and the sound of previews was already coming through the auditorium doors. We slipped into our seats just as the lights dimmed. Then, halfway through the movie, the screen briefly went black. The staff apologized and gave everyone free drink vouchers while they restarted it. Surprisingly, the short pause made us laugh and talk about our favorite scenes afterward. We left later than expected, but the outing felt more memorable than a perfectly smooth visit. Looking back, I learned that staying patient can turn a small inconvenience into a good story to share.",
+        vocab: [["the lobby was packed", "로비가 사람들로 가득했다"], ["miss the opening", "영화 시작 부분을 놓치다"], ["slip into our seats", "재빨리 자리에 들어가다"], ["go black", "화면이 꺼지다"], ["a small inconvenience", "작은 불편"]]
+      },
+      life: {
+        title: "기차역에서 플랫폼 묻기",
+        intro: "역에서 열차 플랫폼을 확인하고 표와 출발 시간을 묻는 쉬운 생활 영어 대화입니다.",
+        questions: ["You are at a train station. Ask a staff member which platform your train leaves from and confirm the departure time."],
+        idea: "목적지를 말하고 플랫폼과 출발 시각을 확인한 뒤, 승강장으로 가는 방법을 물어봅니다.",
+        answer: "A: Excuse me, does the train to Busan leave from here?\nB: Let me check your ticket. It's leaving from platform four.\nA: Thanks. What time does it depart?\nB: It leaves at 10:20, in about fifteen minutes.\nA: Is platform four upstairs?\nB: Yes. Take the escalator on your left.\nA: Great. Do I need to scan my ticket before boarding?\nB: No, just show it to the staff at the gate.\nA: Got it. Thanks for your help.\nB: You're welcome. Have a nice trip!",
+        vocab: [["leave from platform four", "4번 승강장에서 출발하다"], ["in about fifteen minutes", "약 15분 후에"], ["Have a nice trip!", "즐거운 여행 되세요!"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -484,7 +502,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “It’s Fallen as Far as It Can ... Even a Slowdown in Foreign Investors’ Net Selling Can Lift Stocks” · 파이낸셜뉴스 · 2026-11-22</b><br>사실: 코스피는 11월 16~20일 주간 4.54% 하락했고 20일 4,869.96으로 마감했습니다. 전망(증권사 분석): 외국인 매도세가 둔화하고 미국 금리·AI 투자 우려가 완화되면 반등 여지가 있지만, 이번 주 변동성은 이어질 수 있다고 봤습니다. <a href="https://en.fnnews.com/news/202611201450160217" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Stocks Drop, Volatility Spikes on AI Concerns” · Charles Schwab · 2026-11-20</b><br>사실: AI 관련 매도와 위험회피 심리로 미국 주요 주가지수가 큰 폭으로 하락했습니다. 전망(필자 분석): 과매도 신호를 근거로 단기 기술적 반등 가능성을 높게 봤지만, 추가 강제 매도와 하락 모멘텀은 위험 요인으로 들었습니다. <a href="https://www.schwab.com/learn/story/weekly-traders-outlook" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관·필자의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Will the Market Rebound After ‘Black Friday’?… U.S. Inflation and Interest Rates Put to the Test” · 이데일리 · 2026-11-22</b><br>사실: 코스피·미국 증시가 큰 폭으로 하락했고, 이번 주 미국 PCE 물가와 한국은행 금리 결정이 예정돼 있습니다. 전망(NH투자증권): 이번 주 코스피 예상 범위는 5,000~6,100으로 제시됐으며, 물가·금리와 반도체 수급이 방향을 가를 변수라고 봤습니다. <a href="https://en.edaily.co.kr/news/eda202611215161/" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How the Fed will react to wobbling markets” · Axios · 2026-11-23</b><br>사실: 최근 주가 급락과 금융 여건 변화가 금리 전망의 변수로 다뤄졌습니다. 전망(Axios 분석): 주가 하락이 재개되고 신용 여건까지 넓게 악화하면 연준이 금리 인상 계획을 거둘 수 있다는 관측입니다. <a href="https://www.axios.com/2026/11/23/fed-markets-interest-rates" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관·필자의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
