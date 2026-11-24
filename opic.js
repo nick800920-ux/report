@@ -489,7 +489,7 @@
         intro: "필요한 물건을 사러 갔다가 예상치 못한 상황 때문에 계획을 바꾼 경험을 이야기해 보세요. 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
         questions: ["Tell me about a time when a shopping trip did not go as planned. What were you looking for, what happened, and how did you respond?"],
         idea: "무엇을 사려 했는지와 계획을 소개하고, 품절 사실을 알았을 때의 감정을 말하세요. 매장 분위기와 직접 살펴본 행동을 묘사한 뒤, 대안을 찾으며 생긴 뜻밖의 결과로 마무리합니다.",
-        answer: "Last Saturday, I went to a home store for a desk lamp. I had measured the space beside my computer, so I knew the right size. The busy store played soft music. My favorite model was sold out, and I felt disappointed because I wanted to finish my study corner that afternoon. Instead of leaving, I asked an employee for alternatives. One lamp had a warmer light and a flexible neck. I tested it beside a display chair; it lit my book without shining on the screen. I bought it, and my corner felt cozier than expected. A frustrating trip became a pleasant surprise.",
+        answer: "Last Saturday, I went to a home store for a desk lamp. I had measured the space beside my computer, so I knew the right size. The busy store played soft music. My favorite model was sold out, and I felt disappointed because I wanted to finish my study corner. Instead of leaving, I asked an employee for alternatives. One lamp had a warmer light and a flexible neck. I tested it beside a display chair; it lit my book without shining on the screen. I bought it, and my corner felt cozier than expected. A frustrating trip became a pleasant surprise.",
         vocab: [["be sold out", "품절되다"], ["set up my desk", "책상을 꾸미다"], ["a flexible neck", "구부릴 수 있는 목 부분"], ["turn into a pleasant surprise", "기분 좋은 뜻밖의 일이 되다"]]
       },
       life: {
