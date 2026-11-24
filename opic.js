@@ -482,6 +482,24 @@
         answer: "A: Excuse me, does the train to Busan leave from here?\nB: Let me check your ticket. It's leaving from platform four.\nA: Thanks. What time does it depart?\nB: It leaves at 10:20, in about fifteen minutes.\nA: Is platform four upstairs?\nB: Yes. Take the escalator on your left.\nA: Great. Do I need to scan my ticket before boarding?\nB: No, just show it to the staff at the gate.\nA: Got it. Thanks for your help.\nB: You're welcome. Have a nice trip!",
         vocab: [["leave from platform four", "4번 승강장에서 출발하다"], ["in about fifteen minutes", "약 15분 후에"], ["Have a nice trip!", "즐거운 여행 되세요!"]]
       }
+    },
+    "2026-11-25": {
+      current: {
+        title: "쇼핑 중 품절을 다른 선택으로 바꾼 경험",
+        intro: "필요한 물건을 사러 갔다가 예상치 못한 상황 때문에 계획을 바꾼 경험을 이야기해 보세요. 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a time when a shopping trip did not go as planned. What were you looking for, what happened, and how did you respond?"],
+        idea: "무엇을 사려 했는지와 계획을 소개하고, 품절 사실을 알았을 때의 감정을 말하세요. 매장 분위기와 직접 살펴본 행동을 묘사한 뒤, 대안을 찾으며 생긴 뜻밖의 결과로 마무리합니다.",
+        answer: "Last Saturday, I went to a home store for a desk lamp. I had measured the space beside my computer, so I knew the right size. The bright, busy store played soft music overhead. My favorite model was sold out, and I felt disappointed because I wanted to finish my study corner that afternoon. Instead of leaving, I asked an employee for alternatives. One lamp had a warmer light and a flexible neck. I tested it beside a display chair; it lit my book without shining on the screen. I bought it, and later found my corner cozier than expected. A frustrating trip became a pleasant surprise.",
+        vocab: [["be sold out", "품절되다"], ["set up my desk", "책상을 꾸미다"], ["a flexible neck", "구부릴 수 있는 목 부분"], ["turn into a pleasant surprise", "기분 좋은 뜻밖의 일이 되다"]]
+      },
+      life: {
+        title: "약국에서 감기약 묻기",
+        intro: "가벼운 감기 증상에 맞는 약을 약사에게 묻고 복용 주의사항을 확인하는 생활 영어 대화입니다.",
+        questions: ["You have a mild cold. Ask a pharmacist for help and check how to take the medicine."],
+        idea: "증상을 간단히 말하고 약을 추천받은 뒤, 복용 횟수와 주의사항을 확인합니다.",
+        answer: "A: Hi, I have a stuffy nose and a slight cough.\nB: How long have you had those symptoms?\nA: Since yesterday, but I don't have a fever.\nB: This cold medicine may help.\nA: How often should I take it?\nB: Take one tablet after meals, up to three times a day.\nA: Can I take it before driving?\nB: It may make you sleepy, so please be careful.\nA: Thanks. I'll take it after dinner.\nB: You're welcome. I hope you feel better soon!",
+        vocab: [["a stuffy nose", "코막힘"], ["after meals", "식후에"], ["make you sleepy", "졸리게 하다"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -502,7 +520,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “Will the Market Rebound After ‘Black Friday’?… U.S. Inflation and Interest Rates Put to the Test” · 이데일리 · 2026-11-22</b><br>사실: 코스피·미국 증시가 큰 폭으로 하락했고, 이번 주 미국 PCE 물가와 한국은행 금리 결정이 예정돼 있습니다. 전망(NH투자증권): 이번 주 코스피 예상 범위는 5,000~6,100으로 제시됐으며, 물가·금리와 반도체 수급이 방향을 가를 변수라고 봤습니다. <a href="https://en.edaily.co.kr/news/eda202611215161/" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How the Fed will react to wobbling markets” · Axios · 2026-11-23</b><br>사실: 최근 주가 급락과 금융 여건 변화가 금리 전망의 변수로 다뤄졌습니다. 전망(Axios 분석): 주가 하락이 재개되고 신용 여건까지 넓게 악화하면 연준이 금리 인상 계획을 거둘 수 있다는 관측입니다. <a href="https://www.axios.com/2026/11/23/fed-markets-interest-rates" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 각 기관·필자의 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “(주간증시전망)코스피, 낙폭 과대에 반등 시도…미 PCE·금통위 변수” · 뉴스토마토 · 2026-11-23</b><br>사실: 최근 급락 뒤 코스피가 반등을 시도했고, 11월 26일 한국은행 금통위와 미국 PCE 발표가 예정돼 있습니다. 전망(대신증권 분석): 기업 실적 전망 상향과 수출 증가가 버팀목이 될 수 있지만, 물가가 예상보다 높으면 금리 우려로 반등이 제한될 수 있다는 관측입니다. <a href="https://www3.newstomato.com/ReadNews.aspx?no=1321290" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Monday 11/23/2026” · AP · 2026-11-24</b><br>사실: 11월 23일 미국 증시는 낙폭이 컸던 AI 종목 반등에 나스닥이 6.5% 상승하고 다우도 3% 올랐습니다. 전망: 단 하루의 급반등만으로 추세 전환을 단정하기는 어려우며, 예정된 PCE 물가와 금리 기대가 향후 방향의 변수가 될 수 있습니다. <a href="https://apnews.com/article/fcdf1bad36b4f81c90cbb0f33a2c5704" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
