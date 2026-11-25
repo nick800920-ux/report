@@ -507,7 +507,7 @@
         intro: "공원에서 운동하던 중 예상 밖의 일이 생긴 경험을 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
         questions: ["Tell me about a time when something unexpected happened while you were exercising outdoors. What was your plan, how did you react, and what happened in the end?"],
         idea: "운동 계획과 공원의 모습으로 시작해 갑작스러운 문제와 감정을 말하고, 직접 취한 행동과 예상 밖의 결과로 마무리합니다.",
-        answer: "Last spring, I went to a riverside park for my usual evening walk. I planned three laps before sunset and left my umbrella at home. Cyclists passed along the path, and the trees swayed in the breeze. Halfway through my second lap, dark clouds gathered and rain poured down. I felt annoyed because my phone could get wet, so I ran to a nearby shelter. Several walkers were waiting there too. We watched raindrops ripple across the river. A woman kindly lent me a plastic phone cover. When the rain eased, the sky turned pink, and I finished one short lap with her. I got home late, but the unexpected company made the workout memorable.",
+        answer: "Last spring, I went to a riverside park for my usual evening walk. I planned three laps before sunset and left my umbrella at home. Halfway through my second lap, dark clouds gathered and rain poured down. I felt annoyed because my phone could get wet, so I ran to a shelter. We watched raindrops ripple across the river. A woman kindly lent me a plastic phone cover. When the rain eased, the sky turned pink, and I finished one short lap with her. I got home late, but the unexpected company made the workout memorable.",
         vocab: [["riverside park", "강변 공원"], ["gather", "모이다"], ["pour down", "억수같이 쏟아지다"], ["ease", "누그러지다"], ["far more memorable", "훨씬 더 기억에 남는"]]
       },
       life: {
