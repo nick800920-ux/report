@@ -500,6 +500,24 @@
         answer: "A: Hi, I have a stuffy nose and a slight cough.\nB: How long have you had those symptoms?\nA: Since yesterday, but I don't have a fever.\nB: This cold medicine may help.\nA: How often should I take it?\nB: Take one tablet after meals, up to three times a day.\nA: Can I take it before driving?\nB: It may make you sleepy, so please be careful.\nA: Thanks. I'll take it after dinner.\nB: You're welcome. I hope you feel better soon!",
         vocab: [["a stuffy nose", "코막힘"], ["after meals", "식후에"], ["make you sleepy", "졸리게 하다"]]
       }
+    },
+    "2026-11-26": {
+      current: {
+        title: "공원 운동 중 갑자기 비를 만난 경험",
+        intro: "공원에서 운동하던 중 예상 밖의 일이 생긴 경험을 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a time when something unexpected happened while you were exercising outdoors. What was your plan, how did you react, and what happened in the end?"],
+        idea: "운동 계획과 공원의 모습으로 시작해 갑작스러운 문제와 감정을 말하고, 직접 취한 행동과 예상 밖의 결과로 마무리합니다.",
+        answer: "Last spring, I went to a riverside park for my usual evening walk. I planned three laps before sunset and left my umbrella at home. Cyclists passed along the path, and the trees swayed in the breeze. Halfway through my second lap, dark clouds gathered and rain poured down. I felt annoyed because my phone could get wet, so I ran to a nearby shelter. Several walkers were waiting there too. We watched raindrops ripple across the river. A woman kindly lent me a plastic phone cover. When the rain eased, the sky turned pink, and I finished one short lap with her. I got home late, but the unexpected company made the workout memorable.",
+        vocab: [["riverside park", "강변 공원"], ["gather", "모이다"], ["pour down", "억수같이 쏟아지다"], ["ease", "누그러지다"], ["far more memorable", "훨씬 더 기억에 남는"]]
+      },
+      life: {
+        title: "카페에서 포장 주문하기",
+        intro: "카페에서 음료를 주문하고 포장 여부와 우유 선택을 확인하는 쉬운 생활 영어 대화입니다.",
+        questions: ["Order a drink at a cafe, ask for it to go, and check whether oat milk is available."],
+        idea: "원하는 음료와 크기를 말하고 포장과 우유 선택을 차례로 확인합니다.",
+        answer: "A: Hi, could I get a medium latte, please?\nB: Sure. Would you like it hot or iced?\nA: Iced, please. Can I get oat milk?\nB: Of course. Anything else?\nA: No, that's all. Could you make it to go?\nB: Certainly. What's your name for the order?\nA: It's Alex.\nB: Thanks, Alex. It'll be ready in a few minutes.\nA: Great. Where should I pick it up?\nB: At the counter on your right.",
+        vocab: [["medium latte", "중간 크기 라테"], ["make it to go", "포장해 주세요"], ["pick it up", "찾아가다"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -520,7 +538,7 @@
     const box = document.createElement("div");
     box.id = "daily-stock-outlook";
     box.className = "callout";
-    box.innerHTML = '<strong>주식 전망</strong><p><b>국내 · “(주간증시전망)코스피, 낙폭 과대에 반등 시도…미 PCE·금통위 변수” · 뉴스토마토 · 2026-11-23</b><br>사실: 최근 급락 뒤 코스피가 반등을 시도했고, 11월 26일 한국은행 금통위와 미국 PCE 발표가 예정돼 있습니다. 전망(대신증권 분석): 기업 실적 전망 상향과 수출 증가가 버팀목이 될 수 있지만, 물가가 예상보다 높으면 금리 우려로 반등이 제한될 수 있다는 관측입니다. <a href="https://www3.newstomato.com/ReadNews.aspx?no=1321290" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Monday 11/23/2026” · AP · 2026-11-24</b><br>사실: 11월 23일 미국 증시는 낙폭이 컸던 AI 종목 반등에 나스닥이 6.5% 상승하고 다우도 3% 올랐습니다. 전망: 단 하루의 급반등만으로 추세 전환을 단정하기는 어려우며, 예정된 PCE 물가와 금리 기대가 향후 방향의 변수가 될 수 있습니다. <a href="https://apnews.com/article/fcdf1bad36b4f81c90cbb0f33a2c5704" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>사실과 전망을 구분했으며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망 · 2026-11-26</strong><p><b>국내 · “하루 만에 5” · 삼성증권 · 2026-11-25</b><br>전망 한 줄: 전일 급락 뒤 반등 여지는 있으나 미국 물가와 한국은행 결정에 따른 변동성에 유의할 필요가 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026112515475228K_02_01.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “World stocks fall as new US tariffs loom, AI rebound fizzles” · Reuters · 2026-11-25</b><br>전망 한 줄: 관세 불확실성과 물가·금리 경계가 이어지면 글로벌 주식의 반등은 흔들릴 수 있습니다. <a href="https://www.investing.com/news/economy-news/global-marketsworld-stocks-fall-as-new-us-tariffs-loom-ai-rebound-fizzles-4381664" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망 요약이며 매매 추천이 아닙니다.</small>';
     stockCallout.before(box);
   }
 
