@@ -518,6 +518,24 @@
         answer: "A: Hi, could I get a medium latte, please?\nB: Sure. Would you like it hot or iced?\nA: Iced, please. Can I get oat milk?\nB: Of course. Anything else?\nA: No, that's all. Could you make it to go?\nB: Certainly. What's your name for the order?\nA: It's Alex.\nB: Thanks, Alex. It'll be ready in a few minutes.\nA: Great. Where should I pick it up?\nB: At the counter on your right.",
         vocab: [["medium latte", "중간 크기 라테"], ["make it to go", "포장해 주세요"], ["pick it up", "찾아가다"]]
       }
+    },
+    "2026-11-27": {
+      current: {
+        title: "여행 중 길을 찾아 계획을 바꾼 경험",
+        intro: "여행지에서 길을 찾다가 계획이 달라진 경험을 말해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Tell me about a time you got lost while traveling. Where were you going, what did you do, and how did things turn out?"],
+        idea: "여행 목적과 원래 계획을 소개하고 길을 잃었을 때의 당황스러운 감정, 주변 풍경과 해결 행동을 설명한 뒤 뜻밖의 결과로 마무리합니다.",
+        answer: "During a weekend trip, I planned to walk from the station to a small art museum. I had checked the route, but roadwork blocked the street, and my map app kept spinning. I felt nervous because the museum tour was about to start. After taking a breath, I asked a baker nearby for directions. The shop smelled like warm bread, and he drew a simple route on a paper bag. I followed the quiet alley he marked and arrived just in time. The detour led me past a beautiful old gate I would have missed otherwise.",
+        vocab: [["roadwork blocked the street", "도로 공사로 길이 막혔다"], ["ask for directions", "길을 물어보다"], ["just in time", "딱 제시간에"], ["a detour", "우회로"]]
+      },
+      life: {
+        title: "호텔에서 늦은 체크아웃 문의하기",
+        intro: "호텔 프런트에 체크아웃 시간을 확인하고 조금 늦출 수 있는지 정중하게 묻는 생활 영어 대화입니다.",
+        questions: ["Ask the hotel receptionist about checkout time and whether you can leave a little later."],
+        idea: "기본 체크아웃 시간을 확인하고 늦은 체크아웃 가능 여부와 추가 요금을 물어봅니다.",
+        answer: "A: Hi, what time is checkout today?\nB: Checkout is at 11 a.m.\nA: Could I leave about an hour later?\nB: Let me check if that's possible.\nA: Thank you. I have a late train.\nB: We can extend it until noon at no extra charge.\nA: That would be great. Do I need to let housekeeping know?\nB: No, I'll update your room now.\nA: Thanks for your help.\nB: You're welcome. Enjoy the rest of your stay!",
+        vocab: [["What time is checkout?", "체크아웃이 몇 시인가요?"], ["at no extra charge", "추가 요금 없이"], ["the rest of your stay", "남은 투숙 기간"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -534,12 +552,15 @@
   if (homeSummary) homeSummary.textContent = "AL은 OPIc 질문·답변, 쉬운 회화는 8~10줄 일상 영어 대화와 핵심 표현을 연습합니다. 기사 링크는 AL 주제에만 있습니다.";
 
   const stockCallout = document.querySelector("#ideas .callout");
-  if (stockCallout && !document.getElementById("daily-stock-outlook")) {
-    const box = document.createElement("div");
-    box.id = "daily-stock-outlook";
-    box.className = "callout";
-    box.innerHTML = '<strong>주식 전망 · 2026-11-26</strong><p><b>국내 · “하루 만에 5” · 삼성증권 · 2026-11-25</b><br>전망 한 줄: 전일 급락 뒤 반등 여지는 있으나 미국 물가와 한국은행 결정에 따른 변동성에 유의할 필요가 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026112515475228K_02_01.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “World stocks fall as new US tariffs loom, AI rebound fizzles” · Reuters · 2026-11-25</b><br>전망 한 줄: 관세 불확실성과 물가·금리 경계가 이어지면 글로벌 주식의 반등은 흔들릴 수 있습니다. <a href="https://www.investing.com/news/economy-news/global-marketsworld-stocks-fall-as-new-us-tariffs-loom-ai-rebound-fizzles-4381664" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>전망 요약이며 매매 추천이 아닙니다.</small>';
-    stockCallout.before(box);
+  if (stockCallout) {
+    let box = document.getElementById("daily-stock-outlook");
+    if (!box) {
+      box = document.createElement("div");
+      box.id = "daily-stock-outlook";
+      box.className = "callout";
+      stockCallout.before(box);
+    }
+    box.innerHTML = '<strong>주식 전망 · 2026-11-27</strong><p><b>국내 · “장 막판 상승” · 삼성증권 · 2026-11-26</b><br>전망 한 줄: 급락 뒤 반등했지만 장 후반 상승폭이 줄어 변동성은 여전하며, 금리·수급 흐름을 확인할 필요가 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026112616180917K_02_02.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Global stocks rise and tech shares rebound as US closes for Thanksgiving” · AP · 2026-11-26</b><br>전망 한 줄: 추수감사절 휴장으로 거래가 얇은 가운데 기술주 반등의 지속성은 다음 거래일 유동성과 투자심리에 달렸습니다. <a href="https://apnews.com/article/320cd8c9c286a7773797bf2f478ef314" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 전망 요약이며 매매 추천이 아닙니다.</small>';
   }
 
   if (!document.getElementById("opic-questions")) return;
