@@ -536,6 +536,24 @@
         answer: "A: Hi, what time is checkout today?\nB: Checkout is at 11 a.m.\nA: Could I leave about an hour later?\nB: Let me check if that's possible.\nA: Thank you. I have a late train.\nB: We can extend it until noon at no extra charge.\nA: That would be great. Do I need to let housekeeping know?\nB: No, I'll update your room now.\nA: Thanks for your help.\nB: You're welcome. Enjoy the rest of your stay!",
         vocab: [["What time is checkout?", "체크아웃이 몇 시인가요?"], ["at no extra charge", "추가 요금 없이"], ["the rest of your stay", "남은 투숙 기간"]]
       }
+    },
+    "2026-11-28": {
+      current: {
+        title: "온라인 쇼핑과 매장 쇼핑 비교",
+        intro: "온라인 쇼핑과 직접 매장에 가서 쇼핑하는 방식의 차이를 비교해 보세요. 특정 실제 시험문제가 아닌 OPIc AL 연습 예시입니다.",
+        questions: ["Compare shopping online with shopping in a physical store. Which do you prefer, and why?"],
+        idea: "두 방식의 장단점을 비교하고, 실제 물건을 주문하거나 매장에서 살펴본 경험을 짧게 덧붙여 자신의 선호를 설명합니다.",
+        answer: "When I compare shopping online with visiting a store, I prefer going to a store for items I need to try, such as shoes. A few months ago, I ordered a pair online because the photos looked perfect. However, the shoes felt tight when they arrived, and returning them took several days. At a store, I can check the size and walk around before paying. Online shopping is convenient and often offers more choices, but a store gives me a better sense of fit. These days, I use both, depending on what I’m buying.",
+        vocab: [["physical store", "오프라인 매장"], ["feel tight", "꽉 끼다"], ["return an item", "물건을 반품하다"], ["a better sense of fit", "더 정확한 착용감"]]
+      },
+      life: {
+        title: "택배 보관함에서 소포 찾기",
+        intro: "아파트 택배 보관함에서 비밀번호를 확인하고 소포를 찾는 상황입니다.",
+        questions: ["Ask the front desk for help finding a parcel in your apartment building's locker."],
+        idea: "택배 알림을 받았지만 보관함 위치를 모른다고 말하고, 보관함 번호와 여는 방법을 물어봅니다.",
+        answer: "A: Hi, I got a message saying my package was delivered.\nB: Do you know which locker it's in?\nA: I'm not sure. Could you help me check?\nB: Of course. What's your apartment number?\nA: It's 1203.\nB: It looks like locker 18, by the side entrance.\nA: I see. Where can I find the access code?\nB: It's in the delivery text message.\nA: Got it. Thanks for your help.\nB: You're welcome. Let me know if it doesn't open.",
+        vocab: [["package was delivered", "택배가 배달되다"], ["access code", "출입·이용 비밀번호"], ["by the side entrance", "옆 출입구 옆에"]]
+      }
     }
   };
   const topicForDay = day => dailyHistory[dateKeyForDay(day)]?.current || daily.current;
@@ -560,7 +578,7 @@
       box.className = "callout";
       stockCallout.before(box);
     }
-    box.innerHTML = '<strong>주식 전망 · 2026-11-27</strong><p><b>국내 · “장 막판 상승” · 삼성증권 · 2026-11-26</b><br>전망 한 줄: 급락 뒤 반등했지만 장 후반 상승폭이 줄어 변동성은 여전하며, 금리·수급 흐름을 확인할 필요가 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026112616180917K_02_02.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “Global stocks rise and tech shares rebound as US closes for Thanksgiving” · AP · 2026-11-26</b><br>전망 한 줄: 추수감사절 휴장으로 거래가 얇은 가운데 기술주 반등의 지속성은 다음 거래일 유동성과 투자심리에 달렸습니다. <a href="https://apnews.com/article/320cd8c9c286a7773797bf2f478ef314" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>기사에 나온 사실과 전망 요약이며 매매 추천이 아닙니다.</small>';
+    box.innerHTML = '<strong>주식 전망 · 2026-11-28 (최신 거래일 자료: 11-27)</strong><p><b>국내 · “외국인·기관 동반 순매수에 반등” · 삼성증권 · 2026-11-27</b><br>전망 한 줄: 11월 27일 코스피·코스닥은 각각 4.34%·8.13% 상승했다는 사실을 확인했습니다. 증안펀드 기대와 동반 순매수가 이어질지는 아직 불확실해 다음 거래일 수급과 상승 지속 여부를 살펴볼 필요가 있습니다. <a href="https://www.samsungpop.com/common.do?cmd=down&amp;contentType=application%2Fpdf&amp;fileName=4020%2F2026112716041901K_02_02.pdf&amp;inlineYn=Y&amp;saveKey=research.pdf" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><p><b>해외 · “How major US stock indexes fared Friday 11/27/2026” · AP · 2026-11-27</b><br>전망 한 줄: 11월 27일 S&amp;P 500은 1.6% 상승해 주간 5.6% 올랐다는 사실과 달리, 랠리가 추세로 이어질지는 아직 불확실합니다. 최근 기술주 변동성이 컸던 만큼 다음 주 경제지표와 투자심리가 관건입니다. <a href="https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2" target="_blank" rel="noopener noreferrer">원문 ↗</a></p><small>확인된 시장 사실과 전망을 구분한 요약이며 매매 추천이 아닙니다.</small>';
   }
 
   if (!document.getElementById("opic-questions")) return;
